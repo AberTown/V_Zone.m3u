@@ -248,13 +248,3 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032487&exten
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOW SPORT", HK| Now Sports Prime
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032480&extension=ts&play_token=Ybjpa2BRhQ
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
- 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/gJxC40qM/20230119-201559.png",V SPORT FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
