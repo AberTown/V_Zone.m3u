@@ -245,3 +245,74 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350566_&ext
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="VIP SPORT", HUB SPORT PREMIER 11
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350567_&extension=ts
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KPLUS & VTVCAB MYTV" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+#https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="KPLUS & VTVCAB MYTV" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="klifehd" group-title="KPLUS MYTV" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+Life
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KPLUS & VTVCAB MYTV" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="KPLUS & VTVCAB MYTV" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+#EXTINF:0 tvg-id="vtvcab3hd" group-title="KPLUS VTVCAB MYTV" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-1-1630981223040446100091.jpg",VTVcab3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s7769.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
+#EXTINF:0 tvg-id="vtvcab16hd" group-title="KPLUS VTVCAB MYTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/ON_Football_TV_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi",VTVcab16
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
+#EXTINF:0 tvg-id="vtvcab18hd" group-title="KPLUS & VTVCAB MYTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab18---The-Thao-Tin-Tuc-HD_480x2701.jpg",VTVcab18
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="VTVCab23hd" group-title="KPLUS & VTCAB MYTV" tvg-logo="https://vthanh.xyz/ic/33.png",ON Golf
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
+
+#EXTINF:-1 group-title="BEIN SPORTS PREMIUM",beIN Sports Premium 1 HD
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS PREMIUM",beIN Sports Premium 2 HD
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS PREMIUM",beIN Sports Premium 3 HD
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-id="91313b33fd421d7f118998bf4f672014",Canal+ Sport 1 HD
+http://54.179.245.196:9981/stream/channelid/859517329?profile=ducphu
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-id="eaa8f488901fd378c6ed6c1e81650e18",Canal+ Sport 2 HD
+http://54.179.245.196:9981/stream/channelid/150251754?profile=ducphu
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-id="84efeaf8b8650538a46137b63e6ddeac",Canal+ Sport 3 HD
+http://54.179.245.196:9981/stream/channelid/2028662660?profile=ducphu
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-id="45a0cde22a0e916dd2666ceac79eb81b",Canal+ Sport 4 HD
+http://54.179.245.196:9981/stream/channelid/1657643077?profile=ducphu
+#EXTINF:-1 group-title="CANAL SPORT - BA LAN" tvg-id="b72ceb96c24cde1b7eb577fc60401d4f",Canal+ Premium HD
+http://54.179.245.196:9981/stream/channelid/384511159?profile=ducphu
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="04e715b1eaf1086581f954d7b72c7812",Eleven Sport 1 HD
+http://54.179.245.196:9981/stream/channelid/823518980?profile=ducphu
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="7de05977f8dc76805e3c5b81bcafa39d",Eleven Sport 2 HD
+http://54.179.245.196:9981/stream/channelid/2002378877?profile=ducphu
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="6d104020940db75024220f5f4e2d6adf",Eleven Sport 3 HD
+http://54.179.245.196:9981/stream/channelid/541069421?profile=ducphu
+#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN" tvg-id="c277580ce18dce8fae46995ca24a648b",Eleven Sport 4 HD
+http://54.179.245.196:9981/stream/channelid/207124418?profile=ducphu
