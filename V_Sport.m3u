@@ -342,3 +342,28 @@ http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_klive2/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/klive3/key.php
 http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_klive3/default/i.mpd
+
+#EXTINF:0 tvg-rec=\"3\",SPORT 2 HD IL
+#EXTGRP:CHÂU ÂU
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
+#EXTINF:0 tvg-rec=\"3\",Sport 1 HD IL
+#EXTGRP:CHÂU ÂU
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
+#EXTINF:0 tvg-rec=\"3\",Sport 3 HD IL
+#EXTGRP:CHÂU ÂU
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
+#EXTINF:0 tvg-rec=\"3\",Sport 4 HD IL
+#EXTGRP:CHÂU ÂU
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
+#EXTINF:0 tvg-rec=\"0\",SPORT 1 HD IL
+#EXTGRP:CHÂU ÂU
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
+#EXTINF:0 tvg-rec=\"0\",SPORT 2 HD IL
+#EXTGRP:CHÂU ÂU
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
+#EXTINF:0 tvg-rec=\"0\",SPORT 3 HD IL
+#EXTGRP:CHÂU ÂU
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
+#EXTINF:0 tvg-rec=\"0\",SPORT 4 HD IL
+#EXTGRP:CHÂU ÂU
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
