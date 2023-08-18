@@ -292,78 +292,27 @@ http://b4tv.live/b4tv/b4tv/4.m3u8
 #EXTINF:-1 tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kpm_165655722566.png" group-title="VIP SPORT", B4TV 5
 http://b4tv.live/b4tv/b4tv/5.m3u8
 
-#--*.*--K+--*.*--#
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://khanggne.github.io/logo/vstv/vstv-image1.jpg",$ K+CINE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/kpluscine/key.php
-http://khanggtivi.duckdns.org/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://khanggne.github.io/logo/vstv/vstv-image2.jpg" group-title="K+",$ K+LIFE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/kpluslife/keotivi.key
-http://khanggtivi.duckdns.org/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://khanggne.github.io/logo/vstv/vstv-image3.jpg",$ K+ SPORT1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/kplusports1/keotivi.key
-http://khanggtivi.duckdns.org/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://khanggne.github.io/logo/vstv/vstv-image4.jpg",$ K+SPORT2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/kplusports2/keotivi.key
-http://khanggtivi.duckdns.org/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://khanggne.github.io/logo/vstv/vstv-image5.jpg",$ K+ Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/kpluskids/key.php
-http://khanggtivi.duckdns.org/bpk-tv/prod_kplus_kidshd/default/index.mpd
-#EXTINF:-1  tvg-id="klive1hd" group-title="K+" tvg-logo="https://logo.anttv.xyz/101.png",$ K+ LIVE 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/klive1/key.php
-http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_klive1/default/i.mpd
-#EXTINF:-1  tvg-id="klive2hd" group-title="K+" tvg-logo="https://logo.anttv.xyz/102.png",$ K+ LIVE 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/klive2/key.php
-http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_klive2/default/i.mpd
-#EXTINF:-1  tvg-id="klive3hd" group-title="K+" tvg-logo="https://logo.anttv.xyz/103.png",$ K+ LIVE 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/klive3/key.php
-http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_klive3/default/i.mpd
-
 #EXTINF:0 tvg-rec=\"3\",SPORT 2 HD IL
-#EXTGRP:CHÂU ÂU
+#EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
 #EXTINF:0 tvg-rec=\"3\",Sport 1 HD IL
-#EXTGRP:CHÂU ÂU
+#EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
 #EXTINF:0 tvg-rec=\"3\",Sport 3 HD IL
-#EXTGRP:CHÂU ÂU
+#EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
 #EXTINF:0 tvg-rec=\"3\",Sport 4 HD IL
-#EXTGRP:CHÂU ÂU
+#EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
 #EXTINF:0 tvg-rec=\"0\",SPORT 1 HD IL
-#EXTGRP:CHÂU ÂU
+#EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
 #EXTINF:0 tvg-rec=\"0\",SPORT 2 HD IL
-#EXTGRP:CHÂU ÂU
+#EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
 #EXTINF:0 tvg-rec=\"0\",SPORT 3 HD IL
-#EXTGRP:CHÂU ÂU
+#EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
 #EXTINF:0 tvg-rec=\"0\",SPORT 4 HD IL
-#EXTGRP:CHÂU ÂU
+#EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
