@@ -316,3 +316,17 @@ http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
 #EXTINF:0 tvg-rec=\"0\",SPORT 4 HD IL
 #EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
+#EXTINF:0 tvg-rec=\"0\",Premier Sports 1 
+https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8 
+#EXTGRP:Premier Sports Mongolia
+#EXTINF:0 tvg-rec=\"0\",Premier Sports 2 
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8 
+#EXTGRP:Premier Sports Mongolia
+#EXTINF:0 tvg-rec=\"0\",Premier Sports 3 
+https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8 
+#EXTGRP:Premier Sports Mongolia
+#EXTINF:0 tvg-rec=\"0\",Premier Sports 4 
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8 
+#EXTGRP:Premier Sports Mongolia
+#EXTINF:0 tvg-rec=\"0\",Premier Sports 5 
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
