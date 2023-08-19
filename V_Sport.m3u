@@ -65,6 +65,12 @@ https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
 #EXTINF:0 tvg-rec=\"0\",3a Wolverhampton Wanderers v Brighton & H.A. 15:00 Saturday 
 https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8 
+#EXTINF:-1 group-title="EPL Live matches" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", 4a Fulham v Brentford 15:00 Saturday
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 #EXTGRP:EPL Live matches
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
 #EXTINF:0 tvg-rec=\"0\", 4a Fulham v Brentford 15:00 Saturday 
