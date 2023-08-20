@@ -310,3 +310,7 @@ https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
 #EXTINF:0 tvg-rec=\"0\",Premier Sports 5 
 https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
+#EXTGRP:Other Sports
+#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cricket.png"
+#EXTINF:0 tvg-rec=\"0\",Astro Cricket 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
