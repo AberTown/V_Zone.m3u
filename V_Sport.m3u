@@ -1,19 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-#EXTINF:-1 group-title="EPL Live matches" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", 6 Aston Villa v Everton 14:00 Sunday
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 group-title="EPL Live matches" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", 7 West Ham United v Chelsea 16:30 Sunday
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 group-title="EPL Live matches" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", 8 Crystal Palace v Arsenal 20:00 Monday
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -23,12 +9,9 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 
 #EXTGRP:EPL Live matches
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
-#EXTINF:0 tvg-rec=\"0\",6 Aston Villa v Everton 14:00 Sunday 
+#EXTINF:0 tvg-rec=\"0\",8 Crystal Palace v Arsenal 20:00 Monday 
 https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-#EXTGRP:EPL Live matches
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
-#EXTINF:0 tvg-rec=\"0\",7 West Ham United v Chelsea 16:30 Sunday 
-https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+
 
 
 ====================================================================================
