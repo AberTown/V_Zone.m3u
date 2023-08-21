@@ -12,7 +12,12 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #EXTINF:0 tvg-rec=\"0\",8 Crystal Palace v Arsenal 20:00 Monday 
 https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",8 Crystal Palace v Arsenal 20:00 Monday
+#EXTGRP:EPL Live matches
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",8 Crystal Palace v Arsenal 20:00 Monday
+#EXTGRP:EPL Live matches
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
 
 ====================================================================================
 
@@ -249,28 +254,28 @@ http://b4tv.live/b4tv/b4tv/4.m3u8
 #EXTINF:-1 tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kpm_165655722566.png" group-title="VIP SPORT", B4TV 5
 http://b4tv.live/b4tv/b4tv/5.m3u8
 
-#EXTINF:0 tvg-rec=\"3\",SPORT 2 HD IL
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",SPORT 2 HD IL
 #EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Sport 1 HD IL
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 HD IL
 #EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Sport 3 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Sport 4 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",SPORT 1 HD IL
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",SPORT 1 HD IL
 #EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",SPORT 2 HD IL
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/irxvmy1627494303.png",Sport 3 HD IL
+#EXTGRP:Sport Israel HD
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",Sport 4 HD IL
+#EXTGRP:Sport Israel HD
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",SPORT 2 HD IL
 #EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",SPORT 3 HD IL
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/irxvmy1627494303.png",SPORT 3 HD IL
 #EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
-#EXTINF:0 tvg-rec=\"0\",SPORT 4 HD IL
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",SPORT 4 HD IL
 #EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
 #EXTGRP:Premier Sports Mongolia
