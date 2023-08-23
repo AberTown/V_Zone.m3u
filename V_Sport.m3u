@@ -190,12 +190,17 @@ https://7pal.short.gy/astrouhd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/D09HZwcV/beIN-4K.png" group-title="UHD", beIN 4K
 https://7pal.short.gy/bein-uhd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png" group-title="UHD", Hub Premier 2 UHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ht1DHkS4/Now-Sports-4-K-1.png" group-title="Sport", Now Sports 4K 1
 https://7pal.short.gy/nowsport4k
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TYmYcyFD/Sky-Sports-Main-Event-Ultra-HD.png" group-title="UHD", Sky Sports Main Event Ultra HD
 https://7pal.short.gy/SSMEuhd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prh3RFzY/BT-Sport-Ultimate.png" group-title="Sport", BT Sport Ultimate
+https://7pal.short.gy/BTUltimate
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ryDpKZ9g/V-Sport-Ultra-HD.png" group-title="Sport", V Sport Ultra HD
+https://7pal.short.gy/VSportUHD
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
