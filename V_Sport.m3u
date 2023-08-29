@@ -474,6 +474,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/inde
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_177.PNG" group-title="International EPL Channels", Canal+ Sport HD
+#EXTVLCOPT:http-referrer=https://www.kabelko.sk
 https://fs3.kabelko.sk/1215/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_177.PNG" group-title="International EPL Channels", Canal+ Sport HD
+#EXTVLCOPT:http-referrer=https://www.kabelko.sk
 https://fs2.kabelko.sk/1215/index.m3u8
