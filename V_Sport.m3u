@@ -473,43 +473,56 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/inde
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liveevent.png" group-title="#⚽EVENT ONLY⚽#", EVENT 15
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",Dazn Eleven 2 HD
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Dazn Eleven 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #https://tv.qreatifku.my.id/nosignal.m3u8
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",Dazn Eleven 3 HD
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Dazn Eleven 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #https://tv.qreatifku.my.id/nosignal.m3u8
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
-#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",Dazn Eleven 1 HD
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Dazn Eleven 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
-#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",Dazn Eleven 4 HD
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Dazn Eleven 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
-#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",Dazn Eleven 5 HD
+#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Dazn Eleven 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 group-title="PLAY SPORTS BE" tvg-id="PLAY SPORTS 3" tvg-logo="https://tv.qreatifku.my.id/images/ps3.png",PLAY SPORTS 3
+#EXTINF:-1 group-title="PLAY SPORTS BE" tvg-id="PLAY SPORTS 3" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",PLAY SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
-#EXTINF:-1 group-title="PLAY SPORTS BE" tvg-id="PLAY SPORTS 2" tvg-logo="https://tv.qreatifku.my.id/images/ps2.png",PLAY SPORTS 2
+#EXTINF:-1 group-title="PLAY SPORTS BE" tvg-id="PLAY SPORTS 2" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",PLAY SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
-#EXTINF:-1 group-title="PLAY SPORTS BE" tvg-id="PLAY SPORTS 1" tvg-logo="https://tv.qreatifku.my.id/images/ps1.png",PLAY SPORTS 1
+#EXTINF:-1 group-title="PLAY SPORTS BE" tvg-id="PLAY SPORTS 1" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",PLAY SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
-#EXTINF:-1 group-title="PLAY SPORTS BE" tvg-id="PLAY SPORTS 1" tvg-logo="https://tv.qreatifku.my.id/images/ps1.png",P
+
+#EXTINF:-1 group-title="ASTRO TEST"  tvg-logo="https://tv.qreatifku.my.id/images/",ASTRO TEST 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=691916164be2b1ae6c852f1990d1fe10:38a68c749898114cf0629d77e246a888
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+#EXTINF:-1 group-title="ASTRO TEST"  tvg-logo="https://tv.qreatifku.my.id/images/",ASTRO TEST 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=691916164be2b1ae6c852f1990d1fe10:38a68c749898114cf0629d77e246a888
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+#EXTINF:-1 group-title="ASTRO TEST"  tvg-logo="https://tv.qreatifku.my.id/images/",ASTRO TEST TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+#EXTINF:-1 group-title="ASTRO TEST"  tvg-logo="https://tv.qreatifku.my.id/images/",ASTRO TEST 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
