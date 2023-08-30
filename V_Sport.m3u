@@ -472,3 +472,33 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/inde
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/liveevent.png" group-title="#⚽EVENT ONLY⚽#", EVENT 15
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",[HARI INI] 21:00 WIB / FULLHAM VS BRENTFORD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#https://tv.qreatifku.my.id/nosignal.m3u8
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+#EXTINF:-1 group-title="Test" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",[HARI INI] 02:00 WIB / CRYSTAL PALACE VS ARSENAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#https://tv.qreatifku.my.id/nosignal.m3u8
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 group-title="Test" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",[HARI INI] 21:00 WIB / WOLVERHAMPTON VS BRIGHTON & HOVE ALBION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#https://tv.qreatifku.my.id/nosignal.m3u8
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+#EXTINF:-1 group-title="Test" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",[HARI INI] 22:30 WIB / CHELSEA VS WEST HAM UNITED
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#https://tv.qreatifku.my.id/nosignal.m3u8
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 group-title="Test" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",[HARI INI] 02:00 WIB / MANCHESTER CITY VS NEWCASTLE UNITED
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#https://tv.qreatifku.my.id/nosignal.m3u8
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 group-title="Test" tvg-logo="https://tv.qreatifku.my.id/images/premierl.png",[HARI INI] 23:30 WIB / NEWCASTLE UNITED VS ASTON VILLA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
