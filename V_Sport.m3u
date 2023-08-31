@@ -690,4 +690,25 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032525&
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032524&extension=ts&play_token=enHys0aCdI
 #EXTINF:-1 group-title="HUB SPORT Premier" tvg-id="HUB PREMIER 7" tvg-logo="https://tv.qreatifku.my.id/images/hubp7.png",HUB PREMIER 7.
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032523&extension=ts&play_token=enHys0aCdI
- 
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", K+ Sport 1 HD | 50fps
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ5iaZeok8KZnaKZnKidlaBnXmFqYw==&time=1693306590&mytv&id=onfootball
+https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", K+ Sport 2 HD | 50fps
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ5iaZeok8KZnaKZnKidlaBnXmFqYw==&time=1693306590&mytv&id=onfootball
+https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ5iaZeok8KZnaKZnKidlaBnXmFqYw==&time=1693306590&mykplus&id=ksport1
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ5iaZeok8KZnaKZnKidlaBnXmFqYw==&time=1693306590&mykplus&id=ksport2
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
