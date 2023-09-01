@@ -768,5 +768,6 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032523&
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.licence_key=:https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
+#KODIPROP:inputstream.adaptive.licence_key=:
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 
