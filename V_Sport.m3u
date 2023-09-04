@@ -849,3 +849,9 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1001367&extension
 #
 #EXTINF:-1 tvg-logo="https://archive.org/download/astro-super-sport/Astro_SuperSport.png" group-title="Astro Supersport", Astro Supersport 4
 #
+#EXTINF:-1 group-title="SPORTS", Eleven Sports PRO LEAGUE 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1716799712c744198e1a1c9d354dda6d:a148e55e5535bbfb7dc24c224d2683e4
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
