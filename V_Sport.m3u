@@ -843,6 +843,12 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1001367&extension
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="Astro Supersport", Astro Supersport
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=571245&extension=m3u8&play_token=19lN2YqIw2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="Astro Supersport", Astro Supersport 2
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=571248&extension=m3u8&play_token=19lN2YqIw2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="Astro Supersport", Astro Supersport 3
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=571247&extension=m3u8&play_token=19lN2YqIw2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="Astro Supersport", Astro Supersport 4
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=571246&extension=m3u8&play_token=19lN2YqIw2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZmH1y8.png", group-title="DAZN / ELEVEN",Eleven Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
