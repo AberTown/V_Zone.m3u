@@ -841,14 +841,60 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1001368&extension
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/V_Sport_Premier_League?file=V_Sport_Premier_League.svg" group-title="V Sport", V PREMIER LEAGUE 4
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1001367&extension=ts&play_token=x4TznoRUWS
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/astro-super-sport/Astro_SuperSport.png" group-title="Astro Supersport, Astro Supersport 1
-#
-#EXTINF:-1 tvg-logo="https://archive.org/download/astro-super-sport/Astro_SuperSport.png" group-title="Astro Supersport", Astro Supersport 2
-#
-#EXTINF:-1 tvg-logo="https://archive.org/download/astro-super-sport/Astro_SuperSport.png" group-title="Astro Supersport", Astro Supersport 3
-#
-#EXTINF:-1 tvg-logo="https://archive.org/download/astro-super-sport/Astro_SuperSport.png" group-title="Astro Supersport", Astro Supersport 4
-#
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Astro Supersport", ASTRO SUPERSPORT 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571245&extension=ts&play_token=oatD6LI1Qd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Astro Supersport", ASTRO SUPERSPORT 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571248&extension=ts&play_token=KwS7LBpk2j
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hyQfCsG2uj55y1lfQkHLo5SeTvsJEr4j6nCVwUnioe5X2MlOaRK-ijrS2KmXh0GDubc&usqp=CAU" group-title="Astro Supersport", ASTRO SUPERSPORT 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571247&extension=ts&play_token=YQu2x70UI7
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Astro Supersport", ASTRO SUPERSPORT 4
+http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=571246&extension=ts&play_token=mionprXuno
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="MALAY_SIA 1", Astro SuperSport
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/146068
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Astro Supersport", Astro SuperSport 2
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157556
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Astro Supersport", Astro SuperSport 3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157557
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Astro Supersport", Astro SuperSport 4
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157558
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="Astro Supersport", Astro SuperSport 5
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/287792
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 1 (D)
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143036.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 2 (D)
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143037.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 2_50fps
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143038.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 3 (D)
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143039.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 3_50fps
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143040.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 4 (D)
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143041.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport UHD/4K
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143042.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 4_50fps
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143043.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 5
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143044.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 5 (D)
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143045.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport 5_50fps
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143046.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Astro Supersport", MY Astro Supersport_50fps
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/143048.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZmH1y8.png", group-title="DAZN / ELEVEN",Eleven Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
