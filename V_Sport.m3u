@@ -849,58 +849,9 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1001367&extension
 #
 #EXTINF:-1 tvg-logo="https://archive.org/download/astro-super-sport/Astro_SuperSport.png" group-title="Astro Supersport", Astro Supersport 4
 #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPZ2d0c.png", group-title="Sports",Ziggo Sports Voetbal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4GM5xGJYppX8ii6L+zlLag","kid":"nAsk1eniRWyT+Pri6RMYLA"}],"type":"temporary"}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPZ2d0c.png", group-title="Sports",Ziggo Sports Golf
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"u0t47zl2RuOuXxO9sj1W7Q","k":"wSR6lCxxJkQ6kyFMZ0Mf6A"}]}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPZ2d0c.png", group-title="Sports", Ziggo Sports Select
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5REMwNI+asLnqIUD5oEhpA","kid":"Y4qeI20DRNiBfOgVIrEX1g"}]}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportselect/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZmH1y8.png", group-title="Sports",Eleven Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FxZ5lxLHRBmOGhydNU3abQ","k":"oUjlXlU1u_t9wkwiTSaD5A"}],"type":"temporary"}
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4zbQAOF.png", group-title="Sports",ESPN NL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3u8YkCg2Qyq4F9gDysKCzw","k":"hnR8vkUi6d40SemeZSk36w"}]}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", group-title="Sports", ESPN 2 NL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UuL4gVTLTb2gi0bjnUCHOw","k":"vLmElGNndf_YHACNulyNrg"}]}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn2/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nwk5HID.png", group-title="Sports",ESPN 3 NL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZZ38nxVrTZmi1s9nd79o_g","k":"Kvoqg1lA6le3KlCpYvGf2w"}]}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn3/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrINQnV.png", group-title="Sports",ESPN 4 NL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9fGugMk7QM6Bg-IfqXR7PA","k":"eDarO4OGhyji7qRNcIp1oQ"}]}
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn4/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
