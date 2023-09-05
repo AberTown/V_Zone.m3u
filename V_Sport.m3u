@@ -869,3 +869,8 @@ https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbe6e92030b2426e24901d4f6ff8640f:7f1039a4db3f9f96a1143f28b31b333b
 https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 5 LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yGGRr8NyxQBuurbovfYeFA","kid":"eSybOCYVxH_fuEDf0jh7iw"}],"type": "temporary"}
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
