@@ -1,5 +1,21 @@
 
 #EXTM3U url-tvg="https://www.dropbox.com/s/n4pbocq9fmwkbc3/cepgepg.xml?dl=1"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz" tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.hklive.tv" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=4
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=6
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=7
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" tvg-shift=0 m3uautoload=8
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz" tvg-shift=0 m3uautoload=9
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz" tvg-shift=0 m3uautoload=10
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz" tvg-shift=0 m3uautoload=11
+#EXTM3U url-tvg="https://i.mjh.nz/au/Brisbane/epg.xml.gz" tvg-shift=0 m3uautoload=12
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz" tvg-shift=0 m3uautoload=13
 
 ================================V Sport EPL==========================================
 
@@ -869,15 +885,3 @@ https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbe6e92030b2426e24901d4f6ff8640f:7f1039a4db3f9f96a1143f28b31b333b
 https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-1-vn.png" tvg-id="ksport1hd" group-title="K+ Sport", K+ SPORT1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ5iaZeok8KZnaKZnKidlaBnXmFqYw==&time=1693306590&mykplus&id=ksport1
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-2-vn.png" tvg-id="ksport1hd" group-title="K+ Sport", K+ SPORT2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ5iaZeok8KZnaKZnKidlaBnXmFqYw==&time=1693306590&mykplus&id=ksport2
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
