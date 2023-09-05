@@ -869,3 +869,9 @@ https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbe6e92030b2426e24901d4f6ff8640f:7f1039a4db3f9f96a1143f28b31b333b
 https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NSbdgvT/K-sport.png" group-title="K+ Sport", K+ Sport
+https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpNb3zRq/K-sport2.png" group-title="K+ Sport", K+ Sport 2
+http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
