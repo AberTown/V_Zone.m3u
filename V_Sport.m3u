@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="https://www.dropbox.com/s/n4pbocq9fmwkbc3/cepgepg.xml?dl=1,http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 ================================V Sport EPL==========================================
@@ -856,3 +857,15 @@ http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=571246&extensi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FxZ5lxLHRBmOGhydNU3abQ","k":"oUjlXlU1u_t9wkwiTSaD5A"}],"type":"temporary"}
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1, K+ SPORT-1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96990cf60d1ef446af5a871ca3761b53:de45302156ff8aa63a9c45739813867c
+https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+#EXTINF:-1, K+ SPORT-2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbe6e92030b2426e24901d4f6ff8640f:7f1039a4db3f9f96a1143f28b31b333b
+https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
