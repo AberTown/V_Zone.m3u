@@ -889,3 +889,10 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298492
 http://aanax.com:8080/live/2a41efbf/e9bc076c04/298491.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Champions_TV_6.png" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6 LIVE 3
 http://aanax.com:8080/live/2a41efbf/e9bc076c04/298492.m3u8
+
+#EXTINF:-1 group-title="SPORT GLOBAL" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",LFC TV
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+
