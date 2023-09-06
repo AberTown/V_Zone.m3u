@@ -889,3 +889,64 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298492
 http://aanax.com:8080/live/2a41efbf/e9bc076c04/298491.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Champions_TV_6.png" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6 LIVE 3
 http://aanax.com:8080/live/2a41efbf/e9bc076c04/298492.m3u8
+
+#EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE (2)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE
+https://vivo.lamtv.tv:8081/a/0446/playlist.m3u8|user-agent=FFFFF
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png" group-title="LIGAS EUROPEAS",BUNDESLIGA
+http://168.228.194.33:48001/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="LIGAS EUROPEAS", SERIE A
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8|User-Agent=blackghost.app/4.9 (Linux;Android 9) ExoPlayerLib/2.14.0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="LIGAS EUROPEAS", SERIE A
+http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/34662
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/300px-Ligue1_Uber_Eats_logo.png" group-title="LIGAS EUROPEAS",LIGUE 1
+https://vpngratis.win:8443/live/79wRcsvM5Y/sVyn4fFmrG/3.ts|user-agent=Vltuc39ChoswoSw5jak1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/300px-Ligue1_Uber_Eats_logo.png" group-title="LIGAS EUROPEAS",LIGUE 1
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=1173600.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="Ziggo Sport Select" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", LIGA MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnbos.lol/lb/premium66/index.m3u8|Referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS",LIGA ARABE
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/5ff464aaf89edc69bfe55de9/publish/media_950.m3u8?aid=5fea0d6c8bd443786977407e&pid=PCNrVWJ5dXUXIpgC3CEVGh0c6HxW6UB8&sid=hPiKAi4CedkkOoZliKB9FFV7Yae1cNL1&uid=KRcVLwazIu3bWIfD7i87y4hF6lziD3gA&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https&pz=us
+
+#EXTINF:-1 tvg-id="FOXDEPORTES" tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS",LIGA ARABE
+#EXTVLCOPT:http-user-agent=UniversoSport
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (2)
+http://23.237.108.234/hls/ESPN_DEPORTES.m3u8|User-Agent=Roku/DVP(10.10.10)
+
+#EXTINF:-1 tvg-logo="https://stconcacafwp001.blob.core.windows.net/media/h41jui1q/gc-menu-logo-es.png" group-title="LIGAS EUROPEAS", COPA ORO opc 2
+http://190.61.101.9:9000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://stconcacafwp001.blob.core.windows.net/media/3ccawxwc/cac_primary_color.png" group-title="LIGAS EUROPEAS", CONCACAF CUP
+http://208.88.246.11:4481/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/400px-MLS_crest_logo_RGB_gradient.svg.png" group-title="LIGAS EUROPEAS", MLS
+https://pastebin.com/raw/nFuA3gfD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/400px-MLS_crest_logo_RGB_gradient.svg.png" group-title="LIGAS EUROPEAS", MLS opc 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (3) 
+https://vpngratis.win:8443/live/79wRcsvM5Y/sVyn4fFmrG/30.ts|user-agent=Vltuc39ChoswoSw5jak1 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="LIGAS EUROPEAS", CHAMPIONS LEAGUE
+http://208.88.246.11:4481/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
