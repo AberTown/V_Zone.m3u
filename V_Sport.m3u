@@ -865,15 +865,5 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 HD
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 HD
 https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-#EXTINF:-1 tvg-id="819" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sport",beIN Sports 3 FHD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=672a1f46b66c6bdd26b1680d39baa922:16169547eb9b0a14146cdbd21490279e
-#EXTINF:-1 tvg-id="819" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_xtra_100X56.png" group-title="Sport",beIN Sports Xtra 
-#https://apac-live-ovt.akamaized.net/bein/bein_sports_vflow06/bein_sports_vflow06.isml/playlist.mpd
