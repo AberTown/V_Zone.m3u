@@ -910,3 +910,21 @@ http://eu-ams.bestvideostreaming.is/8741/index.m3u8
 http://eu-ams.bestvideostreaming.is/8743/index.m3u8
 #EXTINF:-1 group-title="Supersport AL" tvg-id="Supersport 5" tvg-logo="", Supersport 5
 http://eu-ams.bestvideostreaming.is/8736/index.m3u8
+
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Cricket
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 1
+https://m3.ballnaja.com/live/assp1/chunks.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 2
+https://m3.ballnaja.com/live/assp2/chunks.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 3
+https://m3.ballnaja.com/live/assp3/chunks.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 4
+https://m3.ballnaja.com/live/assp4/chunks.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Rugby
+https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Sports 2
+https://m2.ballnaja.com:8443/BeIn_Sports_2_Eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Sports 3
+https://m2.ballnaja.com:8443/BeIn_Sports_3_A/tracks-v1a1/mono.m3u8
+
