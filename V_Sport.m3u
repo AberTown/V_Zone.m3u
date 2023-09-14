@@ -957,7 +957,8 @@ https://m2.ballnaja.com:8443/BeIn_Sports_2_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Sports 3
 https://m2.ballnaja.com:8443/BeIn_Sports_3_A/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, PPTV HD1
+
+#EXTINF:-1 tvg-logo="", tvg-id="" group-title="Test", PPTV1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dbd58616d7355b7a1a7c89df6a60199":"b755de82e54d2aa45ce8e39b80f45ed5","66f03e62d21d5a6397841fc2de1391eb":"75502c6cf014a32a18c9db45ca13a6c3","3ba59a2a76105666b260332e35e483f0":"6dca3af3176e313b6798f81120edd77d"}
 https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
