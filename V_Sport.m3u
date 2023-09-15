@@ -1055,3 +1055,16 @@ http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754614
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OPTUS SPORTS", OPTUS 12 HD
 http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754615
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="Olahraga" tvg-id="beINSports.qa", beIN Sports Malaysia 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://daddyhd.mammothtv.workers.dev/dash-wv/linear/408/default_primary.mpd
+#https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="Olahraga" tvg-id="beINSports3.qa", beIN Sports Malaysia 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2705/default_primary.mpd
+#https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
