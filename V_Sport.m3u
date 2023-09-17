@@ -993,3 +993,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&exten
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 21
 http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=28096_&extension=m3u8
+
+#EXTINF:-1,Sky Showcase HD
+http://10.0.1.200:8088/play?url=http://linear0sssssssssssssssssssssssssssssschannel(skyshowcase)/manifest_hd.mpd&key=593b306e51f692f0ed1s070e9ea
+#EXTINF:-1,Sky Atlantic HD
+http://10.0.1.200:8088/play?url=http://linear017ssssssssssssssssssssssssssDASH_003_sm/Live/channel(skyatlantic)/manifest_hd.mpd&key=7b967dcfcssss389737bf91
+#EXTINF:-1,Sky Max HDsssssssssssssssssss3_sm/Live/channel(skymax)/manifest_hd.mpd&key=b37de031f61e75c22209170a2f9e26eb
