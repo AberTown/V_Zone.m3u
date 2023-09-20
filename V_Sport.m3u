@@ -146,17 +146,29 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 #EXTGRP:4 - 15.00 Manchester Utd v Brighton & H.A.
 #http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
 #EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
-#EXTGRP:1 - 12.30 Wolves v Liverpool
-#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
+#EXTGRP:3 - 15.00 Manchester City v Nottingham Forest
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
 #EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
-#EXTGRP:1 - 12.30 Wolves v Liverpool
-#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
+#EXTGRP:3 - 15.00 Manchester City v Nottingham Forest
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
+#EXTGRP:5 - 20.00 Burnley v Manchester Utd
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
+#EXTGRP:4 - 17.30 Brentford v Everton
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
+#EXTGRP:4 - 17.30 Brentford v Everton
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
+#EXTGRP:5 - 20.00 Burnley v Manchester Utd
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",Sport 2 Israel
-#EXTGRP:2 - EPL Live Sport 1-4 Israel
-#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
+#EXTGRP:3 - 15.00 Manchester City v Nottingham Forest
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",Sport 2 Israel
-#EXTGRP:2 - EPL Live Sport 1-4 Israel
-#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
+#EXTGRP:3 - 15.00 Manchester City v Nottingham Forest
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",Sport 3 Israel
 #EXTGRP:2 - EPL Live Sport 1-4 Israel
 #http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
@@ -164,11 +176,11 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 #EXTGRP:2 - EPL Live Sport 1-4 Israel
 #http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
 #EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
-#EXTGRP:7 - 17.30 Newcastle Utd v Brentford
-#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
+#EXTGRP:9 - 14.00 Liverpool v West Ham Utd
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
 #EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
-#EXTGRP:7 - 17.30 Newcastle Utd v Brentford
-#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
+#EXTGRP:9 - 14.00 Liverpool v West Ham Utd
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
 #EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
 #EXTGRP:10 - 19.45 Nottingham Forest v Burnley
 #http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
@@ -176,11 +188,17 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 #EXTGRP:10 - 19.45 Nottingham Forest v Burnley
 #http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",Sport 2 Israel
-#EXTGRP:10 - 19.45 Nottingham Forest v Burnley
-#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
+#EXTGRP:8 - 14.00 Chelsea v Aston Villa
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",Sport 2 Israel
-#EXTGRP:10 - 19.45 Nottingham Forest v Burnley
-#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
+#EXTGRP:8 - 14.00 Chelsea v Aston Villa
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",Sport 4 HD IL
+#EXTGRP:6 - 14.00 Arsenal v Tottenham
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",SPORT 4 HD IL
+#EXTGRP:6 - 14.00 Arsenal v Tottenham
+http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
 
 ==================================Eleven Sport EPL====================================
 
