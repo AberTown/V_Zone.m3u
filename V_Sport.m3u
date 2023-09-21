@@ -1040,11 +1040,3 @@ https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Other Sports" tvg-logo="https://www.televizia.org/img/tv_silkuniversal.png", Silk Sport 3
 https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ESPN (MX)" group-title="Other Sports" ch-number="31" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/espn1-mexico.png.webp" group-title="",ESPN (MX)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#kodiprop:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=38b63f9aaa7b7c7a822c8e14c8a7212e &key=d6b1f45a59d2dac1a730c7f56c74971a
-https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
-
