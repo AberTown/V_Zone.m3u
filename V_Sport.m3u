@@ -1060,3 +1060,13 @@ https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Other Sports" tvg-logo="https://www.televizia.org/img/tv_silkuniversal.png", Silk Sport 3
 https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="test", Test 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/arena_fight.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="test", Test 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
