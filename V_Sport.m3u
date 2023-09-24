@@ -1110,3 +1110,9 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
+
+#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_formula1_nuevo.jpg" group-title="DEPORTES", FORMULA 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005de226b16ae5d75df48aa6099cca6:75e80519551edc03e890e13f01abd26d
+https://linear004-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
