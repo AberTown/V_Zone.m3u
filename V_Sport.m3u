@@ -270,12 +270,12 @@ http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
 
 ===========================================Sky PL & Champions 5 EPL=====================================
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="4 - 17.30 Brentford v Everton", Sky Premier League
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="8 - 17.30 Tottenham v Liverpool", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
-#https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
+https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="6 - 14.00 Arsenal v Tottenham", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -284,12 +284,12 @@ http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
 #https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="3 - 15.00 Manchester City v Nottingham Forest", Premier Sports 1
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="2 - 15.00 Bournemouth v Arsenal", Premier Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
-#http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="10 - 16.30 Sheffield Utd v Newcastle Utd", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -305,10 +305,10 @@ http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
 #https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
 
-#EXTINF:-1 group-title="1 - 15.00 Crystal Palace v Fulham" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png", CHAMPIONS TV 5
+#EXTINF:-1 group-title="8 - 17.30 Tottenham v Liverpool" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png", CHAMPIONS TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yGGRr8NyxQBuurbovfYeFA","kid":"eSybOCYVxH_fuEDf0jh7iw"}],"type": "temporary"}
-#https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
 
 #EXTINF:-1 group-title="2 - 15.00 Aston Villa v Crystal Palace" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png", CHAMPIONS TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
