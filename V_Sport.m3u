@@ -59,6 +59,11 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
+#EXTINF:-1 group-title="1 - 19.45 Liverpool v Leicester City" tvg-id="DAZN / ELEVENE" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn 2 Germany
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+
 #EXTINF:-1 group-title="7 - 15.00 Wolves v Manchester City" tvg-logo=-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_extra_logo_vert_rgb_pos_1270x270_1.jpg", V Sport Extra SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
