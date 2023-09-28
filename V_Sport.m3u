@@ -57,12 +57,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
-https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
-
-#EXTINF:-1 group-title="1 - 19.45 Liverpool v Leicester City" tvg-id="DAZN / ELEVENE" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn 2 Germany
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+#https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 #EXTINF:-1 group-title="7 - 15.00 Wolves v Manchester City" tvg-logo=-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_extra_logo_vert_rgb_pos_1270x270_1.jpg", V Sport Extra SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -153,10 +148,10 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",Sport 2 Israel
 #EXTGRP:1 - 19.45 Liverpool v Leicester City
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
+#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",Sport 2 Israel
 #EXTGRP:1 - 19.45 Liverpool v Leicester City
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
+#http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
 #EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 Israel
 #EXTGRP:1 - 12.30 Aston Villa v Brighton & H.A.
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
@@ -345,7 +340,7 @@ https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a
 #EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/07/ARENA-SPORT.png", tvg-id="ksport1hd" group-title="1 - 19.45 Liverpool v Leicester City", Arena Sport 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
+#https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
 
 #EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/07/ARENA-SPORT.png", tvg-id="ksport1hd" group-title="7 - 15.00 Wolves v Manchester City", Arena Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
