@@ -990,7 +990,7 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/DnlZuB9.png" ,ESPN Deportes
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://i.imgur.com/DnlZuB9.png" ,ESPN Deportes
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1000,7 +1000,7 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
 #KODIPROP:inputstream.adaptive.license_key=2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539
 https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
  
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/152px-FOX_Deportes_logo.svg.png" , FOX DEPORTES
+#EXTINF:-1 group-title="Other Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/152px-FOX_Deportes_logo.svg.png" , FOX DEPORTES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1010,14 +1010,14 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.
 #KODIPROP:inputstream.adaptive.license_key=411a4423a6da462988884c13be14c336:2188c18bdeb20d713619da0dec98d5c9
 https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(72189-FXDEPHD)/manifest.mpd
  
-#EXTINF:-1 tvg-id="gol.es" tvg-logo="https://i.imgur.com/cjAZchQ.png", group-title="DEPORTES", Gol TV España
+#EXTINF:-1 tvg-id="gol.es" tvg-logo="https://i.imgur.com/cjAZchQ.png", group-title="Other Sports", Gol TV España
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"40d74ba9d7b35e2cb7865012adcd2e0b":"950c6078f8fdb95d8b2451e009ecc4de","d8014a9a63e15f6abf7388de45ef7e02":"1d5efa0575fc67e8c8b0ec3edc0acba7","e48455eeaeeb50ec932d208e44012e4f":"2a2e6be1ff1dda385a7db6dc0accfc6e"}
 https://tvup-live.secure.footprint.net/goltv/goltv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
  
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original/Logo_SSC1HD.png?height=auto&width=288&croppingPoint=&version=1&type=png" ,ZIGGO SPORT
+#EXTINF:-1 group-title="Other Sports" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original/Logo_SSC1HD.png?height=auto&width=288&croppingPoint=&version=1&type=png" ,ZIGGO SPORT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1027,14 +1027,14 @@ https://tvup-live.secure.footprint.net/goltv/goltv.mpd|User-Agent="Mozilla/5.0 (
 #KODIPROP:inputstream.adaptive.license_key=90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a
 https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
  
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport4.ro.png",Prima Sports 4
+#EXTINF:-1 group-title="Other Sports" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport4.ro.png",Prima Sports 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FS1
+#EXTINF:-1 group-title="Other Sports" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FS1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1119,22 +1119,22 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extensio
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Astro Supersport",Astro SuperSport 3
 https://iplogger.com/ASSP3
 
-#EXTINF:-1 group-title="Other Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 1 ARG
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 1 ARG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://ixp-nqn.origin.rcs.net.ar/mnp/espn/output.mpd
-#EXTINF:-1 group-title="Other Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 2 ARG
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 2 ARG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://ixp-nqn.origin.rcs.net.ar/mnp/espn2/output.mpd
-#EXTINF:-1 group-title="Other Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 3 ARG
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN 3 ARG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://ixp-nqn.origin.rcs.net.ar/mnp/espn3/output.mpd
-#EXTINF:-1 group-title="Other Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN PREM ARG
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",ESPN PREM ARG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
