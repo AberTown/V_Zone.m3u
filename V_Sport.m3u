@@ -1143,11 +1143,15 @@ https://ixp-nqn.origin.rcs.net.ar/mnp/espnpremium/output.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5125
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg"group-title="Other Sports" ,LA LIGA PREMIER- PARAMOUNT+ 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 =========================Other PL================================
 
 
-#EXTINF:-1 group-title="5 - 15.00 Newcastle Utd v Burnley" tvg-logo="https://www.televizia.org/img/tv_silkuniversal.png", Moji TV
+#EXTINF:-1 group-title="5 - 15.00 Newcastle Utd v Burnley" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", Moji TV
 http://tvnid.x10.mx/vidio/master-2.m3u8
 
-#EXTINF:-1 group-title="10 - 14.00 Nottingham Forest v Brentford" tvg-logo="https://www.televizia.org/img/tv_silkuniversal.png", Moji TV
+#EXTINF:-1 group-title="10 - 14.00 Nottingham Forest v Brentford" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", Moji TV
 http://tvnid.x10.mx/vidio/master-2.m3u8
