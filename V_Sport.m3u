@@ -394,56 +394,56 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 
 ================================Prima Sport EPL===============================================================
 
-#EXTINF:-1 tvg-id="1 - 12.30 Aston Villa v Brighton & H.A." group-title="Prima Sport" tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
+#EXTINF:-1 tvg-id="" group-title="1 - 12.30 Aston Villa v Brighton & H.A." tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
 https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="7 - 15.00 Wolves v Manchester City" group-title="Prima Sport" tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
+#EXTINF:-1 tvg-id="" group-title="7 - 15.00 Wolves v Manchester City" tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
 https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="8 - 17.30 Tottenham v Liverpool" group-title="Prima Sport" tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
+#EXTINF:-1 tvg-id="" group-title="8 - 17.30 Tottenham v Liverpool" tvg-logo="https://i.ibb.co/JzhBGYB/PRIMASPORT1.png", PRIMA SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
 https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="4 - 15.00 Manchester Utd v Crystal Palace" group-title="Prima Sport" tvg-logo="https://i.ibb.co/Byp48qP/PRIMASPORT2.png", PRIMA SPORTS 2
+#EXTINF:-1 tvg-id="" group-title="4 - 15.00 Manchester Utd v Crystal Palace" tvg-logo="https://i.ibb.co/Byp48qP/PRIMASPORT2.png", PRIMA SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
 https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="10 -  20.00 Fulham v Chelsea" group-title="Prima Sport" tvg-logo="https://i.ibb.co/Byp48qP/PRIMASPORT2.png", PRIMA SPORTS 2
+#EXTINF:-1 tvg-id="" group-title="10 -  20.00 Fulham v Chelsea" tvg-logo="https://i.ibb.co/Byp48qP/PRIMASPORT2.png", PRIMA SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
 https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="2 - 15.00 Bournemouth v Arsenal" group-title="Prima Sport" tvg-logo="https://i.ibb.co/J2QffZq/PRIMASPORT3.png", PRIMA SPORTS 3
+#EXTINF:-1 tvg-id="" group-title="2 - 15.00 Bournemouth v Arsenal" tvg-logo="https://i.ibb.co/J2QffZq/PRIMASPORT3.png", PRIMA SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
 https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="9 - 14.00 Nottingham Forest v Brentford" group-title="Prima Sport" tvg-logo="https://i.ibb.co/J2QffZq/PRIMASPORT3.png", PRIMA SPORTS 3
+#EXTINF:-1 tvg-id="" group-title="9 - 14.00 Nottingham Forest v Brentford" tvg-logo="https://i.ibb.co/J2QffZq/PRIMASPORT3.png", PRIMA SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
 https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-id="Prima Sport 4" group-title="Prima Sport" tvg-logo="https://i.ibb.co/BVtHFv8/PRIMASPORT4.png", PRIMA SPORTS 4
+#EXTINF:-1 tvg-id="" group-title="Prima Sport" tvg-logo="https://i.ibb.co/BVtHFv8/PRIMASPORT4.png", PRIMA SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -529,25 +529,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d46
 
 =======================================================
 
-#EXTINF:-1 group-title="UHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-https://7pal.short.gy/astrouhd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/D09HZwcV/beIN-4K.png" group-title="UHD", beIN 4K
-https://7pal.short.gy/bein-uhd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ht1DHkS4/Now-Sports-4-K-1.png" group-title="UHD", Now Sports 4K 1
-https://7pal.short.gy/nowsport4k
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TYmYcyFD/Sky-Sports-Main-Event-Ultra-HD.png" group-title="UHD", Sky Sports Main Event Ultra HD
-https://7pal.short.gy/SSMEuhd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prh3RFzY/BT-Sport-Ultimate.png" group-title="UHD", BT Sport Ultimate
-https://7pal.short.gy/BTUltimate
-
-======================================================
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -586,26 +567,6 @@ http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",SPORT 4 HD IL
 #EXTGRP:Sport Israel HD
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
-#EXTGRP:Premier Sports Mongolia
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
-#EXTINF:0 tvg-rec=\"0\",Premier Sports 1 
-https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8 
-#EXTGRP:Premier Sports Mongolia
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
-#EXTINF:0 tvg-rec=\"0\",Premier Sports 2 
-https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8 
-#EXTGRP:Premier Sports Mongolia
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
-#EXTINF:0 tvg-rec=\"0\",Premier Sports 3 
-https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8 
-#EXTGRP:Premier Sports Mongolia
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
-#EXTINF:0 tvg-rec=\"0\",Premier Sports 4 
-https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8 
-#EXTGRP:Premier Sports Mongolia
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vplq89z9mQ_optpfsk7ptj3K5fhunOeh7QpUhVqlIrS2JBg03phv8Gezmg4Uem1ml1amIEJEld8=s900-c-k-c0x00ffffff-no-rj"
-#EXTINF:0 tvg-rec=\"0\",Premier Sports 5 
-https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="True Premier Network",True Premier 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
