@@ -1265,3 +1265,13 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-042/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-041/stream.mpd
+
+#EXTINF:-1 group-title="Other Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,ZIGGO VOETBAL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a
+https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
