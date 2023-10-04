@@ -1560,3 +1560,15 @@ https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" } 
 https://linear03-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ],"type":"temporary" }#EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" group-title="SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png"tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png",Astro Supersport UHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="Astro Cricket HD" group-title="SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mp
