@@ -1434,3 +1434,10 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-042/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-041/stream.mpd
+
+============================
+
+#EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/07/ARENA-SPORT.png", tvg-id="ksport1hd" group-title="Test", Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56484c5353584a4b5255386e62324166:7961344f3147313055796f425476314e
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
