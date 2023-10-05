@@ -1527,3 +1527,66 @@ https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" } 
 https://linear03-playback.sooka.my/CH2/masterCH2.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4bce9607bd2e4fcbbbaa01ae3183ded0&key=0f24f15eb1159120f5497d79468b50d4
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=bfd49547070e4e13aafbced309d18cb3&key=a8d7ba68598055ae2b10d79652237f2e
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_2_HD_HTTP/__op/dash-default/__dci/242/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=8b3f805666294fb2905dcf6cbe3fadf5&key=c8ad183c374949c7dce645bf75f634a0
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_3_HD_HTTP/__op/dash-default/__dci/245/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=3a231bbf8db144ad821bb4e043343df4&key=071010a6503a81f51b407dca3b7b2660
+https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_4_HD_HTTP/__op/dash-default/__dci/246/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=986ff9d8c4ec484b9150ad5e40fa5d23&key=f29b34c7f159e477108fcad52bd54ead
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport_HD_HTTP/__op/dash-default/__dci/119/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=5ebe06129860435d9b8260799df031ce&key=5ee33c22b78b64a455882aa12a6cde46
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport2_HD_HTTP/__op/dash-default/__dci/120/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=0ad97466c13f439583761665c7e79671&key=10a572ccaa3f5ffc7f7e40779b134f25
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport3_HD_HTTP/__op/dash-default/__dci/187/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=7fe3ec6bc57246a181482ac894eb19ff&key=fef44cc79cc6b6e5a7c07a1a1995c12f
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport4_HD_HTTP/__op/dash-default/__dci/188/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=27bf7f42b47f40f8ac8999dd493be0c8&key=beac9efc2c93e9b90dd8eff5bbe31068
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport5_HD_HTTP/__op/dash-default/__dci/236/__f/manifest.mpd
