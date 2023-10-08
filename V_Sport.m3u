@@ -1187,6 +1187,20 @@ https://linear005-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/
 #KODIPROP:inputstream.adaptive.license_key=00032a3b7d70479c247c423993fbd761:ea65943df25a98071a2b101e22791aee
 #https://linear008-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsfootball)/manifest_hd.mpd
 
+#EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", tvg-id="ksport1hd" group-title="UK Sport", Viaplay Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", tvg-id="ksport1hd" group-title="UK Sport", Viaplay Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
+
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="UK Sport", TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
