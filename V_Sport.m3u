@@ -1855,4 +1855,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Astro Malaysia - VPN required" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",AOTG LIVE 3 (CH797)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
 
+#EXTINF:-1 group-title="V Sport" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sport UltraHD ⁴ᴷ
+https://7pal.short.gy/VSportUHD
+#EXTINF:1 tvg-id="viasatsport.fi" group-title="V Sport" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png", V Sport UltraHD ⁴ᴷ
+#EXTVLCOPT:network-caching=1000
+https://iplogger.com/VSPORTULTRA
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
