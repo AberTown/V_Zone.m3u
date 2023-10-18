@@ -1871,8 +1871,8 @@ https://cip4-2018183880.linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=175.176.0.236
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="USA Network - Use VPN" group-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png",USA Network
-#https://cip4-2018183880.linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="USA Network - Use VPN" group-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png",USA Network#https://cip4-2018183880.linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+https://cip4-2018183880.linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
