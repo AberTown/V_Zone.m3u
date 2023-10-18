@@ -1871,4 +1871,24 @@ https://cip4-2018183880.linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USA
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Other Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzsirYd3XQAoj9HLT55BtFVH7vxBMfTOl8-TILpzavQXUko8tzWJjLCqF4z5vkSXseKf8&usqp=CAU",Willow Cricket
 https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=Clearkeys
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-1-no.png" group-title="IPTV",03. VIASAT 1
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=Clearkeys
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-live-2.svg" group-title="IPTV",04. VIASAT 2
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=Clearkeys
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#EXTINF:0 tvg-id="" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_live3" group-title="IPTV",05. VIASAT 3
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=Clearkeys
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+#EXTINF:0 tvg-id="" tvg-logo="https://onecms-res.cloudinary.com/image/upload/s--hkzIl0mq--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/corporate/image/2022/01/04/mediacorp.jpg?itok=CA39LfdK" group-title="IPTV",06. MediaCorp
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
