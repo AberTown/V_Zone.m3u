@@ -345,7 +345,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 
-===========================================Sky PL & Champions 5 EPL=====================================
+===========================================Sky PL, TNT, USA & Champions 5 EPL=====================================
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="1 - 12.30 Liverpool v Everton", TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -424,6 +424,26 @@ https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="1 - 12.30 Liverpool v Everton" group-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png",USA Network (No VPN)
+https://faketv.co.in/pxy_us.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="4 - 15.00 Manchester City v Brighton & H.A." group-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png",USA Network (No VPN)
+https://faketv.co.in/pxy_us.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="9 - 16.30 Aston Villa v West Ham Utd" group-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png",USA Network (No VPN)
+https://faketv.co.in/pxy_us.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="10 - 20.00 Tottenham v Fulham" group-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png",USA Network (No VPN)
+https://faketv.co.in/pxy_us.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
 
 ===========================Arena Sport PL====================================================================
 
