@@ -1895,4 +1895,9 @@ http://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ESPN" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN 3
 http://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",Test
+https://ubn-streamer2.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
