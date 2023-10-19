@@ -1895,4 +1895,16 @@ http://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ESPN" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN 3
 http://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
 
+#-*--K+-*--#
+
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.123:10320
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.122:10314
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.125:10326
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.176:10374
+
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
