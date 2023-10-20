@@ -1902,14 +1902,9 @@ http://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
 
 #-*--K+-*--#
 
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-https://live.khanggtivi.xyz/rtp/?dash=232.84.1.123:10320
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
-https://live.khanggtivi.xyz/rtp/?dash=232.84.1.122:10314
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
-https://live.khanggtivi.xyz/rtp/?dash=232.84.1.125:10326
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
-https://live.khanggtivi.xyz/rtp/?dash=232.84.1.176:10374
-
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD
+https://drm-livecdn.khanggtivi.xyz/kplus/5da37a38d672e459d463c2512a311c8f3cbd5355a482c80eaadfa4fa73c83ebf6919b9/kplus1/master.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 HD
+https://drm-livecdn.khanggtivi.xyz/kplus/5da37a38d672e459d463c2512a311c8f3cbd5355a482c80eaadfa4fa73c83ebf6919b9/kplus2/master.m3u8
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
