@@ -1598,7 +1598,6 @@ https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
 https://dcqkiaqc3sngm.cloudfront.net/CH2/masterCH2.mpd
 
 
-
 ===============================================Siminn / Stod 2 Iceland==================================================
 
 #EXTINF:-1 tvg-id="" group-title="Siminn / Stod Iceland" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport HD
@@ -1859,6 +1858,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Astro Malaysia - VPN required" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",AOTG LIVE 3 (CH797)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
 
+#EXTINF:-1 ch-number="798" tvg-id="LIVEADHOC" group-title="Astro Malaysia - VPN required" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",AOTG LIVE 4 (CH798)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
+
+#EXTINF:-1 ch-number="798" tvg-id="LIVEADHOC" group-title="Astro Malaysia - VPN required" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",AOTG LIVE 5 (CH799)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9990
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9990/default.mpd
+
 #EXTINF:-1 group-title="V Sport" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sport UltraHD ⁴ᴷ
 https://7pal.short.gy/VSportUHD
 #EXTINF:1 tvg-id="viasatsport.fi" group-title="V Sport" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png", V Sport UltraHD ⁴ᴷ
@@ -1894,26 +1903,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="2 - 15.00 Bournemouth v Wolves" group-logo="" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",AOTG LIVE 2 (CH796)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
-
-#EXTINF:-1 ch-number="795" tvg-id="LIVEADHOC" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",LIVE ADHOC 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default.mpd
-
-#EXTINF:-1 ch-number="796" tvg-id="LIVEADHOC" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",LIVE ADHOC 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default.mpd
-
-#EXTINF:-1 ch-number="797" tvg-id="LIVEADHOC" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",LIVE ADHOC 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default.mpd
-
-#EXTINF:-1 ch-number="798" tvg-id="LIVEADHOC" group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",LIVE ADHOC 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 #EXTINF:-1   tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2022/08/CCTV-acquires-media-rights-of-Premier-League-for-three-seasons.jpg" group-title="Other Sports",CCTV Premier League 
 https://api.thomasandi.my.id/api/x.php?id=120000460028
