@@ -1910,5 +1910,10 @@ https://drm-livecdn.khanggtivi.xyz/kplus/b37e5b0c73fabd9793940a89d22281bf8a602e4
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 https://drm-livecdn.khanggtivi.xyz/kplus/b37e5b0c73fabd9793940a89d22281bf8a602e439e11a60a0d99f06bff010be09e06d1/49/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.resolution=540p
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
+#EXTINF:-1 tvg-id=""AstroSupersportUHD"" tvg-name=""Astro UHD"" group-title="Test"" group-logo=""https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144"" tvg-logo=""https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png"",ASTRO SUPERSPORTS
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
