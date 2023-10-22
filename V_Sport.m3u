@@ -1910,18 +1910,11 @@ https://drm-livecdn.khanggtivi.xyz/kplus/b37e5b0c73fabd9793940a89d22281bf8a602e4
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 https://drm-livecdn.khanggtivi.xyz/kplus/b37e5b0c73fabd9793940a89d22281bf8a602e439e11a60a0d99f06bff010be09e06d1/49/index.m3u8
 
-#EXTINF:-1 ch-number="811" tvg-id="AstroSupersport" group-title="SPORT LOCAL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 SuperSport
+#EXTINF:-1 ch-number="811" tvg-id="AstroSupersport" group-title="Astro Malaysia - VPN required" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 SuperSport
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUSXhZVE5sT0RRdFlqRXlNQzAwWVRrNUxXSXlaRFl0TnpNeE5qSXhNRFJsWWpWbSIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODE0NjMwNSwiaWF0IjoxNjk3NTQyMzA1fQ.OWTvcpiK6GUVPJVqsu45ZqpDeKlGdguZISncoFX2aCg"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://cors-anywhere.azm.workers.dev/http://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WV2iln8WZ6KYfA8i70gbng", "kid":"MCtxup6dZzcgAOK9vwv8EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro UHD" group-title="SPORT LOCAL" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",815 ASTRO SUPERSPORTS 5
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
