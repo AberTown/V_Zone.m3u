@@ -1865,10 +1865,6 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sony Sports",Sony TEN 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 1 HD" tvg-logo="https://assets-on.akamaized.net/images/v2/channel/20220613/2022061306/Logo_ONFOOTBALLHD_150x901_1675158863.webp" group-title="Other Sports",On Football HD
-#KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
-
 #EXTINF:-1 group-title="V Sport" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/8536BA37-2A68-438E-97C8-D7FD2CED5B14.jpeg",V Sport UltraHD ⁴ᴷ
 https://7pal.short.gy/VSportUHD
 #EXTINF:1 tvg-id="viasatsport.fi" group-title="V Sport" tvg-logo="https://i.ibb.co/vvmq4zv/Vsport-Uhd.png", V Sport UltraHD ⁴ᴷ
@@ -1888,12 +1884,12 @@ https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="USA Network - Use VPN" group-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png",USA Network (No VPN)
-https://faketv.co.in/minipro.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+https://faketv.co.in/miniprox.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Other Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzsirYd3XQAoj9HLT55BtFVH7vxBMfTOl8-TILpzavQXUko8tzWJjLCqF4z5vkSXseKf8&usqp=CAU",Willow Cricket (No VPN)
-https://faketv.co.in/minipro.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
+https://faketv.co.in/miniprox.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
 #EXTINF:-1   tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2022/08/CCTV-acquires-media-rights-of-Premier-League-for-three-seasons.jpg" group-title="Other Sports",CCTV Premier League 
 https://api.thomasandi.my.id/api/x.php?id=120000460028
