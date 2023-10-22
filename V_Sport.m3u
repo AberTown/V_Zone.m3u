@@ -1944,4 +1944,9 @@ https://7pal.short.gy/VSportUHD
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Norway Sport" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1582.png",TV2 Sport1
 https://rikstv-live2.telenorcdn.net/rikstv/1468/2/dash/TV2_Sport_1/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6932f68ee603c69b1bbeff9cb11d23fb:ad518d9d047e077654ab073d643cd270
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Norway Sport" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tv-2-sport-2-1583.png",TV2 Sport2
+https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
