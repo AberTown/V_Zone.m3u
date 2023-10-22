@@ -1939,4 +1939,14 @@ https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="V sport ultra HD (T)" tvg-logo="https://i.imgur.com/S3IXhWw.png" group-title="4K SPORTS",V Sport Ultra HD
 https://7pal.short.gy/VSportUHD
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c020ccd5e9dc7b0d40e0da996e3d9c7:f91af4dab54e9c027d21f4d78abb7a75
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzsirYd3XQAoj9HLT55BtFVH7vxBMfTOl8-TILpzavQXUko8tzWJjLCqF4z5vkSXseKf8&usqp=CAU",Willow Cricket (No VPN)
+https://rikstv-live2.telenorcdn.net/rikstv/1468/2/dash/TV2_Sport_1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c020ccd5e9dc7b0d40e0da996e3d9c7:f91af4dab54e9c027d21f4d78abb7a75
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzsirYd3XQAoj9HLT55BtFVH7vxBMfTOl8-TILpzavQXUko8tzWJjLCqF4z5vkSXseKf8&usqp=CAU",Willow Cricket (No VPN)
+https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
