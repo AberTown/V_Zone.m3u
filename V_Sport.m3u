@@ -2,12 +2,12 @@
 #EXTM3U url-tvg="https://www.dropbox.com/s/n4pbocq9fmwkbc3/cepgepg.xml?dl=1"
 
 ================================V Sport EPL==========================================
-#EXTINF:-1 group-title="1 - 12.30 Liverpool v Everton" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
+#EXTINF:-1 group-title="1 - 20.00 Crystal Palace v Tottenham" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #EXTINF:-1 group-title="4 - 15.00 Manchester City v Brighton & H.A." tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
