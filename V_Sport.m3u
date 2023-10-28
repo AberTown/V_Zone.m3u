@@ -1232,6 +1232,13 @@ http://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=00032fac37d1a7613739256f4ab7dc76:8f71b6743fd41c96df36c06a48ac4bae
 https://linear005-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsmix)/manifest_hd.mpd
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Mix
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003a6c61c2b2f7f0a9d760ac83c06d8:7305fa96d356316f2d544bfc78a6922c
+https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Main Event
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
