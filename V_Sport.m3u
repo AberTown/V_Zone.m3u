@@ -1524,6 +1524,11 @@ https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&e
 
 ============================Astro Malaysia - VPN required================================
 
+#EXTINF:-1 ch-number="805" tvg-id="AstroSupersportUHD" group-title="Sports" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png",805 Supersport UHD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+
 #EXTINF:-1 ch-number="795" tvg-id="Supersport" group-title="Astro Malaysia" tvg-logo="https://www.zdnet.com/a/img/resize/3295733c820bf1573c41e7a11a913c3f145561c7/2022/12/21/2f1820f8-3b7d-48d2-a7e9-adc89b7c94e4/vpn-shield.jpg?auto=webp&fit=crop&height=900&width=1200",1 - USE VPN for MALAYSIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
