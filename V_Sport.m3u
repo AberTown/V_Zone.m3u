@@ -42,7 +42,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #EXTINF:-1 group-title="10 - 20.00 Tottenham v Fulham" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -157,7 +157,7 @@ KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMU
 #EXTINF:-1 group-title="10 - 15.30 Manchester Utd v Manchester City" tvg-id="PLAY SPORTS 1" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",Play Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 group-title="8 - 20.00 Sheffield Utd v Manchester Utd" tvg-id="PLAY SPORTS 1" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",Play Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -251,7 +251,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=4bce9607bd2e4fcbbbaa01ae3183ded0&key=0f24f15eb1159120f5497d79468b50d4
-https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
+#https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="4 - 15.00 Bournemouth v Burnley" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Siminn Sport 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -307,7 +307,7 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 #EXTINF:-1 group-title="10 - 15.30 Manchester Utd v Manchester City" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven Sport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 
 #EXTINF:-1 group-title="2 - 15.00 Burnley v Chelsea" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",Eleven Sport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -386,7 +386,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
+#https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
 
 #EXTINF:-1 group-title="1 - 20.00 Crystal Palace v Tottenham" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png", CHAMPIONS TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -411,7 +411,7 @@ https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/c
 #EXTINF:-1 group-title="10 - 15.30 Manchester Utd v Manchester City" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png", CHAMPIONS TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yGGRr8NyxQBuurbovfYeFA","kid":"eSybOCYVxH_fuEDf0jh7iw"}],"type": "temporary"}
-https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+#https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
 
 #EXTINF:-1 group-title="9 - 16.30 Aston Villa v West Ham Utd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png", CHAMPIONS TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1957,13 +1957,6 @@ http://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="805" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="805" group-logo="" group-title="10 - 15.30 Manchester Utd v Manchester City" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
