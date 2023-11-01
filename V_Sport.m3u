@@ -1970,9 +1970,9 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zjfiA3TlW-a7TSaDevJ2BQ","k":"UsxTL3SPy_K4BtrUKJv4TA"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/07/ARENA-SPORT.png", tvg-id="ksport1hd" group-title="1 - 19.45 Bournemouth v Liverpool", Arena Sport 3 Premium
+#EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/07/ARENA-SPORT.png", tvg-id="ksport1hd" group-title="1 - 19.45 Bournemouth v Liverpool", Arena Sport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
+https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
