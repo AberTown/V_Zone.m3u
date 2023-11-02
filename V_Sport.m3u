@@ -1957,4 +1957,16 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="Test" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd
+
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="Test" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
