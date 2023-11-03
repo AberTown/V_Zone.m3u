@@ -1511,12 +1511,6 @@ https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&e
 
 ============================Astro Malaysia - VPN required================================
 
-#EXTINF:-1 ch-number="795" tvg-id="Supersport" group-title="Astro Malaysia" tvg-logo="https://www.zdnet.com/a/img/resize/3295733c820bf1573c41e7a11a913c3f145561c7/2022/12/21/2f1820f8-3b7d-48d2-a7e9-adc89b7c94e4/vpn-shield.jpg?auto=webp&fit=crop&height=900&width=1200",1 - USE VPN for MALAYSIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default.mpd
-https://1.yurend.xyz/dash-wv/linear/9986/
-
 #EXTINF:-1 ch-number="795" tvg-id="Supersport" group-title="Astro Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",SuperSport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
@@ -1538,27 +1532,6 @@ https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a577184ed6c64560beb87c96ee78f7b8:65f88f668501f7efa75c25be598f7456
 https://dcqkiaqc3sngm.cloudfront.net/CH3/masterCH3.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Astro Malaysia" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",OTT LIVE 1 (CH795)
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Astro Malaysia" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",OTT LIVE 2 (CH796)
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Astro Malaysia" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",OTT LIVE 3 (CH797)
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
-
-#EXTINF:-1 ch-number="798" tvg-id="LIVEADHOC" group-title="Astro Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",OTT LIVE 4 (CH798)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 #EXTINF:-1 ch-number="811" tvg-id="AstroSupersport" group-title="Astro Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",SuperSport
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUSXhZVE5sT0RRdFlqRXlNQzAwWVRrNUxXSXlaRFl0TnpNeE5qSXhNRFJsWWpWbSIsIndtb3BpZCI6MzIsImV4cCI6MTY5ODE0NjMwNSwiaWF0IjoxNjk3NTQyMzA1fQ.OWTvcpiK6GUVPJVqsu45ZqpDeKlGdguZISncoFX2aCg"}
@@ -1843,6 +1816,35 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5108/default.mpd
 
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="795" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",Astro Go Live 1 (CH795)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="796" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",Astro Go LIve 2 (CH796)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Astro Malaysia" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",OTT LIVE 2 (CH796)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="797" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",Astro Go LIve 3 (CH797)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" ch-number="798" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",Astro Go LIve 4 (CH798)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
+
 #EXTINF:-1 tvg-id="805" group-logo="" group-title="7 - 17.30 Newcastle Utd v Arsenal" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
@@ -1856,5 +1858,27 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-logo="" group-title="6 - 15.00 Sheffield Utd v Wolves" ch-number="795" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",Astro Go Live 1 (CH795)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-logo="" group-title="3 - 15.00 Burnley v Crystal Palace" ch-number="796" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",Astro Go LIve 2 (CH796)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Astro Malaysia" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",OTT LIVE 2 (CH796)
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-logo="" group-title="4 - 15.00 Everton v Brighton & H.A." ch-number="798" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",Astro Go LIve 4 (CH798)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
