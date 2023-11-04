@@ -1873,6 +1873,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="1 - 12.30 Fulham v Manchester Utd", Vidio Event EPL 1
+https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
+
 =========================================================
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
