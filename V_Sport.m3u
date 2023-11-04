@@ -1880,40 +1880,4 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
 =========================================================
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/6YbSnUc.png", Nova Sport1 CZ
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Qm1iEVJrS_KaDrAhuCHkRA","k":"JdHXr42IGfLPcXyOTGGN3w"}]}
-https://m7czvideolive2.solocoo.tv/blueskyskylinklivedash/bluenovasport1/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/6YbSnUc.png", Sport1 CZ
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ekiHn7ZGT2iR_QkUGoqfFg","k":"9V1k0TpiM2ai668-ioBGmQ"}]}
-https://m7czvideolive2.solocoo.tv/blueskyskylinklivedash/bluesport1cz/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/6YbSnUc.png", Canal + Sport PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TpQrHa2SQ2uq0MamkB9tEw","k":"Wt79s_Tt1c7uI9N8EMN-XA"},{"kty":"oct","kid":"X7klddfaRSGemohkbNPiQw","k":"MdHx35wkbrc03hvg9r9qzw"},{"kty":"oct","kid":"fNab7RzFTYO9f5iPYiwRVw","k":"My4KhWzfzXodbabc-EYzpw"}]}
-https://opl-n02.cdn-ncplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/6YbSnUc.png", Canal + Sport 2 PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"T3-p8CUKQ86orr2BZ_H8gQ","k":"9rvHg7DnpGoUfmc6Q0dzCg"},{"kty":"oct","kid":"9cCAUX9sQ2axkwMVpqpw5w","k":"WB66cEUlTR3gNlV3iZMqBQ"},{"kty":"oct","kid":"iXh_7LCsQ6uGqjVgVOKhgw","k":"8BU8bcXFXF8j_N7tgkHV5A"}]}
-https://opl-n02.cdn-ncplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/6YbSnUc.png", Canal + Sport 3 PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"J0yvxj6FT5yhSsvEmvEDoA","k":"TcY_903FQV88DGO2L4_tqg"},{"kty":"oct","kid":"tCdOW9t-Q3C7h69gmnSmTg","k":"R2PL0vom9N6L6tItsJsPRg"},{"kty":"oct","kid":"AJ0epGNXR5Gojl0Aj3qxXA","k":"-kgSvQ1gjC-L_rAvshMyDQ"}]}
-https://opl-n02.cdn-ncplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
