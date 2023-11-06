@@ -1852,4 +1852,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
 
+#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Star+
+#EXTGRP:Test
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/11/06/Tottenham_Hotspur_vs_Chel_20231106_1699294803053/cmaf-cenc-ctr-7000K/7000_complete.m3u8
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
