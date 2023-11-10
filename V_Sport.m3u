@@ -1961,4 +1961,45 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
 http://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportspremierleague50)/manifest_hdplus.mpd
 
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="Sports" tvg-logo="https://i.postimg.cc/02wyQBYm/20230118-165459.png", K+ Sport 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7ImnXtmtxOTHZwcHkBWXhg", "kid":"Kggglwkxt/hRN9o3+fYc2Q" } ], "type":"temporary" }
+https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
+
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="Sports" tvg-logo="https://i.postimg.cc/02wyQBYm/20230118-165459.png", K+ Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
+http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
+
+#EXTINF:-1 tvg-id="VSportPremium.se" group-title="Sports" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="VSportExtra.se" group-title="Sports" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Xtra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_viasat_sport_extra_se_hd_live/cd_tsat_viasat_sport_extra_se_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="VSportFootball.se" group-title="Sports" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="VSport1Sweden.se" group-title="Sports" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sportkanalen.se" group-title="Sports" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", Sport Kanalen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qeDs6mQJWcauyQSh80k0pQ","k":"KE6o5foN5LyQwXwhFI296g"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd
+
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
