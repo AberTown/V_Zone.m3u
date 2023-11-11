@@ -1985,8 +1985,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 ======================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d3f858919234691b2f74cc3938e016d:45d7bc4ef2856367c1b96ecbc5ba1e83
-#EXTINF:-1 tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png", group-title="Test", USA Network
-#https://images261-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=http://p-cdn4-b-cg14-linear-cbd46b77.movetv.com/clipslist/633/20231111T080000Z/20231111T090000Z/spanning_ads.mpd
+#KODIPROP:inputstream.adaptive.license_key=aa4a4c3ef23242f589c084864163e071:00d154e1f39b06f2f03b0ce1f6848d54
+#EXTINF:-1 tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png", group-title="USA Network", USA Network (VPN)
+http://p-cdn4-b-cg14-linear-cbd46b77.movetv.com/clipslist/633/20231111T123000Z/20231111T143000Z/spanning_ads.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
