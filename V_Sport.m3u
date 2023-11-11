@@ -1916,6 +1916,13 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
+==============================================USA Natwork (VPN)============================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d3f858919234691b2f74cc3938e016d:45d7bc4ef2856367c1b96ecbc5ba1e83
+#EXTINF:-1 tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png", group-title="USA Network", USA Network (VPN)
+http://p-cdn4-b-cg14-linear-cbd46b77.movetv.com/clipslist/633/20231111T080000Z/20231111T090000Z/spanning_ads.mpd
+
 =============================================Live Events + ================================================================
 
 #EXTINF:-1 tvg-id="805" group-title="1 - 12.30 Wolves v Tottenham" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
@@ -1976,18 +1983,10 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
 
 ======================================================
-#https://images261-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=http://p-cdn4-b-cg14-linear-cbd46b77.movetv.com/clipslist/633/20231111T070100Z/20231111T080000Z/spanning_ads.mpd
-#AAADMnBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAxISAwAAAQABAAgDPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwATABBAF8AVQBSAEwAPgBoAHQAdABwADoALwAvAHAALQBwAGwAYQB5AHIAZQBhAGQAeQAuAG0AbwB2AGUAdAB2AC4AYwBvAG0ALwBwAGwAYQB5AHIAZQBhAGQAeQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwATABVAEkAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAAtAHAAbABhAHkAcgBlAGEAZAB5AC4AbQBvAHYAZQB0AHYALgBjAG8AbQAvAGwAbwBnAGkAbgAuAGEAcwBwAHgAPAAvAEwAVQBJAF8AVQBSAEwAPgA8AEsASQBEAD4AaQBZAFUALwBMAFMATQBaAGsAVQBhAHkAOQAwAHoARABrADQANABCAGIAUQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBVAGIARABtADIAZQBMAEcATgBlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d3f858919234691b2f74cc3938e016d:45d7bc4ef2856367c1b96ecbc5ba1e83
 #EXTINF:-1 tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png", group-title="Test", USA Network
 https://images261-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=http://p-cdn4-b-cg14-linear-cbd46b77.movetv.com/clipslist/633/20231111T080000Z/20231111T090000Z/spanning_ads.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d3f858919234691b2f74cc3938e016d:45d7bc4ef2856367c1b96ecbc5ba1e83
-#EXTINF:-1 tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png", group-title="USA Network", USA Network (VPN)
-http://p-cdn4-b-cg14-linear-cbd46b77.movetv.com/clipslist/633/20231111T080000Z/20231111T090000Z/spanning_ads.mpd
-
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
