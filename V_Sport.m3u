@@ -1972,13 +1972,6 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="3 - 15.00 Crystal Palace v Everton", Event EPL 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
-https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",Optus Sport 5
 #EXTGRP:3 - 15.00 Crystal Palace v Everton
 https://mcdn.mrgamingstreams.com/mrgamingsoccer3.m3u8
@@ -1995,9 +1988,5 @@ https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3d
 
 ======================================================
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa4a4c3ef23242f589c084864163e071:00d154e1f39b06f2f03b0ce1f6848d54
-#EXTINF:-1 tvg-logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png", group-title="USA Network", USA Network (VPN)
-http://p-cdn4-b-cg14-linear-cbd46b77.movetv.com/clipslist/633/20231111T080000Z/20231111T090000Z/spanning_ads.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
