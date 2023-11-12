@@ -1935,6 +1935,31 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9989
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="#🇮🇩CHAMPION TV🇮🇩#", Event EPL 1
+#https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c188d54b1b585a24c52bdbba5c3f031:2f5c37a723b9c879ec5bbe43cb34c8a3
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="#🇮🇩CHAMPION TV🇮🇩#", Event EPL 2
+#https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="#🇮🇩CHAMPION TV🇮🇩#", Event EPL 3
+#https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
+
+#EXTINF:-1 group-title="8 - 14.00 Liverpool v Brentford" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
+
+#EXTINF:-1 group-title="10 - 16.30 Chelsea v Manchester City" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
+
 ======================================================
 
 
