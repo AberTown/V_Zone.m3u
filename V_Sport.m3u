@@ -558,13 +558,13 @@ KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMU
 ================================Viasport==============================================================================
 
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450"  group-title="V Sport", V Sports Premium
+#EXTINF:-1 tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450"  group-title="Scandinavia Sports", SE - V Sports Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
 https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sports Premium
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", SE- V Sports Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
@@ -573,74 +573,79 @@ https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_v
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", SE - Viaplay
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#EXTINF:-1 tvg-logo="https://www.nentsportbooking.com/static/media/viaplay_login_logo.4516c08b.png", group-title="V Sport", Viaplay SE
+#EXTINF:-1 tvg-logo="https://www.nentsportbooking.com/static/media/viaplay_login_logo.4516c08b.png", group-title="Scandinavia Sports", SE - Viaplay
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/1RqYYbUFBvj7x8ASNJYASa/d29110836f11a8709336fbfc912ebb63/VSport_Extra_new_CMYK_pos.svg?fm=webp&w=450", V Sports Xtra
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/1RqYYbUFBvj7x8ASNJYASa/d29110836f11a8709336fbfc912ebb63/VSport_Extra_new_CMYK_pos.svg?fm=webp&w=450", SE - V Sports Xtra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/1RqYYbUFBvj7x8ASNJYASa/d29110836f11a8709336fbfc912ebb63/VSport_Extra_new_CMYK_pos.svg?fm=webp&w=450", V Sports Xtra
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/1RqYYbUFBvj7x8ASNJYASa/d29110836f11a8709336fbfc912ebb63/VSport_Extra_new_CMYK_pos.svg?fm=webp&w=450", SE - V Sports Xtra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/1RqYYbUFBvj7x8ASNJYASa/d29110836f11a8709336fbfc912ebb63/VSport_Extra_new_CMYK_pos.svg?fm=webp&w=450", V Sports Xtra
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/1RqYYbUFBvj7x8ASNJYASa/d29110836f11a8709336fbfc912ebb63/VSport_Extra_new_CMYK_pos.svg?fm=webp&w=450", SE - V Sports Xtra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
 https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_viasat_sport_extra_se_hd_live/cd_tsat_viasat_sport_extra_se_hd_live.isml/playlist.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports Football
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", SE - V Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
 https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports Football
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", SE - V Sports Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zjfiA3TlW-a7TSaDevJ2BQ","k":"UsxTL3SPy_K4BtrUKJv4TA"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports Football
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", SE - V Sports Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports 1
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", SE - V Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports 1
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", SE - V Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="V Sport" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/1RqYYbUFBvj7x8ASNJYASa/d29110836f11a8709336fbfc912ebb63/VSport_Extra_new_CMYK_pos.svg?fm=webp&w=450", V Sport Kanalen
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/1RqYYbUFBvj7x8ASNJYASa/d29110836f11a8709336fbfc912ebb63/VSport_Extra_new_CMYK_pos.svg?fm=webp&w=450", SE - V Sport Kanalen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qeDs6mQJWcauyQSh80k0pQ","k":"KE6o5foN5LyQwXwhFI296g"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F641%2Fv-sport-jalkapallo-1.png" group-title="Scandinavia Sports", FI - V Sport Jalkapallo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_viasat_jalkapallo_hd_live.isml/playlist.mpd
 
 =======================================================
 
@@ -648,7 +653,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d46
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "kid": "u0t47zl2RuOuXxO9sj1W7Q", "k": "wSR6lCxxJkQ6kyFMZ0Mf6A"}]}
-#EXTINF:-1 group-title="Ziggo Sport" tvg-id="ziggosportgolf.nl" tvg-logo="https://kickboksers.nl/wp-content/uploads/2018/07/ZIGGO-SPORT-grey.png",Ziggo Sports Golf
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-id="ziggosportgolf.nl" tvg-logo="https://kickboksers.nl/wp-content/uploads/2018/07/ZIGGO-SPORT-grey.png",Ziggo Sports Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
 
@@ -1357,7 +1362,7 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(72189-FXDEPHD)/manifest.
 #KODIPROP:inputstream.adaptive.license_key={"40d74ba9d7b35e2cb7865012adcd2e0b":"950c6078f8fdb95d8b2451e009ecc4de","d8014a9a63e15f6abf7388de45ef7e02":"1d5efa0575fc67e8c8b0ec3edc0acba7","e48455eeaeeb50ec932d208e44012e4f":"2a2e6be1ff1dda385a7db6dc0accfc6e"}
 https://tvup-live.secure.footprint.net/goltv/goltv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,ZIGGO VOETBAL
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,ZIGGO VOETBAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1369,20 +1374,20 @@ https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/w
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="Ziggo Sport", Ziggo Select
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="Scandinavia Sports", Ziggo Select
 https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000094_019321/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="Ziggo Sport", Ziggo Docu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="Scandinavia Sports", Ziggo Docu
 https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000098_019255/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b18766306c8b4446a7431f3664976a5e:064cf3223b9c2bdda24e9f89bf28a6d2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="Ziggo Sport", Ziggo ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="Scandinavia Sports", Ziggo ESPN
 https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000107_019441/manifest.mpd
 
-#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,ZIGGO SPORT
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" ,ZIGGO SPORT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1670,40 +1675,40 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c020ccd5e9dc7b0d40e0da996e3d9c7:f91af4dab54e9c027d21f4d78abb7a75
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Norway Sport" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1582.png",TV2 Sport1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Scandinavia Sports" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1582.png",TV2 Sport1
 https://rikstv-live2.telenorcdn.net/rikstv/1468/2/dash/TV2_Sport_1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6932f68ee603c69b1bbeff9cb11d23fb:ad518d9d047e077654ab073d643cd270
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Norway Sport" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tv-2-sport-2-1583.png",TV2 Sport2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Scandinavia Sports" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tv-2-sport-2-1583.png",TV2 Sport2
 https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00d8116805ab3578aa98cde9e79ba60d:7ab22ba5e8cb8c4d67f666f1b703189f
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Norway Sport" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tv-2-sport-2-1583.png",TV2 Sport X
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Scandinavia Sports" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tv-2-sport-2-1583.png",TV2 Sport X
 https://tv2-play-ew-aws-arn-dash-a.akamaized.net/__cl/cg:live/__c/tv2_sport_x/__op/cenc/__f/single.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
-#EXTINF:-1 group-title="Norway Sport" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 1 NO 
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 1 NO 
 https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
-#EXTINF:-1 group-title="Norway Sport" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 2 NO 
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 2 NO 
 https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
-#EXTINF:-1 group-title="Norway Sport" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 3 NO 
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 3 NO 
 https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd 
 
-#EXTINF:-1 group-title="MTV Urheilo Finland"  tvg-logo="https://upload.wikimedia.org/wikipedia/fi/a/a6/MTV_Sport.png",MTV Urheilo 1
+#EXTINF:-1 group-title="Scandinavia Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/fi/a/a6/MTV_Sport.png",MTV Urheilo 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cf725ed7c2a4acb99d9028564608b37:0b81472f439628c2f23c639725d3db3e
 https://mtv-c-liveusp-b.akamaized.net/live/TELIA_MAXSPORT1/TELIA_MAXSPORT1.isml/MAXSPORT1.mpd
 
-#EXTINF:-1 group-title="MTV Urheilo Finland"  tvg-logo="https://upload.wikimedia.org/wikipedia/fi/a/a6/MTV_Sport.png",MTV Urheilo 2
+#EXTINF:-1 group-title="Scandinavia Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/fi/a/a6/MTV_Sport.png",MTV Urheilo 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5cf725ed7c2a4acb99d9028564608b37:0b81472f439628c2f23c639725d3db3e
 https://mtv-c-liveusp-b.akamaized.net/live/TELIA_MAXSPORT2/TELIA_MAXSPORT2.isml/MAXSPORT2.mpd
@@ -1875,22 +1880,5 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 =============================================Live Events + ================================================================
 
-
-======================================================
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F641%2Fv-sport-jalkapallo-1.png" group-title="Test", V Sport Jalkapallo HD1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_viasat_jalkapallo_hd_live.isml/playlist.mpd
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F641%2Fv-sport-jalkapallo-1.png" group-title="Test", V Sport Jalkapallo HD2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:9ba98f85ff3f44798c183f92711697e4
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_viasat_jalkapallo_hd_live.isml/playlist.mpd
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F641%2Fv-sport-jalkapallo-1.png" group-title="Test", V Sport Jalkapallo HD3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a04f07998404286ab92e65be0885f95:2b4d8fa06ec3b6f47d3ae30dd4ddbba9
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_viasat_jalkapallo_hd_live.isml/playlist.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
