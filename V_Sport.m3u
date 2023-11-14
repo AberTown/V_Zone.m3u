@@ -653,6 +653,12 @@ https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_v
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
 https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_fi_live/cdgo_viasat_sport_fi_live.isml/playlist.mpd
 
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6JWr6g1S5djCpZ40Imo0ZQ/57f0882ba283d2cc605e0cccc227e4c0/v-sport-golf.png" group-title="Scandinavia Sports", FI - V Sport Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_golf_live/cdgo_viasat_golf_live.isml/playlist.mpd
+
 =======================================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1838,7 +1844,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 =============================================Live Events + ================================================================
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/Visio/Vsportplus_Suomi_Vert_pos.png" group-title="Test", FI - V Sport Golf
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6JWr6g1S5djCpZ40Imo0ZQ/57f0882ba283d2cc605e0cccc227e4c0/v-sport-golf.png" group-title="Test", FI - V Sport Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
 https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_golf_live/cdgo_viasat_golf_live.isml/playlist.mpd
