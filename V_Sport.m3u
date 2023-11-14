@@ -1887,4 +1887,9 @@ https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_v
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:9ba98f85ff3f44798c183f92711697e4
 https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_viasat_jalkapallo_hd_live.isml/playlist.mpd
 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F641%2Fv-sport-jalkapallo-1.png" group-title="Test", V Sport Jalkapallo HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=9a04f07998404286ab92e65be0885f95:2b4d8fa06ec3b6f47d3ae30dd4ddbba9
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_jalkapallo_hd_live/cdgo_viasat_jalkapallo_hd_live.isml/playlist.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
