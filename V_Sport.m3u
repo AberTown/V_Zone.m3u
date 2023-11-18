@@ -1945,4 +1945,19 @@ https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports2/hd2-dashdrm02/11S
 #KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
 https://edge-vod04-sl.cvattv.com.ar/live/c3eds/FoxSports1HD/SA_Live_dash_enc_2A/FoxSports1HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=Clearkeys
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-1-no.png" group-title="IPTV",03. VIASAT 1
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=Clearkeys
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-live-2.svg" group-title="IPTV",04. VIASAT 2
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=Clearkeys
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#EXTINF:0 tvg-id="" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_live3" group-title="IPTV",05. VIASAT 3
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
