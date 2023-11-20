@@ -2,59 +2,47 @@
 #EXTM3U url-tvg="https://www.dropbox.com/s/n4pbocq9fmwkbc3/cepgepg.xml?dl=1"
 
 ================================V Sport EPL==========================================
-#EXTINF:-1 group-title="1 - 12.30 Wolves v Tottenham" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
+#EXTINF:-1 group-title="1 - 12.30 Manchester City v Liverpool" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+
+#EXTINF:-1 group-title="2 - 15.00 Newcastle Utd v Chelsea" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+
+#EXTINF:-1 group-title="7 - 17.30 Brentford v Arsenal" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
-#EXTINF:-1 group-title="2 - 15.00 Arsenal v Burnley" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
+#EXTINF:-1 group-title="8 - 14.00 Tottenham v Aston Villa" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
-#EXTINF:-1 group-title="5 - 17.30 Bournemouth v Newcastle Utd" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
+#EXTINF:-1 group-title="9 - 16.30 Everton v Manchester Utd" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
-#EXTINF:-1 group-title="8 - 14.00 Liverpool v Brentford" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
+#EXTINF:-1 group-title="10 - 20.00 Fulham v Wolves" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
-
-#EXTINF:-1 group-title="10 - 16.30 Chelsea v Manchester City" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
-
-#EXTINF:-1 group-title="8 - 14.00 Liverpool v Brentford" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sports Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-#https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="10 - 16.30 Chelsea v Manchester City" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sports Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-#https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="10 - 20.00 Tottenham v Chelsea" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #EXTINF:-1 group-title="10 - 20.00 Tottenham v Fulham" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -63,12 +51,12 @@
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
-#EXTINF:-1 group-title="4 - 15.00 Manchester Utd v Luton" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
+#EXTINF:-1 group-title="2 - 15.00 Burnley v West Ham Utd" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zjfiA3TlW-a7TSaDevJ2BQ","k":"UsxTL3SPy_K4BtrUKJv4TA"}]}
-#https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
 #EXTINF:-1 group-title="6 - 14.00 Aston Villa v Fulham" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -91,12 +79,12 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 #https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="3 - 15.00 Crystal Palace v Everton" tvg-logo=-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra SE
+#EXTINF:-1 group-title="3 - 15.00 Luton v Crystal Palace" tvg-logo=-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
-#https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 #EXTINF:-1 group-title="9 - 14.00 West Ham Utd v Nottingham Forest" tvg-logo=-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
