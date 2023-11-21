@@ -1871,4 +1871,11 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls13/ajb.mpd
 
+#EXTINF:-1 group-title="Test" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Eleven Sports PL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5b1e9d4c5a17582884b280ce45c0767d":"c6e71a11ed51b5df35aff8df8bd86ca1","4cc5e4ff84d35545a6fddf62e998faf1":"5d204b94e2ffd9074534d2c754cea5c6","153512a6df715d37a9c253b568b4d971":"1d58ee91e0dd18bc756ccb50225ba3a8"}
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
