@@ -1861,21 +1861,18 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6kuWs0cmdAWxHEXRUzBnCV/66ebe4b88d1a276ba495ac98befcd2b7/v-sport-1.png" group-title="Test", Eleven Sport 1 PL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a04f07998404286ab92e65be0885f95:2b4d8fa06ec3b6f47d3ae30dd4ddbba9
+#KODIPROP:inputstream.adaptive.license_key=014e7cf40d9e490a812964f4aa72449e: 01b8caafb230eb2a07cc965d54ef4441
 #https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls13/ajb.mpd
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6kuWs0cmdAWxHEXRUzBnCV/66ebe4b88d1a276ba495ac98befcd2b7/v-sport-1.png" group-title="Test", Eleven Sport 1 PL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d042fa273964e24a9109e23f4e313cc: 540e3601e1b82192c76c7411ad9c8c8e
+#https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Eleven Sports PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=pwwNB0OaHiTWSwDV+mS09a7syZZjIjIMgS9l2gc2KcEdBKjvgAXHu1V4SLx4P8pmbCOBqHnu+NmsIH5ma4kujjgAFIcoxnGdIqW10+AfAyc3t5f5dJmEPV8G9cvku2mP3Z5cbVL/nZQSPBEJHyKRQ7ExDIqaWBz26ZIXHluWUP/lvvjksCbUgs/cNjgV2VchYDxrx5Ic6dU9AKtvt59REHt3NZafCRTSGgM7HTk5nt1eSAwGjVTbYCJMa2ZgMJZiQlD3FEX1MwjxE1woPWcSjsC6kZccVbaXeI/n6EDwlIOM0qakrMl6wK6oMR1PXPDfZ0S0Ad+S0p0KXSk31Vs3XS9hkCEN68Mx8SMyJ/iXi94=","startdate":1700550531,"type":"DASH"}
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6kuWs0cmdAWxHEXRUzBnCV/66ebe4b88d1a276ba495ac98befcd2b7/v-sport-1.png" group-title="Test", Eleven Sport 1 PL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=801d9e39d41a49418615f7cee4b6e031:84b9bec014f0509ee2a4296e5877cf40
+#https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
+
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
