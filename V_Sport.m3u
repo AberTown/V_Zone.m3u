@@ -1854,4 +1854,56 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 #KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
+==================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XlpE5rpGAhwSfEtoNYhYBw", "kid": "pSdXI8lMR2qrjjTQR4VWMA"}], "type": "temporary"}
+#EXTINF:-1 group-title="Sports;International" tvg-id="kplussport1.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWZ97OpavzPhc_Hca9gvGQ6TYL6sx2e9GtONWig=s900-c-k-c0x00ffffff-no-rj",K+ Sport 1
+http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "VOO7hRkYHjke00zEoKVlVw", "kid": "/1G2wwGYROGJv+Wmo8pT1w"}], "type": "temporary"}
+#EXTINF:-1 group-title="Sports;International" tvg-id="kplussport2.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWZ97OpavzPhc_Hca9gvGQ6TYL6sx2e9GtONWig=s900-c-k-c0x00ffffff-no-rj",K+ Sport 2
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6299
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png",beIN Sports Indonesia 1
+https://mooncang.my.id/api/vidio/ch.mpd?id=6299&code=bein-1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6317
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png",beIN Sports Indonesia 3
+https://mooncang.my.id/api/vidio/ch.mpd?id=6317&code=bein-3
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png",beIN Sports Malaysia 1
+https://mooncang.my.id/api/astro/ch.mpd?id=408
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png",beIN Sports Malaysia 2
+https://mooncang.my.id/api/astro/ch.mpd?id=5066
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png",beIN Sports Malaysia 3
+https://mooncang.my.id/api/astro/ch.mpd?id=2705
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6786
+#EXTINF:-1 group-title="Sports" tvg-id="championstv3.id" tvg-logo="https://i.imgur.com/xVwVIj6.png",Champions TV 3
+https://mooncang.my.id/api/vidio/ch.mpd?id=6786&code=champions-tv-3
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9182
+#EXTINF:-1 group-title="Sports" tvg-id="championstv5.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png/revision/latest?cb=20220810080805",Champions TV 5
+https://mooncang.my.id/api/vidio/ch.mpd?id=9182&code=champions-tv-5
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
+#EXTINF:-1 group-title="Sports" tvg-id="championstv6.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Champions_TV_6.png/revision/latest?cb=20220810081421",Champions TV 6
+https://mooncang.my.id/api/vidio/ch.mpd?id=9183&code=champions-tv-6
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
