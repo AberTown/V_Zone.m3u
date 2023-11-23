@@ -1897,12 +1897,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 
 ==================================
 
-#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%201%20HD.png",K+SPORT1 HD
+#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd" group-title="Test" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%201%20HD.png",K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4CUAbzdvHspsMy1ZHTdr/Q", "kid":"iof/eF7cT7yoNgjBaGRlNA" } ], "type":"temporary" }
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
-#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%202%20HD.png",K+SPORT2 HD
+#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd" group-title="Test" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%202%20HD.png",K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4PrWoTuIHEg7gKtZ7XdF3A", "kid":"3UPJaQewRDuGEP52SQYVyQ" } ], "type":"temporary" }
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
