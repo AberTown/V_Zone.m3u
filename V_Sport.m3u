@@ -1916,11 +1916,22 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.m
 #EXTINF:-1 tvg-name="Astrosupersport" ch-number="795" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="6 - 15.00 Sheffield Utd v Bournemouth" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro Go Live Event 4 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="#🇮🇩CHAMPION TV🇮🇩#", Event EPL 1
+#https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c188d54b1b585a24c52bdbba5c3f031:2f5c37a723b9c879ec5bbe43cb34c8a3
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="#🇮🇩CHAMPION TV🇮🇩#", Event EPL 2
+#https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
+#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="#🇮🇩CHAMPION TV🇮🇩#", Event EPL 3
+#https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
+
 ==================================
 
-#EXTINF:-1 group-title="TES",SKY SPORT F1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003e68c20290ea35eec1e3bceafa5b5bc799e40dd3e4e3257d746ebc036c992
-https://linear004-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsf150)/manifest_hd.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
