@@ -1918,17 +1918,18 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 ==================================
 
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="Sports" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport 1 
+#EXTINF:0  group-title="💚SPORT ASEAN" logo="http://live.bep40.shop/b4tv1.png", B41_SPORT🇻🇳 PLAY+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7ImnXtmtxOTHZwcHkBWXhg", "kid":"Kggglwkxt/hRN9o3+fYc2Q" } ], "type":"temporary" }
+https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚SPORT ASEAN"  logo="http://live.bep40.shop/b4tv1.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", B41_SPORT🇻🇳 360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd
-
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="Sports" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd
+http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=1679405479~acl=/*~hmac=ede08a28f01588514705d06a50200e65d52b78c7b432583437206d7cd381c30a&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
