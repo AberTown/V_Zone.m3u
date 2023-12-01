@@ -1969,12 +1969,10 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 ==================================
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", NO - V Sport +
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
-https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_fi_live/cdgo_viasat_sport_fi_live.isml/playlist.mpd
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="Test", TV4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+https://aws-appeartv-cdn.rikstv.no/rikstv/194/2/dash/TV4/manifest.mpd
 
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
