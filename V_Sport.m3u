@@ -1989,6 +1989,11 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 ==================================
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Match%21_Futbol_3_Stacked.svg/revision/latest?cb=20221006124425" group-title="Match Sport RU", Match Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5af547ae2dee032b9f0a8d165b03dc37:6c840f523c773f979496228d8b44c028
+https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
