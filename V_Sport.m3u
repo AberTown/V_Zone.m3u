@@ -1932,6 +1932,30 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
+#EXTINF:-1 group-title="Star Hub" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 1 (1080p) 
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5157.ts
+
+#EXTINF:-1 group-title="Star Hub" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 2 (1080p) 
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5158.ts
+
+#EXTINF:-1 group-title="Star Hub" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 3 (1080p) 
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5159.ts
+
+#EXTINF:-1 group-title="Star Hub" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 4 (1080p) 
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5160.ts
+
+#EXTINF:-1 group-title="Star Hub" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 5 (1080p) 
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5161.ts
+
+#EXTINF:-1 group-title="Star Hub" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 6 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5162.ts
+
+#EXTINF:-1 group-title="Star Hub" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 7 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5163.ts
+
+#EXTINF:-1 group-title="Star Hub" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 8 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5164.ts
+
 =============================================Live Events + ================================================================
 
 #EXTINF:-1 tvg-id="805" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="5 - 20.00 Newcastle Utd v Manchester Utd" ch-number="805" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", Astro SuperSport UHD
