@@ -30,19 +30,19 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 group-title="5 - 20.00 Newcastle Utd v Manchester Utd" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
+#EXTINF:-1 group-title="10 - 20.15 Tottenham v West Ham Utd" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
-#EXTINF:-1 group-title="5 - 20.00 Newcastle Utd v Manchester Utd" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", SE - V Sport Premium
+#EXTINF:-1 group-title="10 - 20.15 Tottenham v West Ham Utd" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", SE - V Sport Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-#https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 group-title="8 - 14.00 Liverpool v Fulham" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -94,6 +94,13 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
 #EXTINF:-1 group-title="1 - 19.30 Wolves v Burnley" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+
+#EXTINF:-1 group-title="9 - 19.30 Everton v Newcastle Utd" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
