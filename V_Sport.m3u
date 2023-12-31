@@ -2170,10 +2170,25 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
 #https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
 
-#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg",Canal+ Sport
+#EXTINF:-1 group-title="Canal+ Premier League - VPN" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",Canal+ Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e942b1dad92436baad0c6a6901f6d13:5fb92575d7da45219e9a88646cd3e243
+#KODIPROP:inputstream.adaptive.license_key=4e942b1dad92436baad0c6a6901f6d13:5adefdb3f4edd5ceee23d37c10c37e5c
 https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
+
+#EXTINF:-1 group-title="Canal+ Premier League - VPN" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",Canal+ Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fb92575d7da45219e9a88646cd3e243:31d1f1df9c246eb734de1be0f6bf6acf
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
+
+#EXTINF:-1 group-title="Canal+ Premier League - VPN" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",Canal+ Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cd69bed1cc54d83bd7f988f622c1157:332e0a856cdfcd7a1d6da6dcf84633a7
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
+
+#EXTINF:-1 group-title="Canal+ Premier League - VPN" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",Canal+ Premier League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO1_xwiBVgxsFW1VLUSblg","kid":"FSPw24h3TYWKVGfggW4uzQ"},{"kty":"oct","k":"SY_JiB5rVYxSUVAMhtZvig","kid":"OeOfss-DRNCBW6uvmNoSSQ"},{"kty":"oct","k":"BGP3Qkv84e_XvG04p11_Sg","kid":"c9cIHr6ZQHC-mxxMzMzBvw"},{"kty":"oct","k":"o-Cyb0Ocy8EbaLyMPDFAzw","kid":"zxRISkhWRku_s4OErn8c8g"}],"type":"temporary"}
+https://hls-m006-live-aka-canalplus.akamaized.net/__token__exp%3D1701832695~acl%3D%2Flive%2Fdisk%2Fcanalpluspremierleague-hd%2F*~id%3D4c42f9e4-d743-4d3e-9e27-16afaade26e4~hmac%3Dff32a03a0bde61f0fd9ca786131fc271c01a15b468f4be026ce1375a8382a2cc/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
 
 =============================================Live Events + ================================================================
 #EXTINF:-1 group-title="1 - 12.30 Luton v Chelsea" tvg-id="" tvg-name="EPL TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/ADccuVLRN9T0yU12s2oZ9BWg91w=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5
