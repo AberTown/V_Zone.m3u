@@ -1714,17 +1714,7 @@ https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
 #EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 3 
-https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd 
-
-#EXTINF:-1 group-title="Scandinavia Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/fi/a/a6/MTV_Sport.png",FI - MTV Urheilo 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cf725ed7c2a4acb99d9028564608b37:0b81472f439628c2f23c639725d3db3e
-https://mtv-c-liveusp-b.akamaized.net/live/TELIA_MAXSPORT1/TELIA_MAXSPORT1.isml/MAXSPORT1.mpd
-
-#EXTINF:-1 group-title="Scandinavia Sports"  tvg-logo="https://upload.wikimedia.org/wikipedia/fi/a/a6/MTV_Sport.png",FI - MTV Urheilo 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cf725ed7c2a4acb99d9028564608b37:0b81472f439628c2f23c639725d3db3e
-https://mtv-c-liveusp-b.akamaized.net/live/TELIA_MAXSPORT2/TELIA_MAXSPORT2.isml/MAXSPORT2.mpd
+https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NL - ESPN HD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="Scandinavia Sports",ESPN 1 NL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
