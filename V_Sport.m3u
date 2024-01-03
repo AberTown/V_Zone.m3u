@@ -2156,18 +2156,23 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fb92575d7da45219e9a88646cd3e243:31d1f1df9c246eb734de1be0f6bf6acf
-#KODIPROP:inputstream.adaptive.license_key=7cd69bed1cc54d83bd7f988f622c1157:332e0a856cdfcd7a1d6da6dcf84633a7
-#KODIPROP:inputstream.adaptive.license_key=7c35f5ae279941b7be726157476d7031:53dcc0a61387ce3fa3bfa290a9bc80c7
-#KODIPROP:inputstream.adaptive.license_key=4e942b1dad92436baad0c6a6901f6d13:5adefdb3f4edd5ceee23d37c10c37e5c
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=4e1df327c661472f96319dd7e98bf5bd:36263f85c3c25a131f47cee90924e1f3
+#KODIPROP:inputstream.adaptive.license_key=71be6f968ab54a8bb847b58bbc7c628e:3dd907fffdbffd7ec01b4025ad97ec6a
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
 
 #EXTINF:-1 group-title="Canal+ Premier League - VPN" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",Canal+ Sport
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e942b1dad92436baad0c6a6901f6d13:5adefdb3f4edd5ceee23d37c10c37e5c
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=4e1df327c661472f96319dd7e98bf5bd:36263f85c3c25a131f47cee90924e1f3
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
+
+#EXTINF:-1 group-title="Canal+ Premier League - VPN" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",Canal+ Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71be6f968ab54a8bb847b58bbc7c628e:3dd907fffdbffd7ec01b4025ad97ec6a
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
 
 #EXTINF:-1 group-title="Canal+ Premier League - VPN" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",Canal+ Premier League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
