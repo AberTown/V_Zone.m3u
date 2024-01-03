@@ -1710,7 +1710,7 @@ https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
-#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 1 NO 
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 1
 https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2443,5 +2443,89 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
 
 ====================================================================================
+
+==========================FA Cup==================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", Crystal Palace v Everton
+https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", Tottenham v Burnley
+https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", Sunderland v Newcastle Utd
+https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", QPR v Bournemouth
+https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", Middlesborough v Aston Villa
+https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", Manchester City v Huddersfield
+https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", Brentford v Wolves
+https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", Wimbledon v Ipswich
+https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", Stoke v Brighton
+https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", Chelsea v Preston
+https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", West Ham Utd v Bristol City
+https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", Fulham v Rotherham 
+https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", Millwall v Leicester 
+https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", Gillingham v Sheffield Utd 
+https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", Sheffield Wed v Cardiff 
+https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
+#EXTINF:-1 group-title="FA Cup 3rd Round" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", Nottingham Forest v Blackpool 
+https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
+
+===================================================================================
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
