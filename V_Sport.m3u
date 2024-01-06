@@ -2088,6 +2088,12 @@ https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
 https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 
 ==================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
+#EXTINF:-1 tvg-id="ts24" group-title="Tata Sky - VPN" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/tencricket-final.jpg" ,Ten Cricket
+https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U3876+ousu0yr1dJkBJIFw", "kid":"ap5CBPP4V36/bnmzsYVz+A"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts24" group-title="Tata Sky - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" ,Star Sports 1 Hindi HD
