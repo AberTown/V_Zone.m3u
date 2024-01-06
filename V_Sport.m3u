@@ -593,6 +593,15 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d46
 #KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
 #https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_golf_live/cdgo_viasat_golf_live.isml/playlist.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Scandinavia Sports", NO - V Sport Premier League
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001371&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Scandinavia Sports", NO - V Sport Premier 1 |Only Event|
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001370&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Scandinavia Sports", NO - V Sport Premier 2 |Only Event|
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001369&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Scandinavia Sports", NO - V Sport Premier 3 |Only Event|
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001368&extension=m3u8
+
 =======================================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
