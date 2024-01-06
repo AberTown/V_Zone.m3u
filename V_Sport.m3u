@@ -2723,4 +2723,14 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f
 
 ===================================================================================
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="Test", ITV1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd55e22f9bf46a0bb543ae9a0d7fd24:06153ec0f57fce3444b29e0f1a3534fa
+https://csm-e-ceitvaeuw1live208-047dd0b3b465fb8ba.play.dar.itv.com/csm/live/248438629/1.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="Test", ITV1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd55e22f9bf46a0bb543ae9a0d7fd24:06153ec0f57fce3444b29e0f1a3534fa
+https://csm-e-ceitvaeuw1live208-047dd0b3b465fb8ba.play.dar.itv.com/csm/live/248438629/1.mpd;jsessionid=B93C6F1D196548D4DFF41524FC5A7683.csm-e-ceitvaeuw1live208-047dd0b3b465fb8ba.play.dar.itv.com?source=simulcast&size=pattern&supertag=dflt,sim&hmod=120.0.0.0&service=itv.x&generic=0dbc2878-86f2-4bb0-92c1-5c9bec3405a9&pv=browser.4.1&player=html5.desktop&yo.ap=https%3A%2F%2Fdar-itv1simadotcom.itv.com%2Fprdsda%2F&default=defaultpattern&vfunapod=true&yo.up=https%3A%2F%2Fdar-itv1simadotcom.itv.com%2Fplayout%2Fpc01%2Fitv1%2Fcenc.isml%2F&hdnea=st=1704542405~exp=1704564005~acl=/*~data=nohubplus~hmac=491f09d5db9a296808f941854078f3292ef40362f804553f6241b61e6050c570&tppm=x&pm=free&random=3020054891&yo.eb.fb=aHR0cHM6Ly9pdHYxc2ltYWRvdGNvbS5pdHYuY29tL3BsYXlvdXQvcGMwMS9pdHYxL2NlbmMtbm9kYXIuaXNtbC8ubXBkP2hkbmVhPXN0PTE3MDQ1NDI0MDV%2BZXhwPTE3MDQ1NjQwMDV%2BYWNsPS8qfmRhdGE9bm9odWJwbHVzfmhtYWM9NDkxZjA5ZDVkYjlhMjk2ODA4Zjk0MTg1NDA3OGYzMjkyZWY0MDM2MmY4MDQ1NTNmNjI0MWI2MWU2MDUwYzU3MA%3D%3D&area=itvplayer.simulcast.simadreplacement&rh=x&yo.br=false&subserv=x&us=ano&site=itv&osver=10&conttier=x&chanbrand=itv1&os=windows&yo.tracking=true&plfcid=simadreplacement&plist=simadreplacement&yo.ad=false&yo.ch=true&yo.ac=true&dm=82e569ef-d279-472a-89a2-04c4cf560320&hman=chrome&viewid=0.0dbc2878-86f2-4bb0-92c1-5c9bec3405a9&hdevid=x&tdur=21600&tparts=1&arp=x&externalId=itv1-dotcom-dash-proda-multicdn
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
