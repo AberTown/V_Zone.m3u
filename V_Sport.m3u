@@ -2196,6 +2196,12 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SP
 #EXTGRP:Sport TV PT
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV6_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTINF:-1 group-title="Movistar ES" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", M+ Liga de Campeones
+https://live12-dash.cdns.cdn.orangetv.orange.es/xTujM6kGSF53ils7W8zdEA/1704627879/48446095/126917377/89/cmaf/r12_mcampeones3/dash_high.mpd
+
+
 =============================================Live Events + ================================================================
 #EXTINF:-1 group-title="1 - 12.30 Luton v Chelsea" tvg-id="" tvg-name="EPL TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/ADccuVLRN9T0yU12s2oZ9BWg91w=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5
 #EXTVLCOPT:http-referrer - =https://www.vidio.com/
