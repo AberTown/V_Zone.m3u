@@ -2571,4 +2571,9 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f
 
 ===================================================================================
 
+#EXTINF:-1 tvg-id="" group-title="Test"  tvg-logo="",Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74b640d313f24520abf652ddbaed0b09:1ba6f26c413608de3a5ef8288342fc53
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28PLAYBOY%29/manifest.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
