@@ -1250,6 +1250,11 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/mast
 #KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png",Sky Sport 251
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:9ba98f85ff3f44798c183f92711697e4
+https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
+
 ===========================Optus Sport Australia===================================================================
 
 #EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Optus Sport - VPN", Optus Sport 1
