@@ -1743,6 +1743,11 @@ https://rikstv-live2.telenorcdn.net/rikstv/1468/2/dash/TV2_Sport_1/manifest.mpd
 https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.rikstv.no/globalassets/innholdsblokker/11-tv-kanaler/logo-png/tv-3-pluss-rgb.png?width=240&quality=60", NO - TV3+
+https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
 #EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 1
 https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
