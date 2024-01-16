@@ -1307,6 +1307,11 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/mas
 #KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
 
+#EXTINF:-1 group-title="Sky Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png", Sky Bundesliga 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b4856d9b1eb17e459f4ad4f480b7e:1162c56a12e96ecd7afba37a3d650201
+https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/031122-50/index_stereo.mpd
+
 ===========================Optus Sport Australia===================================================================
 
 #EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png", tvg-id="" group-title="Optus Sport - VPN", Optus Sport 1
@@ -2555,11 +2560,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png", group-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt4fe9aecf494b3da0/6107d1a7365a7d358c6bd350/Bun-MAIN.jpg", Sky Bundesliga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000b4856d9b1eb17e459f4ad4f480b7e:1162c56a12e96ecd7afba37a3d650201
-https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/031122-50/index_stereo.mpd
 
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
