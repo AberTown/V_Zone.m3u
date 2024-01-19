@@ -1657,15 +1657,35 @@ https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport4_HD_HTTP/__op/dash-defau
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=27bf7f42b47f40f8ac8999dd493be0c8&key=beac9efc2c93e9b90dd8eff5bbe31068
 https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport5_HD_HTTP/__op/dash-default/__dci/236/__f/manifest.mpd
 
-#EXTINF:-1 group-title="La Liga TV" tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" ,LaLiga TV Andorra
+#EXTINF:-1 group-title="La Liga TV" tvg-logo="https://pbs.twimg.com/profile_images/1679416847995752449/PxbFgIJx_400x400.jpg", LaLiga TV Andorra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"genyhEnIU1uYm38mtaVF1g","k":"GdSpWKcHeIgBj7pIEiKJKA"},{"kty":"oct","kid":"QQoGrUu7WlaoodQFgdh63g","k":"8k9xINtJlqasnk+C57sYjw"}]}
 https://live-tcsgra.thechannel.store/laligatv/laligatv.mpd
 
-#EXTINF:-1 group-title="La Liga TV" tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" ,LaLiga TV Andorra 2
+#EXTINF:-1 group-title="La Liga TV" tvg-logo="https://pbs.twimg.com/profile_images/1679416847995752449/PxbFgIJx_400x400.jpg", LaLiga TV Andorra 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OioEceG7VySvek28ktxM2A","k":"3IoH6K8kDLLhaYxlLY/R0g"},{"kty":"oct","kid":"1yJmOGCHV6uJd71m9ao9vg","k":"fBeeBZPpx8wZBSYpUu7DmQ"}]}
 https://live-tcsgra.thechannel.store/laliga1/laliga1.mpd
+
+#EXTINF:-1 group-title="La Liga TV" tvg-logo="https://pbs.twimg.com/profile_images/1679416847995752449/PxbFgIJx_400x400.jpg", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="La Liga TV" tvg-logo="https://pbs.twimg.com/profile_images/1679416847995752449/PxbFgIJx_400x400.jpg", LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 group-title="La Liga TV" tvg-logo="https://pbs.twimg.com/profile_images/1679416847995752449/PxbFgIJx_400x400.jpg", LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="La Liga TV" tvg-logo="https://pbs.twimg.com/profile_images/1679416847995752449/PxbFgIJx_400x400.jpg", LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 =======================LIVE EVENT===========================================
 
