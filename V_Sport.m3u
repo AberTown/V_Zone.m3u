@@ -1143,6 +1143,11 @@ https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=00033a7801c324b97dd9997d15cd1e6d:da90342266ae32a331a83bd05d6308bd
 https://linear016-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_sd.mpd
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Sports Football HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
+http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+
 #EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", tvg-id="ksport1hd" group-title="#🇬🇧 UK Sport 🇬🇧#", Viaplay Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
