@@ -2519,4 +2519,17 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 ============================
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X7CM0W4/premier-league-2.png", group-title="ENGLISH PREMIER LEAGUE", Event EPL 4
+https://stream.ayas.ir/hls2/bein2en.m3u8
+https://stream.ayas.ir/hls2/bein2.m3u8
+https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X7CM0W4/premier-league-2.png", group-title="ENGLISH PREMIER LEAGUE", Event EPL 5
+https://stream.ayas.ir/hls2/bein1.m3u8
+https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
