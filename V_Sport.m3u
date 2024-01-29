@@ -2519,17 +2519,29 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 ============================
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩LIVE EVENT🚩",LIVE 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X7CM0W4/premier-league-2.png", group-title="ENGLISH PREMIER LEAGUE", Event EPL 4
-https://stream.ayas.ir/hls2/bein2en.m3u8
-https://stream.ayas.ir/hls2/bein2.m3u8
 https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩LIVE EVENT🚩",LIVE 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X7CM0W4/premier-league-2.png", group-title="ENGLISH PREMIER LEAGUE", Event EPL 5
-https://stream.ayas.ir/hls2/bein1.m3u8
 https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩LIVE EVENT🚩",LIVE 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/b717678459734384aaa98316895d5a2a/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩LIVE EVENT🚩", LIVE 12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/a2f7dfe1378940dfa09879b845d07ca1/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩LIVE EVENT🚩", LIVE 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
