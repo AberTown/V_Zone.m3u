@@ -2506,6 +2506,11 @@ https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/
 #KODIPROP:inputstream.adaptive.license_key=00224f211fb2a9ee429c0b19cdea1809:d508ee4ef09247489e1d0396c6b6c01c
 https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2503703-204878-246f057140e)/master.mpd
 
+#EXTINF:-1 group-title="8 - 20.15 Liverpool v Chelsea" tvg-logo="https://www.peacocktv.com/static/peacock-toolkit/0.25.2/logo/peacock-wob.png", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022d9d146ebdf10a1f835cad2704db7:a4a0420f940854a785895866159f6161
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2503704-204879-246f066564f)/master.mpd
+
 ============================
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
