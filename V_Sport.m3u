@@ -639,6 +639,11 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001369&extensio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Scandinavia Sports", NO - V Sport Premier 3 |Only Event|
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001368&extension=m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9df8ec5f86995102a6c9987d360b18c7:bb525f095535fa1ef2fd42f3068afd56
+#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", SE - Viaplay Extra 1
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra1/xtra1.isml/index.mpd
+
 =======================================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
