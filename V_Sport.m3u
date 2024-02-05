@@ -2626,25 +2626,12 @@ https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 
 
 ============================
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://image.kawaguchimaeda.com/2024/01/SSC-1-93.png",ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://i.ibb.co/GJWq7Wq/assuhd.png" group-title="TV OLAHRAGA", AS UHD 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
-https://yangbacagoblog.kawaguchimaeda.my.id:2087/CH1/masterCH1.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://image.kawaguchimaeda.com/2024/01/SSC-1-94.png",ASTRO SUPERSPORT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
-https://yangbacagoblog.kawaguchimaeda.my.id:2087/CH4/masterCH4.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://image.kawaguchimaeda.com/2024/01/SSC-1-95.png",ASTRO SUPERSPORT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-https://yangbacagoblog.kawaguchimaeda.my.id:2087/CH5/masterCH5.mpd
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://image.kawaguchimaeda.com/2024/01/SSC-1-96.png",ASTRO SUPERSPORT 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
-https://yangbacagoblog.kawaguchimaeda.my.id:2087/CH2/masterCH2.mpd
+#KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
+https://up-ip-ayoyoy.theriumworld29.workers.dev/dash-wv/linear/1601/default.mpd
 
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
