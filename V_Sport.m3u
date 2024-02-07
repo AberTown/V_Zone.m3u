@@ -2628,12 +2628,17 @@ https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 
 ============================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="▶️SPORTS◀️",Champ TV 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="▶️Champions TV◀️",Champions TV 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
 https://srtv.my.id/vd/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-title="Test" group-logo="" tvg-logo="", ITV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22ca2e250b729982c97209e0ff3f7e9b:5d9937d586414096948337ac314d79c1
+https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
