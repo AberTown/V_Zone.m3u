@@ -2704,4 +2704,11 @@ https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
 https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="Test", ITV1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
