@@ -2645,14 +2645,7 @@ https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
 https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="▶️Champions TV◀️ tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", Premier League TV (Vidio)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9353&type=drm
-https://srtv.my.id/vd/play.mpd?id=9353&type=dash
-
-#EXTINF:-1 group-title="▶️Champions TV◀️ tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" , Champions TV 3 (Vidio)
+#EXTINF:-1 group-title="▶️Champions TV◀️" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" , Champions TV 3 (Vidio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2660,7 +2653,7 @@ https://srtv.my.id/vd/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6786&type=drm
 https://srtv.my.id/vd/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="▶️Champions TV◀️ tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" , Champions TV 2 (Vidio)
+#EXTINF:-1 group-title="▶️Champions TV◀️" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" , Champions TV 1 (Vidio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
