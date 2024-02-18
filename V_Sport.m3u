@@ -2658,27 +2658,5 @@ https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
 
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="Test", Test
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-https://cors-proxy.elfsight.com/http://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="Test", Test
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-https://cors-proxy.elfsight.com/https://luanjingkalaubacaini.kawaguchimaeda.my.id:2050/4/CH5/masterCH5.mpd
-
-
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="Test", Test
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
-https://luanjingkalaubacaini.kawaguchimaeda.my.id:2050/4/CH5/masterCH5.mpd
-
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
