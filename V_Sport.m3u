@@ -720,6 +720,35 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra100/xtra100.isml/index.mpd
 
 =======================================================
+#EXTINF:-1 ch-number="819" tvg-id="beINSports3" group-title="Scandinavia Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg", NL - ZIGGO DOCU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236820010b8800010303000000000000000a.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-hdready-avc/NL_000098_019255.mpd
+
+#EXTINF:-1 ch-number="819" tvg-id="beINSports3" group-title="Scandinavia Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg", NL - ZIGGO SELECT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236820010b8800010303000000000000000a.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/go-dash-hdready-avc/NL_000094_019321.mpd
+
+#EXTINF:-1 ch-number="819" tvg-id="beINSports3" group-title="Scandinavia Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg", NL - ZIGGO TENNIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236820010b8800010303000000000000000a.id.cdn.upcbroadband.com/wp/wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-hdready-avc/NL_000099_019256.mpd
+
+#EXTINF:-1 ch-number="819" tvg-id="beINSports3" group-title="Scandinavia Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg", NL - ZIGGO SPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+https://da-d436236820010b8800010303000000000000000a.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-hdready-avc/NL_000014_019661.mpd
+
+#EXTINF:-1 ch-number="819" tvg-id="beINSports3" group-title="Scandinavia Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg", NL - ZIGGO VOETBAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236820010b8800010303000000000000000a.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-hdready-avc/NL_000095_019371.mpd
+
+#EXTINF:-1 ch-number="819" tvg-id="beINSports3" group-title="Scandinavia Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg", NL - ZIGGO RACING
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236820010b8800010303000000000000000a.id.cdn.upcbroadband.com/wp/wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-hdready-avc/NL_000097_019370.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -733,11 +762,6 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
 https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000096_019382/manifest.mpd
-
-#EXTINF:-1 group-title="Scandinavia Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", NL - Ziggo Sports Tennis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
-https://da-d436236b20010b8800010303000000000000000d.id.cdn.upcbroadband.com/wp/wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000099_019256/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg" group-title="Other Sports", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
