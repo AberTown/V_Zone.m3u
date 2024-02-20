@@ -94,14 +94,14 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #EXTINF:-1 group-title="10 - 20.00 Everton v Crystal Palace" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", SE - V Sport Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 group-title="6 - 15.00 Tottenham v Wolves" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1900,19 +1900,24 @@ https://sange-astro.palat.workers.dev/2705/default.mpd|Referer=I_Love_OnlyFans
 
 =============================================================================Astro NO VPN ================================================
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Astro GO Live Event 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
+https://as-proxy.openwindow040.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="797" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro GO Live Event 2 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="797" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro GO Live Event 2 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro Go Live Event 3 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="795" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro Go Live Event 4 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="795" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 4 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
 #EXTINF:-1 tvg-id="822" tvg-name="Golf Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png", group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" , Golf Channel HD
@@ -2418,7 +2423,7 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+#https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 #EXTINF:-1 group-title="10 - 19.30 West Ham Utd v Brighton & H.A." tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2488,14 +2493,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 group-title="10 - 20.00 Everton v Crystal Palace" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", USA Network (West)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="9 - 19.30 West Ham Utd v Bournemouth", Sky Sports Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2632,6 +2637,15 @@ https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm 
 #https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="11 - 19.30 Manchester City v Brentford" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="12 - 19.30 Liverpool v Luton" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 ============================
 
