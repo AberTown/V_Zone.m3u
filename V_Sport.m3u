@@ -2597,7 +2597,7 @@ https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm 
-https://srtv.my.id/vd/play.mpd?id=9182&type=dash
+#https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 group-title="2 - 15.00 Burnley v Arsenal" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2653,6 +2653,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=8bda165496be50abb5bcc361a452085a:d982fdac32682f84ac1345a03f6a00d9
 #EXTINF:-1 group-title="12 - 19.30 Liverpool v Luton" group-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", SE - Viaplay Extra 5
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff2fd7a4b6e5c12b129d7a7648306b6:1f7d14d8479afeeaaf7493e82241ec0b
+#EXTINF:-1 group-title="12 - 19.30 Liverpool v Luton" group-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", SE - Viaplay Extra 11
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra11/xtra11.isml/index.mpd
 
 ============================
 
