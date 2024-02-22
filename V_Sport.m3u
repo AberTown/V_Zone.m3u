@@ -2651,33 +2651,6 @@ https://srtv.my.id/vd/play.mpd?id=6317&type=dash
 
 ============================
 
-#EXTINF:-1 group-title="Star Hub" group-logo="https://www.starhub.com/content/dam/starhub/2022/icons/social-share/social-default.jpg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://luanjingkalaubacaini.kawaguchimaeda.my.id:2083/1/index.mpd
-
-#EXTINF:-1 group-title="Star Hub" group-logo="https://www.starhub.com/content/dam/starhub/2022/icons/social-share/social-default.jpg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", Hub Premier 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://luanjingkalaubacaini.kawaguchimaeda.my.id:2083/2/index.mpd
-
-#EXTINF:-1 group-title="Star Hub" group-logo="https://www.starhub.com/content/dam/starhub/2022/icons/social-share/social-default.jpg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png", Hub Premier 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://co2-bks400-04.starhubgo.com/bpk-token/2ab@4r0isanckdjcuorpieeh1vreb0pugsei4pgd5yba/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 group-title="Star Hub" group-logo="https://www.starhub.com/content/dam/starhub/2022/icons/social-share/social-default.jpg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", Hub Premier 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://sh-bks400-10.starhubgo.com/bpk-token/2ab@ehkjbks0iffizvqkynrswuscumzrkkqsevrpo2ba/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
