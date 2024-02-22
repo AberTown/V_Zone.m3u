@@ -2649,8 +2649,17 @@ https://srtv.my.id/vd/play.mpd?id=6317&type=dash
 #EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="12 - 19.30 Liverpool v Luton" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
-
 ============================
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",Hub Premier 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://mh-bks400-06.starhubgo.com/bpk-token/2ac@pzt1fnzppoxufdwoj4cfkhxl0kl42ojlp3xr4cba/bpk-tv/HubPremier1/output/manifest.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",Hub Premier 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+https://sh-bks400-10.starhubgo.com/bpk-token/2ab@cy0z1ecglhptitpelbw4ivtxj2awo4grckb5usba/bpk-tv/HubPremier12/output/manifest.mpd
 
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
