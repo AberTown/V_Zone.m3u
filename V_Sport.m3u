@@ -2640,6 +2640,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.m
 #EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="9 - 20.00 West Ham Utd v Sheffield Utd" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/TV3%2B_Norway.svg/revision/latest/scale-to-width-down/200?cb=20220831132802" group-title="8 - 15.00 Carabao Cup Final", NO - TV3+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
+https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
+
 ============================
 
 
