@@ -2686,4 +2686,10 @@ https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
 
+#EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-logo="https://i.ibb.co/NCs054m/premiersport1cz.png" group-title="SPORTS ⚽", PREMIER SPORT 1 🇨🇿
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=429857d76d3026b160d1c707e98cb6d4:a0c7cc8d78d42082af325149dbdd1aab
+https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
