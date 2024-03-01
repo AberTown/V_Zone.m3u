@@ -2717,5 +2717,16 @@ http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/cha
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="4K / UHD", Hub Sport PL 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=484466&extension=ts
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="4K / UHD", V Sport Ultra 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
+#EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="4K / UHD", Bein Sports 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=706541&extension=ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="4K / UHD", EPL 1 4K @Co Moe (Vpn-UK London)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=661427&extension=ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="4K / UHD", Sky Sports Main Event UHD @Co Moe (Vpn-UK London)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=494229&extension=ts
+
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
