@@ -1143,7 +1143,7 @@ https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Li
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
-https://ch11-hls-live.akamaized.net/out/u/433127.mpd
+#https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="#🇬🇧 UK Sport 🇬🇧#", Premier Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2689,12 +2689,12 @@ http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/cha
 #KODIPROP:inputstream.adaptive.license_key=00079dbbb526c7cb40aec345e2b007d5:91e2e12e61a535528d3bc19371c26ea4
 #https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport1)/manifest_sd.mpd
 
-#EXTINF:-1 group-title="2 - 15.00 Burnley v Arsenal" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd", Premier Sports 1
+#EXTINF:-1 group-title="5 - 15.00 Nottingham Forest v Liverpool" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd", Premier Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
-#https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=00052a8b8b89655fe5c72f61970fc45b:0aa687336a8329962a9affd5af46300c
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premiersports1)/manifest_720.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
