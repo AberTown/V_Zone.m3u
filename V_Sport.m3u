@@ -1110,13 +1110,6 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Mani
 
 ======================UK Sport===================================================
 
-#EXTINF:-1 tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/social/public/itv_logo_blk.jpg?itok=8AahafqO", group-title="#🇬🇧 UK Sport 🇬🇧#", ITV1 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
-https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="#🇬🇧 UK Sport 🇬🇧#", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
