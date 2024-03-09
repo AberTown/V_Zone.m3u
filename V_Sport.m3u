@@ -715,6 +715,11 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra43/xtra43.isml/index.mpd
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra44/xtra44.isml/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a37106142a95fbcaaed44259aebb28f:834270f7d4dfd31fa888e3ca9fdd8147
+#EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", SE - Viaplay Extra 64
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra64/xtra64.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
 #EXTINF:-1 group-title="Viaplay Xtra" group-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", SE - Viaplay Extra 65
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd
@@ -2801,6 +2806,11 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra14/xtra14.isml/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=5069ccd6e77d5f09918744ab2a1e59bd:79afa7c076f08438d951b2b50655a633
 #EXTINF:-1 group-title="2 - 15.00 Bournemouth v Sheffield Utd" group-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", SE - Viaplay Extra 15
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra15/xtra15.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a37106142a95fbcaaed44259aebb28f:834270f7d4dfd31fa888e3ca9fdd8147
+#EXTINF:-1 group-title="3 - 15.00 Crystal Palace v Luton" group-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", SE - Viaplay Extra 64
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra64/xtra64.isml/index.mpd
 ============================
 
 
