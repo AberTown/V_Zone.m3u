@@ -2818,6 +2818,11 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 https://edge-live11-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7f6469c43db5876bfbc4446f4ebcf2e:cdc319032d2fe72ed1f6ab7891428494
+#EXTINF:-1 group-title="7 - 14.00 Brighton & H.A. v Nottingham Forest" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 71
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra71/xtra71.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2ce21653782a5da7928cbaf4da3d0cfb:d1b568a613222a1da70eabe3d0d93973
 #EXTINF:-1 group-title="6 - 13.00 Aston Villa v Tottenham" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 69
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra69/xtra69.isml/index.mpd
