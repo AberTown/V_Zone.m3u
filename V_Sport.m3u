@@ -2203,6 +2203,36 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifes
 #EXTINF:-1 tvg-id="ts35" group-title="Tata Sky - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" ,SONY SPORTS TEN 5 HD
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a6MYrSz/Yjkr9UiaqZCsJg","kid":"olLZivm+O7OJ6FVEpzBM0g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="2" group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg",Star Sports 1 HD
+https://liveb.streamready.in/starsports1hd/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AiQsnP3yZdNhfpjtZMq4gA","kid":"jixvPenDM2+2q/U7qNsXyA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="5" group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg",Star Sports 1 HD Hindi
+https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FT/8RL2GPchuqRs81pP50A","kid":"pe1Yz6lPNTOzNYoLd1UwkA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="24" group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg",Star Sports 1 Hindi
+https://liveb.streamready.in/starsports1hindi/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XmO9OOHVqIUvNaXUkuwCeQ","kid":"gP0Ant7dP72jgI3WJ/wWkw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="32" group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg",Star Sports Select 1
+https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
+#EXTINF:-1 tvg-id="32" group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg",Star Sports Select 2
+https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vYNMpAiHw8B3Kz7SbuGscQ","kid":"9KqCzb5TPvGjsl8YMjIpvQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="33" group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg",Star Sports 2 HD
+https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA Sport", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2623,37 +2653,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.m
 #https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 
 ============================
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a6MYrSz/Yjkr9UiaqZCsJg","kid":"olLZivm+O7OJ6FVEpzBM0g"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="2" group-title="Airtel"tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png",Star Sports 1 HD
-https://liveb.streamready.in/starsports1hd/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AiQsnP3yZdNhfpjtZMq4gA","kid":"jixvPenDM2+2q/U7qNsXyA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="5" group-title="Airtel"tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png",Star Sports 1 HD Hindi
-https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FT/8RL2GPchuqRs81pP50A","kid":"pe1Yz6lPNTOzNYoLd1UwkA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="24" group-title="Airtel"tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png",Star Sports 1 Hindi
-https://liveb.streamready.in/starsports1hindi/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XmO9OOHVqIUvNaXUkuwCeQ","kid":"gP0Ant7dP72jgI3WJ/wWkw"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="32" group-title="Airtel"tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png",Star Sports Select 1
-https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
-#EXTINF:-1 tvg-id="32" group-title="Airtel"tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png",Star Sports Select 1
-https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vYNMpAiHw8B3Kz7SbuGscQ","kid":"9KqCzb5TPvGjsl8YMjIpvQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="33" group-title="Airtel"tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png",Star Sports 2 HD
-https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
 
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
