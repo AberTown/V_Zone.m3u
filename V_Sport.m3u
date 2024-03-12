@@ -2669,6 +2669,36 @@ https://liveb.streamready.in/starsports1hindi/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-id="150" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a125986346a8f0e23b/images/SONY-SPORTS-TEN-1_264x144.webp" group-title="Airtel",Sony Sports Ten 1
 https://livea.streamready.in/sonysportsten1/smil:common.smil/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a6MYrSz/Yjkr9UiaqZCsJg","kid":"olLZivm+O7OJ6FVEpzBM0g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="2" group-title="Airtel"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp",Star Sports 1 HD
+https://liveb.streamready.in/starsports1hd/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0gBhOMtvvkQNlN0qH7EbRw","kid":"UP5HXFjgNxqIdAtv8YWIvg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="3" group-title="Airtel"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a125986346a8f0e23b/images/SONY-SPORTS-TEN-1_264x144.webp",SONY SPORTS TEN 1
+https://livea.streamready.in/sonysportsten1/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AiQsnP3yZdNhfpjtZMq4gA","kid":"jixvPenDM2+2q/U7qNsXyA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="5" group-title="Airtel"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978f46cbc4372820a5bdf/images/237.webp",Star Sports 1 HD Hindi
+https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FT/8RL2GPchuqRs81pP50A","kid":"pe1Yz6lPNTOzNYoLd1UwkA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="24" group-title="Airtel"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e8c4589e08ce80f035/images/147.webp",Star Sports 1 Hindi
+https://liveb.streamready.in/starsports1hindi/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XmO9OOHVqIUvNaXUkuwCeQ","kid":"gP0Ant7dP72jgI3WJ/wWkw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="32" group-title="Airtel"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp",Star Sports Select 1
+https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vYNMpAiHw8B3Kz7SbuGscQ","kid":"9KqCzb5TPvGjsl8YMjIpvQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="33" group-title="Airtel"tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp",Star Sports 2 HD
+https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
+
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
 
