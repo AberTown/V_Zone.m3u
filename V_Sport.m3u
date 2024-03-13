@@ -2655,6 +2655,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 #https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d5eb1d7dc0f5c98b30d5a3fad22ba5e:3396da5899df4fec8cc3b64172e2e9ab
+#EXTINF:-1 group-title="1 - 19.30 Bournemouth v Luton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 6
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra6/xtra6.isml/index.mpd
+
 ============================
 
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
