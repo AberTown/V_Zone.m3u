@@ -2660,13 +2660,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.m
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
 
- #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EWTJPREk1WW1JdFlqWTBZaTAwTnpZNExUazFNR010TUdJeE1HWmlZalUyTnpOaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDYxNzYwMiwiaWF0IjoxNzAwMDEzNjAyfQ.cDVjxm3xZCoAp9vK2URr5lJi_HLnF9niML5xI8Hw4-A","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7f5b73b"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png" group-title="CHANNEL | SPORTS",Astro Supersport Sooka (USE VPN MY)
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF: -1 tvg-id="811" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports", Astro Supersport
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="812" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sports", Astro Supersport 2
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="813" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sports", Astro Supersport 3
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="814" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sports", Astro Supersport 4
+https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+#EXTINF: -1 tvg-id="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="Sports", Astro Supersport 5
+https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
+
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
