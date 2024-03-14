@@ -24,14 +24,14 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #EXTINF:-1 group-title="1 - 19.30 Bournemouth v Luton" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", SE - V Sport Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 group-title="3 - 15.00 Crystal Palace v Luton" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", Viaplay 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2358,7 +2358,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/32
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+#https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 #EXTINF:-1 group-title="5 - 17.30 Arsenal v Brentford" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2519,7 +2519,7 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+#https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="5 - 15.00 Nottingham Forest v Liverpool", Sky Sport Calcio
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2618,7 +2618,7 @@ https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
 #EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="1 - 19.30 Bournemouth v Luton" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
@@ -2654,26 +2654,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 #https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d5eb1d7dc0f5c98b30d5a3fad22ba5e:3396da5899df4fec8cc3b64172e2e9ab
-#EXTINF:-1 group-title="1 - 19.30 Bournemouth v Luton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 6
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra6/xtra6.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed4086de5e445f9bac5c093362a0f549:599aa72e49e4736f58e947ea0c34f235
-#EXTINF:-1 group-title="1 - 19.30 Bournemouth v Luton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 12
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d259528f430d5abfbc0ef337ab133d99:5c343d55d9fe4ee82f7a4cd984ca83c2
-#EXTINF:-1 group-title="1 - 19.30 Bournemouth v Luton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 66
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra66/xtra66.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
-#EXTINF:-1 group-title="1 - 19.30 Bournemouth v Luton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 65
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd
 
 ============================
 
