@@ -2363,13 +2363,13 @@ https://4utv.my.id/vd/dash.mpd?id=6685|User-Agent=mozilla/89
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6686
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", Champions Tv 2
-https://ch.4utv.my.id/chamtv2.mpd|User-Agent=mozilla/89
+https://4utv.my.id/vd/dash.mpd?id=6686|User-Agent=mozilla/89
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6786
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", Champions Tv 3
-https://ch.4utv.my.id/chamtv3.mpd|User-Agent=mozilla/89
+https://4utv.my.id/vd/dash.mpd?id=6786|User-Agent=mozilla/89
 
 
 =============================================Live Events + ================================================================
