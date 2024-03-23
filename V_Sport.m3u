@@ -2221,10 +2221,29 @@ https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-id="32" group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg",Star Sports Select 2
 https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
 
+#EXTINF:-1 group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg", Star Sports Select 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
+https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg", Star Sports Select 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
+https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vYNMpAiHw8B3Kz7SbuGscQ","kid":"9KqCzb5TPvGjsl8YMjIpvQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="33" group-title="Airtel" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg",Star Sports 2 HD
 https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
+
+#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec40cec31736f/7dafd20da33b44bb81f94118e64c8ecd.png", Golf+ - Vpn
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA Sport", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
