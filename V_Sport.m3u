@@ -1752,6 +1752,24 @@ https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/man
 #KODIPROP:inputstream.adaptive.license_key=429857d76d3026b160d1c707e98cb6d4:a0c7cc8d78d42082af325149dbdd1aab
 https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
 
+#EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo="https://i.ibb.co/56y8MCX/novasport1.png" group-title="Scandinavia Sports", SK- Nova Sport 1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://cors-proxy.cluster.fun/https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="NovaSport2.cz" tvg-logo="https://i.ibb.co/QQ8zfv4/novasport2.png" group-title="Scandinavia Sports", SK - Nova Sport 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://cors-proxy.cluster.fun/https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
 #EXTINF:-1 tvg-id="TV4 Fotboll" tvg-logo="https://i.ibb.co/D8xFZ3G/tv4fotboll.png" group-title="Scandinavia Sports", SE - TV4 FOTBOLL 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
