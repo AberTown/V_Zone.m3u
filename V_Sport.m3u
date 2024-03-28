@@ -103,21 +103,21 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 group-title="2 - 15.00 Bournemouth v Sheffield Utd" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
+#EXTINF:-1 group-title="#⚽️ 2 - 15.00 Bournemouth v Sheffield Utd" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
 #https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 group-title="8 - 14.00 West Ham Utd v Burnley" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
+#EXTINF:-1 group-title="#⚽️ 8 - 14.00 West Ham Utd v Burnley" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
 #https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 group-title="9 - 19.30 West Ham Utd v Bournemouth" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
+#EXTINF:-1 group-title="#⚽️ 9 - 19.30 West Ham Utd v Bournemouth" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -131,7 +131,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="9 - 14.00 West Ham Utd v Wolves" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports 1
+#EXTINF:-1 group-title="#⚽️ 9 - 14.00 West Ham Utd v Wolves" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -145,14 +145,14 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d7664
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
-#EXTINF:-1 group-title="3 - 17.30 Fulham v Tottenham" tvg-logo=-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra SE
+#EXTINF:-1 group-title="#⚽️ 3 - 17.30 Fulham v Tottenham" tvg-logo=-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
 #https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
-#EXTINF:-1 group-title="4 - 14.00 West Ham Utd v Aston Villa" tvg-logo=-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra SE
+#EXTINF:-1 group-title="#⚽️ 4 - 14.00 West Ham Utd v Aston Villa" tvg-logo=-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2558,14 +2558,14 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 group-title="10 - 20.00 Everton v Crystal Palace" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
+#EXTINF:-1 group-title="#⚽️ 10 - 20.00 Everton v Crystal Palace" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 group-title="10 - 19.30 West Ham Utd v Brighton & H.A." tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
+#EXTINF:-1 group-title="#⚽️ 10 - 19.30 West Ham Utd v Brighton & H.A." tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2614,96 +2614,96 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 group-title="9 - 15.45 Liverpool v Manchester City" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (East)
+#EXTINF:-1 group-title="#⚽️ 9 - 15.45 Liverpool v Manchester City" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 group-title="9 - 15.45 Liverpool v Manchester City" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (West)
+#EXTINF:-1 group-title="#⚽️ 9 - 15.45 Liverpool v Manchester City" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (West)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 group-title="10 - 20.00 Chelsea v Newcastle Utd" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (East)
+#EXTINF:-1 group-title="#⚽️ 10 - 20.00 Chelsea v Newcastle Utd" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 group-title="10 - 20.00 Chelsea v Newcastle Utd" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", USA Network (West)
+#EXTINF:-1 group-title="#⚽️ 10 - 20.00 Chelsea v Newcastle Utd" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", USA Network (West)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="9 - 19.30 West Ham Utd v Bournemouth", Sky Sports Uno
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 9 - 19.30 West Ham Utd v Bournemouth", Sky Sports Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 #https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="10 - 16.30 Liverpool v Manchester Utd", Sky Sports Uno
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 10 - 16.30 Liverpool v Manchester Utd", Sky Sports Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 #https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="3 - 15.00 Manchester Utd v Bournemouth", Sky Sports Uno
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 3 - 15.00 Manchester Utd v Bournemouth", Sky Sports Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 #https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="6 - 17.30 Aston Villa v Arsenal", Sky Sports Uno
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 6 - 17.30 Aston Villa v Arsenal", Sky Sports Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 #https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="9 - 14.00 Luton v Manchester City", Sky Sports Uno
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 9 - 14.00 Luton v Manchester City", Sky Sports Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 #https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="2 - 15.00 Brighton & H.A. v Everton", Sky Sports Uno
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 2 - 15.00 Brighton & H.A. v Everton", Sky Sports Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 #https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="1 - 19.30 Bournemouth v Luton", Sky Sport Calcio
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 1 - 19.30 Bournemouth v Luton", Sky Sport Calcio
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
 #https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="5 - 15.00 Nottingham Forest v Liverpool", Sky Sport Calcio
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 5 - 15.00 Nottingham Forest v Liverpool", Sky Sport Calcio
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
 #https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
-#EXTINF:-1 group-title="5 - 15.00 Tottenham v Brighton & H.A." tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN
+#EXTINF:-1 group-title="#⚽️ 5 - 15.00 Tottenham v Brighton & H.A." tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
 #https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
-#EXTINF:-1 group-title="1 - 12.30 Luton v Chelsea" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN
+#EXTINF:-1 group-title="#⚽️ 1 - 12.30 Luton v Chelsea" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
 #https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
@@ -2770,7 +2770,7 @@ http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/cha
 #https://tv.qreatifku.my.id/nosignal.m3u8
 https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="10 - 20.00 Chelsea v Newcastle Utd", Sky Premier League
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="#⚽️ 10 - 20.00 Chelsea v Newcastle Utd", Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2793,32 +2793,32 @@ https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Li
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="2 - 15.00 Luton v Nottingham Forest" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 2 - 15.00 Luton v Nottingham Forest" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="3 - 17.30 Fulham v Tottenham" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 3 - 17.30 Fulham v Tottenham" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="9 - 15.30 Manchester City v Manchester Utd" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 9 - 15.30 Manchester City v Manchester Utd" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="1 - 12.30 Manchester Utd v Everton" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 1 - 12.30 Manchester Utd v Everton" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="5 - 17.30 Arsenal v Brentford" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 5 - 17.30 Arsenal v Brentford" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="9 - 15.45 Liverpool v Manchester City" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
+#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 9 - 15.45 Liverpool v Manchester City" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/TV3%2B_Norway.svg/revision/latest/scale-to-width-down/200?cb=20220831132802" group-title="#⚽️ 6 - 15.00 Tottenham v Luton", NO - TV3+
@@ -2826,7 +2826,7 @@ https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Li
 #KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/TV3%2B_Norway.svg/revision/latest/scale-to-width-down/200?cb=20220831132802" group-title="6 - 13.00 Aston Villa v Tottenham", NO - TV3+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/TV3%2B_Norway.svg/revision/latest/scale-to-width-down/200?cb=20220831132802" group-title="#⚽️ 6 - 13.00 Aston Villa v Tottenham", NO - TV3+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 #https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
