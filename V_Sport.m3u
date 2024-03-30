@@ -2305,6 +2305,26 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #KODIPROP:inputstream.adaptive.license_key=00227c70607fd1482c8e1c7534a7157a:521546015078ff8865ce4504cf4ae966
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504545-205813-2472286fe35)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00225e09bd644dd006326dbb577cd3fa:29d54ae48df071fabd99268d499c130a
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504501-205769-2471fe79b09)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022cd83c363f2ca5cd66d21bbaebc9c:1fa22e218bcdc8c82639623bf20e2835
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504500-205768-2471fd858c8)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022943b0a35c0b7f35320ad4203deee:2740079df16865acc0b1650a40b46207
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504502-205770-2471ff6dd4a)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022647ef11c9680f11355985fa76ae1:fb6e39c84ff124efd85061787a36759a
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504503-205771-24720061f8b)/master.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", CBS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
