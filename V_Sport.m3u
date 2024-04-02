@@ -108,7 +108,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+#https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
 #EXTINF:-1 group-title="#⚽️ 7 - 19.30 Brentford v Brighton & H.A." tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -143,7 +143,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d7664
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
-https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+#https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 #EXTINF:-1 group-title="#⚽️ 6 - 19.30 Arsenal v Luton" tvg-logo=-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2610,14 +2610,14 @@ https://linear402-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/L
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 group-title="#⚽️ 1 - 19.30 Newcastle Utd v Everton" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (West)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 group-title="#⚽️ 6 - 19.30 Arsenal v Luton" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2936,28 +2936,6 @@ https://linear012-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=00057e0dcf77cadc027a69b60e145660:8517f2a86b1bd267fc71a207c9ea3e7a
 https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport1)/manifest_720.mpd
 
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#⚽️ 1 - 19.30 Newcastle Utd v Everton", TNT Sports 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#⚽️ 1 - 19.30 Newcastle Utd v Everton", TNT Sports 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005520dcd30036b77b924cc5363cad0:ebc86cd5962affaa29593b75d73551ba
-https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd
-
-#EXTINF:-1 group-title="#⚽️ 1 - 19.30 Newcastle Utd v Everton" tvg-id="TNTSports2.uk" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005520dcd30036b77b924cc5363cad0:ebc86cd5962affaa29593b75d73551ba
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd
-
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#⚽️ 6 - 19.30 Arsenal v Luton", TNT Sports 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3000,34 +2978,6 @@ https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=0005520dcd30036b77b924cc5363cad0:ebc86cd5962affaa29593b75d73551ba
 https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd
 
-#EXTINF:-1 group-title="#⚽️ 2 - 19.30 Nottingham Forest v Fulham" tvg-id="TNTSports3.uk" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",TNT Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051f0f971600aff940e2b5fddb6a60:816e7a26242bd0ab0c5323e55a97456c
-https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_720.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#⚽️ 2 - 19.30 Nottingham Forest v Fulham", TNT Sports 3 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#⚽️ 2 - 19.30 Nottingham Forest v Fulham", TNT Sports 3 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051f0f971600aff940e2b5fddb6a60:816e7a26242bd0ab0c5323e55a97456c
-https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_mob.mpd
-
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="#⚽️ 2 - 19.30 Nottingham Forest v Fulham", TNT Sports 3 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00051f0f971600aff940e2b5fddb6a60:816e7a26242bd0ab0c5323e55a97456c
-https://linear012-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_720.mpd
-
 #EXTINF:-1 group-title="#⚽️ 7 - 19.30 Brentford v Brighton & H.A." tvg-id="TNTSports3.uk" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",TNT Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3057,34 +3007,9 @@ https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Li
 https://linear012-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_720.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3c26e9626cf5574b4a52bf320b9d19c:ad521a843382c2066349e7e78047347c
-#EXTINF:-1 group-title="#⚽️ 2 - 19.30 Nottingham Forest v Fulham" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 4
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra4/xtra4.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
 #EXTINF:-1 group-title="#⚽️ 5 - 20.15 West Ham Utd v Tottenham" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 65
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d259528f430d5abfbc0ef337ab133d99:5c343d55d9fe4ee82f7a4cd984ca83c2
-#EXTINF:-1 group-title="#⚽️ 2 - 19.30 Nottingham Forest v Fulham" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 66
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra66/xtra66.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6096ab3b418f59dc87a777509d56fdbb:c754ef4ec395423d55495776401642a1
-#EXTINF:-1 group-title="#⚽️ 1 - 19.30 Newcastle Utd v Everton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 67
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60b3c6a08caa56d2b67fa17274e5f41b:bb473efe562264b044961a57695d4754
-#EXTINF:-1 group-title="#⚽️ 1 - 19.30 Newcastle Utd v Everton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 68
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra68/xtra68.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ce21653782a5da7928cbaf4da3d0cfb:d1b568a613222a1da70eabe3d0d93973
-#EXTINF:-1 group-title="#⚽️ 2 - 19.30 Nottingham Forest v Fulham" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 69
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra69/xtra69.isml/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f396558259365aab8b1f1502c4a1a168:842ca067717a32f8d142c467006010ac
