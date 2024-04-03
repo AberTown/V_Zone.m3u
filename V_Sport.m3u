@@ -3031,6 +3031,16 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra68/xtra68.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 7 - 19.30 Brentford v Brighton & H.A." group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 69
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra69/xtra69.isml/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c69d2c8393d5423b1ee1a610d8bbb89:0a7cdf8676115a2cd69d0b10e610d80d
+#EXTINF:-1 group-title="#⚽️ 8 - 20.15 Manchester City v Aston Villa" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 3
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra3/xtra3.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3c26e9626cf5574b4a52bf320b9d19c:ad521a843382c2066349e7e78047347c
+#EXTINF:-1 group-title="#⚽️ 6 - 19.30 Arsenal v Luton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 4
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra4/xtra4.isml/index.mpd
+
 ============================
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-8.png" , Test
