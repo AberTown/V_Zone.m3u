@@ -2815,6 +2815,14 @@ https://prod-skyonelive.akamaized.net/sky-sport-1.mpd
 https://prod-skyonelive.akamaized.net/sky-sport-2.mpd
 #https://as3123ada123.kawaguchimaeda.my.id:2009/sky-sport-1.mpd
 
+#EXTINF:-1 group-title="Test" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", Test 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfb27120757f4d4490a74998d5920000:24bf87afd72cb5a8b9b3ce6067e3dfd9
+https://prod-skyonelive.akamaized.net/sky-sport-2.mpd
+
+
 
 #EXTINF:-1 group-title="NS Player Test" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Test
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra5/xtra5.isml/index.mpd?|drmScheme=clearkey&drmLicense=https://exclusive-by-raga.000webhostapp.com/results.php?keyid=8bda165496be50abb5bcc361a452085a&key=d982fdac32682f84ac1345a03f6a00d9
