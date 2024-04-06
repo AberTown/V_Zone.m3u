@@ -2808,6 +2808,15 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5085/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c69d2c8393d5423b1ee1a610d8bbb89:0a7cdf8676115a2cd69d0b10e610d80d
+#EXTINF:-1 group-title="#⚽️ 1 - 12.30 Crystal Palace v Manchester City" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 3
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra3/xtra3.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
+#EXTINF:-1 group-title="#⚽️ 1 - 12.30 Crystal Palace v Manchester City" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 65
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd
 
 ============================
 
