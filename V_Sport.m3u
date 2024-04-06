@@ -2855,27 +2855,6 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra16/xtra16.isml/index.mpd
 
 ============================
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-8.png" , Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3b9089aca5a49e9097612b4a36f0000:551a2fa309c07556b5c497eaa0d4a5b1
-#https://live-streams.media-preprod.skyone.co.nz/sky-sport-1.mpd
-https://prod-skyonelive.akamaized.net/sky-sport-1.mpd
-#https://as3123ada123.kawaguchimaeda.my.id:2009/sky-sport-1.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-8.png" , Test 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bfb27120757f4d4490a74998d5920000:24bf87afd72cb5a8b9b3ce6067e3dfd9
-#https://live-streams.media-preprod.skyone.co.nz/sky-sport-1.mpd
-https://prod-skyonelive.akamaized.net/sky-sport-2.mpd
-#https://as3123ada123.kawaguchimaeda.my.id:2009/sky-sport-1.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", Test 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bfb27120757f4d4490a74998d5920000:24bf87afd72cb5a8b9b3ce6067e3dfd9
-https://prod-skyonelive.akamaized.net/sky-sport-2.mpd
-
 #EXTINF:-1 group-title="Test" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-8.png" , Test 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae224b44988135fd909b165a7dd92d61:ff3863af2252e915e0d85b61096a275a
