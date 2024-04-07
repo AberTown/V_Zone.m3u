@@ -2793,6 +2793,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 #https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ce21653782a5da7928cbaf4da3d0cfb:d1b568a613222a1da70eabe3d0d93973
+#EXTINF:-1 group-title="#⚽️ 1 - 15.30 Manchester Utd v Liverpool" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 69
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra69/xtra69.isml/index.mpd
 
 ============================
 
