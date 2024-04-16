@@ -94,14 +94,14 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #EXTINF:-1 group-title="#⚽️ 10 - 20.00 Chelsea v Everton" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", SE - V Sport Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 group-title="#⚽️ 8 - 14.00 West Ham Utd v Fulham" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football SE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2414,7 +2414,7 @@ https://linear402-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/L
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+#https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 #EXTINF:-1 group-title="#⚽️ 10 - 20.00 Everton v Crystal Palace" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2491,14 +2491,14 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 group-title="#⚽️ 10 - 20.00 Chelsea v Everton" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", USA Network (West)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 9 - 19.30 West Ham Utd v Bournemouth", Sky Sports Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2603,14 +2603,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
-https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
+#https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", tvg-id="ksport1hd" group-title="#⚽️ 10 - 20.00 Chelsea v Everton", Sky Sports Main Event
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
-http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
+#http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
 
 #EXTINF:-1 group-title="#⚽️ 5 - 15.00 Sheffield Utd v Fulham" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",DAZN / ELEVEN 3 HD (EPL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2697,16 +2697,6 @@ http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/cha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 #https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a0c1ed5c545545697fbd68ca4751d5b:5e6faf300c09e230220d672e95915d6f
-#EXTINF:-1 group-title="#⚽️ 10 - 20.00 Chelsea v Everton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 73
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra73/xtra73.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6c464b8e6a35c6c855f0794f3b59676:3394ad15e6b1a8880730360f38bb9c7f
-#EXTINF:-1 group-title="#⚽️ 10 - 20.00 Chelsea v Everton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 74
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra74/xtra74.isml/index.mpd
 
 ============================
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
