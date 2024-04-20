@@ -1305,6 +1305,11 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(72189-FXDEPHD)/manifest.
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000", ESPN Colombia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af076d62dfe64a82a1f205b16c2f5ff7:8d71de48cafde022465af47f7639b241
+https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
+
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
@@ -2517,10 +2522,5 @@ https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 
 ============================
-
-#EXTINF:-1 group-title="Test" tvg-logo="", ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af076d62dfe64a82a1f205b16c2f5ff7:8d71de48cafde022465af47f7639b241
-https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
