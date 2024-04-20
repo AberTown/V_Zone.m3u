@@ -2518,14 +2518,9 @@ https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 
 ============================
 
-#EXTINF:-1 group-title="Test" tvg-logo="", Nova Sports 1 CZ
+#EXTINF:-1 group-title="Test" tvg-logo="", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cbcs.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="", Nova Sports 2 CZ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=af076d62dfe64a82a1f205b16c2f5ff7:8d71de48cafde022465af47f7639b241
+https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
