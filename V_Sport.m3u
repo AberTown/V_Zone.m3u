@@ -2192,30 +2192,30 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/32
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vidioh/drm.php?id=9182
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", Champions Tv 5
-https://tch.qtv.my.id/chamtv5.mpd|user-agent=mozilla/89 ExoPlayerLib
+#https://tch.qtv.my.id/chamtv5.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vidioh/drm.php?id=9183
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", Champions Tv 6
-https://tch.qtv.my.id/chamtv6.mpd|user-agent=mozilla/89 ExoPlayerLib
+#https://tch.qtv.my.id/chamtv6.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6685
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", Champions Tv 1
-https://4utv.my.id/vd/dash.mpd?id=6685|User-Agent=mozilla/89
+#https://4utv.my.id/vd/dash.mpd?id=6685|User-Agent=mozilla/89
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6686
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", Champions Tv 2
-https://4utv.my.id/vd/dash.mpd?id=6686|User-Agent=mozilla/89
+#https://4utv.my.id/vd/dash.mpd?id=6686|User-Agent=mozilla/89
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6786
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", Champions Tv 3
-https://4utv.my.id/vd/dash.mpd?id=6786|User-Agent=mozilla/89
+#https://4utv.my.id/vd/dash.mpd?id=6786|User-Agent=mozilla/89
 
 ====================================================Sky Cinema============================================================================
 
@@ -2266,19 +2266,19 @@ https://linear402-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_1080_30/L
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 group-title="#⚽️ 6 - 17.30 Bournemouth v Manchester Utd" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
+#EXTINF:-1 group-title="#⚽️ 4 - 20.00 Everton v Liverpool" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 group-title="#⚽️ 7 - 14.00 Liverpool v Crystal Palace" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
+#EXTINF:-1 group-title="#⚽️ 6 - 20.00 Brighton & H.A. v Manchester City" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 #EXTINF:-1 group-title="#⚽️ 9 - 16.30 Arsenal v Aston Villa" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
