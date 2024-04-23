@@ -1313,28 +1313,6 @@ https://linear.aws.optusvideo.tv/v7/OptusSport12/xbtss/drm/avc/dash/plain/manife
 #KODIPROP:inputstream.adaptive.license_key={"4e942b1dad92436baad0c6a6901f6d13":"5adefdb3f4edd5ceee23d37c10c37e5c","5fb92575d7da45219e9a88646cd3e243":"31d1f1df9c246eb734de1be0f6bf6acf","7c35f5ae279941b7be726157476d7031":"53dcc0a61387ce3fa3bfa290a9bc80c7","7cd69bed1cc54d83bd7f988f622c1157":"332e0a856cdfcd7a1d6da6dcf84633a7"}
 https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
 
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL | Canal + Sport 2 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussport2hd.png" group-title="Canal+ Sport Poland",PL | Canal + Sport 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4f7fa9f0250a43cea8aebd8167f1fc81":"f6bbc783b0e7a46a147e673a4347730a","f5c080517f6c4366b1930315a6aa70e7":"581eba7045254d1de036557789932a05","89787fecb0ac43ab86aa356054e2a183":"f0153c6dc5c55c5f23fcdeed8241d5e4"}
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
-
-#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="PL | Canal + Sport 3 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="Canal+ Sport Poland",PL | Canal + Sport 3 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"274cafc63e854f9ca14acbc49af103a0":"4dc63ff74dc5415f3c0c63b62f8fedaa","b4274e5bdb7e4370bb87af609a74a64e":"4763cbd2fa26f4de8bead22db09b0f46","009d1ea463574791a88e5d008f7ab15c":"fa4812bd0d608c2f8bfeb02fb213320d"}
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
-
-#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | Canal + Sport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="Canal+ Sport Poland",PL | Canal + Sport 4 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bdcfde35c73f4c2dbd628fa3694010b9":"96a0683d85cc793eeb116b94731b2a4e","638d2f06b75c4341a990ebebae2055ae":"493508c2f5af5428bb8e09da1207324c"}
-https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport4HD/hd2-dashdrm02/CplusSport4HD.mpd
-
-
 #EXTINF:-1 group-title="True Premier Network" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="True Premier Network" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
