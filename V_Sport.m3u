@@ -2630,4 +2630,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 
 ============================
 
+#EXTINF:-1 group-title="Test" tvg-id=" tvg-logo="", Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6fc677428aa54f29ffca8ae9737a1db:9f95277e4dc789b864d5bcb09a7431d6
+https://rftv.wtf/ch.mpd?id=246
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
