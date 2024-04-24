@@ -2671,8 +2671,8 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 
 #EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#⚽️ 2 - 19.45 Wolves v Bournemouth", Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5007907-708503-48dfe8f5e57)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0022dd7b205d3ecce6d2e75a72837d97:06672472139db4115a6cb8fe63f611da
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5007907-708503-48dfe8f5e57)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#⚽️ 4 - 20.00 Everton v Liverpool", Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
