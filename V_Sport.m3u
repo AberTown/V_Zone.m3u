@@ -2701,7 +2701,26 @@ https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/036371-50/index_stereo.mpd
 #KODIPROP:inputstream.adaptive.license_key=000bd7ca09c1d2ccdb12614b6a7525ed:79ddb65f0cf9bf112c501a1d0d3a62d6
 https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/036371-50/index_stereo.mpd
 
-#⚽️ 1 - 12.30 West Ham Utd v Liverpool
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df607a45634f521d9f221047360d7db3:795c808177d6212aa80a5ab3f94fb55e
+#EXTINF:-1 group-title="#⚽️ 4 - 15.00 Newcastle Utd v Sheffield Utd" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 76
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra76/xtra76.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c33d0c6ad8258cca9f749ec2e412201:cf74279ac4d42bcd9b9503ed8551e940
+#EXTINF:-1 group-title="#⚽️ 5 - 15.00 Wolves v Luton" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 77
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra77/xtra77.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e49d168a0d0a5b67899bfe876e2f13ae:16881418c8aebab513c37ef1f46a0dc9
+#EXTINF:-1 group-title="#⚽️ 3 - 15.00 Manchester Utd v Burnley" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 78
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra78/xtra78.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56906807307516bbe7de1831a1a4e66:aec25f1b435d7a66f5636e0ca9de3bac
+#EXTINF:-1 group-title="#⚽️ 2 - 15.00 Fulham v Crystal Palace" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 79
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra79/xtra79.isml/index.mpd
+
 #⚽️ 2 - 15.00 Fulham v Crystal Palace
 #⚽️ 3 - 15.00 Manchester Utd v Burnley
 #⚽️ 4 - 15.00 Newcastle Utd v Sheffield Utd
