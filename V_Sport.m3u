@@ -2711,6 +2711,11 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra75/xtra75.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 6 - 17.30 Everton v Brentford" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 17
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra17/xtra17.isml/index.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd" group-title="#⚽️ 6 - 17.30 Everton v Brentford", NBC USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
 #⚽️ 6 - 17.30 Everton v Brentford
 #⚽️ 7 - 20.00 Aston Villa v Chelsea
 
