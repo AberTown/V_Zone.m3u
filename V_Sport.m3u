@@ -2771,9 +2771,12 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 ============================
 
 #EXTINF:-1 tvg-id="" group-title="Test" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",TEST
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d32513793005953430f1d70792803bee:6949234978ed22e8bee473aa59c91d48
+https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227826/3221227826.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy+JikuzsnbBbVchu5bp4ldjPfr44H0c2pnIbyMSj8DafiaVMYbR8m+bnw8552r5kwLIwaEGkzWBTg0bWB3G7dla/j69CGsgCVFRTQiCcWXuFIeO21qkbF:20230404041732:UTC,10001002129788,115.135.197.59,20230404041732,urn:Huawei:liveTV:XTV51882317,10001002129788,-1,0,1,,,2,,,,2,10000104360778,0,10000103736904,1528804378,,,2,1,END&GuardEncType=2&tenantId=6003&from=28&ocs=2_1.9.15.99_80&hms_devid=1885&online=1715678513&mag_hms=1885&it=H4sIAAAAAAAAAzXMQQvCIBiA4X_jUdSlcwdPRdBFglXX-KafItgkXYP-fSzq_j7vUsHh6WBw4Mw7Lns1dDsZgp7coBUqlMIFLT1p-LTFdMRBzmmOtviN3cb9nTPKqBCc8p5ctt0xQzTiW9rXY8Jq-J-NWNfk0PgW6AqNQowVIyypzPSc4X2t-Zd8APkElGWZAAAA
+
+#EXTINF:-1 tvg-id="" group-title="Test" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d32513793005953430f1d70792803bee:6949234978ed22e8bee473aa59c91d48
 https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227826/3221227826.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy+JikuzsnbBbVchu5bp4ldjPfr44H0c2pnIbyMSj8DafiaVMYbR8m+bnw8552r5kwLIwaEGkzWBTg0bWB3G7dla/j69CGsgCVFRTQiCcWXuFIeO21qkbF:20230404041732:UTC,10001002129788,115.135.197.59,20230404041732,urn:Huawei:liveTV:XTV51882317,10001002129788,-1,0,1,,,2,,,,2,10000104360778,0,10000103736904,1528804378,,,2,1,END&GuardEncType=2&tenantId=6003&from=28&ocs=2_1.9.15.99_80&hms_devid=1885&online=1715678513&mag_hms=1885&it=H4sIAAAAAAAAAzXMQQvCIBiA4X_jUdSlcwdPRdBFglXX-KafItgkXYP-fSzq_j7vUsHh6WBw4Mw7Lns1dDsZgp7coBUqlMIFLT1p-LTFdMRBzmmOtviN3cb9nTPKqBCc8p5ctt0xQzTiW9rXY8Jq-J-NWNfk0PgW6AqNQowVIyypzPSc4X2t-Zd8APkElGWZAAAA
 
