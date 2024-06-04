@@ -2475,6 +2475,11 @@ https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport3/manif
 #EXTVLCOPT:http-referrer=https://laotv.la/
 https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD7/manifest.mpd
 
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.ibb.co/MPQHfTg/eleven4k.png" group-title="| Sports" , ELEVEN SPORTS 1 4K 🇵🇱
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=338c95f7a6ca4bf1a5fda30c221eaf09:c815180cb6c1e38e950f84fba41081f7
+https://hls.redefine.pl/B3B002A2/29263/0/dash_4k/live.mpd
 
 ============================
 
