@@ -2191,35 +2191,6 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier7/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
 https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
 
-#EXTINF:-1 group-title="#🌍 EPL with VPN 🌍#" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",🇫🇷 Canal+ Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO1_xwiBVgxsFW1VLUSblg","kid":"FSPw24h3TYWKVGfggW4uzQ"},{"kty":"oct","k":"SY_JiB5rVYxSUVAMhtZvig","kid":"OeOfss-DRNCBW6uvmNoSSQ"},{"kty":"oct","k":"BGP3Qkv84e_XvG04p11_Sg","kid":"c9cIHr6ZQHC-mxxMzMzBvw"},{"kty":"oct","k":"o-Cyb0Ocy8EbaLyMPDFAzw","kid":"zxRISkhWRku_s4OErn8c8g"}],"type":"temporary"}
-https://hls-m006-live-aka-canalplus.akamaized.net/__token__exp%3D1701832695~acl%3D%2Flive%2Fdisk%2Fcanalpluspremierleague-hd%2F*~id%3D4c42f9e4-d743-4d3e-9e27-16afaade26e4~hmac%3Dff32a03a0bde61f0fd9ca786131fc271c01a15b468f4be026ce1375a8382a2cc/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
-
-#EXTINF:-1 group-title="#🌍 EPL with VPN 🌍#" tvg-id="" tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png",🇫🇷 Canal+ Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO1_xwiBVgxsFW1VLUSblg","kid":"FSPw24h3TYWKVGfggW4uzQ"},{"kty":"oct","k":"SY_JiB5rVYxSUVAMhtZvig","kid":"OeOfss-DRNCBW6uvmNoSSQ"},{"kty":"oct","k":"BGP3Qkv84e_XvG04p11_Sg","kid":"c9cIHr6ZQHC-mxxMzMzBvw"},{"kty":"oct","k":"o-Cyb0Ocy8EbaLyMPDFAzw","kid":"zxRISkhWRku_s4OErn8c8g"}],"type":"temporary"}
-https://hls-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
-
-#EXTINF:-1 group-title="#🌍 EPL with VPN 🌍#" tvg-id="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/356x264/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023",🇫🇷 Canal+ Foot
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key{"d17e54c574af4ef786d13e0f33cbda4f":"db12523c869f930ddeee0812fbd24c61","802eeba218144adcb74f0fbba4969390":"d29400718ca382d04c7c7ad46ad678f2","ff03bf2effdd4c708bae59520fa798a1":"113ab6d7390ced8992a10d4f8055e553"}
-https://hls-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusfoot-hd/dash-fhddvr/canalplusfoot-hd.mpd
-
-#EXTINF:-1 group-title="#🌍 EPL with VPN 🌍#" tvg-id="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/356x264/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023",🇫🇷 Canal+ F1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"83A5lln1SVSoCg5Tx6h7QA","k":"yU_YwwPbyfZBWsJ0TtkhEw"},{"kty":"oct","kid":"SCAy5NVMSGmIFNGZWj9FLA","k":"aS_xMB111sb3VvwxGX__mg"},{"kty":"oct","kid":"k8KJNVWiQFmKSgrkDrQH1Q","k":"rHAAoGyMfsCzOIHXBRrcVg"},{"kty":"oct","kid":"Kz7KkJPoTrOUGuw5YS3IFA","k":"l-LT4AN7A5Sz1SrSOTA40Q"}]}
-https://hls-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusf1-hd/dash-fhddvr/canalplusf1-hd.mpd
-
-#EXTINF:-1 group-title="#🌍 EPL with VPN 🌍#" tvg-id="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/356x264/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023",🇫🇷 Canal + MOTO GP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"575d194987b04b41919d674e43cfa59b":"01ed8f02f4502f8ecf5d9be2cebd41b0","1b4f2f896fb949238dc61e4c4cbecca0":"50b72a9f48157a1651478528afa13830","56f9e274ba0343b59c7097876a508934":"ecd2666b64ec176cd05ec11e2b254849"}
-https://hls-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusmotogp-hd/dash-fhd/canalplusmotogp-hd.mpd
-
 
 =================================
 
@@ -2474,12 +2445,6 @@ https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport3/manif
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://laotv.la/
 https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/THD7/manifest.mpd
-
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.ibb.co/MPQHfTg/eleven4k.png" group-title="| Sports" , ELEVEN SPORTS 1 4K 🇵🇱
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=338c95f7a6ca4bf1a5fda30c221eaf09:c815180cb6c1e38e950f84fba41081f7
-https://hls.redefine.pl/B3B002A2/29263/0/dash_4k/live.mpd
 
 ============================
 
