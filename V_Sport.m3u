@@ -2237,6 +2237,13 @@ https://hls-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusmotogp-hd/d
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", USA Network (West)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://live-oneapp-prd.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2249,47 +2256,15 @@ https://files.videohelp.com/u/301156/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00227c70607fd1482c8e1c7534a7157a:521546015078ff8865ce4504cf4ae966
-#https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504545-205813-2472286fe35)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00225e09bd644dd006326dbb577cd3fa:29d54ae48df071fabd99268d499c130a
-#https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504501-205769-2471fe79b09)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022cd83c363f2ca5cd66d21bbaebc9c:1fa22e218bcdc8c82639623bf20e2835
-#https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504500-205768-2471fd858c8)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022943b0a35c0b7f35320ad4203deee:2740079df16865acc0b1650a40b46207
-#https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504502-205770-2471ff6dd4a)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022647ef11c9680f11355985fa76ae1:fb6e39c84ff124efd85061787a36759a
-#https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504503-205771-24720061f8b)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="#🇺🇸 USA Sport 🇺🇸#", Peacock
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00225305b840f402b2afd5c3c7cdf4b2:f1790024f45bcfcd9f8715bf6f2121ae
-#https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504661-205930-247297103aa)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", CBS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
-#https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd
-
 #EXTINF:-1 tvg-id="Golf Channel USA" tvg-logo="https://i.imgur.com/zo3twaw.png" group-title="#🇺🇸 USA Sport 🇺🇸#",Golf Channel USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
 #https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
+
+#EXTINF:-1 tvg-id="Golf Channel USA" tvg-logo="https://i.imgur.com/zo3twaw.png" group-title="#🇺🇸 USA Sport 🇺🇸#",Golf Channel USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
+https://live-oneapp-prd.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
 
 #EXTINF:-1 group-title="#🇺🇸 USA Sport 🇺🇸#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png", FOX SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
