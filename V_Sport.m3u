@@ -2430,4 +2430,9 @@ http://linear031-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
 
+#EXTINF:-1 group-title="Test" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,ITV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+https://dar-live-red-irdeto.akamai.content.itv.com/csm/extlive/itv01,itv1-dotcom-dash-proda-multicdn.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
