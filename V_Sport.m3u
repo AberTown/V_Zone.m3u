@@ -2442,9 +2442,19 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 #KODIPROP:inputstream.adaptive.license_key=
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
 
-#EXTINF:-1 group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,ITV1
+#EXTINF:-1 group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#" tvg-logo="https://pbs.twimg.com/profile_images/1600480034996862976/1aUEl06l_400x400.jpg" ,ITV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
 https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
+
+#EXTINF:-1 group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" , Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://cors-proxy.elfsight.com/xxx.freemiumiptv.top/mnclokal/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" , Sportstars 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://cors-proxy.elfsight.com/xxx.freemiumiptv.top/mnclokal/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
