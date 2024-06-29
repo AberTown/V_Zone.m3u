@@ -1976,6 +1976,11 @@ https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH
 #KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:00dd5dd17b0799aa4013f365a1393ce
 https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="TSN Canada", TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:00dd5dd17b0799aa4013f365a1393ce
+https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.1190711!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn.jpg" group-title="TSN Canada", TSN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
