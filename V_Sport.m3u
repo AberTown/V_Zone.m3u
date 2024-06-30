@@ -2598,6 +2598,22 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 #KODIPROP:inputstream.adaptive.license_key=
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
 
+#EXTINF:-1 group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#" tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/2560px-Sky_Sport_Uno_-_Logo_2020.svg.png",Sky Sport Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
+https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#",TV2 Direkte 🇳🇴
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
+https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#",EURO TIDIK SPORTS 🇧🇪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
+https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
+
 #EXTINF:-1 group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#" tvg-logo="https://pbs.twimg.com/profile_images/1600480034996862976/1aUEl06l_400x400.jpg" ,ITV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
