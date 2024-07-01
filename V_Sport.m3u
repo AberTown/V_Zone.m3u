@@ -2619,6 +2619,9 @@ https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 #KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
 #https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
 
+#EXTINF:-1 group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#" tvg-logo="https://pbs.twimg.com/profile_images/1600480034996862976/1aUEl06l_400x400.jpg" ,ITV1
+https://live2.notebulk.xyz/nGg2oupmYReoCf3-MfSbNw/1719863395/uk_itv1/index.m3u8
+
 #EXTINF:-1 group-title="#🇬🇧EURO24 @Zonty's 🇬🇧#" tvg-logo="https://pbs.twimg.com/profile_images/1600480034996862976/1aUEl06l_400x400.jpg" ,ITV4
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=2b169fb2c3214e429b66eb2e19fcafdf:90a98753d8f41ad08906243230975ff1
