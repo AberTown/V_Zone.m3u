@@ -2663,6 +2663,31 @@ KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Other Sports",TSN 1	
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="Other Sports",TSN 2	
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="Other Sports",TSN 3		
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Other Sports",TSN 4	
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png" group-title="Other Sports",TSN 5		
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
+
 ===============================
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
