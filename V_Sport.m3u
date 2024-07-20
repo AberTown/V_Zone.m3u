@@ -2113,7 +2113,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cip4-2018183880.linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+#https://cip4-2018183880.linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", NBC USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2129,7 +2129,7 @@ https://live-oneapp-prd.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)
 #EXTINF:-1 tvg-id="Golf Channel USA" tvg-logo="https://www.ngf.org/wp-content/uploads/2018/01/Q_Top100_Logos_GolfChannel-1.png" group-title="#🇺🇸 USA Sport 🇺🇸#",Golf Channel USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
-https://live-oneapp-prd.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
+#https://live-oneapp-prd.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png" group-title="Setanta Sports", SETANTA SPORTS 🇰🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
