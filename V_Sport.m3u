@@ -2524,4 +2524,10 @@ https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Li
 
 =============================
 
+#EXTINF:-1 tvg-id="Test" tvg-logo="" ,Test
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"10f7768b8eb5be6d48c1baaf1fb891a1":"9b029683d78a43cb9e8738f17220c37e":"31599f01aa4da9cdd75711f495279e27":"a68ca2b689516982cb543a9a60f53263"}
+https://pe-fa-lp01a.9c9media.com/live/CFTO/p/dash/20000001/9117ec94ec99c195/manifest.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
