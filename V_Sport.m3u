@@ -2536,14 +2536,21 @@ https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Li
 
 =============================
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002237acc93c84849dbb53bc09faf015:c9cb3a69728f3973cf5005649221e79a
-https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5008436-709084-48e1e1746dc)/master.mpd
+#EXTINF:-1,MTV
+https://mhdtv.co.in/jio/play.php?id=248&c=MTV
+#EXTTHUMB:https://nowmetv.net/wp-content/uploads/2021/06/images-1-21-1.png
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002214d1969c640b92419838f658df55:f3050318274490fb63745fba1d53d255
-https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5008437-709085-48e1e26891d)/master.mpd
+#EXTINF:-1,DD India
+https://mhdmaxtv.me/yupp/play.php?watch=dd-india
+#EXTTHUMB:https://nowmetv.net/wp-content/uploads/2020/01/ddindia.webp
+
+#EXTINF:-1,MTV Beats HD (1)
+https://nowmetv.net/jwplayer/?source=https%3A%2F%2Fprod-ent-live-gm.jiocinema.com%2Fbpk-tv%2FJC_MTVBeatsHD%2FJCHLS%2Findex.m3u8&id=1020&type=mp4
+#EXTTHUMB:https://nowmetv.net/wp-content/uploads/2020/02/images-1-3.png
+
+#EXTINF:-1,MTV Beats HD (2)
+https://nowmetv.net/jwplayer/?source=https%3A%2F%2Fprod-sports-hin-fa.jiocinema.com%2Fbpk-tv%2FMTV_Beats_HD_voot_MOB%2FFallback%2Findex.m3u8&id=1020&type=mp4
+#EXTTHUMB:https://nowmetv.net/wp-content/uploads/2020/02/images-1-3.png
+
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
