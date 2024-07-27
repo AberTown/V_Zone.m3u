@@ -1578,22 +1578,22 @@ https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 #EXTINF:-1 group-title="European Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 1
-https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
 #EXTINF:-1 group-title="European Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 2
-https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
 #EXTINF:-1 group-title="European Sports" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 3 
-https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49f577002aa550a8b8f419b4a507458f:46da47eebf5416828f9e005683c6546e
 #EXTINF:-1 group-title="European Sports" tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2024/03/07/94290842-d02d-469d-b621-6c62a89dbf8d/FINLAND-V-SPORT-PLUS.png?width=410", NO - V Sport+ 
-https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e81dbc891fd422efa2/manifest.mpd
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e81dbc891fd422efa2/manifest.mpd
 
 #EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-logo="https://i.ibb.co/NCs054m/premiersport1cz.png" group-title="European Sports", CZ - PREMIER SPORT 1 🇨🇿
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
