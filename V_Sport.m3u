@@ -2027,6 +2027,13 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier8/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", USA Network (East)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", USA Network (West)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2040,6 +2047,20 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", Telemundo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", Telemundo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95919b598c8435bb94fe46276139f900:84dc19a90c2f6ecf77fdfb7b73112dbd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd" group-title="#🇺🇸 USA Sport 🇺🇸#", NBC USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
