@@ -2482,6 +2482,36 @@ https://cache2.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_h
 #KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 https://cache2.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
 
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ea1bc7ef2734fd2b17b399f1387ec3a:90ed1ac75cebed74e248d5cb3b5d5a61
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2abd9ff2cd494f829a607250746a1a08:879cc8e7a94e046b4ea77537ac2fe0ec
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e80b7ba129d45e48cbaa125fe3ff6c7:41f87d85c1f67987f13142e114325f66
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2f1372b26d4456d992c95ae9b343955:30ad56f390a93748ce36fb10000c90fb
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51b16248ecb04eb8846117e07e0eb92c:9335e6e5cbfd0ea1449f136bc5849782
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08913e2259ad455b9f6b73c8a1e08e1a:c4b852be090bd8dcec65b8793e8247d7
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
+
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-logo="https://iili.io/JhkZx6v.png" group-title="Eurosport",Eurosport 1 Deutschland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
