@@ -2512,127 +2512,72 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1,ITV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cd55e22f9bf46a0bb543ae9a0d7fd24:06153ec0f57fce3444b29e0f1a3534fa
-http://127.0.0.1:1984/itvx?channel=ITV
-
-#EXTINF:-1,ITV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5652470334fe4563b6b0456b82ffa61f:cdfca35aaa2e9d1d14cde8220b3faa1d
-http://127.0.0.1:1984/itvx?channel=ITV2
-
-#EXTINF:-1,ITVBe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94b7b4d0d0d74713b00e210774932de9:9aa1f5a1373671a15ee2db78fe3b9e5f
-http://127.0.0.1:1984/itvx?channel=ITVBe
-
-#EXTINF:-1,ITV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24241367ac074dbf916ef0e2ef0afd72:866e253572c5bffb90705ef444d8d41a
-http://127.0.0.1:1984/itvx?channel=ITV3
-
-#EXTINF:-1,ITV4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9eb01f2e9e5433d82be649685f1aa22:b0b8e8401fd42069884834c82eb11e44
-http://127.0.0.1:1984/itvx?channel=ITV4
-
-#EXTINF:-1,ITVX Kids (r.i.p CITV)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=840c2cb03a760f1558b0de950c2102db:18d7f4750489affe2bd15eff64bb2ac6
-http://127.0.0.1:1984/itvx?channel=fast6
-
-#EXTINF:-1,Channel4
+#EXTINF:-1,group-title="UK", Channel4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 
-#EXTINF:-1,E4
+#EXTINF:-1,group-title="UK", E4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 
-#EXTINF:-1,More4
+#EXTINF:-1,group-title="UK", More4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 
-#EXTINF:-1,Film4
+#EXTINF:-1,group-title="UK", Film4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61ss
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 
-#EXTINF:-1,4seven
+#EXTINF:-1,group-title="UK", 4seven
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
-#EXTINF:-1,Channel 5
+#EXTINF:-1,group-title="UK", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8b21903e624e440fb5af1905c0faf248":"0b2e532085cfc181f52feb6a43a9140a","45c6381f47108adb9a26faa67085fe2e":"0b2e532085cfc181f52feb6a43a9140a"}
 https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd
 
-#EXTINF:-1,5USA
+#EXTINF:-1,group-title="UK", 5USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d324328db27144cda7778a7d73291fe1":"d2d920c82567f65aba98a6b7fb03dae3","47e07890e1e3c53c12f4ff6b843dc1ae":"d2d920c82567f65aba98a6b7fb03dae3"}
 https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
 
-#EXTINF:-1,5Star
+#EXTINF:-1,group-title="UK", 5Star
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"31c99fca03f345c1b9c2f501a621058e":"c3e75e6c11515c32bb4ac7c163523b3d","244fce7dde4625c938a3728b122ac51e":"c3e75e6c11515c32bb4ac7c163523b3d"}
 https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
 
-#EXTINF:-1,5Action
+#EXTINF:-1,group-title="UK", 5Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
 https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
 
-#EXTINF:-1,5Select
+#EXTINF:-1,group-title="UK", 5Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0314fccf0c2941c69a2b12f9ad8c4710":"f67abdaaf8b967ece70035ed64b07194","2cede23e0a9ad10be42c074329402963":"f67abdaaf8b967ece70035ed64b07194"}
 https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
 
-#EXTINF:-1,Dave
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
-https://live-uktv.simplestreamcdn.com/live11/uktvdave/bitrate1.isml/live.mpd
-
-#EXTINF:-1,Drama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
-https://live-uktv.simplestreamcdn.com/live12/uktvdrama/bitrate1.isml/live.mpd
-
-#EXTINF:-1,W
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
-https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
-
-#EXTINF:-1,Yesterday
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
-https://live-uktv.simplestreamcdn.com/live10/uktvyesterday/bitrate1.isml/live.mpd
-
-#EXTINF:-1,Sky Arts
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003a9ce7059b908eddf9809eb9b0b02:a5f457de904fae9017b0cfae99747ea1
-https://linear012-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/cha...nifest_720.mpd
-
-#EXTINF:-1,RTÈ One
+#EXTINF:-1,group-title="UK", RTÈ One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
 https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
 
-#EXTINF:-1,RTÈ Two
+#EXTINF:-1,group-title="UK", RTÈ Two
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
 
-#EXTINF:-1,RTÈ News
+#EXTINF:-1,group-title="UK", RTÈ News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
 https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
 
-#EXTINF:-1,RTÈjr
+#EXTINF:-1,group-title="UK", RTÈjr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a3c1d1cb88ea5a8a38528d0b9702390:a4c4e53270616bc2c88c5edce8fd4474
 https://live.rte.ie/live/a/channel4/channel4.isml/manifest.mpd
