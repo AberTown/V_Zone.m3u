@@ -1287,7 +1287,19 @@ https://linear.aws.optusvideo.tv/v7/OptusSport11/xbtss/drm/avc/dash/plain/manife
 #KODIPROP:inputstream.adaptive.license_key=744d45c6dbe64b48a4c93ad96b89dcf0:e637b029d9d8288f2fd272219914c60a
 https://linear.aws.optusvideo.tv/v7/OptusSport12/xbtss/drm/avc/dash/plain/manifest.mpd
 
-=========================================================================
+============================================Star Select India=====================================================
+
+#EXTINF:-1 group-title="#🌍 EPL with VPN 🌍#"  tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png", Star Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1ef4f40286ea5151807beef61a5cc7e0:a04f2c7ad7cbeaa758e1d0800a55b91e
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/test.mpd
+
+#EXTINF:-1 group-title="#🌍 EPL with VPN 🌍#"  tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png", Star Select 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=aa4ca467b2fe506aa5287a969fae2335:082280781b6fb082392aea4a7a42dcd8
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/test.mpd
+
+==========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="Other Sports" ,LA LIGA PREMIER- PARAMOUNT+ 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
