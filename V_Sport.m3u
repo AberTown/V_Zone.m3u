@@ -1742,53 +1742,30 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4Ztpf97cWwzwrVBo3hPQqQ", "kid":"lPrhfk0V4c0L3HztCW+lEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="🇲🇾 SPORTS (ASTRO GO)" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
+#EXTINF:-1 group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", Astro Supersport HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4Ztpf97cWwzwrVBo3hPQqQ", "kid":"lPrhfk0V4c0L3HztCW+lEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="🇲🇾 SPORTS (ASTRO GO)" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
+#EXTINF:-1 group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", Astro Supersport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xqCbHYAdNjHNd9pIZXjd9g", "kid":"FgTsETWMbIgQK++Ktb3KEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="🇲🇾 SPORTS (ASTRO GO)" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 2
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
+#EXTINF:-1 group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", Astro Supersport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e64178c33e4185a3406d84252cd7a0:3bedd0bcd11756016c9a3ccbe79f6665
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fHqYI2x9zOQ/EmkZAGC4oA", "kid":"1q/iRrPbBn34N/r8BneNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="🇲🇾 SPORTS (ASTRO GO)" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 3
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5152/default.mpd
+#EXTINF:-1 group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", Astro Supersport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ocORwepRV1bVJyly1rvXKQ", "kid":"ZKjwhJDZHe2J+XfYWHjREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="🇲🇾 SPORTS (ASTRO GO)" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 4
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KI5/icnIcm2IB1Pdr55w7Q", "kid":"jLZ7f6NN5hUylHJUMJ1NEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OLY5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="🇲🇾 SPORTS (ASTRO GO)" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",OLYMPICS 5
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", group-title="🇲🇾 SPORTS (ASTRO GO) - VPN", Astro Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 ======================================================
 
