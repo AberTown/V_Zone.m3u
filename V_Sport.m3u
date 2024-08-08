@@ -2531,108 +2531,37 @@ https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
 #KODIPROP:inputstream.adaptive.license_key=3a3c1d1cb88ea5a8a38528d0b9702390:a4c4e53270616bc2c88c5edce8fd4474
 https://live.rte.ie/live/a/channel4/channel4.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Arena Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Arena Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Nova Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Nova Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK JOJ Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK JOJ Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/nvidia_joj_cinema/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK JOJ Cinema+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/hisi_joj_cine_plus_jedna/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Disney Junior
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:edef8ba979d64acea3c827dcd51d21ed
-https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK JimJam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd
-
-
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Premier League
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="Supersport",Supersport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Cricket
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="Supersport",Supersport Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport LaLiga
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="Supersport",Supersport LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Football
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="Supersport",Supersport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Football_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Golf
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="Supersport",Supersport Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Golf_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Action
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="Supersport",Supersport Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Action_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Blitz
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="Supersport",Supersport Blitz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Blitz_Live_TV/tracks-v1a1/mono.m3u
