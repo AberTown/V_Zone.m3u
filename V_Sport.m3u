@@ -2938,6 +2938,10 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra77/xtra77.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 7 - 17.30 West Ham Utd v Aston Villa" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png", SE - Viaplay Extra 66
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra66/xtra66.isml/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00227f0d777d00edfb53cffc51fd07d0:7ef5daf52c4c697953a71962c3499c8b
+#EXTINF:-1 group-title="#⚽️ 7 - 17.30 West Ham Utd v Aston Villa" group-logo="https://media.info/i/lf/0/1672512690/6781.png" tvg-logo="https://dot.la/media-library/image.gif?id=22934776&width=300", Peacock TV
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5012831-713956-48f240dbaa4)/master.mpd
 
 group-title="#⚽️ 7 - 17.30 West Ham Utd v Aston Villa"
 
