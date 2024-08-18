@@ -1541,21 +1541,21 @@ https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f4
 =============================================================================Astro with VPN ================================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XTmlNV013TmpBdE9UZ3pZeTAwTkdJMkxUZzBNV010WlRrMVpUTXdOR0l4WldGbSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzY4NjA5MSwiaWF0IjoxNzIzMDgyMDkxfQ.cs5YTLFCv5yd5dUWpFYxQdi5LmdRsQ95-gdc6gCn4XU"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6TTNNelkzTW1ZdE1HTTJZaTAwT1dOa0xXRTJNVE10TldZd056UmtaRFJoTW1NMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDQxMDk1MSwiaWF0IjoxNzIzODA2OTUxfQ.HLYC-JVMCtfYrLqmjYofzrZG8T50RsRZq-SIVk2H3Qg"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="Astro SuperSport HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASTRO SUPERSPORT HD 
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" tvg-id="Astro SuperSport HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASTRO SUPERSPORT HD 
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="812" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ASTRO SUPERSPORT 2 HD 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XTmlNV013TmpBdE9UZ3pZeTAwTkdJMkxUZzBNV010WlRrMVpUTXdOR0l4WldGbSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzY4NjA5MSwiaWF0IjoxNzIzMDgyMDkxfQ.cs5YTLFCv5yd5dUWpFYxQdi5LmdRsQ95-gdc6gCn4XU"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6TTNNelkzTW1ZdE1HTTJZaTAwT1dOa0xXRTJNVE10TldZd056UmtaRFJoTW1NMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDQxMDk1MSwiaWF0IjoxNzIzODA2OTUxfQ.HLYC-JVMCtfYrLqmjYofzrZG8T50RsRZq-SIVk2H3Qg"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
 http://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="813" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASTRO SUPERSPORT 3 HD  
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XTmlNV013TmpBdE9UZ3pZeTAwTkdJMkxUZzBNV010WlRrMVpUTXdOR0l4WldGbSIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzY4NjA5MSwiaWF0IjoxNzIzMDgyMDkxfQ.cs5YTLFCv5yd5dUWpFYxQdi5LmdRsQ95-gdc6gCn4XU"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6TTNNelkzTW1ZdE1HTTJZaTAwT1dOa0xXRTJNVE10TldZd056UmtaRFJoTW1NMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDQxMDk1MSwiaWF0IjoxNzIzODA2OTUxfQ.HLYC-JVMCtfYrLqmjYofzrZG8T50RsRZq-SIVk2H3Qg"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
