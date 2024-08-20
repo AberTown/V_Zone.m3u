@@ -2034,6 +2034,11 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=1ee2468acaaacb9ce2e99440231e7c36:2b090882f9d500aea436ab5aa12705c4
 https://nrfkcdedge03.national-linear-ddtc-tve.tve.cox.net/GOLFD_HD_CX_DDTVE_61854_0_7746784456702405163.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="#🇺🇸 USA Sport 🇺🇸#"",beIN Sports en Espanol (🇺🇸 VPN 🇺🇸)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54ef857b74c0c6e37b04022a87708382:712ca8c470e9ff4f08915e7a7d91ff33
+https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png" group-title="Setanta Sports", SETANTA SPORTS 🇰🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
