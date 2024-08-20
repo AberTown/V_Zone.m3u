@@ -2856,4 +2856,54 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 #https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
+====================
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 1 DU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 2 DU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 3 DU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 4 DU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 5 DU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 6 DU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
+
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 1 DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 2 DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="DAZN Sports",DAZN 3 DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd
+
+
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
