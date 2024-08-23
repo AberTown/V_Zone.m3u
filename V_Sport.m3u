@@ -2028,6 +2028,11 @@ https://nrfkcdedge03.national-linear-ddtc-tve.tve.cox.net/GOLFD_HD_CX_DDTVE_6185
 #KODIPROP:inputstream.adaptive.license_key=54ef857b74c0c6e37b04022a87708382:712ca8c470e9ff4f08915e7a7d91ff33
 https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="#🇺🇸 USA Sport 🇺🇸#"",Sky Sports LaLiga (Mx VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://live2-ott.izzigo.tv/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
+
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" group-title="Setanta Sports", SETANTA SPORTS 🇰🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
