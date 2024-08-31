@@ -2889,11 +2889,26 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra75/xtra75.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 6 - 15.00 Nottingham Forest v Wolves" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 76
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra76/xtra76.isml/index.mpd
 
-group-title="#⚽️ 2 - 15.00 Brentford v Southampton"
-group-title="#⚽️ 3 - 15.00 Everton v Bournemouth"
-group-title="#⚽️ 4 - 15.00 Ipswich v Fulham"
-group-title="#⚽️ 5 - 15.00 Leicester v Aston Villa"
-group-title="#⚽️ 6 - 15.00 Nottingham Forest v Wolves"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022f5c00f799a865e817db87b149283:2556da2ffdc44b7423465b31b6bf6d0a
+#EXTINF:-1 group-title="#⚽️ 2 - 15.00 Brentford v Southampton" group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", Peacock
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5012854-713984-48f256cae80)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022f8f0ef71c904135d8dc1d9c16d63:c36e5c31ec4d87bd64da4b438ef9688e
+#EXTINF:-1 group-title="#⚽️ 4 - 15.00 Ipswich v Fulham" group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", Peacock
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5012855-713985-48f257bf0c1)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022e0fad9ca014782238a7e0122f175:978d4eda78a9f2aa6e885c050f997880
+#EXTINF:-1 group-title="#⚽️ 5 - 15.00 Leicester v Aston Villa" group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", Peacock
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5012856-713986-48f258b3302)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00222ac5cf4308d176d307a8698b2a6f:c2af412188a6f81b4fa07b0a0e43bab6
+#EXTINF:-1 group-title="#⚽️ 6 - 15.00 Nottingham Forest v Wolves" group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", Peacock
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5012857-713987-48f259a7543)/master.mpd
+
 group-title="#⚽️ 7 - 17.30 West Ham Utd v Manchester City"
 group-title="#⚽️ 8 - 13.30 Chelsea v Crystal Palace"
 group-title="#⚽️ 9 - 13.30 Newcastle Utd v Tottenham"
