@@ -2802,6 +2802,39 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612",Setanta Event 13 HD
+#EXTGRP: #⚽️ 3 - 15.00 Everton v Bournemouth
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612",Setanta Event 15 HD
+#EXTGRP: #⚽️ 3 - 15.00 Everton v Bournemouth
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612",Setanta Event 12 HD
+#EXTGRP: #⚽️ 3 - 15.00 Everton v Bournemouth
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612",Setanta Event 2 HD
+#EXTGRP: #⚽️ 5 - 15.00 Leicester v Aston Villa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd
+
+
 group-title="#⚽️ 2 - 15.00 Brentford v Southampton"
 group-title="#⚽️ 3 - 15.00 Everton v Bournemouth"
 group-title="#⚽️ 4 - 15.00 Ipswich v Fulham"
