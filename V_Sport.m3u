@@ -2834,6 +2834,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="Test tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#Test", Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002022d3dd34131838d2b8856c645f71:833cdc03a6a878a60a1328c3639284ff
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc109f2x5w)/master_2min.mpd
+
+
 group-title="#⚽️ 8 - 13.30 Chelsea v Crystal Palace"
 group-title="#⚽️ 9 - 13.30 Newcastle Utd v Tottenham"
 group-title="#⚽️ 10 - 16.00 Manchester Utd v Liverpool"
