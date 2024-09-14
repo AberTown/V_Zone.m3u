@@ -3306,6 +3306,30 @@ https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Li
 #KODIPROP:inputstream.adaptive.license_key=0022ce503b9e52a467319739208a38eb:3c383c36b466fe74fbd3a08eeb7a2686
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013635-714861-48f53f9cf2d)/master.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df607a45634f521d9f221047360d7db3:795c808177d6212aa80a5ab3f94fb55e
+#EXTINF:-1 group-title="#⚽️ 4 - 15.00 Fulham v West Ham Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 76
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra76/xtra76.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c33d0c6ad8258cca9f749ec2e412201:cf74279ac4d42bcd9b9503ed8551e940
+#EXTINF:-1 group-title="#⚽️ 3 - 15.00 Crystal Palace v Leicester City" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 77
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra77/xtra77.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e49d168a0d0a5b67899bfe876e2f13ae:16881418c8aebab513c37ef1f46a0dc9
+#EXTINF:-1 group-title="#⚽️ 6 - 15.00 Manchester City v Brentford" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 78
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra78/xtra78.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6096ab3b418f59dc87a777509d56fdbb:c754ef4ec395423d55495776401642a1
+#EXTINF:-1 group-title="#⚽️ 5 - 15.00 Liverpool v Nottingham Forest" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 67
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56906807307516bbe7de1831a1a4e66:aec25f1b435d7a66f5636e0ca9de3bac
+#EXTINF:-1 group-title="#⚽️ 3 - 15.00 Crystal Palace v Leicester City" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 79
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra79/xtra79.isml/index.mpd
 
 group-title="#⚽️ 2 - 15.00 Brighton & H.A. v Ipswich"
 group-title="#⚽️ 3 - 15.00 Crystal Palace v Leicester City"
