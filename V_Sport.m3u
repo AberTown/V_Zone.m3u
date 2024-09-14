@@ -3286,6 +3286,26 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
 
+#EXTINF:-1 group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg" group-title="#⚽️ 5 - 15.00 Liverpool v Nottingham Forest", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00220bb5b2dcecce941434e11fb0361b:55fceb598e550af186a88d03da5f6486
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013778-715026-48f5c7fd192)/master.mpd
+
+#EXTINF:-1 group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg" group-title="#⚽️ 2 - 15.00 Brighton & H.A. v Ipswich", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022679ed976fa2369a533b9da38e3f5:7b2b0914b6608a4af0ad58969cdb283f
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013634-714860-48f53ea8cec)/master.mpd
+
+#EXTINF:-1 group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg" group-title="#⚽️ 4 - 15.00 Fulham v West Ham Utd", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022ca5f216dc5017036cc5de1015d0b:50e7baef53979b94301ac82ccfbfc6fb
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013633-714859-48f53db4aab)/master.mpd
+
+#EXTINF:-1 group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg" group-title="#⚽️ 6 - 15.00 Manchester City v Brentford", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022ce503b9e52a467319739208a38eb:3c383c36b466fe74fbd3a08eeb7a2686
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013635-714861-48f53f9cf2d)/master.mpd
+
 group-title="#⚽️ 1 - 12.30 Southampton v Manchester Utd"
 group-title="#⚽️ 2 - 15.00 Brighton & H.A. v Ipswich"
 group-title="#⚽️ 3 - 15.00 Crystal Palace v Leicester City"
