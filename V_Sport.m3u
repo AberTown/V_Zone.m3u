@@ -4,15 +4,6 @@
 
 ================================V Sport EPL==========================================
 
-group-title="#⚽️ 2 - 15.00 Aston Villa v Wolves"
-group-title="#⚽️ 3 - 15.00 Fulham v Newcastle Utd"
-group-title="#⚽️ 4 - 15.00 Leicester City v Everton"
-group-title="#⚽️ 5 - 15.00 Liverpool v Bournemouth"
-group-title="#⚽️ 7 - 15.00 Tottenham v Brentford"
-group-title="#⚽️ 8 - 17.30 Crystal Palace v Manchester Utd"
-group-title="#⚽️ 9 - 14.00 Brighton & H.A. v Nottingham Forest"
-group-title="#⚽️ 10 - 16.30 Manchester City v Arsenal"
-
 #EXTINF:-1 group-title="#⚽️ 8 - 17.30 Crystal Palace v Manchester Utd" tvg-id=" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-ultra-hd-se.png", SE- V Sport UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3786,8 +3777,11 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-default/__dci/242/__f/manifest.mpd
 
 group-title="#⚽️ 1 - 12.30 West Ham Utd v Chelsea"
+group-title="#⚽️ 2 - 15.00 Aston Villa v Wolves"
+group-title="#⚽️ 3 - 15.00 Fulham v Newcastle Utd"
 group-title="#⚽️ 4 - 15.00 Leicester City v Everton"
 group-title="#⚽️ 5 - 15.00 Liverpool v Bournemouth"
+group-title="#⚽️ 6 - 15.00 Southampton v Ipswich Town"
 group-title="#⚽️ 7 - 15.00 Tottenham v Brentford"
 group-title="#⚽️ 8 - 17.30 Crystal Palace v Manchester Utd"
 group-title="#⚽️ 9 - 14.00 Brighton & H.A. v Nottingham Forest"
