@@ -3783,7 +3783,12 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 #EXTINF:-1 group-title="#⚽️ 8 - 17.30 Crystal Palace v Manchester Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 74
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra74/xtra74.isml/index.mpd
 
-group-title="#⚽️ 8 - 17.30 Crystal Palace v Manchester Utd"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae6701fa0a0f501e823d04337b94249e:2a24717173c36fdd00f6bcb61db61dac
+#EXTINF:-1 group-title="#⚽️ 8 - 17.30 Crystal Palace v Manchester Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 75
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra75/xtra75.isml/index.mpd
+
+
 group-title="#⚽️ 9 - 14.00 Brighton & H.A. v Nottingham Forest"
 group-title="#⚽️ 10 - 16.30 Manchester City v Arsenal"
 
