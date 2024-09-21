@@ -3878,17 +3878,35 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
 
-group-title="#⚽️ 1 - 12.30 West Ham Utd v Chelsea"
-group-title="#⚽️ 2 - 15.00 Aston Villa v Wolves"
-group-title="#⚽️ 3 - 15.00 Fulham v Newcastle Utd"
-group-title="#⚽️ 4 - 15.00 Leicester City v Everton"
-group-title="#⚽️ 5 - 15.00 Liverpool v Bournemouth"
-group-title="#⚽️ 6 - 15.00 Southampton v Ipswich Town"
-group-title="#⚽️ 7 - 15.00 Tottenham v Brentford"
+#EXTINF:-1 group-title="#⚽️ 2 - 15.00 Aston Villa v Wolves" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", tvg-id="ksport1hd", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022f273ed6fb5dff81d5077d31f5828:abe8518e8479787274f3fc12ed22190d
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013864-715126-48f61a01376)/master.mpd
+
+#EXTINF:-1 group-title="#⚽️ 3 - 15.00 Fulham v Newcastle Utd" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", tvg-id="ksport1hd", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022c7155c95dd2903f051d4168e0c1e:5d6da1f287d13c24bc130d8389d68b69
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013865-715127-48f61af55b7)/master.mpd
+
+#EXTINF:-1 group-title="#⚽️ 4 - 15.00 Leicester City v Everton" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", tvg-id="ksport1hd", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00226a17b7e6f5178abb2ae3b951fd4b:f5a8176bf7e66c5b456ac1b8ff40f913
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013863-715125-48f6190d135)/master.mpd
+
+#EXTINF:-1 group-title="#⚽️ 6 - 15.00 Southampton v Ipswich Town" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", tvg-id="ksport1hd", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022acf632887f4c9fa8441fde8352b3:dda7a5453523f26161345e5486e43474
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013866-715128-48f61be97f8)/master.mpd
+
+#EXTINF:-1 group-title="#⚽️ 7 - 15.00 Tottenham v Brentford" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg", tvg-id="ksport1hd", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022543b31c3eb0fd39af9d972377431:dba2e6e194f7f22bda72364fd0eaeea9
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013868-715130-48f61dd1c7a)/master.mpd
+
+
 group-title="#⚽️ 8 - 17.30 Crystal Palace v Manchester Utd"
 group-title="#⚽️ 9 - 14.00 Brighton & H.A. v Nottingham Forest"
 group-title="#⚽️ 10 - 16.30 Manchester City v Arsenal"
 
-tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1136&format=jpeg"
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
