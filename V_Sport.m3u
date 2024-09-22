@@ -3776,6 +3776,14 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 #EXTINF:-1 group-title="#⚽️ 9 - 14.00 Brighton & H.A. v Nottingham Forest" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 78
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra78/xtra78.isml/index.mpd
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg?20220617212612",Setanta Event 8 HD
+#EXTGRP: #⚽️ 9 - 14.00 Brighton & H.A. v Nottingham Forest
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd
+
 group-title="#⚽️ 9 - 14.00 Brighton & H.A. v Nottingham Forest"
 group-title="#⚽️ 10 - 16.30 Manchester City v Arsenal"
 
