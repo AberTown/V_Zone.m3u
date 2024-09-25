@@ -3925,6 +3925,11 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 #EXTINF:-1 group-title="#⚽️ 2 - 20.00 Liverpool v West Ham Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 66
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra66/xtra66.isml/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16a2d39eb1ab526491cb75bbcdd36c11:d4ac894a6f201ae733bbd49bc205c523
+#EXTINF:-1 group-title="#⚽️ 3 - 20.00 Manchester Utd v Twente" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 13
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra13/xtra13.isml/index.mpd
+
 group-title="#⚽️ 1 - 19.45 Arsenal v Bolton Wanderers"
 group-title="#⚽️ 2 - 20.00 Liverpool v West Ham Utd"
 group-title="#⚽️ 3 - 20.00 Manchester Utd v Twente"
