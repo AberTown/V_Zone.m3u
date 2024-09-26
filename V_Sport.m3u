@@ -3807,6 +3807,54 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=bfd49547070e4e13aafbced309d18cb3&key=a8d7ba68598055ae2b10d79652237f2e
 https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-default/__dci/242/__f/manifest.mpd
 
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="#⚽️ 1 - 12.30 Newcastle Utd v Manchester City", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="#⚽️ 4 - 15.00 Chelsea v Brighton & H.A.", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="#⚽️ 2 - 15.00 Arsenal v Leicester City", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="#⚽️ 6 - 15.00 Nottingham Forest v Fulham", DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="#⚽️ 5 - 15.00 Everton v Crystal Palace", DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
+
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="#⚽️ 7 - 17.30 Wolves v Liverpool", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="#⚽️ 8 - 14.00 Ipswich Town v Aston Villa", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="#⚽️ 9 - 16.30 Manchester Utd v Tottenham", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
 group-title="#⚽️ 1 - 12.30 Newcastle Utd v Manchester City"
 group-title="#⚽️ 2 - 15.00 Arsenal v Leicester City"
 group-title="#⚽️ 3 - 15.00 Brentford v West Ham Utd"
