@@ -3861,6 +3861,12 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcd-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
 
+#EXTINF:-1 group-logo="https://rb.gy/98jmt0" tvg-logo="https://rb.gy/98jmt0" group-title="Test", DAZN 1..
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcg-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
 group-title="#⚽️ 1 - 12.30 Newcastle Utd v Manchester City"
 group-title="#⚽️ 2 - 15.00 Arsenal v Leicester City"
 group-title="#⚽️ 3 - 15.00 Brentford v West Ham Utd"
