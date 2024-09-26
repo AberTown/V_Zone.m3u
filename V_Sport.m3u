@@ -3804,19 +3804,4 @@ group-title="#⚽️ 8 - 14.00 Ipswich Town v Aston Villa"
 group-title="#⚽️ 9 - 16.30 Manchester Utd v Tottenham"
 group-title="#⚽️ 10 - 20.00 Bourenmouth v Southampton"
 
-#EXTINF:-1 group-title="ICC 50" tvg-id=" tvg-logo="", Jersey v Qatar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-06-d/DASH_DASH/Live/channel(ch-hd-06)/hdntl=exp=1727362205~acl=%2fvariant%2fv1blackout%2fch-hd-06-d%2f*~data=hdntl~hmac=e86abdfa5db7fcc472803d113cbc2fc47faba5dd4289eb2050ee188814b31ee7/manifest.mpd
-
-#EXTINF:-1 group-title="ICC 50" tvg-id=" tvg-logo="", Jersey v Qatar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-06-d/DASH_DASH/Live/channel(ch-hd-06)/hdntl=exp=1727362205~acl=%2fvariant%2fv1blackout%2fch-hd-06-d%2f*~data=hdntl~hmac=e86abdfa5db7fcc472803d113cbc2fc47faba5dd4289eb2050ee188814b31ee7/manifest.mpd
-
-
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
