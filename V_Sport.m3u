@@ -3907,6 +3907,11 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 #EXTINF:-1 group-title="#⚽️ 8 - 14.00 Ipswich Town v Aston Villa" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 66
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra66/xtra66.isml/index.mpd
 
+#EXTINF:-1 group-title="#⚽️ 9 - 16.30 Manchester Utd v Tottenham" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
+https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
+
 group-title="#⚽️ 8 - 14.00 Ipswich Town v Aston Villa"
 group-title="#⚽️ 9 - 16.30 Manchester Utd v Tottenham"
 group-title="#⚽️ 10 - 20.00 Bournemouth v Southampton"
