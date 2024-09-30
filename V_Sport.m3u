@@ -995,18 +995,6 @@ https://live9b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/xtra100/xtra100.isml
 
 =======================================================
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "kid": "u0t47zl2RuOuXxO9sj1W7Q", "k": "wSR6lCxxJkQ6kyFMZ0Mf6A"}]}
-#EXTINF:-1 group-title="European Sports" tvg-id="ziggosportgolf.nl" tvg-logo="https://kickboksers.nl/wp-content/uploads/2018/07/ZIGGO-SPORT-grey.png",NL - Ziggo Sports Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
-
-#EXTINF:-1 group-title="European Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", NL - Ziggo Sports Golf
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
-https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000096_019382/manifest.mpd
 
 #EXTINF:-1 group-title="European Sports" tvg-id=" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png", LI - Go 3 Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -3180,102 +3168,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-041/stream.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57732fdf21dd79a210a99bef27678198:60c0217702a5c9706fed4f77e14c1066
-https://svc40.main.sl.t-online.de/LCID3221228370.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228370/3221228370.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 1 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1b96230398c0f90f6a590318ca5aa62:b4956546548fef191fa61927735c483f
-https://svc40.main.sl.t-online.de/LCID3221228118.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228118/3221228118.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports", MagentaSport - myTeamTV 2 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e81ef1e0e7e35c758ee44ec0484f8642:f80d0f3913023b38690be8fc35109465
-https://svc40.main.sl.t-online.de/LCID3221228119.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228119/3221228119.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 3 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32669b18c262c13c45936751a80cce79:e51729942cd9021d807b61810e260342
-https://svc40.main.sl.t-online.de/LCID3221228153.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228153/3221228153.mpd
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 4 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff2bd9af5ac480a0db1e721bf5850dc0:79cf37596b98fb09ae56e007f83a7bb4
-https://svc40.main.sl.t-online.de/LCID3221228121.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228121/3221228121.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 5 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc7d77bbceffd445882187bdcab1f913:494bb1e0c47d1b53f293e2df2846d86c
-https://svc40.main.sl.t-online.de/LCID3221228159.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228159/3221228159.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 6 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8d7a4eb8d51c6fa6ac646352e8afc01:cd43c5ed6eedb6ff9ea3a7ee824c8351
-https://svc40.main.sl.t-online.de/LCID3221228120.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228120/3221228120.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 7 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b79691970042aaa196160aaf1be13e2:e8d3a52db4b23e116f093c244d09d873
-https://svc40.main.sl.t-online.de/LCID3221228123.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228123/3221228123.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 8 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d469d4711b2ce222cae034d3d0e02b40:b482661e7e6764caa9bd055d3dd6e1a4
-https://svc40.main.sl.t-online.de/LCID3221228134.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228134/3221228134.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 9 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3556e448bda29005f7fa1a8936fdcb92:302d54f13208e8c3f72a1158814c1aaa
-https://svc40.main.sl.t-online.de/LCID3221228136.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228136/3221228136.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 10 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f11292912083652ecaf8c6e7b05175c:e247d86ecdddd5509c10a7710c79c1d6
-https://svc40.main.sl.t-online.de/LCID3221228174.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228174/3221228174.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 11 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c02bf7cab2e1a18f2048468a7e8d588:062e4b43f9ce0f8dac64e9215807a291
-https://svc40.main.sl.t-online.de/LCID3221228190.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228190/3221228190.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 12 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc535f0abf5033f5bb24a9c64a7b4bff:c394161719fce65ba510414732049072
-https://svc40.main.sl.t-online.de/LCID3221228184.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228184/3221228184.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 13 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71e4bf955ad7b75727339f24732b7f4f:ed2107992193996f6881e1ad967349e8
-https://svc40.main.sl.t-online.de/LCID3221228138.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228138/3221228138.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 14 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77c195605fe4c4658008b144afaeef0c:cbddc7cdf0e28226480893b829724f4e
-https://svc40.main.sl.t-online.de/LCID3221228178.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228178/3221228178.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 15 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24103e2a2c04b1b042bb5ee5c06c4ce3:ee1f81509d79e4fedc4ec68c7ee97645
-https://svc40.main.sl.t-online.de/LCID3221228122.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228122/3221228122.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 16 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be206c341777d0662eb009d234b1d10c:b26601692a8a0afad70ca38b1dc3db4b
-https://svc40.main.sl.t-online.de/LCID3221228201.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228201/3221228201.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV 17 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7dee05a422afdbb3888ec25d7a2afcb5:87896fe4931a5044219c2a4152d4cd58
-https://svc40.main.sl.t-online.de/LCID3221228202.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228202/3221228202.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ypPj2qh/magentas.png" group-title="European Sports",MagentaSport - myTeamTV  18 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8389c9a0b9507bd8e5bed9555d77f5d:6f5361b6333d3de9a50722cd45177abb
-https://svc40.main.sl.t-online.de/LCID3221228270.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228270/3221228270.mpd
 
 #EXTINF:-1 group-title="European Sports" tvg-id="Матч ТВ" tvg-logo="https://i.ibb.co.com/580BTxg/matchru.png", MATCH! 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
