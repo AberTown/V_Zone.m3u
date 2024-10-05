@@ -3873,11 +3873,11 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra15/xtra15.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 3 - 15.00 Brentford v Wolves" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 16
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra16/xtra16.isml/index.mpd
 
-group-title="#⚽️ 2 - 15.00 Arsenal v Southampton"
-group-title="#⚽️ 3 - 15.00 Brentford v Wolves"
-group-title="#⚽️ 4 - 15.00 Leicester City v Bournemouth"
-group-title="#⚽️ 5 - 15.00 Manchester City v Fulham"
-group-title="#⚽️ 6 - 15.00 West Ham Utd v Ipswich Town"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e49d168a0d0a5b67899bfe876e2f13ae:16881418c8aebab513c37ef1f46a0dc9
+#EXTINF:-1 group-title="#⚽️ 5 - 15.00 Manchester City v Fulham" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 78
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra78/xtra78.isml/index.mpd
+
 group-title="#⚽️ 7 - 17.30 Everton v Newcastle Utd"
 group-title="#⚽️ 8 - 14.00 Aston Villa v Manchester Utd"
 group-title="#⚽️ 9 - 14.00 Chelsea v Nottingham Forest"
