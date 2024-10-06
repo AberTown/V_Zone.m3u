@@ -3664,6 +3664,11 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP3/GO3_LIVE_DASH_AVC/VIP3.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
 https://cdn9.tvplayhome.lt/live/eds2/VIP6/GO3_LIVE_DASH_AVC/VIP6.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a0c1ed5c545545697fbd68ca4751d5b:5e6faf300c09e230220d672e95915d6f
+#EXTINF:-1 group-title="#⚽️ 8 - 14.00 Aston Villa v Manchester Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 73
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra73/xtra73.isml/index.mpd
+
 group-title="#⚽️ 8 - 14.00 Aston Villa v Manchester Utd"
 group-title="#⚽️ 9 - 14.00 Chelsea v Nottingham Forest"
 group-title="#⚽️ 10 - 16.30 Brighton & H.A. v Tottenham"
