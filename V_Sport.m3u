@@ -3804,4 +3804,46 @@ group-title="#⚽️ 8 - 14.00 Aston Villa v Manchester Utd"
 group-title="#⚽️ 9 - 14.00 Chelsea v Nottingham Forest"
 group-title="#⚽️ 10 - 16.30 Brighton & H.A. v Tottenham"
 
+#EXTINF:-1 tvg-id="TSN1 HD" tvg-logo="https://iili.io/Jhkb4NS.png" group-title="CANADIAN SPORTS",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="TSN2 HD" tvg-logo="https://iili.io/JhkbsVe.png" group-title="CANADIAN SPORTS",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="TSN3 HD" tvg-logo="https://iili.io/Jhkbix9.png" group-title="CANADIAN SPORTS",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="TSN4 HD" tvg-logo="https://iili.io/Jhkb6D7.png" group-title="CANADIAN SPORTS",TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="TSN5 HD" tvg-logo="https://iili.io/JhkbLiu.png" group-title="CANADIAN SPORTS",TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sportsnet One HD.ca" tvg-logo="https://iili.io/d9lhuUP.png" group-title="CANADIAN SPORTS",Sportsnet One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
+https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/d9lhT0B.png" group-title="CANADIAN SPORTS",Sportsnet World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
+https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN 1.tw" tvg-logo="https://iili.io/d06YU1p.png" group-title="TAIWANESE SPORTS",DAZN 1 Taiwan
+rtmp://220.130.201.73/sat/tv731
+ 
+#EXTINF:-1 tvg-id="DAZN 2.tw" tvg-logo="https://iili.io/d06YSBR.png" group-title="TAIWANESE SPORTS",DAZN 2 Taiwan
+rtmp://220.130.201.73/sat/tv741
+
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
