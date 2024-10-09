@@ -3380,8 +3380,8 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://i.ibb.co.com/rMqyf0w/wwe.png" group-title="#🇺🇸 USA Sport 🇺🇸#", WWE NETWORK 🇺🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
-https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport 3" tvg-logo="https://i.ibb.co.com/y4w25Sm/ziggosport3.png" group-title="European Sports", ZIGGO SPORT 3 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
