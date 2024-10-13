@@ -3670,14 +3670,14 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tp.babel-in.xyz/keys/tpck.php?id=246
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=246
 #EXTINF:-1 tvg-id="246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
-https://tp.babel-in.xyz/246.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=246
 
-#EXTVLCOPT:http-user-agent=DevilBhai/5.0 AppleWebKit/534.46.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tp.babel-in.xyz/keys/tpck.php?id=463
+#KODIPROP:inputstream.adaptive.license_key=http://yuvraj.fun/tp-keys/key.php?id=463
 #EXTINF:-1 tvg-id="463" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
-https://tp.babel-in.xyz/463.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=463
