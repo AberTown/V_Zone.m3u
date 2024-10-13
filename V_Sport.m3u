@@ -3669,3 +3669,17 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-default/__dci/242/__f/manifest.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
+
+#EXTINF:-1 tvg-id="" group-title="Test" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Test
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=883a27990d67483592862804e643143f:0de00499eb011e5634e8ff8306c1abaf
+https://r-live-cache.akamaized.net/USL03/12H/12H.isml/.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Test" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",Test
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=883a27990d67483592862804e643143f:0de00499eb011e5634e8ff8306c1abaf
+https://r-live-cache.akamaized.net/USL03/12H/12H.isml/.mpd?hdnts=exp=1728827048~acl=*/12H/*~id=9e0933bc-979d-419e-9570-8b9496856ea2~data=playback_capabilities=CLOUD_DVR~hmac=c4b412dff8f5ff878dcfc13f0568885c90cb12d20a6aadad66de071029061cd0&filter=%28type%3D%3D%22video%22%26%26MaxHeight%3C%3D2160%29%7C%7C%28type%3D%3D%22audio%22%26%26systemBitrate%3E30000%29%7C%7C%28type%3D%3D%22textstream%22%29
