@@ -2545,6 +2545,14 @@ https://live2-ott.izzigo.tv/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 
+#EXTINF:-1 group-title="Sky Sports Mexico" group-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg", Sky Sports Live Event 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
+
 #EXTINF:-1 group-title="Fox Sports Mexico" group-logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/27a65c99f3dcb016083063ecb7129770/foxsports1.png" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/27a65c99f3dcb016083063ecb7129770/foxsports1.png", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
