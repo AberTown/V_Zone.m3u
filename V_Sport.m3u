@@ -3856,6 +3856,11 @@ https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Li
 #KODIPROP:inputstream.adaptive.license_key=0022e0a9aeccb5d0e7557b1c7877649e:e3bc6b7edcedf7c281d86c3a4f5dd3d2
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014167-715470-48f73af7e8e)/master.mpd
 
+#EXTINF:-1 group-title="#⚽️ 6 - 15.00 Southampton v Leicester City" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
+https://cdn9.tvplayhome.lt/live/eds2/VIP5/GO3_LIVE_DASH_AVC/VIP5.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 group-title="#⚽️ 1 - 12.30 Tottenham v West Ham Utd"
