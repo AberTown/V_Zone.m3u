@@ -3854,6 +3854,26 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP6/GO3_LIVE_DASH_AVC/VIP6.mpd
 #EXTINF:-1 group-title="#⚽️ 1 - 12.30 Tottenham v West Ham Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 66
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra66/xtra66.isml/index.mpd
 
+#EXTINF:-1 group-title="#⚽️ 2 - 15.00 Fulham v Aston Villa" tvg-logo="https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/08/Peacock-TV-logo.jpg", tvg-id="ksport1hd", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00222468665377bcc2352508fa5a83fe:43bdc5885860183c56dcdc20362c3ed8
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014202-715510-48f75c58d76)/master.mpd
+
+#EXTINF:-1 group-title="#⚽️ 3 - 15.00 Ipswich Town v Everton" tvg-logo="https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/08/Peacock-TV-logo.jpg", tvg-id="ksport1hd", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00225a45f6991173ea36d25fe88924be:75a8f7c332aa3ea34bed1e439ed1ff68
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014166-715469-48f73a03c4d)/master.mpd
+
+#EXTINF:-1 group-title="#⚽️ 4 - 15.00 Manchester Utd v Brentford" tvg-logo="https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/08/Peacock-TV-logo.jpg", tvg-id="ksport1hd", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002295f5a27b05c8c5c4204671dd80b1:b96648165f75b17238f1a1dc986927e9
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014169-715472-48f73ce0310)/master.mpd
+
+#EXTINF:-1 group-title="#⚽️ 6 - 15.00 Southampton v Leicester City" tvg-logo="https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/08/Peacock-TV-logo.jpg", tvg-id="ksport1hd", Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022e0a9aeccb5d0e7557b1c7877649e:e3bc6b7edcedf7c281d86c3a4f5dd3d2
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014167-715470-48f73af7e8e)/master.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 group-title="#⚽️ 1 - 12.30 Tottenham v West Ham Utd"
