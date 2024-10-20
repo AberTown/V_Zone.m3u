@@ -3813,6 +3813,16 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta1
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
 https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6096ab3b418f59dc87a777509d56fdbb:c754ef4ec395423d55495776401642a1
+#EXTINF:-1 group-title="#⚽️ 9 - 16.30 Liverpool v Chelsea" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 67
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6096ab3b418f59dc87a777509d56fdbb:c754ef4ec395423d55495776401642a1
+#EXTINF:-1 group-title="#⚽️ 9 - 16.30 Liverpool v Chelsea" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 67
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 group-title="#⚽️ 9 - 16.30 Liverpool v Chelsea"
