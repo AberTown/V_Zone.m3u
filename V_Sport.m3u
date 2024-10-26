@@ -3880,6 +3880,11 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra40/xtra40.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 2 - 15.00 Aston Villa v Bournemouth" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 16
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra16/xtra16.isml/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa88b3eaf095e2192373fa7dff1d8a6:735d096341f4f227dfad4fdcd0fded98
+#EXTINF:-1 group-title="#⚽️ 5 - 15.00 Manchester City v Southampton" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Suomi Test
+https://live8-dash-cdn1-cf-mp-cdn-viaplay-tv.akamaized.net/4c36714a64a34ed69c907b7490c83786/start/1729950580/end/1729981800/index.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 group-title="#⚽️ 2 - 15.00 Aston Villa v Bournemouth"
