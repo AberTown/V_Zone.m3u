@@ -3869,8 +3869,13 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP5/GO3_LIVE_DASH_AVC/VIP5.mpd
 
 #EXTINF:-1 group-title="#⚽️ 10 - 16.30 Arsenal v Liverpool" group-logo="" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022c121be33ed4323fc5fd3e355f2e7:42bb757859e0569744440e991523d04c
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014242-715554-48f7827e7a2)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0022df621b447d66d870e044506fc5a2:22b21ac0aa59c09d3dab67515fa0eb68
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014245-715557-48f7855ae65)/master.mpd
+
+#EXTINF:-1 group-title="#⚽️ 10 - 16.30 Arsenal v Liverpool" group-logo="" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022df621b447d66d870e044506fc5a2:22b21ac0aa59c09d3dab67515fa0eb68
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014244-715556-48f78466c24)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60b3c6a08caa56d2b67fa17274e5f41b:bb473efe562264b044961a57695d4754
