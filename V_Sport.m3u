@@ -4081,3 +4081,34 @@ group-title="#⚽️ 7 - 17.30 Wolves v Crystal Palace"
 group-title="#⚽️ 8 - 14.00 Tottenham v Aston Villa"
 group-title="#⚽️ 9 - 16.30 Manchester Utd v Chelsea"
 group-title="#⚽️ 10 - 20.00 Fulham v Brentford"
+
+#EXTINF:-1 tvg-id="246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drmlive.in/tataplay/tpck.php?id=246
+#EXTVLCOPT:http-user-agent=third-party
+https://jerielnino.vercel.app/246.mpd|X-Forwarded-For=59.178.72.184
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/5En7pOI.png",Star Sports 2 HD (Temp)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"2a9ea545a4615e758a880305fb03fb3c": "77dd975aaa8c21c34e9cfbf433af5c41"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/2Nofz51.png",Star Sports Select 1 HD (Temp)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"fa56c8a659c5561b962f45143f4776bc": "f23e365b7fa71ef236f1cf09fb1f0628"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/thecricsters.mpd
+
+
+#EXTINF:-1  tvg-id="Premier.Sports.1" tvg-logo="https://i.imgur.com/JA3nvTM.png",Star Sports Select 2 HD (Temp)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"11b722e49e405ebbaffa397f712111be": "a7b9c6b4376d850d452f1802402fb2ba"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/Ambani-Mere-Lode-Pe-Vo-B-Sone-Ka.mpd
