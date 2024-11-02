@@ -4039,6 +4039,11 @@ https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-defau
 #KODIPROP:inputstream.adaptive.license_key=00226e7eaaff11da2d8943d8be63d53c:5f3f8dbf59f6cf547f128e27143a112c
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014686-716084-48f929ed0b4)/master.mpd
 
+#EXTINF:-1 group-title="#⚽️ 2 - 15.00 Bournemouth v Manchester City" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00226e7eaaff11da2d8943d8be63d53c:5f3f8dbf59f6cf547f128e27143a112c
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014686-716084-48f929ed0b4)/master.mpd
+
 #EXTINF:-1 group-title="#⚽️ 3 - 15.00 Ipswich v Leicester" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022079f2123336e463acee902a99592:453152d371becc99977b94bbe409dadc
