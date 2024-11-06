@@ -4153,3 +4153,8 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:05093061005a5947c584ab77035ed678
 https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
+
+#EXTINF:-1 group-title="Test" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a04f07998404286ab92e65be0885f95:1c9f0222e49da66fc785376c0645d86d
+https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
