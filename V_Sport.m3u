@@ -4186,28 +4186,13 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=bfd49547070e4e13aafbced309d18cb3&key=a8d7ba68598055ae2b10d79652237f2e
 https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-default/__dci/242/__f/manifest.mpd
 
-#EXTINF:-1 group-title="#⚽️ 1 - 15.00 Brentford v Bournemouth" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
-#https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
-
-#EXTINF:-1 group-title="#⚽️ 2 - 15.00 Crystal Palace v Fulham" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
-#https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
-
 #EXTINF:-1 group-title="#⚽️ 6 - 20.00 Liverpool v Aston Villa" group-logo="" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1200&format=jpeg", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e49d168a0d0a5b67899bfe876e2f13ae:16881418c8aebab513c37ef1f46a0dc9
-#EXTINF:-1 group-title="#⚽️ 5 - 17.30 Brighton & H.A. v Manchester City" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 78
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra78/xtra78.isml/index.mpd
-
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
-group-title="#⚽️ 5 - 17.30 Brighton & H.A. v Manchester City"
+
 group-title="#⚽️ 6 - 20.00 Liverpool v Aston Villa"
 group-title="#⚽️ 7 - 14.00 Manchester Utd v Leicester"
 group-title="#⚽️ 8 - 14.00 Nottingham Forest v Newcastle Utd"
