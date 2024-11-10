@@ -4262,17 +4262,12 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra43/xtra43.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 8 - 14.00 Nottingham Forest v Newcastle Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 14
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra14/xtra14.isml/index.mpd
 
-#EXTINF:-1 group-title="#⚽️ 7 - 14.00 Manchester Utd v Leicester" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1200&format=jpeg", tvg-id="ksport1hd", Peacock TV
+#EXTINF:-1 group-title="#⚽️ 7 - 14.00 Manchester Utd v Leicester" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1200&format=jpeg", tvg-id="ksport1hd", Viaplay Finland
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-#EXTINF:-1 group-title="#⚽️ 8 - 14.00 Nottingham Forest v Newcastle Utd" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1200&format=jpeg", tvg-id="ksport1hd", Peacock TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=5e7eec87c7bf5fab9f5d6750af272735:a69d9506542f63adbf829d68428553c6
+https://live-dash-cdn6-mp.cdn.viaplay.tv/87f23164fc0e445984056852d5142b0d/start/1731246580/end/1731277800/index.mpd?aws.manifestfilter=video_codec:h264;video_bitrate:0-6200000;video_framerate:25-60;video_height:1-721;audio_codec:AACL;audio_language:fin
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
