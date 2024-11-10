@@ -4232,6 +4232,11 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
 https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f4763795b651c7b7308061aab429cb:10dd1e5c73efaa7529547e95b539489c
+#EXTINF:-1 group-title="#⚽️ 7 - 14.00 Manchester Utd v Leicester" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 80
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra80/xtra80.isml/index.mpd
+
 #EXTINF:-1 group-title="#⚽️ 7 - 14.00 Manchester Utd v Leicester" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1200&format=jpeg", tvg-id="ksport1hd", Peacock TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4251,9 +4256,3 @@ group-title="#⚽️ 8 - 14.00 Nottingham Forest v Newcastle Utd"
 group-title="#⚽️ 9 - 14.00 Tottenham v Ipswich"
 group-title="#⚽️ 10 - 16.30 Chelsea v Arsenal"
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.insider.com/5f610fc457b7da001ee11cc8?width=1200&format=jpeg", tvg-id="ksport1hd", Peacock TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=000b0e3422812fcf3d1eb8cdf7511193:1fe928a3793feb3739f293b0b1b81d1d
-https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/031122-50/index_stereo.mpd
