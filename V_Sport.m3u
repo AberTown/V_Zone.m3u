@@ -2674,6 +2674,15 @@ https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
 #KODIPROP:inputstream.adaptive.license_key=3a3c1d1cb88ea5a8a38528d0b9702390:a4c4e53270616bc2c88c5edce8fd4474
 https://live.rte.ie/live/a/channel4/channel4.isml/manifest.mpd
 
+#EXTINF:-1 group-title="UK Entertainment",Virgin media 1 Ireland
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+#EXTINF:-1 group-title="UK Entertainment",Virgin media 2 Ireland
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+#EXTINF:-1 group-title="UK Entertainment",Virgin media 3 Ireland
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1 group-title="UK Entertainment",Virgin media 4 Ireland
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+
 --------------------------------Polsat Sport-----------------------------------------
 
 #EXTINF:-1 group-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/3a/3ahi9wt24ei4aycym8gijo5yeuyn44so.jpg" group-title="Polsat Sport - VPN" , Polsat Sport 1 Premium
