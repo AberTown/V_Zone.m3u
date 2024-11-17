@@ -11,77 +11,14 @@
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viasat Sport Golf
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddd17d7f1a8d5ae5b3f1f20f9056fe24:d30490f7aaf1e6f6399aa0d347a16775
-https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viasat Sport Football
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4be1ea6d740552f2bc5cb115de6f694d:4dcf1766926e6357d9188399b7004583
-https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsf/vsf.isml/index.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", V Sport 1 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20": "556d72c812df452fad9bed66292bfc63", "a0e68f01a5428cbdb8cfac2080c66b10": "be7f9d1a00bbd0478335a4a48379157d"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", V Sport 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b62aca5b566dc3ded74233192b28a120": "e8c5369c9c4aa58c1c8489c7db52db8c", "b62aca5b566dc3ded74233192b28a110": "143bfe648cc9d14917d41e0662452771"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", V Sport 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20": "3f73e8c9b64b2972bd25859efef7e5ac", "10827657b810ae957f6adc178eca9c10": "ca8605499cbdc8e0d2f12898258f8f6e"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", V Sport +
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5ac608b8804cec0453314a751cdf5f20": "2bfed47e32b19e4ecf3f0692876e4ce5", "5ac608b8804cec0453314a751cdf5f10": "a01e1090ee4a41d57dff74a8703e17cf"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Sport Live
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"99a4b11ecd0def97aca1ecef9ee15420": "8399d4f59726f514b7665bb5ff66a9e1", "99a4b11ecd0def97aca1ecef9ee15410": "5593fc645a7432cb88954bae345b9b03"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_sportlive_dk_live/sm_sportlive_dk_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", TV2 SPORT PREMIUM HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"009c35875ff000418c39f05622cf6b20": "88d5b1a639ebad6112c6447290169599", "009c35875ff000418c39f05622cf6b10": "fb5e26e27925056e76885711cbf3ac1c"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium1_live/sm_tv2sportpremium1_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", TV2 SPORT PREMIUM HD 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8bcb911fa8af2f5b6d7211a7a80e0d20": "c37e1743b2f4b98360b0b19698edb194", "8bcb911fa8af2f5b6d7211a7a80e0d10": "fd192fb86701ab096fc58ebbc8c3f112"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium2_live/sm_tv2sportpremium2_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", CANAL_SPORTS 1 - VPN 
+#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", CANAL+ SPORTS 1 - VPN 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0955e6505d341159f22cdfce6bd0511:33f3772c6d7c5737e4925b42171300ac
 https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd
 
-#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", CANAL_SPORTS 2 - VPN 
+#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", CANAL+ SPORTS 2 - VPN 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2045,6 +1982,63 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #EXTINF:-1 group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
+
+#EXTINF:-1 group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6JWr6g1S5djCpZ40Imo0ZQ/57f0882ba283d2cc605e0cccc227e4c0/v-sport-golf.png", Viasat Sport Golf
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddd17d7f1a8d5ae5b3f1f20f9056fe24:d30490f7aaf1e6f6399aa0d347a16775
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
+
+#EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", SE - V Sport Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be1ea6d740552f2bc5cb115de6f694d:4dcf1766926e6357d9188399b7004583
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsf/vsf.isml/index.mpd
+
+#EXTINF:-1 group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20": "556d72c812df452fad9bed66292bfc63", "a0e68f01a5428cbdb8cfac2080c66b10": "be7f9d1a00bbd0478335a4a48379157d"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
+
+
+#EXTINF:-1 group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b62aca5b566dc3ded74233192b28a120": "e8c5369c9c4aa58c1c8489c7db52db8c", "b62aca5b566dc3ded74233192b28a110": "143bfe648cc9d14917d41e0662452771"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"10827657b810ae957f6adc178eca9c20": "3f73e8c9b64b2972bd25859efef7e5ac", "10827657b810ae957f6adc178eca9c10": "ca8605499cbdc8e0d2f12898258f8f6e"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2024/03/07/94290842-d02d-469d-b621-6c62a89dbf8d/FINLAND-V-SPORT-PLUS.png?width=410", NO - V Sport+ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5ac608b8804cec0453314a751cdf5f20": "2bfed47e32b19e4ecf3f0692876e4ce5", "5ac608b8804cec0453314a751cdf5f10": "a01e1090ee4a41d57dff74a8703e17cf"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1582.png",NO - TV2 Sport Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"009c35875ff000418c39f05622cf6b20": "88d5b1a639ebad6112c6447290169599", "009c35875ff000418c39f05622cf6b10": "fb5e26e27925056e76885711cbf3ac1c"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium1_live/sm_tv2sportpremium1_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1582.png",NO - TV2 Sport Premium 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8bcb911fa8af2f5b6d7211a7a80e0d20": "c37e1743b2f4b98360b0b19698edb194", "8bcb911fa8af2f5b6d7211a7a80e0d10": "fd192fb86701ab096fc58ebbc8c3f112"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium2_live/sm_tv2sportpremium2_live.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49f577002aa550a8b8f419b4a507458f:46da47eebf5416828f9e005683c6546e
