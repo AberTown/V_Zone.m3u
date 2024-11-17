@@ -11,6 +11,13 @@
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
+#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viasat Sport Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1447cecef3a4e839d59c1f994eaf2c6:86a376288496a0c32e1178e42139ce66
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_sport_premium_live/sm_viasat_sport_premium_live.isml/playlist.mpd
+
 #EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", V Sport 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
