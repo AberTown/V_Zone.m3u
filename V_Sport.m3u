@@ -18,6 +18,13 @@
 #KODIPROP:inputstream.adaptive.license_key=ddd17d7f1a8d5ae5b3f1f20f9056fe24:d30490f7aaf1e6f6399aa0d347a16775
 https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
 
+#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viasat Sport Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be1ea6d740552f2bc5cb115de6f694d:4dcf1766926e6357d9188399b7004583
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsf/vsf.isml/index.mpd
+
 #EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", V Sport 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
