@@ -53,6 +53,27 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_
 #KODIPROP:inputstream.adaptive.license_key={"5ac608b8804cec0453314a751cdf5f20": "2bfed47e32b19e4ecf3f0692876e4ce5", "5ac608b8804cec0453314a751cdf5f10": "a01e1090ee4a41d57dff74a8703e17cf"}
 https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
 
+#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Sport Live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"99a4b11ecd0def97aca1ecef9ee15420": "8399d4f59726f514b7665bb5ff66a9e1", "99a4b11ecd0def97aca1ecef9ee15410": "5593fc645a7432cb88954bae345b9b03"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_sportlive_dk_live/sm_sportlive_dk_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", TV2 SPORT PREMIUM HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"009c35875ff000418c39f05622cf6b20": "88d5b1a639ebad6112c6447290169599", "009c35875ff000418c39f05622cf6b10": "fb5e26e27925056e76885711cbf3ac1c"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium1_live/sm_tv2sportpremium1_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", TV2 SPORT PREMIUM HD 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8bcb911fa8af2f5b6d7211a7a80e0d20": "c37e1743b2f4b98360b0b19698edb194", "8bcb911fa8af2f5b6d7211a7a80e0d10": "fd192fb86701ab096fc58ebbc8c3f112"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium2_live/sm_tv2sportpremium2_live.isml/playlist.mpd
+
 #EXTINF:-1 group-title="TestingSCV" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", CANAL_SPORTS 1 - VPN 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
