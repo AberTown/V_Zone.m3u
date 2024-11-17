@@ -17,7 +17,7 @@ a0e68f01a5428cbdb8cfac2080c66b20:556d72c812df452fad9bed66292bfc63
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0e68f01a5428cbdb8cfac2080c66b20:556d72c812df452fad9bed66292bfc63
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oOaPAaVCjL24z6wggMZrIFVtcsgS30UvrZvtZikr/GM=","k":"a0e68f01a5428cbdb8cfac2080c66b10:be7f9d1a00bbd0478335a4a48379157d"}]}
 https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
 
 
