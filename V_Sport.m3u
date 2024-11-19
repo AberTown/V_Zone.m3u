@@ -81,6 +81,13 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_max_live/sm_tv3_max_live.isml/
 #KODIPROP:inputstream.adaptive.license_key={"07423d6dc3e4cbda8ed2af7a4b22fa20": "31083160749e47589f0bf93d8af9aad6", "07423d6dc3e4cbda8ed2af7a4b22fa10": "e400e38002bcfe7ffd76e1992b18f1a8"}
 https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_plus_dk_live/sm_tv3_plus_dk_live.isml/playlist.mpd
 
+#EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/TV3%2B_Denmark_logo_2016.png", My Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2726f2677d8845f4b824f37cd81008c9:9a66f7199b8780f13d91390a6668a0dd
+https://wp2-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV08411/manifest.mpd
+
 ================================Viasport==============================================================================
 
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450"  group-title="#🇸🇪 Viasat Sports 🇸🇪", SE - V Sport Premium
