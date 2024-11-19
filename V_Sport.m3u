@@ -60,6 +60,27 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_hits_live/sm_viasat_fi
 #KODIPROP:inputstream.adaptive.license_key={"d6d898152b00e40b820b8297335c1120": "47c6e30820266db347d583e5195c9d59", "d6d898152b00e40b820b8297335c1110": "e365d691ba8ea5206f62391a5b0df1bf"}
 https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_premiere_live/sm_viasat_film_premiere_live.isml/playlist.mpd
 
+#EXTINF:-1 group-title="Testing" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/77zING8urt2hhcHZRbEktj/c27bbdab3bac74ae421242b246ec8415/v-series.png", V Series
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a48b90fc1d5fb962f5fbe2dcc186a020": "f2055be4226fc9803352ec6a3687b1b0", "a48b90fc1d5fb962f5fbe2dcc186a010": "687b217c3d0333e433d2af8966038c71"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_series_live/sm_viasat_series_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/TV3_Max_logo_2017.png", TV3 Max
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9685fc5e7e019af8cac30f27fb091020": "20f8644cc20c01a1b4975736cf1f5374", "9685fc5e7e019af8cac30f27fb091010": "15045796521cac61ff69df7834ea74a5"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_max_live/sm_tv3_max_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/TV3%2B_Denmark_logo_2016.png", TV3+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"07423d6dc3e4cbda8ed2af7a4b22fa20": "31083160749e47589f0bf93d8af9aad6", "07423d6dc3e4cbda8ed2af7a4b22fa10": "e400e38002bcfe7ffd76e1992b18f1a8"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_plus_dk_live/sm_tv3_plus_dk_live.isml/playlist.mpd
+
 ================================Viasport==============================================================================
 
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450"  group-title="#🇸🇪 Viasat Sports 🇸🇪", SE - V Sport Premium
@@ -3445,10 +3466,3 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-c
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_jalkapallo_hd_live/sm_viasat_jalkapallo_hd_live.isml/playlist.mpd
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_sport_fi_live/sm_viasat_sport_fi_live.isml/playlist.mpd
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_golf_live/sm_viasat_golf_live.isml/playlist.mpd
-
-#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png" group-title="Test" , TEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd
-
