@@ -32,69 +32,6 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf9be8615d3f410db7744d0a628c0f16:2397d34d036fedd415c6f46a9b657bde
 https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
 
-#EXTINF:-1 group-title="Testing" tvg-logo="https://tv-tabla.se/assets/img/channels/original/v-film-action-hd-se.png", V Film Action
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b0f28ccaa732bf2183396f738b383220": "6e48ce50328a564c7db1b367c7647774", "b0f28ccaa732bf2183396f738b383210": "e4cf10a0f6a3c607d730dc5d995e7228"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_action_live/sm_viasat_film_action_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="Testing" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Family_Logo_Vert_RGB_pos%20283.png?itok=KZUbL5-L", V Film Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9c1724091197170a0d0edad966e03020": "6ce0353fb9709fae437b650642e99f56", "9c1724091197170a0d0edad966e03010": "99c65fc84e1150304c033285229db8db"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_family_live/sm_viasat_film_family_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="Testing" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Family_Logo_Vert_RGB_pos%20283.png?itok=KZUbL5-L", V Film Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=623c4ce628b85a3192f580118c3f6790:f0d3bf9fe08cbe4467cbb7988475fb0d
-https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vffamilyse/vffamilyse.isml/index.mpd
-
-#EXTINF:-1 group-title="Testing" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Hits_Logo_Vert_RGB_pos%20283.png?itok=Dpz9jvfh", V Film Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"84c1aaf2ab242debcd2eb28177cc0220": "0275a3080e1e64670e369a75e194cf74", "84c1aaf2ab242debcd2eb28177cc0210": "c298cfce8d443757cc8b3d25f34ce243"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_hits_live/sm_viasat_film_hits_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="Testing" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Hits_Logo_Vert_RGB_pos%20283.png?itok=Dpz9jvfh", V Film Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0a699c146b6533892049250b2dff1dc:d52953be1a760059bde0ca433d1d8037
-https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfhitsse/vfhitsse.isml/index.mpd
-
-#EXTINF:-1 group-title="Testing" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Premiere_Logo_Vert_RGB_pos%20283.png?itok=t2lcYzPj", V Film Premiere
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d6d898152b00e40b820b8297335c1120": "47c6e30820266db347d583e5195c9d59", "d6d898152b00e40b820b8297335c1110": "e365d691ba8ea5206f62391a5b0df1bf"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_premiere_live/sm_viasat_film_premiere_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="Testing" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Premiere_Logo_Vert_RGB_pos%20283.png?itok=t2lcYzPj", V Film Premiere
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8cfedc05edf53ffa07745b0c1df877d:fce2f4f41d9b8398890491c83efe39a3
-https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfpse/vfpse.isml/index.mpd
-
-#EXTINF:-1 group-title="Testing" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/77zING8urt2hhcHZRbEktj/c27bbdab3bac74ae421242b246ec8415/v-series.png", V Series
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a48b90fc1d5fb962f5fbe2dcc186a020": "f2055be4226fc9803352ec6a3687b1b0", "a48b90fc1d5fb962f5fbe2dcc186a010": "687b217c3d0333e433d2af8966038c71"}
-https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_series_live/sm_viasat_series_live.isml/playlist.mpd
-
-#EXTINF:-1 group-title="Testing" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/77zING8urt2hhcHZRbEktj/c27bbdab3bac74ae421242b246ec8415/v-series.png", V Series
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=623c4ce628b85a3192f580118c3f6790:f0d3bf9fe08cbe4467cbb7988475fb0d
-https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfseriesse/vfseriesse.isml/index.mpd
-
 ================================Viasport==============================================================================
 
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450"  group-title="#🇸🇪 Viasat Sports 🇸🇪", SE - V Sport Premium
@@ -192,6 +129,69 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf45b2a08c79509cb5e598e61d7ad641:b975627b284712cd0d514e15ea83b7af
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e61dbc891fd422ef51/manifest.mpd
+
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://tv-tabla.se/assets/img/channels/original/v-film-action-hd-se.png", V Film Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b0f28ccaa732bf2183396f738b383220": "6e48ce50328a564c7db1b367c7647774", "b0f28ccaa732bf2183396f738b383210": "e4cf10a0f6a3c607d730dc5d995e7228"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_action_live/sm_viasat_film_action_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Family_Logo_Vert_RGB_pos%20283.png?itok=KZUbL5-L", V Film Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9c1724091197170a0d0edad966e03020": "6ce0353fb9709fae437b650642e99f56", "9c1724091197170a0d0edad966e03010": "99c65fc84e1150304c033285229db8db"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_family_live/sm_viasat_film_family_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Family_Logo_Vert_RGB_pos%20283.png?itok=KZUbL5-L", V Film Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=623c4ce628b85a3192f580118c3f6790:f0d3bf9fe08cbe4467cbb7988475fb0d
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vffamilyse/vffamilyse.isml/index.mpd
+
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Hits_Logo_Vert_RGB_pos%20283.png?itok=Dpz9jvfh", V Film Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"84c1aaf2ab242debcd2eb28177cc0220": "0275a3080e1e64670e369a75e194cf74", "84c1aaf2ab242debcd2eb28177cc0210": "c298cfce8d443757cc8b3d25f34ce243"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_hits_live/sm_viasat_film_hits_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="TV Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Hits_Logo_Vert_RGB_pos%20283.png?itok=Dpz9jvfh", V Film Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0a699c146b6533892049250b2dff1dc:d52953be1a760059bde0ca433d1d8037
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfhitsse/vfhitsse.isml/index.mpd
+
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Premiere_Logo_Vert_RGB_pos%20283.png?itok=t2lcYzPj", V Film Premiere
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d6d898152b00e40b820b8297335c1120": "47c6e30820266db347d583e5195c9d59", "d6d898152b00e40b820b8297335c1110": "e365d691ba8ea5206f62391a5b0df1bf"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_premiere_live/sm_viasat_film_premiere_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Premiere_Logo_Vert_RGB_pos%20283.png?itok=t2lcYzPj", V Film Premiere
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8cfedc05edf53ffa07745b0c1df877d:fce2f4f41d9b8398890491c83efe39a3
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfpse/vfpse.isml/index.mpd
+
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/77zING8urt2hhcHZRbEktj/c27bbdab3bac74ae421242b246ec8415/v-series.png", V Series
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a48b90fc1d5fb962f5fbe2dcc186a020": "f2055be4226fc9803352ec6a3687b1b0", "a48b90fc1d5fb962f5fbe2dcc186a010": "687b217c3d0333e433d2af8966038c71"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_series_live/sm_viasat_series_live.isml/playlist.mpd
+
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/77zING8urt2hhcHZRbEktj/c27bbdab3bac74ae421242b246ec8415/v-series.png", V Series
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=623c4ce628b85a3192f580118c3f6790:f0d3bf9fe08cbe4467cbb7988475fb0d
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfseriesse/vfseriesse.isml/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9df8ec5f86995102a6c9987d360b18c7:bb525f095535fa1ef2fd42f3068afd56
