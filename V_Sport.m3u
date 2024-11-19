@@ -95,13 +95,6 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_series_live/sm_viasat_serie
 #KODIPROP:inputstream.adaptive.license_key=623c4ce628b85a3192f580118c3f6790:f0d3bf9fe08cbe4467cbb7988475fb0d
 https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfseriesse/vfseriesse.isml/index.mpd
 
-#EXTINF:-1 group-title="Testing" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/77zING8urt2hhcHZRbEktj/c27bbdab3bac74ae421242b246ec8415/v-series.png", Sky SpNZ1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3b9089aca5a49e9097612b4a36f0000:551a2fa309c07556b5c497eaa0d4a5b1
-https://prod-skyonelive.akamaized.net/sky-sport-1.mpd
-
 ================================Viasport==============================================================================
 
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450"  group-title="#🇸🇪 Viasat Sports 🇸🇪", SE - V Sport Premium
