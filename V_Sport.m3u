@@ -32,6 +32,20 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf9be8615d3f410db7744d0a628c0f16:2397d34d036fedd415c6f46a9b657bde
 https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
 
+#EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", CANAL+ SPORTS 1 PL - VPN 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4e942b1dad92436baad0c6a6901f6d13": "5adefdb3f4edd5ceee23d37c10c37e5c", "5fb92575d7da45219e9a88646cd3e243": "31d1f1df9c246eb734de1be0f6bf6acf", "7cd69bed1cc54d83bd7f988f622c1157": "332e0a856cdfcd7a1d6da6dcf84633a7"}
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
+
+#EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", CANAL+ SPORTS 2 PL - VPN 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f7fa9f0250a43cea8aebd8167f1fc81": "f6bbc783b0e7a46a147e673a4347730a", "89787fecb0ac43ab86aa356054e2a183": "f0153c6dc5c55c5f23fcdeed8241d5e4", "581eba7045254d1de036557789932a05": "f5c080517f6c4366b1930315a6aa70e7"}
+https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
+
 ================================Viasport==============================================================================
 
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450"  group-title="#🇸🇪 Viasat Sports 🇸🇪", SE - V Sport Premium
