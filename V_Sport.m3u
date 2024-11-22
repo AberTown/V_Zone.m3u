@@ -32,80 +32,40 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf9be8615d3f410db7744d0a628c0f16:2397d34d036fedd415c6f46a9b657bde
 https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
 
-#EXTINF:-1 tvg-chno="x""ORF 1* ²" tvg-id="ORF1.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/orf-1.png" group-title="ORF und SRF",ORF 1*  ²
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",ITV1*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+https://cachehsi1a.netplus.ch/live/eds/itv/browser-dash/itv.mpd
 
-#EXTINF:-1 tvg-chno="x""ORF 2 HD* ⁵" tvg-id="ORF2.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ordf-2.png"  group-title="ORF und SRF",ORF 2 HD* ⁵
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-
-#EXTINF:-1 tvg-chno="5" tvg-name="ServusTV AT* ⁴" tvg-id="ServusHD.ch" tvg-shift="0" radio="" tvg-logo="https://files.app.simplitv.at/files/icons-wei/servustv-hd-wei-f-white.png" group-title="SIMPLITV",ServusTV AT* ⁴
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
-
-#EXTINF:-1 tvg-chno="x""SRF info HD* ³" tvg-id="SRFinfo.ch" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/srf-info.png" group-title="ORF und SRF",SRF info HD* ³
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
-
-#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-chno="x" "eurosport 1¹"  tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-eurosport-1-2022.jpg.webp" group-title="Sport",EUROSPORT 1 HD (1)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-
-#EXTINF:-1 tvg-chno="x" "sport1" tvg-id="Sport1.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-sport-1-ch.jpg.webp" group-title="Sport",sport1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
-
-#EXTINF:-1 tvg-chno="x" "bluezoom*" tvg-id="bluezoom.ch" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/blue-zoom-d.jpg.webp" group-title="ORF und SRF",bluezoom*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
-
-#EXTINF:-1 tvg-chno="x" "RTL*" tvg-id="RTLGermany.de" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/rtl.jpg.webp" group-title="Private",RTL*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
-
-#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",atv*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/atv/browser-dash/atv.mpd
-
-#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",ITV1*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
-
-#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",ITV2*
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",ITV2*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
-#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",ITV3*
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",ITV3*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 
-#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",ITV4*
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",ITV4*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
-#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",BBC1*
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",BBC1*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
+https://cachehsi1a.netplus.ch/live/eds/bbc/browser-dash/bbc.mpd
 
-#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",BBC2*
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",BBC2*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",Film4*
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 
 ================================Viasport==============================================================================
 
