@@ -83,6 +83,12 @@ https://cachehsi1a.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:baaa81b9144162d81da11d4a7e302017
 https://cdn31.tvplayhome.lt/live/eds/Setanta_LT_HD/GO3_LIVE_DASH/Setanta_LT_HD.mpd
 
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",Eleven Sport 1*
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bdddc3ae3bb43b7a93d6ff72991e5dc:9a1ca978d3bb5fe1300696f9683567eb
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+
 ================================Viasport==============================================================================
 
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-id=" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450"  group-title="#🇸🇪 Viasat Sports 🇸🇪", SE - V Sport Premium
