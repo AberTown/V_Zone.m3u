@@ -72,6 +72,10 @@ https://cachehsi1a.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",Sport 1*
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 
 ================================Viasport==============================================================================
 
