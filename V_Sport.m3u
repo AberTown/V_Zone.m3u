@@ -77,10 +77,35 @@ https://cachehsi1a.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 
+#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",ITV1*
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
+
+#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",ITV2*
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",ITV3*
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
 #EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",ITV4*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",BBC1*
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/bbc1/browser-dash/bbc1.mpd
+
+#EXTINF:-1 tvg-chno="x" "atv*" tvg-id="ATV.at" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/Gorcon-user/web_tv/master/Logos/ATV.png" group-title="ORF und SRF",BBC2*
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 
 ================================Viasport==============================================================================
 
