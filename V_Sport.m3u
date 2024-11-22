@@ -130,14 +130,14 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf45b2a08c79509cb5e598e61d7ad641:b975627b284712cd0d514e15ea83b7af
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e61dbc891fd422ef51/manifest.mpd
 
-#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://tv-tabla.se/assets/img/channels/original/v-film-action-hd-se.png", V Film Action
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://tv-tabla.se/assets/img/channels/original/v-film-action-hd-se.png", V Film Action.se
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b0f28ccaa732bf2183396f738b383220": "6e48ce50328a564c7db1b367c7647774", "b0f28ccaa732bf2183396f738b383210": "e4cf10a0f6a3c607d730dc5d995e7228"}
 https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_action_live/sm_viasat_film_action_live.isml/playlist.mpd
 
-#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Family_Logo_Vert_RGB_pos%20283.png?itok=KZUbL5-L", V Film Family
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Family_Logo_Vert_RGB_pos%20283.png?itok=KZUbL5-L", V Film Family.se
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -151,7 +151,7 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_family_live/sm_viasat_
 #KODIPROP:inputstream.adaptive.license_key=623c4ce628b85a3192f580118c3f6790:f0d3bf9fe08cbe4467cbb7988475fb0d
 https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vffamilyse/vffamilyse.isml/index.mpd
 
-#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Hits_Logo_Vert_RGB_pos%20283.png?itok=Dpz9jvfh", V Film Hits
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Hits_Logo_Vert_RGB_pos%20283.png?itok=Dpz9jvfh", V Film Hits.se
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -165,7 +165,7 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_hits_live/sm_viasat_fi
 #KODIPROP:inputstream.adaptive.license_key=c0a699c146b6533892049250b2dff1dc:d52953be1a760059bde0ca433d1d8037
 https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfhitsse/vfhitsse.isml/index.mpd
 
-#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Premiere_Logo_Vert_RGB_pos%20283.png?itok=t2lcYzPj", V Film Premiere
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://lounea.fi/sites/default/files/styles/max_650x650/public/2020-05/VFilm_Premiere_Logo_Vert_RGB_pos%20283.png?itok=t2lcYzPj", V Film Premiere.se
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -179,7 +179,7 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_film_premiere_live/sm_viasa
 #KODIPROP:inputstream.adaptive.license_key=a8cfedc05edf53ffa07745b0c1df877d:fce2f4f41d9b8398890491c83efe39a3
 https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vfpse/vfpse.isml/index.mpd
 
-#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/77zING8urt2hhcHZRbEktj/c27bbdab3bac74ae421242b246ec8415/v-series.png", V Series
+#EXTINF:-1 group-title="V Entertainment" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/77zING8urt2hhcHZRbEktj/c27bbdab3bac74ae421242b246ec8415/v-series.png", V Series.se
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
