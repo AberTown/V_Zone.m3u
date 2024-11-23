@@ -32,46 +32,6 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bf9be8615d3f410db7744d0a628c0f16:2397d34d036fedd415c6f46a9b657bde
 https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
 
-#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",Chennel 4*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
-
-#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",ITV2*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-
-#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",ITV3*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-
-#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",ITV4*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
-
-#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",Channel 5*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-
-#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",BBC2*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-
-#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",Film4*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/film4/browser-dash/film4.mpd
-
-#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",More4*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cachehsi1a.netplus.ch/live/eds/more4/browser-dash/more4.mpd
-
 #EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="" group-title="Testing",Rally TV*
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2972,6 +2932,47 @@ https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
 #EXTINF:-1 group-title="UK Entertainment",Virgin media 4 Ireland
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-channel-4.jpg.webp" group-title="UK Entertainment",Chennel 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/itv2.jpg.webp" group-title="UK Entertainment",ITV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/itv3.jpg.webp" group-title="UK Entertainment",ITV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/itv4.jpg.webp" group-title="UK Entertainment",ITV4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-channel-5.jpg.webp" group-title="UK Entertainment",Channel 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/bbc-2.jpg.webp" group-title="UK Entertainment",BBC2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-film-4.jpg.webp" group-title="UK Entertainment",Film4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+
+#EXTINF:-1 tvg-chno="x" "" tvg-id="" tvg-type="live" tvg-logo="https://www.netplus.ch/media/image/0/square/tv-logo-more-4.jpg.webp" group-title="UK Entertainment",More4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
 --------------------------------Polsat Sport-----------------------------------------
 
