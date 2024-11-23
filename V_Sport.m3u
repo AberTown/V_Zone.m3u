@@ -3617,6 +3617,27 @@ https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-defau
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=bfd49547070e4e13aafbced309d18cb3&key=a8d7ba68598055ae2b10d79652237f2e
 #https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-default/__dci/242/__f/manifest.mpd
 
+#EXTINF:-1 group-title="#⚽️ 8 - 14.00 Southampton v Liverpool" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 8 NZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8997f53b7494072bdc5c8d1c5f30000:bde3d1054eea001d0693bb846e124e75
+https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
+
+#EXTINF:-1 group-title="#⚽️ 9 - 16.30 Ipswich Town v Manchester Utd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 8 NZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8997f53b7494072bdc5c8d1c5f30000:bde3d1054eea001d0693bb846e124e75
+https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
+
+#EXTINF:-1 group-title="#⚽️ 10 - 20.00 Newcastle Utd v West Ham Utd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 8 NZ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8997f53b7494072bdc5c8d1c5f30000:bde3d1054eea001d0693bb846e124e75
+https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
+
 #EXTINF:-1 group-title="#⚽️ 3 - 15.00 Arsenal v Nottingham Forest" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 6 NZ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
