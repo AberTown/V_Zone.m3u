@@ -38,6 +38,12 @@ https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1109e82e9696324bb1b1dc292cfe6dda:b1d692fd6818ca81a50440d658b9e939
 https://wrc-rallytv-a.akamaized.net/Content/channel/6a5d6131-aedf-f38a-651c-18273b6fe260/DASH/master.mpd
 
+#EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Testing", Astro Cricket HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eb0f152c6e429ca7a53f399aadf257:c593c2eeea62742285b99e4d87b1c84a
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://airtel.drmlive.in/CH5/masterCH5.mpd
+
 ===========================================NZ=========================================================================
 
 #EXTINF:-1 group-title="# 🇳🇿 Kiwi Zone 🇳🇿 #" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1 NZ
