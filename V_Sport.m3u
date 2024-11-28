@@ -44,6 +44,12 @@ https://wrc-rallytv-a.akamaized.net/Content/channel/6a5d6131-aedf-f38a-651c-1827
 #KODIPROP:inputstream.adaptive.license_key=a8eb0f152c6e429ca7a53f399aadf257:c593c2eeea62742285b99e4d87b1c84a
 https://airtel.drmlive.in/CH5/masterCH5.mpd
 
+#EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", group-title="Testing", Ziggo 6 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
+
 ===========================================NZ=========================================================================
 
 #EXTINF:-1 group-title="#🇳🇿 Kiwi Zone 🇳🇿#" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1.nz
