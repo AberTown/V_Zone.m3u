@@ -3840,6 +3840,16 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 9 - 13.30 Tottenham v Fulham" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 68
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra68/xtra68.isml/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00221f5f3be26f387e4190cc0aaab951:e6725a8f3d7adf560def5851e0ab430e 
+#EXTINF:-1 group-title="#⚽️ 8 - 13.30 Manchester Utd v Everton" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015316-716764-48fb82bdcdc)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002215b20642cdfc23ad657f3fb0c923:96f4897c1b1f39017cbb5859cb3f4309
+#EXTINF:-1 group-title="#⚽️ 9 - 13.30 Tottenham v Fulham"  tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014940-716358-48fa1c28d46)/master.mpd
+
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
