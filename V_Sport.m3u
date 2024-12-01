@@ -3840,24 +3840,9 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 9 - 13.30 Tottenham v Fulham" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 68
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra68/xtra68.isml/index.mpd
 
-#EXTINF:-1 group-title="#⚽️ 8 - 13.30 Manchester Utd v Everton" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-#EXTINF:-1 group-title="#⚽️ 9 - 13.30 Tottenham v Fulham" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
-group-title="#⚽️ 7 - 13.30 Chelsea v Aston Villa"
-group-title="#⚽️ 8 - 13.30 Manchester Utd v Everton"
-group-title="#⚽️ 9 - 13.30 Tottenham v Fulham"
 group-title="#⚽️ 10 - 16.00 Liverpool v Manchester City"
 
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_jalkapallo_hd_live/sm_viasat_jalkapallo_hd_live.isml/playlist.mpd
