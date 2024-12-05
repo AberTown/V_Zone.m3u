@@ -3594,14 +3594,14 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 roup-title="#⚽️ 8 - 20.15 Aston Villa v Brentford" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (West)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 
 #EXTINF:-1 group-title="#⚽️ 10 - 20.15 Bournemouth v Tottenham" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3667,7 +3667,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=4bce9607bd2e4fcbbbaa01ae3183ded0&key=0f24f15eb1159120f5497d79468b50d4
-https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
+#https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="#⚽️ 9 - 19.30 Fulham v Brighton & H.A." tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",IS - Siminn Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3723,7 +3723,7 @@ https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-defau
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96be5ca21f087c8cb1d7630457e20000:53cb495864a442f4b7e7df8b540e035d
-https://linear-s.media.skyone.co.nz/sky-sport-1.mpd
+#https://linear-s.media.skyone.co.nz/sky-sport-1.mpd
 
 #EXTINF:-1 group-title="#⚽️ 10 - 20.15 Bournemouth v Tottenham" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1.nz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3744,7 +3744,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef909acce1f53f5db2a1cdafd2e90000:aba1269d685f474fbddf97ce2b45c725
-https://linear-s.media.skyone.co.nz/sky-sport-2.mpd
+#https://linear-s.media.skyone.co.nz/sky-sport-2.mpd
 
 #EXTINF:-1 group-title="#⚽️ 4 - 19.30 Manchester City v Nottingham Forest" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 5.nz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3798,7 +3798,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 group-title="#⚽️ 10 - 20.15 Bournemouth v Tottenham" tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s",Champions TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3839,17 +3839,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #EXTINF:-1 group-title="#⚽️ 7 - 20.15 Arsenal v Manchester Utd"  tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png",Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022d0434d0c2062489f2a3cffdfbac9:31478e73c975b286bc1fd5318a26dea2
-https://g006-sle-us-cmaf-prd-qw.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015355-716810-48fba7ef4ca)/master.mpd
+#https://g006-sle-us-cmaf-prd-qw.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015355-716810-48fba7ef4ca)/master.mpd
 
-#EXTINF:-1 group-title="#⚽️ 8 - 20.15 Aston Villa v Brentford" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:4c121e31f96db29124c3a40443acd6ed
-https://cdn9.tvplayhome.lt/live/eds2/VIP6/GO3_LIVE_DASH_AVC/VIP6.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c33d0c6ad8258cca9f749ec2e412201:cf74279ac4d42bcd9b9503ed8551e940
-#EXTINF:-1 group-title="#⚽️ 7 - 20.15 Arsenal v Manchester Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 77
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra77/xtra77.isml/index.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
