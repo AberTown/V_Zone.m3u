@@ -3679,12 +3679,12 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 group-title="#⚽️ 5 - 17.30 Manchester Utd v Nottingham Forest" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd", NBC USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 group-title="#⚽️ 5 - 17.30 Manchester Utd v Nottingham Forest" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd", NBC USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 tvg-id="" group-title="#⚽️ 2 - 20.15 Leicester City v West Ham Utd" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",IS - Siminn Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3824,7 +3824,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-7.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8997f53b7494072bdc5c8d1c5f30000:bde3d1054eea001d0693bb846e124e75
-https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
+#https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
 
 #EXTINF:-1 group-title="#⚽️ 6 - 14.00 Fulham v Arsenal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 8.nz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3870,7 +3870,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 group-title="#⚽️ 6 - 14.00 Fulham v Arsenal" tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s",Champions TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3917,14 +3917,9 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
 #https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f6469c43db5876bfbc4446f4ebcf2e:cdc319032d2fe72ed1f6ab7891428494
-#EXTINF:-1 group-title="#⚽️ 5 - 17.30 Manchester Utd v Nottingham Forest" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 71
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra71/xtra71.isml/index.mpd
-
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
-group-title="#⚽️ 5 - 17.30 Manchester Utd v Nottingham Forest"
+
 group-title="#⚽️ 6 - 14.00 Fulham v Arsenal"
 group-title="#⚽️ 7 - 14.00 Ipswich Town v Bournemouth"
 group-title="#⚽️ 8 - 14.00 Leicester City v Brighton & H.A."
