@@ -3907,10 +3907,10 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
-#EXTINF:-1 group-title="#⚽️ 9 - 19.30 Fulham v Brighton & H.A."  tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png",Peacock
+#EXTINF:-1 group-title="#⚽️ 4 - 15.00 Crystal Palace v Manchester City"  tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png",Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022745c106f50f7e45c39a44ec56ae8:ab421b4a121c096ed9e5ce729bcfe0b9
-#https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015364-716819-48fbb084913)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00222225698efca4050216676fb44cbf:5b46cfccd72d229931b0544e18b540f2
+https://g006-sle-us-cmaf-prd-qw.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015371-716826-48fbb7318da)/master.mpd
 
 #EXTINF:-1 group-title="#⚽️ 2 - 15.00 Aston Villa v Southampton" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3936,6 +3936,11 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra68/xtra68.isml/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
 #EXTINF:-1 group-title="#⚽️ 4 - 15.00 Crystal Palace v Manchester City" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 65
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd
+
+#EXTINF:-1 group-title="#⚽️ 2 - 15.00 Aston Villa v Southampton"  tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png",Peacock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00222225698efca4050216676fb44cbf:5b46cfccd72d229931b0544e18b540f2
+#https://g006-sle-us-cmaf-prd-qw.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015371-716826-48fbb7318da)/master.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
