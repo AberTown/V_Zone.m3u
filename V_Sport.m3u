@@ -50,6 +50,23 @@ https://airtel.drmlive.in/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
+#EXTINF:0 tvg-id="" group-title="Testing" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+http://192.168.50.1:61292/udp/232.84.1.125:10326
+#EXTINF:0 tvg-id="" group-title="Testing" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+http://192.168.50.1:61292/udp/232.84.1.37:8196
+#EXTINF:0 tvg-id="" group-title="Testing" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+http://192.168.50.1:61292/udp/232.84.1.34:8178
+#EXTINF:0 tvg-id="" group-title="Testing" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+http://192.168.50.1:61292/udp/232.84.1.176:10374
+#EXTINF:0 tvg-id="" group-title="Testing" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+http://192.168.50.1:61292/udp/232.84.1.97:8556
+#EXTINF:0 tvg-id="" group-title="Testing" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+http://192.168.50.1:61292/udp/232.84.1.96:8550
+#EXTINF:0 tvg-id="" group-title="Testing" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+http://192.168.50.1:61292/udp/232.84.1.98:8562
+#EXTINF:0 tvg-id="" group-title="Testing" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+http://192.168.50.1:61292/udp/232.84.1.131:10368
+
 ===========================================NZ=========================================================================
 
 #EXTINF:-1 group-title="#🇳🇿 Kiwi Zone 🇳🇿#" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1.nz
