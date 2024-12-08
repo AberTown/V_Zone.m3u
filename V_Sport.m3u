@@ -3820,6 +3820,13 @@ https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-defau
 #KODIPROP:inputstream.adaptive.license_key=5492033ac2dc11141cd5c1d1d7a80000:ed8219b7064849d385d26151c90bd306
 https://linear-s.media.skyone.co.nz/sky-sport-5.mpd
 
+#EXTINF:-1 group-title="#⚽️ 8 - 14.00 Leicester City v Brighton & H.A." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 5.nz
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5492033ac2dc11141cd5c1d1d7a80000:ed8219b7064849d385d26151c90bd306
+https://linear-s.media.skyone.co.nz/sky-sport-5.mpd
+
 #EXTINF:-1 group-title="#⚽️ 5 - 19.30 Newcastle Utd v Liverpool" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 6.nz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
