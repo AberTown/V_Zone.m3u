@@ -3958,6 +3958,11 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 #KODIPROP:inputstream.adaptive.license_key=00222225698efca4050216676fb44cbf:5b46cfccd72d229931b0544e18b540f2
 #https://g006-sle-us-cmaf-prd-qw.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015371-716826-48fbb7318da)/master.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6096ab3b418f59dc87a777509d56fdbb:c754ef4ec395423d55495776401642a1
+#EXTINF:-1 group-title="#⚽️ 6 - 14.00 Fulham v Arsenal" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 67
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 
