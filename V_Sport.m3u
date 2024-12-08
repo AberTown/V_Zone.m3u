@@ -3963,6 +3963,11 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 #EXTINF:-1 group-title="#⚽️ 6 - 14.00 Fulham v Arsenal" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 67
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38e9d5c816f65e148a5ffe61fb9d3c7d:266cc12b3e98d48a15f8ffaefc0cc18c
+#EXTINF:-1 group-title="#⚽️ 8 - 14.00 Leicester City v Brighton & H.A." group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 45
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra45/xtra45.isml/index.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 
