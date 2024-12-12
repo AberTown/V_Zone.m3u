@@ -2077,6 +2077,12 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
+#EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png",Arena Sport 2 Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c5e5ac1b3cc15fe790f1bc96535fe329": "3defe59c38079ccad25a436200ad3bd7", "b2f22f5d7ca35910a73fbabc524954de": "d87d08fbe6505ad7099b8c258f396d15", "d256b403efcc5c3db701fc696885e102": "d46e4215e279b224e9d2a772db9c74a1"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
+
 #EXTINF:-1 group-title="Arena Sport" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png",Arena Sport 3 Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
