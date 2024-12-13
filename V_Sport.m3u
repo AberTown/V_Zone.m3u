@@ -311,6 +311,12 @@ https://cd-stream-live.telenorcdn.net/cdgo/sm_tv3_hd_no_live/sm_tv3_hd_no_live.i
 #KODIPROP:inputstream.adaptive.license_key={"757dc8b42a29ccaf41186c9082c63020": "fe30cc6ba34beb2a91a82f248900fa5d", "757dc8b42a29ccaf41186c9082c63010": "55492446a392d36a131af153dea9c17e"}
 https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat4_hd_no_live/sm_viasat4_hd_no_live.isml/playlist.mpd
 
+EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/TV3%2B_Norway.svg/revision/latest/scale-to-width-down/200?cb=20220831132802" group-title="#🇸🇪 Viasat Sports 🇸🇪", NO - TV Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b113036ded4ca2b165013f65726cb520": "4eadcb6118a0e0550b7da0f02fc319a8", "b113036ded4ca2b165013f65726cb510": "5e541b8b755ac50990059ac540ac66a1"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_tvn_max_live/sm_tvn_max_live.isml/playlist.mpd
+
 #EXTINF:-1 group-title="V Entertainment" tvg-logo="https://tv-tabla.se/assets/img/channels/original/v-film-action-hd-se.png", V Film Action.se
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
