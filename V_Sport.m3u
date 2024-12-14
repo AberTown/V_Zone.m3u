@@ -3229,7 +3229,7 @@ https://absuashqaabcaaayaaaaaaaaaaaaa.e693b67d00e42.cbr.cloudfront.net/co01/Cont
 #EXTINF:-1 group-title="#⚽️ 4 - 15.00 Wolves v Ipswich Town" tvg-id="" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022d77e49dbb6ee7802d39d75057a19:a39495ec8937d8f2451f126933d403cb
-https://charrons.io/script.php/pl3/master_2hr.mpd
+#https://charrons.io/script.php/pl3/master_2hr.mpd
 
 #EXTINF:-1 group-title="#⚽️ 1 - 15.00 Arsenal v Everton" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3250,6 +3250,26 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP5/GO3_LIVE_DASH_AVC/VIP5.mpd
 #KODIPROP:inputstream.adaptive.license_key=1b55756309e45f29bf940b0c4621664b:8311907fdeedf4d89426f9d06437a1fb
 #EXTINF:-1 group-title="#⚽️ 4 - 15.00 Wolves v Ipswich Town" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 84
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra84/xtra84.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6096ab3b418f59dc87a777509d56fdbb:c754ef4ec395423d55495776401642a1
+#EXTINF:-1 group-title="#⚽️ 1 - 15.00 Arsenal v Everton" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 67
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60b3c6a08caa56d2b67fa17274e5f41b:bb473efe562264b044961a57695d4754
+#EXTINF:-1 roup-title="#⚽️ 2 - 15.00 Liverpool v Fulham" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 68
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra68/xtra68.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ce21653782a5da7928cbaf4da3d0cfb:d1b568a613222a1da70eabe3d0d93973
+#EXTINF:-1 group-title="#⚽️ 3 - 15.00 Newcastle Utd v Leicester City" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 69
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra69/xtra69.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f396558259365aab8b1f1502c4a1a168:842ca067717a32f8d142c467006010ac
+#EXTINF:-1 group-title="#⚽️ 4 - 15.00 Wolves v Ipswich Town" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 70
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra70/xtra70.isml/index.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
