@@ -1997,7 +1997,7 @@ https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 #KODIPROP:inputstream.adaptive.license_key=ddd17d7f1a8d5ae5b3f1f20f9056fe24:d30490f7aaf1e6f6399aa0d347a16775
 https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
 
-#EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", SE - V Sport Football
+#EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8edRZwE0Vgi8fALUosD3uJKw-ruZZhAa0mA&s", SE - V Sport Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3178,6 +3178,13 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="#⚽️ 2 - 15.00 Liverpool v Fulham" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+
+#EXTINF:-1 group-logo="" group-title="#⚽️ 1 - 15.00 Arsenal v Everton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8edRZwE0Vgi8fALUosD3uJKw-ruZZhAa0mA&s", SE - V Sport Football
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be1ea6d740552f2bc5cb115de6f694d:4dcf1766926e6357d9188399b7004583
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsf/vsf.isml/index.mpd
 
 #EXTINF:-1 group-title="#⚽️ 2 - 15.00 Liverpool v Fulham" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena Sport 1 Croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
