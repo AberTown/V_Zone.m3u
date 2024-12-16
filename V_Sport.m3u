@@ -349,12 +349,7 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vss/vss.isml/index.mpd|X-Forwarded-F
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vsg/vsg.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14e1a5aed6d528a91c3f39157a4cb72:bc3a9461124893349c0e234fb54b7786
-#EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Golf
-https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14e1a5aed6d528a91c3f39157a4cb72:bc3a9461124893349c0e234fb54b7786
+#KODIPROP:inputstream.adaptive.license_key=ddd17d7f1a8d5ae5b3f1f20f9056fe24:d30490f7aaf1e6f6399aa0d347a16775
 #EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Golf
 https://live-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
 
