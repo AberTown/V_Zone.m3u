@@ -351,7 +351,12 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vsg/vsg.isml/index.mpd|X-Forwarded-F
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14e1a5aed6d528a91c3f39157a4cb72:bc3a9461124893349c0e234fb54b7786
 #EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Golf
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vsg/vsg.isml/index.mpd
+https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14e1a5aed6d528a91c3f39157a4cb72:bc3a9461124893349c0e234fb54b7786
+#EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Golf
+https://live-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f02ddb8f11b597c84a5393348e047bb:bc52ff5ddb471c7691ffb57ae74726cc
@@ -2047,13 +2052,6 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac
 #KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1582.png",NO - TV2 Sport Premium
 https://ch11-hls-live.akamaized.net/out/u/433127.mpd
-
-#EXTINF:-1 group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6JWr6g1S5djCpZ40Imo0ZQ/57f0882ba283d2cc605e0cccc227e4c0/v-sport-golf.png", Viasat Sport Golf
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddd17d7f1a8d5ae5b3f1f20f9056fe24:d30490f7aaf1e6f6399aa0d347a16775
-https://live-b-dash-cdn7-tve.cdn.viaplay.tv/tve/vsg/vsg.isml/index.mpd
 
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="#🇸🇪 Viasat Sports 🇸🇪" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8edRZwE0Vgi8fALUosD3uJKw-ruZZhAa0mA&s", SE - V Sport Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
