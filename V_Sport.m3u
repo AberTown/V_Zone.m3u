@@ -62,6 +62,17 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mewatch-2023-logo-5C0E1E7668-seeklogo.com.png" group-title="Testing",M LIVE 5 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/299270/assetType/media/assetFileId/13303393/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mewatch-2023-logo-5C0E1E7668-seeklogo.com.png" group-title="Testing",M LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/299273/assetType/media/assetFileId/13303599/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mewatch-2023-logo-5C0E1E7668-seeklogo.com.png" group-title="Testing",M LIVE 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
