@@ -3291,6 +3291,12 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
 https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
+#EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/TV3%2B_Norway.svg/revision/latest/scale-to-width-down/200?cb=20220831132802" group-title="#⚽️ 3 - 20.00 Southampton v Liverpool (EFL Cup)", TV3+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"757dc8b42a29ccaf41186c9082c63020": "fe30cc6ba34beb2a91a82f248900fa5d", "757dc8b42a29ccaf41186c9082c63010": "55492446a392d36a131af153dea9c17e"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat4_hd_no_live/sm_viasat4_hd_no_live.isml/playlist.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_jalkapallo_hd_live/sm_viasat_jalkapallo_hd_live.isml/playlist.mpd
