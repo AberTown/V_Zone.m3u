@@ -3313,6 +3313,12 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vsf/vsf.isml/index.mpd
 #EXTINF:-1 tvg-id="122" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="#⚽️ 3 - 20.00 Southampton v Liverpool (EFL Cup)",TVS
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
+#EXTINF:-1 tvg-id="122" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="#⚽️ 3 - 20.00 Southampton v Liverpool (EFL Cup)",TVS
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_jalkapallo_hd_live/sm_viasat_jalkapallo_hd_live.isml/playlist.mpd
