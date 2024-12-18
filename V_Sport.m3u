@@ -62,17 +62,6 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mewatch-2023-logo-5C0E1E7668-seeklogo.com.png" group-title="Testing",M LIVE 5 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/299270/assetType/media/assetFileId/13303393/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mewatch-2023-logo-5C0E1E7668-seeklogo.com.png" group-title="Testing",M LIVE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/299273/assetType/media/assetFileId/13303599/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mewatch-2023-logo-5C0E1E7668-seeklogo.com.png" group-title="Testing",M LIVE 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
@@ -3296,12 +3285,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/232439/assetType/media/assetFileId/2808449/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mewatch-2023-logo-5C0E1E7668-seeklogo.com.png" group-title="#⚽️ 3 - 20.00 Southampton v Liverpool (EFL Cup)",M LIVE 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
-
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/TV3%2B_Norway.svg/revision/latest/scale-to-width-down/200?cb=20220831132802" group-title="#⚽️ 3 - 20.00 Southampton v Liverpool (EFL Cup)", TV3+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3325,6 +3308,10 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vsf/vsf.isml/index.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
+
+group-title="#⚽️ 1 - 19.30 Arsenal v Crystal Palace (EFL Cup)"
+group-title="#⚽️ 2 - 19.45 Newcastle Utd v Brentford (EFL Cup)"
+group-title="#⚽️ 3 - 20.00 Southampton v Liverpool (EFL Cup)"
 
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_jalkapallo_hd_live/sm_viasat_jalkapallo_hd_live.isml/playlist.mpd
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_sport_fi_live/sm_viasat_sport_fi_live.isml/playlist.mpd
