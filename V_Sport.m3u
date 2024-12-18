@@ -3315,6 +3315,21 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
+#EXTINF:-1 group-title="#⚽️ 1 - 19.30 Arsenal v Crystal Palace (EFL Cup)" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20": "556d72c812df452fad9bed66292bfc63", "a0e68f01a5428cbdb8cfac2080c66b10": "be7f9d1a00bbd0478335a4a48379157d"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
+
+
+#EXTINF:-1 group-title="#⚽️ 2 - 19.45 Newcastle Utd v Brentford (EFL Cup)" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b62aca5b566dc3ded74233192b28a120": "e8c5369c9c4aa58c1c8489c7db52db8c", "b62aca5b566dc3ded74233192b28a110": "143bfe648cc9d14917d41e0662452771"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 group-title="#⚽️ 1 - 19.30 Arsenal v Crystal Palace (EFL Cup)"
