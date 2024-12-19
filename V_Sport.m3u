@@ -3275,6 +3275,13 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-c
 #KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20": "556d72c812df452fad9bed66292bfc63", "a0e68f01a5428cbdb8cfac2080c66b10": "be7f9d1a00bbd0478335a4a48379157d"}
 https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
 
+#EXTINF:-1 group-title="#⚽️ 4 - Tottenham v Manchester Utd (EFL Cup)" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", NO - V Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a0e68f01a5428cbdb8cfac2080c66b20": "556d72c812df452fad9bed66292bfc63", "a0e68f01a5428cbdb8cfac2080c66b10": "be7f9d1a00bbd0478335a4a48379157d"}
+https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #EXTINF:-1 tvg-id="" group-title="#⚽️ 4 - Tottenham v Manchester Utd (EFL Cup)" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Premium
@@ -3308,6 +3315,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.m
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
+group-title="#⚽️ 1 - 12.30 Aston Villa v Manchester City"
+group-title="#⚽️ 2 - 15.00 Brentford v Nottingham Forest"
+group-title="#⚽️ 3 - 15.00 Ipswich Twon v Newcastle Utd"
+group-title="#⚽️ 4 - 15.00 West Ham Utd v Brighton & H.A."
+group-title="#⚽️ 5 - 17.30 Crystal Palace v Arsenal"
+group-title="#⚽️ 6 - 14.00 Everton v Chelsea"
+group-title="#⚽️ 7 - 14.00 Fulham v Southampton"
+group-title="#⚽️ 8 - 14.00 Leicester City v Wolves"
+group-title="#⚽️ 9 - 14.00 Manchester Utd v Bournemouth"
+group-title="#⚽️ 10 - 16.30 Tottenham v Liverpool"
 
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_jalkapallo_hd_live/sm_viasat_jalkapallo_hd_live.isml/playlist.mpd
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_sport_fi_live/sm_viasat_sport_fi_live.isml/playlist.mpd
