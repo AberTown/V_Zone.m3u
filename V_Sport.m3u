@@ -3244,7 +3244,7 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP5/GO3_LIVE_DASH_AVC/VIP5.mpd
 #EXTINF:-1 group-title="#⚽️ 1 - 14.30 Leicester City v Manchester City" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022d45f40433eca9ba103ed3886ef8b:3472d6c346a14aebf2c4f537e87951e2
-https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015738-717229-48fd153142d)/master_2hr.mpd
+#https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015738-717229-48fd153142d)/master_2hr.mpd
 
 #EXTINF:-1 group-title="#⚽️ 2 - 15.00 Crystal Palace v Southampton" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3260,11 +3260,6 @@ https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002245e7cdc0746922fa2f2151fd9cea:2c4418c11cb918d9839cd3b20bf87328
 https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015742-717233-48fd1901d31)/master_2hr.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6096ab3b418f59dc87a777509d56fdbb:c754ef4ec395423d55495776401642a1
-#EXTINF:-1 group-title="#⚽️ 1 - 14.30 Leicester City v Manchester City" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 67
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra67/xtra67.isml/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60b3c6a08caa56d2b67fa17274e5f41b:bb473efe562264b044961a57695d4754
@@ -3298,7 +3293,7 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra73/xtra73.isml/index.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
-group-title="#⚽️ 1 - 14.30 Leicester City v Manchester City"
+
 group-title="#⚽️ 2 - 15.00 Crystal Palace v Southampton"
 group-title="#⚽️ 3 - 15.00 Everton v Nottingham Forest"
 group-title="#⚽️ 4 - 15.00 Fulham v Bournemouth"
