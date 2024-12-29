@@ -3206,7 +3206,7 @@ https://director.tv.c.is/__cl/cg:ott2/__c/Siminn_Sport_2_HD_HTTP/__op/dash-defau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="#⚽️ 6 - 17.15 West Ham Utd v Liverpool" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="#⚽️ 1 - 15.00 Arsenal v Everton" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8edRZwE0Vgi8fALUosD3uJKw-ruZZhAa0mA&s", SE - V Sport Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
