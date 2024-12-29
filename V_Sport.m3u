@@ -3249,6 +3249,11 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
+#EXTINF:-1 group-title="#⚽️ 1 - 14.30 Leicester City v Manchester City" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022d45f40433eca9ba103ed3886ef8b:3472d6c346a14aebf2c4f537e87951e2
+https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015738-717229-48fd153142d)/master_2hr.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 group-title="#⚽️ 1 - 14.30 Leicester City v Manchester City"
