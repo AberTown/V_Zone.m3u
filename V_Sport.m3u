@@ -3217,6 +3217,10 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP6/GO3_LIVE_DASH_AVC/VIP6.mpd
 #KODIPROP:inputstream.adaptive.license_key=002245e7cdc0746922fa2f2151fd9cea:2c4418c11cb918d9839cd3b20bf87328
 #https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015742-717233-48fd1901d31)/master_2hr.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60b3c6a08caa56d2b67fa17274e5f41b:bb473efe562264b044961a57695d4754
+#EXTINF:-1 group-title="#⚽️ 8 - 19.45 Ipswich v Chelsea" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 68
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra68/xtra68.isml/index.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
