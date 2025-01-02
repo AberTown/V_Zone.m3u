@@ -29,8 +29,13 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927": "07ce8279537ed26fe831b5343aa55969", "2979e661ef50e56026975f5709548b97": "8bb43f5394f362104d25c96426ec5bf8", "9bc136d8d6c860b62e0adac003e4d3d9": "ae5c9a9e504a4fe273760c80e7fe1eae", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "927a104e0407af9133e307e1f84d9b1e": "700d027f34b3fedb75defa9c558faabe"}
+#KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927": "07ce8279537ed26fe831b5343aa55969", "2979e661ef50e56026975f5709548b97": "8bb43f5394f362104d25c96426ec5bf8", "9bc136d8d6c860b62e0adac003e4d3d9": "ae5c9a9e504a4fe273760c80e7fe1eae", "927a104e0407af9133e307e1f84d9b1e": "700d027f34b3fedb75defa9c558faabe"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
+
+
+
+9bc136d8d6c860b62e0adac003e4d3d9:ae5c9a9e504a4fe273760c80e7fe1eae
+927a104e0407af9133e307e1f84d9b1e:700d027f34b3fedb75defa9c558faabe
 
 #EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", CANAL+ SPORTS 1 - VPN 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
