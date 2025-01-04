@@ -3106,6 +3106,11 @@ https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Li
 #KODIPROP:inputstream.adaptive.license_key=00229b95fbafaeba1e7aa15679e71098:26c5a93ffeb0a17e5f35bc60cbd9eac2
 https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015824-717318-48fd6735606)/master.mpd
 
+#EXTINF:-1 group-title="#⚽️ 5 - 15.00 Manchester City v West Ham Utd" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022db0eeb5d9300d8b6eb11c7fa6b03:25431bf9224fb70f09e4a4966db0e8b8
+https://g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015827-717321-48fd6a11cc9)/master_2hr.mpd
+
 #EXTINF:-1 group-title="#⚽️ 6 - 15.00 Southampton v Brentford" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00223d62e756a1813882988148d347c5:41a52fd375af86a7f7c1720beeecaff3
