@@ -57,7 +57,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
-#EXTINF:-1 player-buffer="2" tvg-id="410.astro" ch-number="410" tvg-name="ASTRO PREMIER 2" group-title="#🌍 Astro EPL with VPN 🌍#" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" tvg-logo="https://www.dropbox.com/scl/fi/a2g24q3ls4gdgxb4xdqtp/Premier.png?rlkey=8xtqwbc3fb4r0ypr4vn9co313&dl=1",Astro Supersport UHD
+#EXTINF:-1 tvg-id="805" tvg-name="Astro Sports UHD"  group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#🌍 Astro EPL with VPN 🌍#" ch-number="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
 https://linear16-playback.sooka.my/CH1/masterCH1.mpd
@@ -3028,6 +3028,17 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 #EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="805" tvg-name="Astro Sports UHD"  group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" ch-number="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+
+#EXTINF:-1 tvg-id="805" tvg-name="Astro Sports UHD"  group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" ch-number="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae6479b6cff490db4913cd7ecaef62d:a7e50788b3f2813c90a17479c6d2cd68
+https://linear16-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
