@@ -4,22 +4,6 @@
 
 ================================V Sport EPL=========================================
 
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="CHANNEL | VIDIO",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/vinteoqQChVRTrPIfsUn1Z/play.php?id=9182&type=drm
-https://dusk.biz.id/vinteoqQChVRTrPIfsUn1Z/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="CHANNEL | VIDIO",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/vinteoqQChVRTrPIfsUn1Z/play.php?id=9183&type=drm
-https://dusk.biz.id/vinteoqQChVRTrPIfsUn1Z/play.mpd?id=9183&type=dash
-
 #EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", CANAL+ SPORTS 1 - VPN 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
