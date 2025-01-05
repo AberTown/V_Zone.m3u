@@ -2873,17 +2873,17 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd", NBC USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd", NBC USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd", NBC USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://akam.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#https://akam.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 tvg-id="" group-title="#⚽️ 1 - 12.30 Tottenham v Newcastle Utd" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",IS - Siminn Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2918,7 +2918,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=4bce9607bd2e4fcbbbaa01ae3183ded0&key=0f24f15eb1159120f5497d79468b50d4
-https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
+#https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-default/__dci/241/__f/manifest.mpd
 
 #EXTINF:-1 tvg-id="" group-title="#⚽️ 10 - 20.00 Wolves v Nottingham Forest" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png",IS - Siminn Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2983,48 +2983,19 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 #KODIPROP:inputstream.adaptive.license_key=00221e34b06ee7f34afcaddd028cbd18:b655fb1f80374a66b1cd2c1967f420f9
 #https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015825-717319-48fd6829847)/master.mpd
 
-#EXTINF:-1 group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00227cef34281b469b9095bab91bf155:4fd4562c2a6181ccfb0a278abbe9ac39
-https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015835-717329-48fd71b2ed1)/master.mpd
-
-#EXTINF:-1 group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00227cef34281b469b9095bab91bf155:4fd4562c2a6181ccfb0a278abbe9ac39
-https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s-v2/Live/channel(5015835-717329-48fd71b2ed1)/master.mpd
-
-#EXTINF:-1 group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" tvg-logo="https://sm.pcmag.com/t/pcmag_me/review/p/peacock/peacock_rrp4.1200.png", Peacock TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00227cef34281b469b9095bab91bf155:4fd4562c2a6181ccfb0a278abbe9ac39
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015835-717329-48fd71b2ed1)/master.mpd
-
-#EXTINF:-1 tvg-id="805" tvg-name="Astro Sports UHD"  group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" ch-number="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="805" tvg-name="Astro Sports UHD"  group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" ch-number="805" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #EXTINF:-1 group-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png" group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Premium
-https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+#https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
 #EXTINF:-1 tvg-id="" group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Premium
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
+#https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
-group-title="#⚽️ 9 - 16.30 Liverpool v Manchester Utd"
+
 group-title="#⚽️ 10 - 20.00 Wolves v Nottingham Forest"
 
 #https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat_jalkapallo_hd_live/sm_viasat_jalkapallo_hd_live.isml/playlist.mpd
