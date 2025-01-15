@@ -3076,6 +3076,14 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra66/xtra66.isml/index.mpd
 #EXTINF:-1 group-title="#⚽️ 6 - 19.30 Leicester City v Crystal Palace" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", SE - Viaplay Extra 40
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra40/xtra40.isml/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="#⚽️ 8 - 20.00 Arsenal v Tottenham" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",805 Astro Supersport UHD
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+
 #EXTM3U billed-msg="😎 🇬🇧 Free Playlist V Sport 😎"
 
 group-title="#⚽️ 5 - 19.30 Everton v Aston Villa"
