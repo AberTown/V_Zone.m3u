@@ -10,6 +10,11 @@ https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d2
 #KODIPROP:inputstream.adaptive.license_key={"9638be5cf71157ea80b8b77208d2d4d4": "a6cba0d762a06aa04e8fd61fa168eb6c", "faa88b3eaf095e2192373fa7dff1d8a6": "735d096341f4f227dfad4fdcd0fded98", "fb3f05b963925e838804d551ef2cbb2c": "660fbd7a8538ab9900fd6cc3bb1bcbc7", "fcce46959ea759ceb203ea64b5e156a6": "36cd86578aebf6cc2c8615a8854cfc4d"}
 https://live-dash-cdn7-vp-ln-scst.cdn.viaplay.tv/vp/wv/vp_vsport2suomi/dash.mpd
 
+#EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",V Sport1 Suomi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5e7eec87c7bf5fab9f5d6750af272735": "a69d9506542f63adbf829d68428553c6", "5f846b0f94255ec7809a66efdf3d7d5f": "b1de9de374d723cc127132332afb9078", "aef46f400b445513b6028edd680f4fa8": "56f5f804285ffc774436cafe519306b1", "32130f9279435fbc9de6db4eebdcf79f": "1baa1db0070770e817880909788b9af6"}
+https://live-dash-cdn7-vp-ln-scst.cdn.viaplay.tv/vp/wv/vp_vsport1suomi/dash.mpd
+
 #EXTINF:-1 group-title="Testing" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-logo="",Now Sports HK
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
 
