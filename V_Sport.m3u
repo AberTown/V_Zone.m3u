@@ -5,26 +5,6 @@
 #EXTINF:-1 group-title="# 1 - The project is now CLOSED" tvg-logo="" group-logo="", Project CLOSED
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
 
-#EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",V Sport1 Suomi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f846b0f94255ec7809a66efdf3d7d5f:b1de9de374d723cc127132332afb9078
-https://live-dash-cdn7-vp-ln-scst.cdn.viaplay.tv/vp/wv/vp_vsport1suomi/dash.mpd
-
-#EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",V Sport1 Suomi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f846b0f94255ec7809a66efdf3d7d5f:b1de9de374d723cc127132332afb9078
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/wv/vp_vsport1suomi/dash.mpd|X-Forwarded-For=13.106.174.0
-
-#EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",V Sport2 Suomi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faa88b3eaf095e2192373fa7dff1d8a6:735d096341f4f227dfad4fdcd0fded98
-https://live-dash-cdn7-vp-ln-scst.cdn.viaplay.tv/vp/wv/vp_vsport2suomi/dash.mpd
-
-#EXTINF:-1 tvg-id="" group-title="#🇸🇪 Viasat Sports 🇸🇪" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",V Sport2 Suomi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faa88b3eaf095e2192373fa7dff1d8a6:735d096341f4f227dfad4fdcd0fded98
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/wv/vp_vsport2suomi/dash.mpd|X-Forwarded-For=13.106.174.0
-
 #EXTINF:-1 group-title="Testing" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-logo="",Now Sports HK
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
 
