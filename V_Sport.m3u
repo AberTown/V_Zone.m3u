@@ -5,6 +5,16 @@
 #EXTINF:-1 group-title="# 1 - The project is now CLOSED" tvg-logo="" group-logo="", Project CLOSED
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
 
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232bb3c31b088654ae5176da9c358808:4708b352ee1d50ccdf94af9d2a952ed8
+#EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png", Sport5
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_4k_avc/live.livx?indexMode&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232bb3c31b088654ae5176da9c358808:4708b352ee1d50ccdf94af9d2a952ed8
+#EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png", Sport5
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5/live.livx?indexMode&dvr=7200000
+
 #EXTINF:-1 group-title="Testing" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-logo="",Now Sports HK
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
 
