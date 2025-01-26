@@ -23,6 +23,32 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | Sports" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/c7372a9e1fa84734b8dce345fa0b3f84/version/0/width/500/height/280" tvg-id="832.astro",Astro Cricket (NEW)
 https://d1sz44a1d86dgq.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/Cricket_Production/masterCH5.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | Sports" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/7035b01a214f491a913a6cbb9c2c0df0/version/0/width/500/height/280" tvg-id="811.astro",Astro Premier League (NEW)
+https://dzzr0p1jvj2ui.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ASSP_Production/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | Sports" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/7035b01a214f491a913a6cbb9c2c0df0/version/0/width/500/height/280" tvg-id="812.astro",Astro Premier League 2 (NEW)
+https://d2xpsrw5fp20um.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/ASSP2_Production/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1EVmlZMkkzTm1NdE9UUTNPUzAwTTJZd0xXRTFZVEF0WkRnMk4ySmtaVEk1TW1FeiIsIndtb3BpZCI6MzIsImV4cCI6MTczNzk3NDcxMywiaWF0IjoxNzM3MzcwNzEzfQ.TJyXRLWUQie3JhWvgw-uYBbs-nsX8j8ZxWdVF9Db_40"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sooka | Sports" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/ecb4eeb258334f80a99eadeffa6f5340/version/0
+
 #EXTINF:-1 group-title="Testing" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", CANAL+ SPORTS 1 - VPN 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
