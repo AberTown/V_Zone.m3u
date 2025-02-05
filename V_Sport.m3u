@@ -5,4 +5,10 @@
 #EXTINF:-1 group-title="# 1 - The project is now CLOSED" tvg-logo="" group-logo="", Project CLOSED
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406
 
+#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png" group-title="🇧🇪 PLAY SPORTS 🇧🇪" , PLAY SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd 
+
 
