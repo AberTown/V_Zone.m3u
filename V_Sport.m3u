@@ -5,3 +5,284 @@
 #EXTINF:-1 group-title="# 1 - The project is now CLOSED" tvg-logo="" group-logo="", Project CLOSED
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406
 
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-epl.png", group-title="SPORTS UK", SKY EPL 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssepl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-football.png", group-title="SPORTS UK", SKY FOOTBALL 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-mainevent.png", group-title="SPORTS UK", SKY MAIN 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-f1.png", group-title="SPORTS UK", SKY F1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-cricket.png", group-title="SPORTS UK", SKY Cricket 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-mix.png", group-title="SPORTS UK", SKY MIX 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssmix/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-golf.png", group-title="SPORTS UK", SKY Golf 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-arena.png", group-title="SPORTS UK", SKY Arena 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssarena/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-news.png", group-title="SPORTS UK", SKY NEWS 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssnews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-skysports-plus.png", group-title="SPORTS UK", SKY PLUS 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_ssplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png", group-title="SPORTS UK", TNT1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png", group-title="SPORTS UK", TNT2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png", group-title="SPORTS UK", TNT3 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/uk_bts3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-espn.png", group-title="SPORTS UK", TNT4 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/uk_bts4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS UK", SPORTTV1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS UK", SPORTTV2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS UK", SPORTTV3 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS UK", SPORTTV4 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/pt_sporttv4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS UK", SPORTTV5 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/pt_sporttv5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS UK", SPORTTVPLUS 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/  
+https://liveus3.score806.cc/pt_sporttvplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/FSaa5166e7528abb9d.png", group-title="SPORTS UK", FS1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/us_fs1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/FSaa5166e7528abb9d.png", group-title="SPORTS UK", FS2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/us_fs2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/fr-rmcsport1.png", group-title="SPORTS UK", RMC1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/fr_rmcsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/fr-rmcsport2.png", group-title="SPORTS UK", RMC2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/premier-sports.jpg", group-title="SPORTS UK", Premier1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/premier-sports.jpg", group-title="SPORTS UK", Premier2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_premiersports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-eurosport.png", group-title="SPORTS UK", EURO1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-eurosport.png", group-title="SPORTS UK", EURO2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-mutv.png", group-title="SPORTS UK", MUTV 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/uk_mutv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-cbssn.png", group-title="SPORTS UK", CBS NETWORK 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-nfl.png", group-title="SPORTS UK", NFL 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/us_nflnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-wwe.png", group-title="SPORTS UK", WWE 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/us_wwe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-nba.png", group-title="SPORTS UK", NBA 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/us_nbatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/willow-cricket.jpg", group-title="SPORTS UK", WILLOW 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/us_willow/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/us_usa.png", group-title="SPORTS UK", USANETWORK 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/us_usa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS UK", DAZN1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS UK", DAZN2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS UK", DAZN3 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS UK", DAZN4 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/pt_elevensport4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS UK", DAZN5 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/pt_elevensport5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS UK", DAZN6 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/pt_elevensport6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/fr-bein1hd.png", group-title="SPORTS UK", BEIN1 FR 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/fr_beinsports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/fr-bein2hd.png", group-title="SPORTS UK", BEIN2 FR 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/fr_beinsports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/fr-bein3hd.png", group-title="SPORTS UK", BEIN3 FR 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/fr_beinsports3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/au-optus01.png", group-title="SPORTS UK", OPTUS1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/au_optus1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/au-optus02.png", group-title="SPORTS UK", OPTUS2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/au_optus2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/au-optus03.png", group-title="SPORTS UK", OPTUS3 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/au_optus3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/au-optus04.png", group-title="SPORTS UK", OPTUS4 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/au_optus4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/au-optus05.png", group-title="SPORTS UK", OPTUS5 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/au_optus5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/au-optus06.png", group-title="SPORTS UK", OPTUS6 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/au_optus6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/skyde.png", group-title="SPORTS UK", BUNDES1 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/de_skybundes1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/skyde.png", group-title="SPORTS UK", BUNDES2 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/de_skybundes2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/skyde.png", group-title="SPORTS UK", BUNDES3 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/de_skybundes3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/skyde.png", group-title="SPORTS UK", BUNDES4 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/de_skybundes4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/skyde.png", group-title="SPORTS UK", BUNDES5 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/de_skybundes5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/skyde.png", group-title="SPORTS UK", BUNDES6 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://24hsport.tv/
+https://liveus3.score806.cc/de_skybundes6/index.m3u8
+
+
