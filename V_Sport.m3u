@@ -4,3 +4,9 @@
 
 #EXTINF:-1 group-title="# 1 - The project is now CLOSED" tvg-logo="" group-logo="", Project CLOSED
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406
+
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|AR| BEIN SPORTS 1 FHD (50 FPS)" tvg-logo="https://i.imgur.com/OkeHSUT.png" group-title="BEIN CONNECT ARABE",|AR| BEIN SPORTS 1 FHD (50 FPS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02
+https://live-d-01-todtv-da.akamaized.net/variant/v1blackout/spo-hd-08-d/DASH_DASH/Live/channel(spo-hd-08)/manifest.mpd?vcfilter=916b0a5c-1595-4d1b-8768-b73a192038e3&hdnts=st=1739621353~exp=1739635753~acl=/variant/v1blackout/spo-hd-08-d/*~id=203228fb-6697-439f-bdc1-7b0e91b6def8~data=193a3d64-e726-48e1-b671-7fe36f59fe04~hmac=fd6d923beb8cb4046f170d1a7675ed75b29c123826757b7a6230ad70f69b71d4&hdcore=2.11.3
+
