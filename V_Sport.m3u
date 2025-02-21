@@ -12,9 +12,54 @@ https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d2
 #KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://thedream.biz.id:443/working/prokci.php/https://iili.io/JhkZGcl.png" group-title="ITALIAN SPORTS",Sky Sport Uno
+ 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Arena (Italy) - Vpn Italy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
+
+ 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport F1 (Italy) - Vpn Italy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
+ 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Golf (Italy) - Vpn Italy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00360b7729f74bf56a0a4eb0eda15ec5:f8a5f4723c71ac84c2f1ff6f55939a63
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd
+ 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Max (Italy) - Vpn Italy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd
+ 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport MotoGP (Italy) - Vpn Italy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+https://thedream.biz.id:443/working/prokci.php/https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
+ 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport NBA (Italy) - Vpn Italy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master.mpd
+ 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Tennis (Italy) - Vpn Italy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
+
