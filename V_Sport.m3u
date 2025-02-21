@@ -5,15 +5,31 @@
 #EXTINF:-1 group-title="# 1 - The project is now CLOSED" tvg-logo="" group-logo="", Project CLOSED
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406
 
-#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://thedream.biz.id:443/working/prokci.php/https://iili.io/JhkZGcl.png" group-title="ITALIAN SPORTS",Sky Sport Uno
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png",Sky Sport Uno (Italy)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
+https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", tvg-id="ksport1hd" group-title="#🇮🇹 Sky Italia 🇮🇹#", Sky Sport Calcio (Italy)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
+https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Uno (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
-https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31023/FHD/skysportuno/master.mpd
+https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master.mpd
 
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Calcio (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
+https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
  
-#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Arena (Italy) - Vpn Italy
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Arena (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21,45 +37,108 @@ https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-ak
 https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
 
  
-#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport F1 (Italy) - Vpn Italy
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport F1 (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
 https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
  
-#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Golf (Italy) - Vpn Italy
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Golf (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00360b7729f74bf56a0a4eb0eda15ec5:f8a5f4723c71ac84c2f1ff6f55939a63
 https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd
  
-#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Max (Italy) - Vpn Italy
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Max (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
 https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd
  
-#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport MotoGP (Italy) - Vpn Italy
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport MotoGP (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
 https://thedream.biz.id:443/working/prokci.php/https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
  
-#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport NBA (Italy) - Vpn Italy
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport NBA (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
 https://thedream.biz.id:443/working/prokci.php/https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master.mpd
  
-#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Tennis (Italy) - Vpn Italy
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport Tennis (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
 https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 251 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 252 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 253 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 254 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 255 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 256 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 257 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 258 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+https://thedream.biz.id:443/working/prokci.php/https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
+
+#EXTINF:-1 group-title="#🇮🇹 Sky Italia 🇮🇹#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png", Sky Sport 259 (Italy)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
+https://thedream.biz.id:443/working/prokci.php/https://linear311-it-dash1-prd.selector.skycdn.it/31613/skysport259/master.mpd
 
