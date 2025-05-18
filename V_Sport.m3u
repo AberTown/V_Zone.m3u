@@ -5,26 +5,91 @@
 #EXTINF:-1 group-title="# 1 - The project is now CLOSED" tvg-logo="" group-logo="", Project CLOSED
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406
 
-#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" group-title="🇲🇾 SPORTS" ch-number="814" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png",814 Astro Football (backup 2)
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="🇲🇾 SPORTS",811 Astro Premier League
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="🇲🇾 SPORTS",811 Astro Premier League (backup 1)
+#EXTINF:-1,体育频道|Astro Premier League 1
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="🇲🇾 SPORTS",811 Astro Premier League (backup 2)
+#EXTINF:-1,体育频道|Astro EPL 1 backup
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="🇲🇾 SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2
-#EXTVLCOPT:http-origin=https://xtreaweb.top
-#EXTVLCOPT:http-referrer=https://xtreaweb.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
-
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="🇲🇾 SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2 (backup)
+#EXTINF:-1,体育频道|Astro Premier League 2
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+#EXTINF:-1,体育频道|Astro Grandstand
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+#EXTINF:-1,体育频道|Astro Football
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+#EXTINF:-1,体育频道|Astro Sports Plus
+https://smart.pendy.dpdns.org/Smart....=go_sportsplus
+#EXTINF:-1,体育频道|Astro Badminton 1
+https://smart.pendy.dpdns.org/Smart....=go_badminton1
+#EXTINF:-1,体育频道|Astro Badminton 2
+https://smart.pendy.dpdns.org/Smart....=go_badminton2
+#EXTINF:-1,体育频道|Astro W-Sports
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
+#EXTINF:-1,体育频道|Supersports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+#EXTINF:-1,体育频道|Supersports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+#EXTINF:-1,体育频道|Supersports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+#EXTINF:-1,体育频道|Supersports 4
+https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+#EXTINF:-1,体育频道|WWE
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+#EXTINF:-1,体育频道|Fight Sports
+https://smart.pendy.dpdns.org/Smart.php?id=Fs
+#EXTINF:-1,体育频道|NBA TV
+https://smart.pendy.dpdns.org/Smart.php?id=Nba
+#EXTINF:-1,体育频道|Astro Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+#EXTINF:-1,体育频道|Astro Golf
+https://smart.pendy.dpdns.org/Smart.php?id=Agolf
+#EXTINF:-1,体育频道|Tnt Sports 1
+https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
+#EXTINF:-1,体育频道|TNT Sports 2
+https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
+#EXTINF:-1,体育频道|TNT Sports 3
+https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
+#EXTINF:-1,体育频道|TNT Sports 4
+https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
+#EXTINF:-1,体育频道|Sony Ten 1
+https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
+#EXTINF:-1,体育频道|Sony Ten 2
+https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
+#EXTINF:-1,体育频道|Sony Ten 3
+https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
+#EXTINF:-1,体育频道|SPOTV 1 HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
+#EXTINF:-1,体育频道|SPO TV 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
+#EXTINF:-1,体育频道|Skysports F1
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
+#EXTINF:-1,体育频道|Skysports Cricket
+https://smart.pendy.dpdns.org/Smart....iankongcricket
+#EXTINF:-1,体育频道|Skysports EPL
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
+#EXTINF:-1,体育频道|Skysports Main Event
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
+#EXTINF:-1,体育频道|Skysports News
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
+#EXTINF:-1,体育频道|Skysports Mix
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
+#EXTINF:-1,体育频道|爱尔达体育2台
+https://smart.pendy.dpdns.org/Smart....eltasport2_twn
+#EXTINF:-1,体育频道|爱尔达体育3台
+https://smart.pendy.dpdns.org/Smart....eltasport3_twn
+#EXTINF:-1,体育频道|Rugby Pass TV
+https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
+#EXTINF:-1,体育频道|RTM Sports HD
+https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
+#EXTINF:-1,体育频道|Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+#EXTINF:-1,体育频道|Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+#EXTINF:-1,体育频道|BolaArena 1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+#EXTINF:-1,体育频道|BolaArena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+#EXTINF:-1,体育频道|Astro Beinsports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
+#EXTINF:-1,体育频道|Astro Beinsports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
+#EXTINF:-1,体育频道|Astro Beinsports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
