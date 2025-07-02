@@ -4,3 +4,63 @@
 
 #EXTINF:-1 group-title="# 1 - The project is now CLOSED" tvg-logo="" group-logo="", Project CLOSED
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdcTGLdN/sky-sports-laliga.png" group-title="SKY" ch-number="1" type="channel",SKY Sports LaLiga
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhw81bqK/sky-sports-bundesliga.png" group-title="SKY" ch-number="2" type="channel",SKY Sports Bundesliga
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="3" type="channel",SKY Sports
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="4" type="channel",SKY Sports 2
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="5" type="channel",SKY Evento 1 
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="6" type="channel",SKY Evento 2 
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="7" type="channel",SKY Evento 3 
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="8" type="channel",SKY Evento 4 
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="9" type="channel",SKY Evento 5 
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="10" type="channel",SKY Evento 6 
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="11" type="channel",SKY Evento 7 
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZXqWCWQ/sky-sports.png" group-title="SKY" ch-number="12" type="channel",SKY Evento 8 
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
