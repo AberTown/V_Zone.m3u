@@ -10,13 +10,14 @@
 🇨🇦 
 🇫🇷 
 🇮🇸 
-#EXTM3U
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_HK.xml"
 
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK31.png", 港台電視31
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+
+#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/RTHK31.png", 港台電視31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
-#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTHK32.png", 港台電視32
+#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/RTHK32.png", 港台電視32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv76.png",HOY 國際財經台
@@ -28,310 +29,418 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hoytv78.png", HOY 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutvsix
-
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png", ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/viu-tv.png", ViuTV
 http://s1.an94tv.cfd/aktv2/viu6/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",  ViuTV6
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/viu-tv6.png",  ViuTV6
 http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png", 翡翠台
+#EXTINF:-1 tvg-id="Magellantv" tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MagellanTV.png", MagellanTV
+http://s1.an94tv.cfd/taiwan/magellantv/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="TVB Jade" group-title="Astro" group-logo="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png", TVB Jade
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbjade
+
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="Astro" group-logo="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB星河2.png", TVB星河頻道 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbxinghe
+
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB Classic HD" group-title="Astro" group-logo="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/tvbclassic.png", 千禧經典台
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbclassic
+
+#EXTINF:-1 tvg-name="HBO" group-title="Astro" tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO.png" ,HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo
+
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="Astro" group-logo="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO-Hits.png",HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbohits
+
+#EXTINF:-1 group-logo="" group-title="Astro" tvg-id="414.astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/HBO-Family.png" ,HBO Family  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbofamily
+
+#EXTINF:-1 group-logo="" group-title="Astro" tvg-id="474.unifi" ch-number="474" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKACTION.png",Rock Action
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Astro" group-logo="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Hitsmovies.png", HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
+
+#EXTINF:-1 tvg-id="History HD" group-logo="" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/History1.png", History HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=history
+
+#EXTINF:-1 tvg-id="Love Nature" ch-number="502" tvg-name="Love Nature" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/LOVENATURE1.png", Love Nature
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=lovenature
+
+#EXTINF:-1 tvg-id="AFN" group-title="Astro" group-logo="" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/AFN.png", AFN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
+
+#EXTINF:-1 tvg-id="TLC" group-logo="" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TLC.png", TLC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Discovery" group-logo="" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Discovery.png", Discovery
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryhd
+
+#EXTINF:-1 tvg-id="Discovery Asia" group-logo="" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Discovery1.png", Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryasia
+
+#EXTINF:-1 tvg-id="Global Trekker" group-logo="" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Globaltrekker.png", Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=globaltrekker
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" group-logo="https://is.gd/dvboM8.png" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Animal-Planet.png", ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://get.perfecttv.net/firstmedia.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=animalplanet|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/bbcearth.png" ch-number="501", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#EXTINF:-1 tvg-id="BBC Lifestyle" ch-number="512" tvg-name="BBC Lifestyle" group-title="Astro" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/bbclifestyle.png", BBC Lifestyle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbclife
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png", 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 https://judy.diver.eu.org/websuper265.php?id=J
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png", 翡翠台 4K
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB1.png", 翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
 https://judy.diver.eu.org/websuper265.php?id=JUHD
 
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png", TVB Plus
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBPLUS.png", TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
 https://judy.diver.eu.org/websuper265.php?id=B
 
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png", 無綫新聞台
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB新闻台.png", 無綫新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
 https://judy.diver.eu.org/websuper265.php?id=C
 
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png", 明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB明珠台.png", 明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
 https://judy.diver.eu.org/websuper265.php?id=P
 
-#EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER獎門人
+#EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER獎門人" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER獎門人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
 https://judy.diver.eu.org/websuper265.php?id=SVAR
 
-#EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER EYT
+#EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPER EYT" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER EYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
 https://judy.diver.eu.org/websuper265.php?id=SEYT
 
-#EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER識食" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER識食
+#EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER識食" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
 https://judy.diver.eu.org/websuper265.php?id=SFOO
 
-#EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER識嘆" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER識嘆
+#EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER識嘆" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
 https://judy.diver.eu.org/websuper265.php?id=STRA
 
-#EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER Music
+#EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
 https://judy.diver.eu.org/websuper265.php?id=SMUS
 
-#EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER金曲
+#EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
 https://judy.diver.eu.org/websuper265.php?id=SGOL
 
-#EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER煲劇
+#EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER煲劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
 https://judy.diver.eu.org/websuper265.php?id=SSIT
 
-#EXTINF:-1 tvg-id="SUPER劇場" tvg-name="SUPER劇場" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER劇場
+#EXTINF:-1 tvg-id="SUPER劇場" tvg-name="SUPER劇場" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER劇場
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
 https://judy.diver.eu.org/websuper265.php?id=STVM
 
-#EXTINF:-1 tvg-id="SUPER話當年（免费）" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER話當年
+#EXTINF:-1 tvg-id="SUPER話當年 (免費)" tvg-name="SUPER話當年 (免費)" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER話當年
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
 https://judy.diver.eu.org/websuper265.php?id=SDOC
 
-#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", SUPER Sports
+#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", SUPER Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
 https://judy.diver.eu.org/websuper265.php?id=SSPT
 
-#EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", 廣東廣播電視台大灣區衛視頻道
+#EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/大湾区卫视.png", 大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
 https://judy.diver.eu.org/websuper265.php?id=GBTV
 
-#EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", 深圳衛視國際頻道
+#EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Shenzhen7.png", 深圳衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
 https://judy.diver.eu.org/websuper265.php?id=SZTV
 
-#EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png", myTV SUPER FREE
+#EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVBMytvsuper.png", myTV SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
 https://judy.diver.eu.org/websuper265.php?id=CWIN
 
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png", myTV SUPER 18台
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/MytvSuper18.png", myTV SUPER 18台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
 https://judy.diver.eu.org/websuper265.php?id=C18
 
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png", 黃金翡翠台
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/黄金翡翠.png", 黃金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
 https://judy.diver.eu.org/websuper265.php?id=TVG
 
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png", 千禧經典台
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/千禧经典.png", 千禧經典台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
 https://judy.diver.eu.org/websuper265.php?id=CTVC
 
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png", 華語劇台
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB华语.png", 華語劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
 https://judy.diver.eu.org/websuper265.php?id=CDR3
 
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png", 粵語片台
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVB粤语片.png", 粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
 https://judy.diver.eu.org/websuper265.php?id=CCLM
 
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png", 亞洲劇台
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png", 亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
 https://judy.diver.eu.org/websuper265.php?id=CTVS
 
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png", 黃金華劇台
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png", 黃金華劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
 https://judy.diver.eu.org/websuper265.php?id=TVO
 
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png", 娛樂新聞台
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/娱乐新闻.png", 娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
 https://judy.diver.eu.org/websuper265.php?id=CTVE
 
-#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png", 戲曲台
+#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/戲曲台.png", 戲曲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
 https://judy.diver.eu.org/websuper265.php?id=CCOC
 
-#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png", SUPER Kids Channel
+#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png", SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
 https://judy.diver.eu.org/websuper265.php?id=KID
 
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png", ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png", ZooMoo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
 https://judy.diver.eu.org/websuper265.php?id=ZOO
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png", Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nickelodeon.png", Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
 https://judy.diver.eu.org/websuper265.php?id=CNIKO
 
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png", Nick Jr.
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Nickjr.png", Nick Jr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
 https://judy.diver.eu.org/websuper265.php?id=CNIJR
 
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png", 美亞電影台
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/美亚电影.png", 美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
 https://judy.diver.eu.org/websuper265.php?id=CMAM
 
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png", Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Thrill.png", Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
 https://judy.diver.eu.org/websuper265.php?id=CTHR
 
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png", 天映經典頻道
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/天映經典頻道.png", 天映經典頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
 https://judy.diver.eu.org/websuper265.php?id=CCCM
 
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png", 中國電影頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
-https://judy.diver.eu.org/websuper265.php?id=CMC
-
-#EXTINF:-1 tvg-id="Rock Action" tvg-name="ROCK Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png", ROCK Action
+#EXTINF:-1 tvg-id="Rock Action" tvg-name="ROCK Action" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKACTION.png", ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
 https://judy.diver.eu.org/websuper265.php?id=CRTX
 
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png", KIX
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/KixTV.png", KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
 https://judy.diver.eu.org/websuper265.php?id=CKIX
 
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png", Love Nature HD
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/LOVENATURE.png", Love Nature HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
 https://judy.diver.eu.org/websuper265.php?id=LNH
 
-#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png", Love Nature 4K
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/LoveNarure4K.png", Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
 https://judy.diver.eu.org/websuper265.php?id=LN4
 
-#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png", Global Trekker
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Globaltrekker.png", Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
 https://judy.diver.eu.org/websuper265.php?id=SMS
 
-#EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png", ROCK綜藝娛樂
+#EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK綜藝娛樂" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/ROCKEntertainment.png", ROCK綜藝娛樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
 https://judy.diver.eu.org/websuper265.php?id=CRTE
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png", AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/AXN.png", AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
 https://judy.diver.eu.org/websuper265.php?id=CAXN
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png", Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/Animax.png", Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
 https://judy.diver.eu.org/websuper265.php?id=CANI
 
-#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png", tvN
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/TVN.png", tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
 https://judy.diver.eu.org/websuper265.php?id=CJTV
 
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png", PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/PopC.png", PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
 https://judy.diver.eu.org/websuper265.php?id=POPC
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png", DW
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" group-title="MytvSuper" tvg-logo="https://raw.githubusercontent.com/yifai/IPTV/main/icon/DW.png", DW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
 https://judy.diver.eu.org/websuper265.php?id=CDW1
 
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png", myTV SUPER直播足球3台
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="myTV SUPER直播足球3台" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png", myTV SUPER直播足球3台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
 https://judy.diver.eu.org/websuper265.php?id=EVT3
 
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png", myTV SUPER直播足球4台
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="myTV SUPER直播足球4台" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png", myTV SUPER直播足球4台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
 https://judy.diver.eu.org/websuper265.php?id=EVT4
 
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png", myTV SUPER直播足球5台
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="myTV SUPER直播足球5台" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png", myTV SUPER直播足球5台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
 https://judy.diver.eu.org/websuper265.php?id=EVT5
 
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png", myTV SUPER直播足球6台
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="myTV SUPER直播足球6台" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png", myTV SUPER直播足球6台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
