@@ -10,3 +10,27 @@
 🇨🇦 
 🇫🇷 
 🇮🇸 
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="myTV SUPER Live Football 3" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png", myTV SUPER Live Football 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
+https://judy.diver.eu.org/websuper265.php?id=EVT3
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="myTV SUPER Live Football Channel 4" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png", myTV SUPER Live Football Channel 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
+https://judy.diver.eu.org/websuper265.php?id=EVT4
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="myTV SUPER Live Football Channel 5" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png", myTV SUPER Live Football Channel 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
+https://judy.diver.eu.org/websuper265.php?id=EVT5
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="myTV SUPER Live Football Channel 6" group-title="MytvSuper" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png", myTV SUPER Live Football Channel 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
+https://judy.diver.eu.org/websuper265.php?id=EVT6
