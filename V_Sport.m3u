@@ -10,38 +10,3 @@
 🇨🇦 
 🇫🇷 
 🇮🇸 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBPyPk5/20240509-191351.png" group-title="Sports",TRING SPORT 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6d3b3c741ba34dcaa1a4c13f644797f1":"5291a8de88aade07c19bc515ea93c3c7","02f3babe6e814e399ce5f66a2fa9eaf5":"4ed8c640ecb709df5ed136e016695e45"}
-https://fe.tring.al/delta/101/out/u/sportnjeottencryption.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBPyPk5/20240509-191351.png" group-title="Sports",TRING SPORT 2 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1f14081cb0234b669371c3f7330ab0d2":"496937bc3766e7af406c8a90b8263a9c","1b4380183f59460798dac98951c68924":"a3e1de88662bb5bb1d3ff9abb3ea2950"}
-https://fe.tring.al/delta/103/out/u/sportdyottencryption.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBPyPk5/20240509-191351.png" group-title="Sports",TRING SPORT 3 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"84fa1d51977949ae84139e615206b1e2":"fa8dec5cadd468ecc76ea11f75b0e10b","e601155c239a4c1eaffa55cd26551d5d":"f5aac7ec60c9e5c0fc10ec6599842e5d"}
-https://fe.tring.al/delta/102/out/u/sporttreottencryption.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBPyPk5/20240509-191351.png" group-title="Sports",TRING SPORT 4 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5d52eb6eef80433fac60fc99255ddc0b":"95f3325b3d828312cdc510f30a280af8","9384d63d83194230b62bd5ab088626ce":"4f2783df34a16f13ba2a074f0062cf29"}
-https://fe.tring.al/delta/101/out/u/tringsport4ottencryption.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCBPyPk5/20240509-191351.png" group-title="Sports",TRING SPORT 5 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0c3cb52919674bc7a1b4f047a04241dc":"9efdecc6df1b8be1dea3e301a10d8ed4","30572373426048ed9ac8ca578d05dbdf":"142dd0c2e94c4a8be512c51e0d95f962"}
-https://tring.s.llnwi.net/delta/102/out/u/tringSport5105.mpd
