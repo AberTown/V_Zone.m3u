@@ -10,3 +10,32 @@
 🇨🇦 
 🇫🇷 
 🇮🇸 
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/hxJvBqhy/Picsart-25-02-10-10-56-32-849.png" group-title="HBO GROUP",SUN TV HD [DOLBY AUDIO]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
+
+ (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+
+#EXTINF:-1 tvg-id="ts608" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Regional Tamil",Zee Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://nb-seq-deliver-telecommunications.trycloudflare.com/key.php?id=608
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=608|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f60e08a145804890492f315b61789ac5","kid":"5e833f4019554aa394ff6de2eb19bf78"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Toto/OP.2025
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sony 5
+https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil_HD.png" group-title="Sports",STAR SPORTS 1 TAMIL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=4468&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://game.denver1769.fun/Jtv/QjtD8n/Jtv.mpd?id=4468
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/Star_Sports_2_Tamil_HD.png" group-title="Sports",STAR SPORTS 2 TAMIL
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8&token=JITENDRA_KUMAR&e.m3u8
+
