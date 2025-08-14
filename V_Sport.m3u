@@ -10,3 +10,37 @@
 🇨🇦 
 🇫🇷 
 🇮🇸 
+#EXTM3U
+# Playlist generata da ThisNotBusiness
+#EXTINF:-1 tvg-id="SportTV1_PT" tvg-name="EREDIVISIE - OLANDA VENERDI 15 AGOSTO 16:30 AVS - Casa Pia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sport•TV (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+#EXTINF:-1 tvg-id="Mediaset20_IT" tvg-name="EREDIVISIE - OLANDA VENERDI 15 AGOSTO 20:45 Lecce - Juve Stabia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-id="Italia1_IT" tvg-name="EREDIVISIE - OLANDA VENERDI 15 AGOSTO 21:15 Genoa - Vicenza" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ee91704e23b78016&key=bfd04d6f544c9cc4d35cb13ab6778587
+
+#EXTINF:-1 tvg-id="USA" tvg-name="EREDIVISIE - OLANDA VENERDI 15 AGOSTO 21:00 Liverpool - AFC Bournemouth" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", USA (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel%28usa-east%29/master.mpd&key_id=78ab64fa90f137a697743b5dc27b2f96&key=de4d31c7fc6005ede28abab2a0720a9f
+
+#EXTINF:-1 tvg-id="LigaTV_UK" tvg-name="EREDIVISIE - OLANDA VENERDI 15 AGOSTO 21:30 Villarreal - Real Oviedo" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", LigaTV (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+
+#EXTINF:-1 tvg-id="IzziLiga" tvg-name="EREDIVISIE - OLANDA VENERDI 15 AGOSTO 19:00 Girona - Rayo Vallecano" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", IzziGO (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd&key_id=c88dc6c668cac3b468d4a4c7e176ff3d&key=1aeb739de2c14ed0ad658ca8043208d8
+
+#EXTINF:-1 tvg-id="ESPN2_NL" tvg-name="EREDIVISIE - OLANDA VENERDI 15 AGOSTO 20:00 Telstar - PEC Zwolle" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", ESPN (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://bpm.tv.delta.nl/live/3037/3037_live.isml/playlist.mpd%3Fbk-network%3Dftth-mobile%26ck%3DNDc5YzNkOTRiNThkZGRlNjQ5NTBkNjQ3MGU5ODU5ODg6MjUwNTFhMDIxN2UzMjJlNjg1YTA4MGQ3NmQzNDY1YWQ%3D&key_id=479c3d94b58ddde64950d6470e985988&key=25051a0217e322e685a080d76d3465ad
+
+#EXTINF:-1 tvg-id="ZiggoSP4" tvg-name="ATP/WTA 1000 CINCINNATI - USA GIOVEDI 7 AGOSTO - DOMENICA 18 AGOSTO 17:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~u0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481~-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013557:UTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205757900%26RTS%3D1717205758%26from%3D11%26hms_devid%3D538%26online%3D1717205758%26mag_hms%3D538%26ck%3DYjVjMDRjZmI2ZGE4NDEwNGJhNWJiZTUxY2QwNjViMTI6ZDk2NTYxYmU0ODE5ZDNlZDRlNWY0ZjU0MDE1YmFhY2E%3D&key_id=b5c04cfb6da84104ba5bbe51cd065b12&key=d96561be4819d3ed4e5f4f54015baaca
+
+#EXTINF:-1 tvg-id="ZiggoSP1" tvg-name="ATP/WTA 1000 CINCINNATI - USA GIOVEDI 7 AGOSTO - DOMENICA 18 AGOSTO 23:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601012829:UTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26RTS%3D1717205309%26from%3D11%26hms_devid%3D1008%26online%3D1717205309%26mag_hms%3D1008%2C311%2C305%26_%3D1717205322621%26ck%3DZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM%3D&key_id=ef34ae91b4f2415e8439b2ad105e7488&key=243248d8de1ff8c7c587ee2057317523
+
+#EXTINF:-1 tvg-id="TNTSP2" tvg-name="GP RED BULL RING - AUSTRIA VENERDI 15 AGOSTO 14:00 MotoGP - Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", TNT Sports (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+
+#EXTINF:-1 tvg-id="RSILA2" tvg-name="GP RED BULL RING - AUSTRIA VENERDI 15 AGOSTO 14:00 MotoGP - Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RSI (TN)
+https://priv98-mediax.hf.space/proxy/mpd/manifest.m3u8?api_password=58&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
