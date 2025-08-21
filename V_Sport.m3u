@@ -10,15 +10,3 @@
 🇨🇦 
 🇫🇷 
 🇮🇸 
-
-#EXTINF:-1 group-title="#⚽️ PL 10 - 20.00 Newcastle Utd v Liverpool" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (West)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ddf7a6d83eb05ab48a757b638244af5": "720eb820e035ebe9f9a84e9f258282a1", "96a46b5f1627549db9632ae1172ea62d": "feb9eb6327915c1547ad17c2461b9f66", "7815e3024bf55d5296ece7d188442baa": "4178f0a0b6eed010845a6342a0831f79"}
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-
-#EXTINF:-1 group-title="#⚽️ PL 9 - 16.30 Manchester Utd v Arsenal" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd", NBC USA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ddf7a6d83eb05ab48a757b638244af5": "720eb820e035ebe9f9a84e9f258282a1", "96a46b5f1627549db9632ae1172ea62d": "feb9eb6327915c1547ad17c2461b9f66", "7815e3024bf55d5296ece7d188442baa": "4178f0a0b6eed010845a6342a0831f79"}
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
