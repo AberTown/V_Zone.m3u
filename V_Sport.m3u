@@ -10,31 +10,15 @@
 🇨🇦 
 🇫🇷 
 🇮🇸 
-#EXTM3U
-# Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="Rai1" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 21:00 Inghilterra - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 tvg-id="RTE2" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 21:00 Germania - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+#EXTINF:-1 group-title="#⚽️ PL 10 - 20.00 Newcastle Utd v Liverpool" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd", USA Network (West)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ddf7a6d83eb05ab48a757b638244af5": "720eb820e035ebe9f9a84e9f258282a1", "96a46b5f1627549db9632ae1172ea62d": "feb9eb6327915c1547ad17c2461b9f66", "7815e3024bf55d5296ece7d188442baa": "4178f0a0b6eed010845a6342a0831f79"}
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
 
-#EXTINF:-1 tvg-id="RaiSport" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 21:00 Germania - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-#EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 20:30 Como - Al-Ahli" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
-
-#EXTINF:-1 tvg-id="SportTOPEvent_DE" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 13:30 Arsenal - Milan" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd%3F%26ck%3DMDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU%3D&key_id=000b3265e1f9d52374c6c4705a258f7a&key=d223e0fec55e0a22344d1cacb8cd2855
-
-#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 19:30 Galatasaray - Cagliari" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
-
-#EXTINF:-1 tvg-id="3CAT" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 20:30 Girona - Espanyol" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", 3Cat (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd&key_id=325daf9ae36d550da1a42c645dc110dd&key=085a5a1b5595f7492d804dab2c406287,47e3d769ecc65009b31260579a2f3362:0577b31398c457270ba9a8af216c7b0c,0044da7266da5474a7ddc63b817ec3af:012ebc9d5499038583b511459151435e
-
-#EXTINF:-1 tvg-id="Eurosport1IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
-
-#EXTINF:-1 tvg-id="Eurosport2IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
+#EXTINF:-1 group-title="#⚽️ PL 9 - 16.30 Manchester Utd v Arsenal" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd", NBC USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ddf7a6d83eb05ab48a757b638244af5": "720eb820e035ebe9f9a84e9f258282a1", "96a46b5f1627549db9632ae1172ea62d": "feb9eb6327915c1547ad17c2461b9f66", "7815e3024bf55d5296ece7d188442baa": "4178f0a0b6eed010845a6342a0831f79"}
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
