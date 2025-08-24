@@ -10,15 +10,3 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", Live Only vid
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19406&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19406&type=dash
-
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", Live Only vid 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19406&type=drm
-https://spacetv.my.id/index.mpd?id=19406&type=dash
-
