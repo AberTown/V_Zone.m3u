@@ -10,3 +10,35 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="" group-title="" tvg-logo="", Test 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://my%2A%2A%2A.hf.space/proxy/mpd/manifest.m3u8?d=https%3A%2F%2Fg003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com%2Fnowitlin1%2FContent%2FCMAF_CTR_S1%2FLive%2Fchannel(skycinemauno)%2Fmaster_2hr-aac.mpd&key_id=***&key=***&api_password=***
+
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="" group-title="" tvg-logo="", Test 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://my%2A%2A%2A.hf.space/proxy/mpd/manifest.m3u8?d=https://g003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd&key_id=***&key=***&api_password=***
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="" group-title="" tvg-logo="", Test 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=***&d=https%3A%2F%2Fg003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com%2Fnowitlin1%2FContent%2FCMAF_CTR_S1%2FLive%2Fchannel(skycinemauno)%2Fmaster_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="" group-title="" tvg-logo="", Test 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=:
+https://my%2A%2A%2A.hf.space/proxy/mpd/manifest.m3u8?d=https://g003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="" group-title="" tvg-logo="", Test 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://my%2A%2A%2A.hf.space/proxy/mpd/manifest.m3u8?d=https%3A%2F%2Fg003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com%2Fnowitlin1%2FContent%2FCMAF_CTR_S1%2FLive%2Fchannel(skycinemauno)%2Fmaster_2hr-aac.mpd&key_id=***&key=***&api_password=***
+
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="" group-title="" tvg-logo="", Test 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://my%2A%2A%2A.hf.space/proxy/mpd/manifest.m3u8?d=https://g003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd&key_id=***&key=***&api_password=***
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="" group-title="" tvg-logo="", Test 7
+https://my%2A%2A%2A.hf.space/proxy/mpd/manifest.m3u8?d=https%3A%2F%2Fg003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com%2Fnowitlin1%2FContent%2FCMAF_CTR_S1%2FLive%2Fchannel(skycinemauno)%2Fmaster_2hr-aac.mpd&key_id=***&key=***&api_password=***
+
+#EXTINF:-1 tvg-id="" ch-number="" group-logo="" group-title="" tvg-logo="", Test 8
+https://my%2A%2A%2A.hf.space/proxy/mpd/manifest.m3u8?d=https://g003-lin-it-cmaf-prd-xa.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd&key_id=***&key=***&api_password=***
