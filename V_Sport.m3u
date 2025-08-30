@@ -10,3 +10,46 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ Sport 1 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 1 | Pro main
+http://vuikhoetv.online:80/live/beo123/tr1234/5247.ts
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ Sport 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 2 | Pro main
+http://vuikhoetv.online:80/live/beo123/tr1234/4962.ts
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ Sport 1 Link Phụ" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 1 | Bigboss
+http://vuikhoetv.online:80/live/beo123/tr1234/5409.ts
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ Sport 1 Link Phụ" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 1 | Bigboss
+http://vuikhoetv.online:80/live/beo123/tr1234/7139.ts
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ Sport 1 | MAIN" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 1 | Pro one
+http://vuikhoetv.online:80/live/beo123/tr1234/5247.ts
+#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/Kplus_Kids_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042543&path-prefix=vi" group-title="Vua Thể thao",K+ Kids
+http://vuikhoetv.online:80/live/beo123/tr1234/7143.ts
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+ Cine" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/Kplus_Cine_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042536&path-prefix=vi" group-title="Vua Thể thao",K+ Cine
+http://vuikhoetv.online:80/live/beo123/tr1234/7136.ts
+#EXTINF:-1 tvg-id="kaction" tvg-name="K+ Action" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Kplus_Action_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042537&path-prefix=vi" group-title="Vua Thể thao",K+ Action
+http://vuikhoetv.online:80/live/beo123/tr1234/7137.ts
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ Sport 1 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 1 | Faster T7 CN
+http://vuikhoetv.online:80/live/beo123/tr1234/7147.ts
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ Sport 2 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 2 | Faster T7 CN
+http://vuikhoetv.online:80/live/beo123/tr1234/7148.ts
+
+#EXTINF:-1 xui-id="7204" tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title="Vua Thể thao",SCTV15
+http://vuikhoetv.online:80/live/beo123/tr1234/7204.ts
+#EXTINF:-1 xui-id="7206" tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title="Vua Thể thao",SCTV17
+http://vuikhoetv.online:80/live/beo123/tr1234/7206.ts
+#EXTINF:-1 xui-id="7211" tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://i.imgur.com/O0HdUpB.png" group-title="Vua Thể thao",SCTV22
+http://vuikhoetv.online:80/live/beo123/tr1234/7211.ts
+
+#EXTINF:-1 tvg-id="onsportsnews" tvg-name="On Sports News | ClipTV" tvg-logo="https://vuikhoetv.online:443/images/940fb9b61597442fafbafdf407b76365.jpg" group-title="Vua Thể thao",On Sports News | ClipTV
+http://vuikhoetv.online:80/live/beo123/tr1234/4755.ts
+#EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football | ClipTV" tvg-logo="https://vuikhoetv.online:443/images/184b51dd70c7a5ee8c23fa14f1d9ddaf.jpg" group-title="Vua Thể thao",ON Football | ClipTV
+http://vuikhoetv.online:80/live/beo123/tr1234/4754.ts
+#EXTINF:-1 tvg-id="onsportsplus" tvg-name="On Sports+ | ClipTV" tvg-logo="https://vuikhoetv.online:443/images/2961c68ad73e00cd8b86953b59ca7eab.jpg" group-title="Vua Thể thao",On Sports+ | ClipTV
+http://vuikhoetv.online:80/live/beo123/tr1234/4753.ts
+#EXTINF:-1 tvg-id="onsports" tvg-name="ON Sport HD | ClipTV" tvg-logo="https://vuikhoetv.online:443/images/bb347b7b11e0ad456ec4bd3f96c10750.jpg" group-title="Vua Thể thao",ON Sport HD | ClipTV
+http://vuikhoetv.online:80/live/beo123/tr1234/4752.ts
+#EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi" group-title="Vua Thể thao",SCTV15
+http://vuikhoetv.online:80/live/beo123/tr1234/7204.ts
+#EXTINF:-1 tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/SCTV17_SSport.png/revision/latest?cb=20240131092112&path-prefix=vi" group-title="Vua Thể thao",SCTV17
+http://vuikhoetv.online:80/live/beo123/tr1234/7206.ts
+#EXTINF:-1 tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/SCTV22_SSport_1.png/revision/latest?cb=20230802033043&path-prefix=vi" group-title="Vua Thể thao",SCTV22
+http://vuikhoetv.online:80/live/beo123/tr1234/7211.ts
