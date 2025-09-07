@@ -10,23 +10,3 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
-
-#EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 4k " tvg-logo="https://drm.search0.workers.dev/3:/M3U/SSC.png", ESPNU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f8f4aceaffa0e41691acae94586955b:0c54239cc17d9fff50cf3fbf8ffc03d4
-https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ESPNUHD-2355.dfw.720)/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 4k " tvg-logo="https://drm.search0.workers.dev/3:/M3U/SSC.png", ESPN News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=406caae8d33769377463163c0ef4e89b:57827b2e42f5ca2f716f3d82add2bab6
-https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ESNHD-8235.dfw.720)/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 4k " tvg-logo="https://drm.search0.workers.dev/3:/M3U/SSC.png", Big Ten Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5de316c965eedf8ade798d317a6df14e:d63f778dfcccfc95b07c0d283b647a4d
-https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(BIG10HD-5610.dfw.720)/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS🏅" tvg-id="SSC 4k " tvg-logo="https://drm.search0.workers.dev/3:/M3U/SSC.png", USA Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=372adbbc2f7a84379d4af2a0350ca190:37922201fbe77e02e24a590c7c8b443b
-https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(USAHD-1327.dfw.1080)/index.m3u8
