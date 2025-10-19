@@ -10,3 +10,24 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-id="英超台" tvg-name="英超台" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png" group-title="beesports",英超台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-id="peacocktv en" tvg-name="peacocktv en" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png" group-title="beesports",peacocktv en
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022f6ef91d026934bcb79ff04d0b380:9acf61a747250b0f5bce8026fddbf303
+https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s-v2/Live/channel(2506471-207884-247955373cc)/master_2hr.mpd
+
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-id="sky sports live" tvg-name="sky sports live" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png" group-title="beesports",sky sports live
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zeohgwvbkt/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
