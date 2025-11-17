@@ -10,3 +10,183 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+#EXTINF:0,Ptv Sports
+http://147.93.154.65/PtvSports/index.m3u8
+#EXTINF:0,T-SPORTS
+http://147.93.154.65/TSports/index.m3u8
+#EXTINF:0,Ten sports
+http://147.93.154.65/TenSports/index.m3u8
+#EXTINF:0,a sports
+http://147.93.154.65/ASports/index.m3u8
+#EXTINF:0,fox sports
+http://147.93.154.65/Fox501/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="foxtel" tvg-logo="" group-title="Foxtel",Fox Sports (ClearKey)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CrMAv4ABc4DACvbHUEh74g","kid":"8aWBb4ceSBe0EkG2AX+q3w"},{"kty":"oct","k":"OLqPtWVsogdneAkmFatfgg","kid":"lL+AYE6IQkOmif2MVGt8Mg"}],"type":"temporary"}
+https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", astro cricket
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd&User-Agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="fox sports",fox cricket 501
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+https://fxtlgrp-live1-814bffb9b389f652.akamaized.net/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 1 HD ðŸ‡¸ðŸ‡¬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
+https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 2 HD ðŸ‡¸ðŸ‡¬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
+https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 3 HD ðŸ‡¸ðŸ‡¬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
+https://ucdn.starhubgo.com/bpk-tv/HubSports3HDNEW/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 4 HD ðŸ‡¸ðŸ‡¬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 5 HD ðŸ‡¸ðŸ‡¬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
+https://ucdn.starhubgo.com/bpk-tv/HubSports5HD/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 6 HD ðŸ‡¸ðŸ‡¬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
+https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 7 HD ðŸ‡¸ðŸ‡¬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
+https://ucdn.starhubgo.com/bpk-tv/HubSports7/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/zRnqJY1/hub-sports.png" group-title="Hub Sports Singapore",Hub Sports 8 HD ðŸ‡¸ðŸ‡¬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
+https://ucdn.starhubgo.com/bpk-tv/HubSports8/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="bein sports Singapore",beIN Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
+https://ucdn.starhubgo.com/bpk-tv/beINSportsHD2/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="bein sports Singapore",beIN Sports 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
+https://ucdn.starhubgo.com/bpk-tv/beINSports3NEW/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="bein sports Singapore",beIN Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
+https://ucdn.starhubgo.com/bpk-tv/beINSports4/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="bein sports Singapore",beIN Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
+https://ucdn.starhubgo.com/bpk-tv/beINSports5/output/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="bein sports Singapore",beIN Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
+https://ucdn.starhubgo.com/bpk-tv/BeINSportsHD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="CRE" tvg-name="CricLife Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5J2gFH_mFzD330RmYFdWmdqJ6r3QSKLen_g1GYSyVkFpAcHNrMvRkn1K&s=10" group-title="UAE",UAE| CricLife max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+
+#EXTINF:-1 tvg-id="CRE" tvg-name="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5J2gFH_mFzD330RmYFdWmdqJ6r3QSKLen_g1GYSyVkFpAcHNrMvRkn1K&s=10" group-title="UAE",UAE| Cricbuzz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+
+#EXTINF:-1 tvg-id="CRE" tvg-name="Cricbuzz2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5J2gFH_mFzD330RmYFdWmdqJ6r3QSKLen_g1GYSyVkFpAcHNrMvRkn1K&s=10" group-title="UAE",UAE| Cricbuzz 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+#EXTINF:-1 tvg-logo="https://ia904702.us.archive.org/33/items/sky-sports-cricket-2020/Sky_Sports_Cricket_2020.png", hub sports Cricket
+https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1116b327df439f151e6de79b922d0b51:1e9050e6819728885dd9ab5752bc1fe5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gSb721/20240817-171339.png", sky cricket
+https://g006-lin-gb-cmaf-prd-xa.pcdn05.cssott02.com/nowgblin1/Content/CMAF_CTR_H1/Live/channel(skysportscricket)/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00052237a76cdb0eb5fcbccf4c16f658:4e42c0a0ecf6e534426fbb21525c1911
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5YyNvJQ/20240817-171330.png", Sky sports mix
+https://linear034-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmix)/manifest_720.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00058832b1c058c3de8b5d118cc775d4:721345f25729d236d6bb317fce797b77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vvV2fC/20240817-171405.png", Sky sports premier league
+https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005c37ab85893a379c1e1e5ed60fcf0:b60a9aa6c55026adfc3f47136ce64924
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GW5rg2p/20240817-171319.png", Sky sports football
+https://linear027-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720.mpd
+
+
+
+#EXTINF:-1 tvg-id="812" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jBQSPlDeHhyJiD2tm6ZlfqFYPAQswbIu6A&s" group-title="Sky uhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jBQSPlDeHhyJiD2tm6ZlfqFYPAQswbIu6A&s,Sky Sports Main Event UHD 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "In6u8TZvphYQpGe9h9ELEw", "kid": "ES/F78qWo81+5CrEbHM1UA"}, {"kty": "oct", "k": "TmxvwA301e1eI+bXJ+siew", "kid": "ES9scQrXvsoGkLyrMXN49Q"}], "type": "temporary"}
+https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsmaineventuhd)/manifest_2160-120.mpd
+
+#EXTINF:-1 tvg-name="" group-title="TNT SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/QLRYwKG.png",TNT SPORTS 1 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/QLRYwKG.png" group-title="TNT SPORTS", TNT SPORTS 2 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-name="" group-title="TNT SPORTS" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/QLRYwKG.png", TNT SPORTS 3 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-name="" group-title="TNT SPORTS" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/QLRYwKG.png",TNT SPORTS 4 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-name="" group-title="TNT SPORTS" tvg-id="TNTSports5.uk" tvg-logo="https://i.imgur.com/QLRYwKG.png",TNT SPORTS 5 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+[{ 
+"logo": "",
+"name": "live match", 
+"link": "http://ddn.oncast.me:1934/dlive/sp16.stream/chunks.m3u8|referer=http://ddn.oncast.me/",
+"origin": "",
+"referrer": "http://ddn.oncast.me/",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "", 
+"drmLicense": "" 
+}, {
+"logo": "",
+"name": "live match 2", 
+"link": "http://ddn.oncast.me:1934/dlive/ekattor.stream/chunks.m3u8|referer=http://ddn.oncast.me/",
+"origin": "",
+"referrer": "http://ddn.oncast.me/",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "", 
+"drmLicense": "" 
+}]
