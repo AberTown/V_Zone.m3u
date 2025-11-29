@@ -10,3 +10,61 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+#EXTM3U x-tvg-url="https://whythishome.github.io/epg/guides/watch.tataplay.com.xml.gz"
+
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports 1 HD.png" group-title="STAR",STAR SPORTS 1 HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD(JHSTAR)@DJ-TM.mpd?data=8zYJy3SsSg40CvQ0sQiNTPMtyS0ocgwOSQwpsyw0cS3w9g2y9PdyrQj18g70SNMuyM10DS4rMCr3CkzRzg0Oiqr0SkoujsgoNzMoCyuvzA1y8fYLKvFLCvBPLwgHAA%7CdrmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TPILskN88sMyM0PdXM08DA0LPaOynZ0dksOcE_JCc2PzMlyiTDwySwIK061iMjIiTL2zS00DHK0SLMwKAMA&Cookie=hdntl=exp=1764476408~acl=*sshd1livetv*~id=0c04036c8d33a5e1b9f32a1e4a89f355~data=hdntl~hmac=c324ea99e770a617f72e39e8246dbb0b2b646683a256910c452b99319bf7581d&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports 1 Hindi HD.png" group-title="STAR",STAR SPORTS 1 HINDI HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1_HINDI-HD(JHSTAR)@DJ-TM.mpd?data=87ModksODjZICdavLC4ySPRPMy01NfCKiogwLi4xTzeJSPX2NCgLyCwoCggzNMpK1i4M8UmpSrUscvYxq3AuC_BJ9szTNndxNzMrCyqvyA1y8fYLKvFLCvCvLAgFAA%7CdrmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TPILskN88sMyM0PdXM08DA0LPaOynZ0dksOcE_JCc2PzMlyiTDwySwIK061iMjIiTL2zS00DHK0SLMwKAMA&Cookie=hdntl=exp=1764476408~acl=*sshindi*~id=e5bd7b91b730c984eca099d5c504db3d~data=hdntl~hmac=1db88c60a59e259cdb7c0d90456d330a152b24d7f78f893a59e4454e7e000736&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports Select 1 HD.png" group-title="STAR",STAR SPORTS SELECT 1 HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_SELECT_1-HD(JHSTAR)@DJ-TM.mpd?data=s7V18cv2zihO9_Mw9CwKzU9Pz_UoCSkJLdEPMw4o9a_UDrVIqixIyUz18yrL9M_1zshKSSmOdI8IcTfy0XfLDXX2DzIq9M_Vzszy9ggNDfLPq9IO8vP2CyrxSwpwrSwIBQA%7CdrmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TPILskN88sMyM0PdXM08DA0LPaOynZ0dksOcE_JCc2PzMlyiTDwySwIK061iMjIiTL2zS00DHK0SLMwKAMA&Cookie=hdntl=exp=1764476409~acl=*ssselecthd1*~id=d983632926354ab8cdb5dd9e90d96e8e~data=hdntl~hmac=1dbdf376d27ce72279cda7944cdb0bbcdfda445d53007854b87fa00e70185e13&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports 2 HD.png" group-title="STAR",STAR SPORTS 2 HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2-HD(JHSTAR)@DJ-TM.mpd?data=8w5K9fWsKg10TnRLsjQOyKoILkrNcXIMSQwp0y_Mqkr0Tg6y9C8yqvDzKgp0SdMuyM109y8r0C73CkzRNnUtyTL0SMoujsgoNzMo8yivyA1y8fYLKvFLCvBPLwgHAA%7CdrmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TPILskN88sMyM0PdXM08DA0LPaOynZ0dksOcE_JCc2PzMlyiTDwySwIK061iMjIiTL2zS00DHK0SLMwKAMA&Cookie=hdntl=exp=1764476409~acl=*sshd2livetv*~id=4f66a9dd987c74aea09675161beb3899~data=hdntl~hmac=89e13ed35e9295cd03dc8dcd60efb9e3d112062cf9f0d89633b80855c6582dc2&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="STAR",STAR SPORTS 2 HINDI HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2_HINDI-HD(JHSTAR)@DJ-TM.m3u8?data=s7XNco5Ici72tQx3SU-uyE0uLfR1NSr3Nk6KMizIqQpMKXZOLY_wCvHNzasoKQ-OTC41c_ZKCiuMcksrSvOL0i4wDDFx9CiKKizwzjQJKwvx16_IcS3LCgpJSU10cckr8wv0Cyzx8wnMDy3wBwA%7CCookie=hdntl=exp=1764476407~acl=%2f*~id=21b8442c230a11da857dab77fd4704ac~data=hdntl~hmac=dfec3cd57bc480f52004922bdffbce8aff821f19b9a5e5464884638bce63cd6f&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_high.jpg" group-title="STAR",STAR SPORTS 2 HINDI SD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2_HINDI-SD(JHSTAR)@DJ-TM.m3u8?data=s7XNCixPzS_OSQ_20PZPrSrIDXF2cw1LLQzOdk0qC3eydA3yyfN0D3JOCSyJyPfTrzAuDS0wSw1zSfbOSE4r9E0JyAxwT3UPL7R0ck_y8Uk2qMr0MAzzK_B2Nwjycc0r8wv0Cyzx8wn0Dy3wBwA%7CCookie=hdntl=exp=1764476407~acl=%2f*~id=21b8442c230a11da857dab77fd4704ac~data=hdntl~hmac=dfec3cd57bc480f52004922bdffbce8aff821f19b9a5e5464884638bce63cd6f&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star Sports Select 2 HD.png" group-title="STAR",STAR SPORTS SELECT 2 HD
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_SELECT_2-HD(JHSTAR)@DJ-TM.mpd?data=s7V18cv2zihO9_Mw9CwKLcvLN072C3dxdtQPMw4o9a_UDrVIqixIyUz18yrL9M_1zshKSSmOdI8IcTfy0XfLDXX2DzIq9M_Vzszy9ggNDfLPq9IO8vP2CyrxSwpwrSwIBQA%7CdrmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TPILskN88sMyM0PdXM08DA0LPaOynZ0dksOcE_JCc2PzMlyiTDwySwIK061iMjIiTL2zS00DHK0SLMwKAMA&Cookie=hdntl=exp=1764476409~acl=*ssselecthd2*~id=0d3dfdad2045340529da94a4083d92d4~data=hdntl~hmac=dbe36d6fef4409db3266cab8c4549da1b08910572f324ebbdeeb007cbf56e575&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-1-HD-Transparent.png" group-title="SONY",SONY SPORTS TEN 1 HD
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_1-HD@DJ-TM.m3u8?strm=BcHBCoAgDADQT9IVSB06SLGkYGAQNI_SjEShLn1_7w1EXHM8geFDvjpZFHmg3TdvH1pXbSZvUX3lzTqAYZQDZbJzzKWkZHAVJ5I2vp9LV6PnEfTxAw%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-1-Transparent.png" group-title="SONY",SONY SPORTS TEN 1 SD
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_1-SD@DJ-TM.m3u8?strm=BcHBCoAgDADQT2oWSB06SLGiYlAQtI7SlEQhL35_7_VEnIJ9FKuC7FtZXsoNnXudOw9bMoF2g1WJOcCtNKNcKKOZbIjROY2rzCLu4PfzkDRMg4LrBw%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-2-HD-Transparent.png" group-title="SONY",SONY SPORTS TEN 2 HD
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_2-HD@DJ-TM.m3u8?strm=BcGxCoAgEADQT8prkBoapDijQDJIukbpjEyhFr-_9zpjKEd_AkFBuhqeKrOA22ytWvU4fURnFVYlfVEcIAl5Rx6U9jGlECTOPDKHle73ElkK3YPYfw%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-2-Transparent.png" group-title="SONY",SONY SPORTS TEN 2 SD
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_2-SD@DJ-TM.m3u8?strm=BcFBCoAgEADAJ7UWSB06SLFGgVSQtB2lVRQDu_T-Znpj6EnuFiQ-pNDyHE1p7LHVqlOw6ivZTWH15TfBJSQhn8ij0i7l7L3EhSdmv1MsAR4JehBw_g%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-3-HD-Transparent.png" group-title="SONY",SONY SPORTS TEN 3 HD
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_3-HINDI(HD)@DJ-TM.m3u8?strm=BcHBCoAgDADQT2rrIHXoIMWMAsmgaB2jKYlCXfz-3uus5RyvGxkLcWhkqqzDfXP112pYzBl3p6kq6YtwomKSg2TQ5oopea9ollHEr_y8AbIC0yMcPw%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-3-Transparent.png" group-title="SONY",SONY SPORTS TEN 3 SD
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_3-HINDI(SD)@DJ-TM.m3u8?strm=BcFBCoAgEADAJ6UGUocOUqxRIBUkbUdpFcUgL76_mcEYfJN7OPIKGDpaoimtPXeheiU2fSe7K2hqLondXCLQBTQp7VLO3ktYaSbyB8YvsFcyPXJ2_Q%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-4-Transparent.png" group-title="SONY",SONY SPORTS TEN 4 (TAMIL)
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_4-TAMIL@DJ-TM.m3u8?strm=s_Xzi8zNSkoxjDQsc4tMt0j1ygxwM64IinQqtHTMDXOPygoLdHTTL8spzDKIMjSLdEuNcEt1cXRPysrJSUszc_NO9UhNTQuKzCxIN8g1M3B3NjSIAAA%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-4-Transparent.png" group-title="SONY",SONY SPORTS TEN 4 (TELUGU)
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_4-TELUGU@DJ-TM.m3u8?strm=BcHBDkAwDADQT1p7WTg4DOmERHCQ1VF0opmEy-LzvVeNI9-6H8iYic9CejMF_Bau3zLC5DddZ0cmp1dhQ8skgaR1fteUYrQ0SCcSF76eE24LvkEIPw%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-5-HD-Transparent.png" group-title="SONY",SONY SPORTS TEN 5 HD
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_5-HD@DJ-TM.m3u8?strm=BcFBCoAgEADAJ6UFUocOUqxRIBUYbsdojTYFu_T-ZlprMfFxSpQf4FXTWNjlIc6Vc7l8G13OZudt0VB88WWxS4VAHqjX5uAYQ1Aw0UAUVrzzJZISppPC_w%7CTelegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-5-Transparent.png" group-title="SONY",SONY SPORTS TEN 5 SD
+https://dj-tm-srvr2.vercel.app/snylv/SONY_SPORTS_TEN_5-SD@DJ-TM.m3u8?strm=BcFRC0AwEADgn2RHLR48LLqJWihyHuWmXVvNi9_v-1rnKMl1A8GH9NQ8BvcmllxtWy5NY2C2p-yLweKLr6gTNCEfyL2xl8TovcaJB2a_UsiPSlrZDtTxAw%7CTelegram=@links_macha_official&Creator=@DJ-TM
