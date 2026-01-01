@@ -17,7 +17,26 @@
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-chno="96" tvg-id="viu6" tvg-name="Viu 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/420px-ViuTVsix-logo.svg.png" group-title="", Viu 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
+https://ewcdn104.nowe.com/session/p8-5-e20287551dd-4627c24058d4476/Content/DASH_VOS3/Live/channel(VOS_CH096)/manifest.mpd?token=58e0754e7b153795d2f5341c0db0cf20_1750705571
 
+#EXTINF:-1 tvg-chno="99" tvg-id="viutv" tvg-name="Viu TV" tvg-logo="https://viu.tv/staticV3/images/nav/icon_viutv.png" group-title="", Viu TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
+https://ewcdn16.nowe.com/session/p8-1-eedd154d3b6-0000anonymous_u/Content/HLS_VOS1/Live/channel(VOS_CH099)/index.m3u8?token=885510f9c3c6c97d5b84ed8fdb119882_1752662297
+
+#EXTINF:-1 tvg-chno="331" tvg-id="now331" tvg-name="Now 331" tvg-logo="" group-title="", Now 331
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94c69900700132fe80a89664b69db743:038f7a70a1e701e8f64bfc9978155dba
+https://ewcdn101.nowe.com/session/10-3b7edb300166714ac2a74d11481e5/Content/DASH_VOS3/Live/channel(VOS_CH331)/manifest.mpd?token=27565f9020474369d37a413e456c7c23_1750706211
+
+#EXTINF:-1 tvg-chno="332" tvg-id="now332" tvg-name="Now 332" tvg-logo="" group-title="", Now 332
+https://ewcdn16.nowe.com/session/10-a61efaaebeeeab165a586a7dee2ea/Content/DASH_VOS3/Live/channel(VOS_CH332N)/manifest.mpd?token=a8d69c8f9ce85012e97968e5a12ff2f1_1751205712|Origin=https://news.now.com|Referer=https://news.now.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.104 Safari/537.36
 
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-id="英超台" tvg-name="英超台" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png" group-title="beesports",英超台
