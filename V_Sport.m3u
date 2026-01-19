@@ -10,29 +10,3 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
-#EXTINF:-1 tvg-id="MaharBadi" tvg-name="MaharBadi" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-action-myanmar-fr-mm.png" group-title="MYANMAR",MaharBadi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
-
-###EXTINF:-1 tvg-id="CANALZATLENN" tvg-name="CANALZATLENN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-zatlenn-myanmar-fr-mm.png" group-title="Movies",CANALZATLENN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8fad6d5f32844bbaef02889651a72a3:ff94b76e4c1f73eeae28a0fab6e47d8e
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ZATLENN/output2/index.mpd
-
-###EXTINF:-1 tvg-id="CANALMAEMADI" tvg-name="CANALMAEMADI" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-maemadi-myanmar-fr-mm.png" group-title="Movies",CANALMAEMADI
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6f62937490b418487461688af7003f0:c54f813eff5ff437ae23c6eb0daa80fb
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_MAEMADI/output2/index.mpd
-
-###EXTINF:-1 tvg-id="CANALCHATATE" tvg-name="CANALCHATATE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-chatate-myanmar-fr-mm.png" group-title="Movies",CANALCHATATE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cf23379b3da4347895742cd0592e376:ef7876fe520d4bef9bff0d0e840a7736
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_CHATATE/output2/index.mpd###
