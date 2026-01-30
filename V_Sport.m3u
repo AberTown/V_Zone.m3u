@@ -10,3 +10,26 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="World TV",Sky Sports Football
+http://178.33.239.54:8080/500a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="World TV",Sky Sport News
+http://178.33.239.54:8080/501a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="World TV",Sky Sports Main Event
+http://178.33.239.54:8080/502b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="World TV",Sky Sports Cricket
+http://178.33.239.54:8080/503a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="World TV",Sky Sport NFL
+http://178.33.239.54:8080/504/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="World TV",Sky Sports Premier League
+http://178.33.239.54:8080/506b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="World TV",Sky Sports Mix
+http://178.33.239.54:8080/507a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="World TV",Sky Sports F1
+http://178.33.239.54:8080/508a/index.m3u8
