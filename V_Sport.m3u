@@ -10,3 +10,389 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="StarHUB" tvg-id="starhub/hubecityhd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",111-Hub E City HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubecityhd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:2 group-title="StarHUB" tvg-id="starhub/preview" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",101-Preview [StarHUB]
+http://192.168.68.119:18484/stream/starhub/preview/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:3 group-title="StarHUB" tvg-id="starhub/zeetv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",125-Zee TV [StarHUB]
+http://192.168.68.119:18484/stream/starhub/zeetv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:4 group-title="StarHUB" tvg-id="starhub/sonyentertainmenttelevision" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",127-Sony Entertainment Television [StarHUB]
+http://192.168.68.119:18484/stream/starhub/sonyentertainmenttelevision/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:5 group-title="StarHUB" tvg-id="starhub/colors" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",128-COLORS [StarHUB]
+http://192.168.68.119:18484/stream/starhub/colors/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:6 group-title="StarHUB" tvg-id="starhub/zeecinema" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",130-Zee Cinema [StarHUB]
+http://192.168.68.119:18484/stream/starhub/zeecinema/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:7 group-title="StarHUB" tvg-id="starhub/sonymax" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",131-SONY MAX [StarHUB]
+http://192.168.68.119:18484/stream/starhub/sonymax/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:8 group-title="StarHUB" tvg-id="starhub/colorstamilhd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",132-COLORS Tamil HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/colorstamilhd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:9 group-title="StarHUB" tvg-id="starhub/suntv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",133-Sun TV HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/suntv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:10 group-title="StarHUB" tvg-id="starhub/sunmusic" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",134-Sun Music HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/sunmusic/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:11 group-title="StarHUB" tvg-id="starhub/vijaytv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",135-Vijay TV HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/vijaytv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:12 group-title="StarHUB" tvg-id="starhub/vannathirai" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",136-Vannathirai [StarHUB]
+http://192.168.68.119:18484/stream/starhub/vannathirai/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:13 group-title="StarHUB" tvg-id="starhub/zeethirai" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",137-Zee Thirai [StarHUB]
+http://192.168.68.119:18484/stream/starhub/zeethirai/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:14 group-title="StarHUB" tvg-id="starhub/zeetamil" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",138-Zee Tamil HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/zeetamil/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:15 group-title="StarHUB" tvg-id="starhub/asianet" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",139-Asianet [StarHUB]
+http://192.168.68.119:18484/stream/starhub/asianet/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:16 group-title="StarHUB" tvg-id="starhub/asianetmov" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",140-Asianet Movies HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/asianetmov/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:17 group-title="StarHUB" tvg-id="starhub/kalaignartv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",141-Kalaignar TV [StarHUB]
+http://192.168.68.119:18484/stream/starhub/kalaignartv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:18 group-title="StarHUB" tvg-id="starhub/dw" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",153-DW English HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/dw/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:19 group-title="StarHUB" tvg-id="starhub/adithyatv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",158-ADITHYA TV [StarHUB]
+http://192.168.68.119:18484/stream/starhub/adithyatv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:20 group-title="StarHUB" tvg-id="starhub/ktvhd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",159-KTV HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/ktvhd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:21 group-title="StarHUB" tvg-id="starhub/hubsports1hdnew1" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",201-Hub Sports 1 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubsports1hdnew1/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:22 group-title="StarHUB" tvg-id="starhub/hubsports2hd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",202-Hub Sports 2 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubsports2hd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:23 group-title="StarHUB" tvg-id="starhub/hubsports3hdnew" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",203-Hub Sports 3 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubsports3hdnew/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:24 group-title="StarHUB" tvg-id="starhub/hubsports4hdnew" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",204-Hub Sports 4 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubsports4hdnew/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:25 group-title="StarHUB" tvg-id="starhub/hubsports5hd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",205-Hub Sports 5 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubsports5hd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:26 group-title="StarHUB" tvg-id="starhub/spotvnew" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",209-SPOTV [StarHUB]
+http://192.168.68.119:18484/stream/starhub/spotvnew/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:27 group-title="StarHUB" tvg-id="starhub/spotv2new" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",210-SPOTV2 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/spotv2new/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:28 group-title="StarHUB" tvg-id="starhub/beinsportshd2" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",211-beIN SPORTS 2 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/beinsportshd2/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:29 group-title="StarHUB" tvg-id="starhub/beinsportshd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",213-beIN SPORTS HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/beinsportshd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:30 group-title="StarHUB" tvg-id="starhub/beinsports3new" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",214-beIN SPORTS 3 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/beinsports3new/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:31 group-title="StarHUB" tvg-id="starhub/msports" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",MOLA Sport [StarHUB]
+http://192.168.68.119:18484/stream/starhub/msports/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:32 group-title="StarHUB" tvg-id="starhub/mgolf" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",MOLA Golf [StarHUB]
+http://192.168.68.119:18484/stream/starhub/mgolf/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:33 group-title="StarHUB" tvg-id="starhub/fightsportshd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",241-FIGHT SPORTS HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/fightsportshd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:34 group-title="StarHUB" tvg-id="starhub/travelxphd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",427-Travelxp HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/travelxphd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:35 group-title="StarHUB" tvg-id="starhub/fashiontv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",443-FashionTV HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/fashiontv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:36 group-title="StarHUB" tvg-id="starhub/abcaustralia" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",447-ABC Australia HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/abcaustralia/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:37 group-title="StarHUB" tvg-id="starhub/bloombergtelevisionhd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",708-Bloomberg Television HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/bloombergtelevisionhd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:38 group-title="StarHUB" tvg-id="starhub/quicktake" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",Quicktake [StarHUB]
+http://192.168.68.119:18484/stream/starhub/quicktake/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:39 group-title="StarHUB" tvg-id="starhub/seatoday" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",720-SEAToday [StarHUB]
+http://192.168.68.119:18484/stream/starhub/seatoday/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:40 group-title="StarHUB" tvg-id="starhub/france24" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",724-France24 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/france24/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:41 group-title="StarHUB" tvg-id="starhub/nhkworldjapan" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",812-NHK WORLD - JAPAN HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/nhkworldjapan/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:42 group-title="StarHUB" tvg-id="starhub/arirangtv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",817-Arirang TV HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/arirangtv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:43 group-title="StarHUB" tvg-id="starhub/hubpremier1" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",221-Hub Premier 1 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier1/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:44 group-title="StarHUB" tvg-id="starhub/beinsports4" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",215-beIN SPORTS 4 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/beinsports4/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:45 group-title="StarHUB" tvg-id="starhub/beinsports5" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",216-beIN SPORTS 5 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/beinsports5/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:46 group-title="StarHUB" tvg-id="starhub/axn" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",511-AXN HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/axn/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:47 group-title="StarHUB" tvg-id="starhub/animax" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",532-Animax HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/animax/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:48 group-title="StarHUB" tvg-id="starhub/hubpremier24k" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",232-Hub Premier 2 (4K) [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier24k/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:49 group-title="StarHUB" tvg-id="starhub/hubpremier11" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",231-Hub Premier 11 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier11/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:50 group-title="StarHUB" tvg-id="starhub/hubpremier111" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",222-Hub Premier 2 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier111/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:51 group-title="StarHUB" tvg-id="starhub/hubpremier10" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",230-Hub Premier 10 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier10/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:52 group-title="StarHUB" tvg-id="starhub/hubpremier9" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",229-Hub Premier 9 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier9/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:53 group-title="StarHUB" tvg-id="starhub/hubpremier8" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",228-Hub Premier 8 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier8/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:54 group-title="StarHUB" tvg-id="starhub/hubpremier7" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",227-Hub Premier 7 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier7/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:55 group-title="StarHUB" tvg-id="starhub/hubpremier6" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",226-Hub Premier 6 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier6/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:56 group-title="StarHUB" tvg-id="starhub/hubpremier5" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",225-Hub Premier 5 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier5/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:57 group-title="StarHUB" tvg-id="starhub/hubpremier4" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",224-Hub Premier 4 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier4/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:58 group-title="StarHUB" tvg-id="starhub/hubpremier3" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",223-Hub Premier 3 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubpremier3/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:59 group-title="StarHUB" tvg-id="starhub/hbofamilyhd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",604-HBO Family HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hbofamilyhd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:60 group-title="StarHUB" tvg-id="starhub/hbohd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",601-HBO HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hbohd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:61 group-title="StarHUB" tvg-id="starhub/hbohitshd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",605-HBO Hits HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hbohitshd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:62 group-title="StarHUB" tvg-id="starhub/hbosignaturehd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",603-HBO Signature HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hbosignaturehd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:63 group-title="StarHUB" tvg-id="starhub/cinemaxhd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",611-Cinemax HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cinemaxhd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:64 group-title="StarHUB" tvg-id="starhub/anc" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",143-ANC [StarHUB]
+http://192.168.68.119:18484/stream/starhub/anc/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:65 group-title="StarHUB" tvg-id="starhub/astrosensasi" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",123-Astro Sensasi HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/astrosensasi/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:66 group-title="StarHUB" tvg-id="starhub/astrowarna" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",118-Astro Warna HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/astrowarna/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:67 group-title="StarHUB" tvg-id="starhub/bbcearth" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",407-BBC Earth HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/bbcearth/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:68 group-title="StarHUB" tvg-id="starhub/bbclifestyle" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",432-BBC Lifestyle HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/bbclifestyle/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:69 group-title="StarHUB" tvg-id="starhub/bbcworldnews" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",701-BBC News HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/bbcworldnews/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:70 group-title="StarHUB" tvg-id="starhub/bloombergoriginals" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",709-Bloomberg Originals [StarHUB]
+http://192.168.68.119:18484/stream/starhub/bloombergoriginals/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:71 group-title="StarHUB" tvg-id="starhub/ccm" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",869-CCM [StarHUB]
+http://192.168.68.119:18484/stream/starhub/ccm/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:72 group-title="StarHUB" tvg-id="starhub/cctv4" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",801-CCTV-4 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cctv4/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:73 group-title="StarHUB" tvg-id="starhub/cgtn" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",722-CGTN HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cgtn/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:74 group-title="StarHUB" tvg-id="starhub/cnbc" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",707-CNBC HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cnbc/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:75 group-title="StarHUB" tvg-id="starhub/cnn" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",711-CNN International HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cnn/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:76 group-title="StarHUB" tvg-id="starhub/ctitv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",827-CTI TV HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/ctitv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:77 group-title="StarHUB" tvg-id="starhub/cartoonnetwork" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",316-Cartoon Network HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cartoonnetwork/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:78 group-title="StarHUB" tvg-id="starhub/cartoonito" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",317-Cartoonito HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cartoonito/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:79 group-title="StarHUB" tvg-id="starhub/cbeebies" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",303-CBeebies HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cbeebies/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:80 group-title="StarHUB" tvg-id="starhub/celestialmovies" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",868-Celestial Movies HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/celestialmovies/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:81 group-title="StarHUB" tvg-id="starhub/channel5" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",102-Channel 5 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/channel5/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:82 group-title="StarHUB" tvg-id="starhub/channel8" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",103-Channel 8 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/channel8/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:83 group-title="StarHUB" tvg-id="starhub/channelu" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",107-Channel U HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/channelu/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:84 group-title="StarHUB" tvg-id="starhub/channelnewsasia" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",106-Channel News Asia HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/channelnewsasia/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:85 group-title="StarHUB" tvg-id="starhub/cinemaoneglobal" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",145-Cinema One Global [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cinemaoneglobal/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:86 group-title="StarHUB" tvg-id="starhub/citraentertainment" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",115-Citra Entertainment [StarHUB]
+http://192.168.68.119:18484/stream/starhub/citraentertainment/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:87 group-title="StarHUB" tvg-id="starhub/crimeinvestigation" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",403-Crime + Investigation HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/crimeinvestigation/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:88 group-title="StarHUB" tvg-id="starhub/discovery" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",422-Discovery HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/discovery/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:89 group-title="StarHUB" tvg-id="starhub/dragon" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",832-Dragon TV [StarHUB]
+http://192.168.68.119:18484/stream/starhub/dragon/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:90 group-title="StarHUB" tvg-id="starhub/dreamworkschannel" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",307-DreamWorks HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/dreamworkschannel/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:91 group-title="StarHUB" tvg-id="starhub/ettvasia" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",820-ETTV Asia [StarHUB]
+http://192.168.68.119:18484/stream/starhub/ettvasia/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:92 group-title="StarHUB" tvg-id="starhub/euronews" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",704-Euronews HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/euronews/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:93 group-title="StarHUB" tvg-id="starhub/foxnewschannel" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",702-Fox News Channel HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/foxnewschannel/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:94 group-title="StarHUB" tvg-id="starhub/hgtv" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",437-HGTV [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hgtv/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:95 group-title="StarHUB" tvg-id="starhub/history" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",401-HISTORY HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/history/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:96 group-title="StarHUB" tvg-id="starhub/hits" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",519-HITS HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hits/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:97 group-title="StarHUB" tvg-id="starhub/hitsmovies" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",512-HITS MOVIES HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hitsmovies/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:98 group-title="StarHUB" tvg-id="starhub/hubecity825" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",825-Hub E City HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubecity825/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:99 group-title="StarHUB" tvg-id="starhub/hubsports6" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",206-Hub Sports 6 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubsports6/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:100 group-title="StarHUB" tvg-id="starhub/hubsports7" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",207-Hub Sports 7 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubsports7/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:101 group-title="StarHUB" tvg-id="starhub/hubsports8" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",208-Hub Sports 8 HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubsports8/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:102 group-title="StarHUB" tvg-id="starhub/hubvvdrama" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",855-Hub VV Drama HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubvvdrama/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:103 group-title="StarHUB" tvg-id="starhub/kbsworld" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",815-KBS World HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/kbsworld/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:104 group-title="StarHUB" tvg-id="starhub/karisma" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",116-Karisma [StarHUB]
+http://192.168.68.119:18484/stream/starhub/karisma/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:105 group-title="StarHUB" tvg-id="starhub/lifetime" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",514-Lifetime HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/lifetime/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:106 group-title="StarHUB" tvg-id="starhub/nickjr" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",304-Nick Jr. HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/nickjr/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:107 group-title="StarHUB" tvg-id="starhub/nickelodeonasia" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",314-Nickelodeon HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/nickelodeonasia/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:108 group-title="StarHUB" tvg-id="starhub/onemalay" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",124-ONE HD (Malay) [StarHUB]
+http://192.168.68.119:18484/stream/starhub/onemalay/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:109 group-title="StarHUB" tvg-id="starhub/one" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",823-ONE HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/one/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:110 group-title="StarHUB" tvg-id="starhub/phoenixchinesechannel" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",805-Phoenix Chinese Channel HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/phoenixchinesechannel/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:111 group-title="StarHUB" tvg-id="starhub/phoenixinfonewschannel" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",806-Phoenix InfoNews Channel HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/phoenixinfonewschannel/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:112 group-title="StarHUB" tvg-id="starhub/rockentertainment" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",509-ROCK Entertainment HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/rockentertainment/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:113 group-title="StarHUB" tvg-id="starhub/skynews" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",703-Sky News HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/skynews/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:114 group-title="StarHUB" tvg-id="starhub/suria" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",Suria [StarHUB]
+http://192.168.68.119:18484/stream/starhub/suria/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:115 group-title="StarHUB" tvg-id="starhub/tv5monde" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",152-TV5 Monde Asie HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/tv5monde/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:116 group-title="StarHUB" tvg-id="starhub/tvbjade" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",838-TVB Jade (HD) [StarHUB]
+http://192.168.68.119:18484/stream/starhub/tvbjade/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:117 group-title="StarHUB" tvg-id="starhub/tvbxinghe" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",859-TVB Xing He HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/tvbxinghe/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:118 group-title="StarHUB" tvg-id="starhub/tvbsasia" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",828-TVBS Asia [StarHUB]
+http://192.168.68.119:18484/stream/starhub/tvbsasia/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:119 group-title="StarHUB" tvg-id="starhub/tvbsnews" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",808-TVBS-NEWS [StarHUB]
+http://192.168.68.119:18484/stream/starhub/tvbsnews/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:120 group-title="StarHUB" tvg-id="starhub/thefilipinochannel" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",144-The Filipino Channel HD [StarHUB]
+http://192.168.68.119:18484/stream/starhub/thefilipinochannel/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:121 group-title="StarHUB" tvg-id="starhub/vasantham" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",Vasantham [StarHUB]
+http://192.168.68.119:18484/stream/starhub/vasantham/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:122 group-title="StarHUB" tvg-id="starhub/tvn" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",tvN [StarHUB]
+http://192.168.68.119:18484/stream/starhub/tvn/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:123 group-title="StarHUB" tvg-id="starhub/hubruyi" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",852-Hub Ruyi [StarHUB]
+http://192.168.68.119:18484/stream/starhub/hubruyi/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:124 group-title="StarHUB" tvg-id="starhub/nhkworldpremiumhd" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",811-NHK World Premium [StarHUB]
+http://192.168.68.119:18484/stream/starhub/nhkworldpremiumhd/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:125 group-title="StarHUB" tvg-id="starhub/cricbuzz1" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",217-Cricbuzz 1 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cricbuzz1/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:126 group-title="StarHUB" tvg-id="starhub/cricbuzz2" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",218-Cricbuzz 2 [StarHUB]
+http://192.168.68.119:18484/stream/starhub/cricbuzz2/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:127 group-title="StarHUB" tvg-id="starhub/premiersports" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",247-Premier Sports [StarHUB]
+http://192.168.68.119:18484/stream/starhub/premiersports/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:128 group-title="StarHUB" tvg-id="starhub/860hubdramafirst" tvg-logo="" provider="StarHUB" provider-logo="" provider-type="iptv",860-Hub Drama First [StarHUB]
+http://192.168.68.119:18484/stream/starhub/860hubdramafirst/master.m3u8?u=starhub&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
