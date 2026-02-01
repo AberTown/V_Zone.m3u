@@ -10,3 +10,294 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+
+#EXTM3U
+# UPDATED: 2026-02-01 22:55:13 WIB
+# MODE: SPORT EVENT ONLY (NO MOVIE)
+# SOURCE: IPTV + API-FOOTBALL
+#EXTINF:-1 group-title="LIVE | EVENT",SPOTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",SPOTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",SPOTV 2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 1
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 2
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 3
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 4
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 5
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",CHAMPIONS TV 1 (UDP)
+http://202.169.224.202:8800/udp/239.9.1.9:1234
+#EXTINF:-1 group-title="LIVE | EVENT",CHAMPIONS TV 2 (UDP)
+http://202.169.224.202:8800/udp/239.9.1.10:1234
+#EXTINF:-1 group-title="LIVE | EVENT",CHAMPIONS TV 3 (UDP)
+http://202.169.224.202:8800/udp/239.9.1.11:1234
+#EXTINF:-1 group-title="LIVE | EVENT",PREMIER LEAGUE TV 🇺🇸
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",NFL NETWORK 🇺🇸
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN 🇨🇴
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN 2 🇨🇴
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN 3 🇨🇴
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN 4 🇨🇴
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+#EXTINF:-1 group-title="LIVE | EVENT",SpoTv Now
+https://slive.mana2.my/SpotvNow/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",Dazn Ringside
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",Fanduel TV
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",Fox Sports 501 FHD
+https://7pal.short.gy/fox501au
+#EXTINF:-1 group-title="LIVE | EVENT",Fox Sports 502 FHD
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="LIVE | EVENT",Fox Sports 503 FHD
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="LIVE | EVENT",Fox Sports 504 FHD
+https://7pal.short.gy/fox504au
+#EXTINF:-1 group-title="LIVE | EVENT",Fox Sports 505 FHD
+https://7pal.short.gy/fox505au
+#EXTINF:-1 group-title="LIVE | EVENT",Fox Sports 506 FHD
+https://7pal.short.gy/fox506au
+#EXTINF:-1 group-title="LIVE | EVENT",Fox Sports 507 FHD
+https://7pal.short.gy/fox507au
+#EXTINF:-1 group-title="LIVE | EVENT",Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="LIVE | EVENT",Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="LIVE | EVENT",Sky Sport3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="LIVE | EVENT",Sky Sport4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="LIVE | EVENT",Sky Sport5 NZ FHD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 group-title="LIVE | EVENT",Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 group-title="LIVE | EVENT",Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 group-title="LIVE | EVENT",Sky Sport Premier League FHD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="LIVE | EVENT",Hub Premier1 HD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 group-title="LIVE | EVENT",Hub Premier2 HD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 group-title="LIVE | EVENT",Hub Premier3 HD
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 group-title="LIVE | EVENT",Hub Premier 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier4hd/
+#EXTINF:-1 group-title="LIVE | EVENT",Hub Premier 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier5hd/
+#EXTINF:-1 group-title="LIVE | EVENT",Hub Premier 6 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier6hd/
+#EXTINF:-1 group-title="LIVE | EVENT",Hub Premier 7 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier7hd/
+#EXTINF:-1 group-title="LIVE | EVENT",Hub Premier 8 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
+#EXTINF:-1 group-title="LIVE | EVENT",beIN Sports 1 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsportshd/
+#EXTINF:-1 group-title="LIVE | EVENT",beIN Sports 2 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports2hd/
+#EXTINF:-1 group-title="LIVE | EVENT",beIN Sports 3 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports3hd/
+#EXTINF:-1 group-title="LIVE | EVENT",beIN Sports 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports4hd/
+#EXTINF:-1 group-title="LIVE | EVENT",beIN Sports 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports5hd/
+#EXTINF:-1 group-title="LIVE | EVENT",Now Sports Premier League1 HD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 group-title="LIVE | EVENT",Now Sports PremierLeague 2 HD
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 group-title="LIVE | EVENT",Now Sports Premier League 3 HD
+https://7pal.short.gy/nowhkp3
+#EXTINF:-1 group-title="LIVE | EVENT",ASTRO PREMIER LEAGUE
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34535
+#EXTINF:-1 group-title="LIVE | EVENT",ASTRO PREMIER LEAGUE 2
+http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34534
+#EXTINF:-1 group-title="LIVE | EVENT",PREMIER SPORTS
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Rugbypasstv
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS ACTION
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9155/index.m3u
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS F1
+https://zamlb.tgaadi.workers.dev/1783.ts
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS CRICKET
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS FOOTBALL
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS GOLF
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS MAIN EVENT
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7337/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS MIX
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9310/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS NEWS
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS EPL
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9334/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS RACING
+https://zamlb.tgaadi.workers.dev/3102.ts
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS TENNIS
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/6546/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS+
+https://zamlb.tgaadi.workers.dev/1777.ts
+#EXTINF:-1 group-title="LIVE | EVENT",Lotus Macao Skygo
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",Sky A
+https://nl.utako.moe/skya/index.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 1 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438487&extension=ts&play_token=wlFAoX3nXn
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 2 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438486&extension=ts&play_token=OdWbIra4L1
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 3 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438485&extension=ts&play_token=lBYroPZ25c
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 4 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438484&extension=ts&play_token=RlQfy5ez8g
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 5 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438483&extension=ts&play_token=ccozubudCz
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 6 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438482&extension=ts&play_token=duyAGbWu07
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 7 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438481&extension=ts&play_token=qXxp6FiPaU
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 8 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438480&extension=ts&play_token=lPfqSEjglz
+#EXTINF:-1 group-title="LIVE | EVENT",CM HOLLYWOOD PREMIERE 9 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438479&extension=ts&play_token=vGlWDON3zF
+#EXTINF:-1 group-title="LIVE | EVENT",C HOLLYWOOD PREMIERE 10 FHD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438478&extension=ts&play_token=UHknK96c04
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA ACTION HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30517&extension=ts&play_token=xibG7hzqwP
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA ANIMATION HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30513&extension=ts&play_token=0OIOj9sN9C
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA COMEDY HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30516&extension=ts&play_token=GmmbmszWEQ
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA FAMILY HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=79467&extension=ts&play_token=CclYMOxHra
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA DRAMA HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30514&extension=ts&play_token=cevfDYK7mg
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA GREATS HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30512&extension=ts&play_token=ELyeQVUcgX
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA HITS HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30510&extension=ts&play_token=RUVLCvhMbk
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA OSCARS HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30511&extension=ts&play_token=NwnwCk6DYO
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA PREMIERE HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30509&extension=ts&play_token=5V4Z3wUB6p
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA SCIFI HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30508&extension=ts&play_token=eGkrhUSVHX
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA SELECT HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=949137&extension=ts&play_token=iL3is5Zsz1
+#EXTINF:-1 group-title="LIVE | EVENT",SKY CINEMA THRILLER HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30506&extension=ts&play_token=On9v9bMYre
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORT XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN HD
+https://storage.googleapis.com/gubnsterdsa3/mux_video_ts1/index-1.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN 6 IP
+http://opplex.tv:8080/live/12345678910/12345678910/233084.ts
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN F1 IP
+http://opplex.tv:8080/live/12345678910/12345678910/354195.ts
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN HELDINNEN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0334507c-ce21-4017-8651-7c2bf9912782
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN WOMEN'S FOOTBALL
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN RINGSIDE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548
+#EXTINF:-1 group-title="LIVE | EVENT",EPL 10 DAZN IP
+http://supersonictv.live:8080/Allen123/Allen123/7627
+#EXTINF:-1 group-title="LIVE | EVENT",SERIE A 1 PLUTO
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d0170d70-8952-11ef-8353-f70668e6a0ea&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=81c0c5ee-095f-4c79-94e3-b24647048b62&userId=&serverSideAds=true
+#EXTINF:-1 group-title="LIVE | EVENT",PREMIER 1
+http://tv.8dott.xyz:80/live/samuel/samuel123456/952022.ts
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 2 SERIE A
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/bEIN2.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 3 BUNDES LIGA
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/BS3.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS+
+https://a1xs.vip/2000012
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS EPL
+https://a1xs.vip/120004
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS F1
+http://line.extraott-iptv.com:88/2755789541/1300714776/153701
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS MAIN
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1608071&extension=ts&play_token=Yq2ejQhCtj
+#EXTINF:-1 group-title="LIVE | EVENT",ASTRO PREMIER LEAGUE 1 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 6
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 7
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS 8
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
+#EXTINF:-1 group-title="LIVE | EVENT",BEIN SPORTS EXTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS PREMIERE LEAGUE
+http://line.extraott-iptv.com:88/2755789541/1300714776/191686
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS FOOTBALL
+http://tv.8dott.xyz:80/live/samuel/samuel123456/35798.ts
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORT ARENA ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/35796.ts
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORT F1 ᴴᴰ
+http://line.extraott-iptv.com:88/2755789541/1300714776/153701
+#EXTINF:-1 group-title="LIVE | EVENT",SKY SPORTS GOLF ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/164498.ts
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN 1-DT1
+http://213.176.3.65:8080/live/COOPERath/w3EBgdaXF0/111261.ts
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN 3
+http://1tv41.icu:8080/live/43761449506/smallwood/167748.ts
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN 4
+http://supersonictv.live:8080/006779/439866/7632
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN 5
+http://supersonictv.live:8080/006779/439866/7634
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN LALIGA
+http://tv.8dott.xyz:80/live/samuel/samuel123456/837876.ts
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN RISE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82238.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN F1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN VIVO
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN VIVO 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN 3
+http://46.151.196.223:14444/
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14920
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN 2
+http://supersonictv.live:8080/006779/439866/22199
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN NETWORK
+http://supersonictv.live:8080/006779/439866/22208
+#EXTINF:-1 group-title="LIVE | EVENT",ESPN U
+https://fl31.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="LIVE | EVENT",PREMIER SPORTS 1
+http://line.extraott-iptv.com:88/2755789541/1300714776/191694
+#EXTINF:-1 group-title="LIVE | EVENT",PREMIER SPORTS 2
+http://line.extraott-iptv.com:88/2755789541/1300714776/189891
+#EXTINF:-1 group-title="LIVE | EVENT",SpoTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",SpoTV 2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",beIN Sports ID 4
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",beIN Sports ID 5
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",Peacock Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#EXTINF:-1 group-title="LIVE | EVENT",DAZN RINGSIDE
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
