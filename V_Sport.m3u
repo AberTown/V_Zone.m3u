@@ -10,3 +10,43 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+
+#EXTINF:-1 group-title="", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+
+#EXTINF:-1 group-title="", ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
+https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
+
+#EXTINF:-1 group-title="", ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+
+
+#EXTINF:-1 group-title="", ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
+https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
+
+
+#EXTINF:-1 group-title="", Fox 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+
+
+#EXTINF:-1 group-title="", Fox 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
+https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
+
+
+#EXTINF:-1 group-title="", Fox 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68
+https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
+
