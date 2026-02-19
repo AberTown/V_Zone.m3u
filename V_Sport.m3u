@@ -10,3 +10,10 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+
+#EXTINF:-1 tvg-logo="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/MSNOW-Logo-1763225593173.jpg" group-title="Sports",MSNBC HD
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8
+https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-msnow-v2/Content/DASH_DASH_ENC/Live/channel(85913052-3b78-5707-1a3f-c3d57b254c94)/manifest.mpd
