@@ -10,3 +10,182 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+#EXTINF:-1 tvg-id="Sports - Hub Premier 1" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier1.png" group-title="@Sports",Hub Premier 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://jembutkuda.beww.pl/HubPremier1/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 2" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier2.png" group-title="@Sports",Hub Premier 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+https://jembutkuda.beww.pl/HubPremier12/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 2 UHD" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier2.png" group-title="@Sports",Hub Premier 2 UHD
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
+https://jembutkuda.beww.pl/HubPremier2_4K/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 3" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier3.png" group-title="@Sports",Hub Premier 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://jembutkuda.beww.pl/HubPremier3/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 4" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier4.png" group-title="@Sports",Hub Premier 4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
+https://jembutkuda.beww.pl/HubPremier4/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 5" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier5.png" group-title="@Sports",Hub Premier 5
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
+https://jembutkuda.beww.pl/HubPremier5/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 6" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier6.png" group-title="@Sports",Hub Premier 6
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
+https://jembutkuda.beww.pl/HubPremier6/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 7" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier7.png" group-title="@Sports",Hub Premier 7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
+https://jembutkuda.beww.pl/HubPremier7/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 8" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier8.png" group-title="@Sports",Hub Premier 8
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
+https://jembutkuda.beww.pl/HubPremier8/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 9" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier9.png" group-title="@Sports",Hub Premier 9
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e314720a4fc9414cb84862f3a4d0b072:a1bb6155792c5338280af6ac8cb8033d
+https://jembutkuda.beww.pl/HubPremier9/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 10" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier10.png" group-title="@Sports",Hub Premier 10
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9f5144687374b62a006b26fd15d6842:9ae3c1fbe13286859d852799a1189db4
+https://jembutkuda.beww.pl/HubPremier10/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Sports - Hub Premier 11" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier11.png" group-title="@Sports",Hub Premier 11
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=75d04c230de440ec8efb0a45335522ab:c36eefb1f70a14919253cf68c9b442e4
+https://jembutkuda.beww.pl/HubPremier11/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="StarHub - Hub Sports 1" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports1.png" group-title="@StarHub",Hub Sports 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
+https://jembutkuda.beww.pl/HubSports1HDnew1/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="StarHub - Hub Sports 2" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports2.png" group-title="@StarHub",Hub Sports 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
+https://jembutkuda.beww.pl/HubSports2HD/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="StarHub - Hub Sports 3" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports3.png" group-title="@StarHub",Hub Sports 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
+https://jembutkuda.beww.pl/HubSports3HDNEW/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="StarHub - Hub Sports 4" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports4.png" group-title="@StarHub",Hub Sports 4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://jembutkuda.beww.pl/HubSports4HDNEW/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="StarHub - Hub Sports 5" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports5.png" group-title="@StarHub",Hub Sports 5
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
+https://jembutkuda.beww.pl/HubSports5HD/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="StarHub - Hub Sports 6" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports6.png" group-title="@StarHub",Hub Sports 6
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
+https://jembutkuda.beww.pl/HubSports6/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="StarHub - Hub Sports 7" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports7.png" group-title="@StarHub",Hub Sports 7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
+https://jembutkuda.beww.pl/HubSports7/output/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="StarHub - Hub Sports 8" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports8.png" group-title="@StarHub",Hub Sports 8
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
+https://jembutkuda.beww.pl/HubSports8/output/manifest.mpd
+
