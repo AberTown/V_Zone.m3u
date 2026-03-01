@@ -10,3 +10,131 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 ROMA - JUVENTUS 20H45 DAZN
+https://matterzrh1-0-dash-pvr.zahs.tv/HD_dazn_event_4_ch/1772380192000/1772403300800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZHBBTENZSIZCTAMKBG4YTILJUGMYUIMCFIYYTIQJXGFBECNZQEZSHE3J5MV4HA2LSMF2GS33OHIYTONZSHE4DKMBVGITGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPTOYRTMUZGCMRVMMYTIMDCMZSTIMZQGM3TIZLFGYZGENBRMQ3DGNZGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 ROMA - JUVENTUS 20H45 SKY
+https://matterzrh1-2-dash-pvr.zahs.tv/HD_spalk_event_1_ch/1772380174400/1772403300800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZHBBTENSGGIYEGNZSIY2EMLJVGI3UIMKFG4ZTCNSDHBATSRBSEZSHE3J5MV4HA2LSMF2GS33OHIYTONZSHE4DKMBTGUTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHFPWENDCGVTDINZXG4ZWGZLDMFSWMZRYMY4GMYZZGY3DENZVGIYGEYRGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+
+#EXTM3U
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 15:00 - Paris - Nice - Ligue 1 [Sport&bull;TV3]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 15:00 - Brighton - Nottingham Forest - Premier League [SKY Sport 6]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c0f06d078f76e8ebd16385a3b1222fa:543ced7e74dec0c5628921dc2cf6d2e4
+https://svc40.main.sl.t-online.de/LCID3221228646.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228646/3221228646.mpd
+
+#EXTINF:-1 tvg-id="skysportcalcio" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 15:00 - Manchester United - Crystal Palace - Premier League [SKY Sport Calcio]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115d2e9d2fc7e91a17a49a32fa1d7c5:3091d57e19d4cd64d0a7860fd51a407b
+https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1772455950_f~0_g~1_s~172809d3-0bf9-4fc1-ba5a-fa1cedd78a4f_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_k~A_l~60_x~7c0c1cbcdc4e85e0bbf774fa571bb1a7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 15:00 - Sassuolo - Atalanta - Serie A [Dazn1 (WARP)]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 15:00 - Sassuolo - Atalanta - Serie A [Dazn (PRIME)]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e90f7393f401cee995e3c32e3421d84:2f69cb792db9603c78c132015b5b7e38
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hoz83gn4as/out/v1/00a6e73927d34b899bae5cd30d06c126/cenc.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 15:00 - Pescara - Palermo - Serie B [Dazn (WARP)]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=419bd54d7d1f5c73a7de7b0ccd50b276:41e682bb419c5f792e263d889a7fa26e
+https://dca-fs-live-dazn-cdn.dazn.com/wg3ayiqy6hzs11j50vl2z76n0/web/stream.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 15:00 - Catanzaro - Frosinone - Serie B [Dazn (WARP)]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc39ef9cb8550fc9267afe0a7cf609f:57e0491bd2619f4807f3ab06f33a9443
+https://dca-fs-live-dazn-cdn.dazn.com/r7kuekpog2w61i4dv3i2pozc0/web/stream.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 16:15 - Valencia - Osasuna - La Liga [Dazn2]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 17:15 - Lille - Nantes - Ligue 1 [Sport&bull;TV3]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="skysportuno" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 17:30 - Arsenal - Chelsea - Premier League [SKY Sport Uno]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11155c01708d8cfb8c4ab9eba61cd667:1d0e60aa72557332fe3c19c10c799e44
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772408563_s~c515b1f8-4fa9-4272-b01e-01f6364e8bc1_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_l~57_x~8e1007f3d77267acc0c86a42cc5611c51bcd6a25afb507e431827fa38ff4d494/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 17:30 - Arsenal - Chelsea - Premier League [Dazn1]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="skysportcalcio" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 18:00 - Torino - Lazio - Serie A [SKY Sport Calcio]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115d2e9d2fc7e91a17a49a32fa1d7c5:3091d57e19d4cd64d0a7860fd51a407b
+https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1772455950_f~0_g~1_s~172809d3-0bf9-4fc1-ba5a-fa1cedd78a4f_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_k~A_l~60_x~7c0c1cbcdc4e85e0bbf774fa571bb1a7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 18:00 - Torino - Lazio - Serie A [Eleven Sport 1]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 18:30 - Real Betis - Sevilla - La Liga [Dazn2]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="skysportuno" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 20:45 - Olympique Marseille - Olympique Lione - Ligue 1 [SKY Sport Uno]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11155c01708d8cfb8c4ab9eba61cd667:1d0e60aa72557332fe3c19c10c799e44
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772408563_s~c515b1f8-4fa9-4272-b01e-01f6364e8bc1_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_l~57_x~8e1007f3d77267acc0c86a42cc5611c51bcd6a25afb507e431827fa38ff4d494/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 20:45 - Roma - Juventus - Serie A [Dazn1 (WARP)]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 20:45 - Roma - Juventus - Serie A [TNT Sports 2]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 21:00 - Girona - Celta de Vigo - La Liga [Dazn1]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="skysportcalcio" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",01/03 ⏰ 22:45 - Calcio Club - Serie A [SKY Sport Calcio]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115d2e9d2fc7e91a17a49a32fa1d7c5:3091d57e19d4cd64d0a7860fd51a407b
+https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1772455950_f~0_g~1_s~172809d3-0bf9-4fc1-ba5a-fa1cedd78a4f_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_k~A_l~60_x~7c0c1cbcdc4e85e0bbf774fa571bb1a7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",⏰ 18:30 - Pisa - Bologna - Serie A [Dazn1 (WARP)]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd
+
+#EXTINF:-1 tvg-id="skysportuno" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",⏰ 19:30 - Italia - Gran Bretagna - FIBA Qualificazioni Mondiali [SKY Sport Uno]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11155c01708d8cfb8c4ab9eba61cd667:1d0e60aa72557332fe3c19c10c799e44
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772408563_s~c515b1f8-4fa9-4272-b01e-01f6364e8bc1_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_l~57_x~8e1007f3d77267acc0c86a42cc5611c51bcd6a25afb507e431827fa38ff4d494/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="skysportcalcio" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",⏰ 20:45 - Udinese - Fiorentina - Serie A [SKY Sport Calcio]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115d2e9d2fc7e91a17a49a32fa1d7c5:3091d57e19d4cd64d0a7860fd51a407b
+https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1772455950_f~0_g~1_s~172809d3-0bf9-4fc1-ba5a-fa1cedd78a4f_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_k~A_l~60_x~7c0c1cbcdc4e85e0bbf774fa571bb1a7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",⏰ 21:00 - Real Madrid - Getafe - La Liga [Dazn1 (WARP)]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",Show
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd
