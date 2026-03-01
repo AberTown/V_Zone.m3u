@@ -10,3 +10,460 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+#EXTINF:-1 group-title="Cobacoba" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi4UmZ8SPoiLvTAAexLRXCO12r_n9ajAmS5fNCTeNdp2YSL6dMBEwT1nvp1JCxruDzsHqxjFujd_IZDKe6XedF7SDnzRiHqLGF216iRV5CrIzeq1B2VJki118wBxqBYjvdnHUZF4qML1zuNOmQnlEl5acYNqkHKGBf_BcSPoIVVUW_v2gH6D1vGxh_v_pT/s700/VOLI%20TV.png",VOLI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=9182&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RuqWCgL63rBGFY1HYjON6rv92Mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4903516/77a6e5.jpg" group-title="Cobacoba", 20:00 WIB 22/02/26 Putri: Jakarta Livin Mandiri vs Bandung BJB Tandamata - Proliga (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/Kabel/playlist.m3u/license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN_ADA_TOKEN_WKWKWK_MODAL_LAIN_KALI_YA_MODAL_SNIFFING_TERUS_GAK_MAJU_PENGETAHUANMU&ch=eyJrZXkiOiJHdjlrbno4SFc5WGlBcDdGa2t6MmVLOUcrcE8wTFhFaklpT3NTdFdEbzhDa0pxRnNHTzc5WVwvSjN2Y1wvdnBnUlhibjJEbldLOFhXUVdVXC9IeVppRkh4QUJIZEFmbmxzVTB6WVwvZ1dNM3hyZVp2Ym1XbmFIK1lKcFJ1S1F3SkJiVDl1WFkzcGZ2cnJkSnd4bG9pWVIyajREWms1RzkwRHNiQ09yaFl4TG9xVXVRPSJ9
+https://manamedian.serv00.net/Kabel/playlist.m3u/play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN_ADA_TOKEN_WKWKWK_MODAL_LAIN_KALI_YA_MODAL_SNIFFING_TERUS_GAK_MAJU_PENGETAHUANMU&ch=eyJwYXlsb2FkIjoidHkyMHNGMkZreFFvSEM5ajFPb3VRRkI2V2o4amNTN0Y1SE1ZXC8rMkY0cVJ3TFZ1eDV0UkQzWUJGQTVLaEpOU3RjajhaZDFNd2w5emhqQ0tcL0lTQVVvbnArY0xpOTE0VTdiUmIxQzNzQlhYSWM4SUVQMjFSQTBsd2k2T3VLS1VMc2ZYNVlZTjhIUERKRlhFSWp1XC9nQXIrNWFmMmdcLytHQzZUWjBXSjE5NkZDbFdReXlnb3dwcVJ2UTlsSDhJQkJqU1FYVWREbThFOElVZGg1T2EwOTV3b3g5b2U3TlwveFREWGY1NzV4SGwzcXpINzIxQ2VYa0k3M25lSjdmREhrYXhaIn0=
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ChampionsGolf1HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="SPORTS", Champions Golf 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.ahmadadityaberdikari.workers.dev/index.mpd?id=418&type=drm
+https://vididi.ahmadadityaberdikari.workers.dev/index.mpd?id=418&type=dash
+
+#EXTINF:-1 tvg-id="ChampionsGolf2HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/419.png" group-title="SPORTS", Champions Golf 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.ahmadadityaberdikari.workers.dev/index.mpd?id=419&type=drm
+https://vididi.ahmadadityaberdikari.workers.dev/index.mpd?id=419&type=dash
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Cobacoba" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi4UmZ8SPoiLvTAAexLRXCO12r_n9ajAmS5fNCTeNdp2YSL6dMBEwT1nvp1JCxruDzsHqxjFujd_IZDKe6XedF7SDnzRiHqLGF216iRV5CrIzeq1B2VJki118wBxqBYjvdnHUZF4qML1zuNOmQnlEl5acYNqkHKGBf_BcSPoIVVUW_v2gH6D1vGxh_v_pT/s700/VOLI%20TV.png",VOLI TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36 ExoPlayerLib/2.19.1
+https://manamedian.serv00.net/kingtv/play.php?id=51
+
+
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="221" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png?w=272?13404" group-title="Cobacoba" group-logo="https://play-lh.googleusercontent.com/kM0vRtinUgUcGVpEI_qKbpPT8hCP3QAIlTYbMuASxV0CHcfA_bDGeb3fvjg6Q9jZWQ=w240-h480",1000 HUB PREMIER 1 (EPL)
+https://hubpremier1.tsender57.workers.dev/
+
+
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2023-02/unifisports-new.png", group-title="UNIFI", Unifi Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2022-08/logo-SPOTV.png", group-title="UNIFI", SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2022-08/logo-SPOTV2.png", group-title="UNIFI", SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV2)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2024-09/bein-sports1.png",group-title="UNIFI", beIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2023-05/bein-sports2.png",group-title="UNIFI", beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2022-08/beIN-SPORTS3.png",group-title="UNIFI", beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2023-01/beinsports4.png",group-title="UNIFI", beIN Sports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd
+
+
+
+#EXTINF:-1 group-title="SPORT",Eurosport
+http://87.246.54.249:8080/Eurosport/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="Champions TV ", Champions 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=6685&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqV5mZXlbysaGnJwG9-4ecMqGmLyFoSXRkw&usqp=CAU" group-title="Champions TV",Champions 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=6686&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRDZQ5_thqRm5Dr46bK08uPuTGmErmuwVmuQ&usqp=CAU" group-title="Champions TV ",Champions 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=6786&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_JgK6sF833VoC2rS74aDyGRswgzb9juEfQ&usqp=CAU" group-title="Champions TV ",Champions 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=9182&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="Champions TV ",Champions 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=9183&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=9183&type=dash
+
+
+
+#EXTINF:-1 group-title="BWF BADMINTON & VOLLEYBALL" tvg-logo="https://ticmint.com/wp-content/uploads/2024/12/Untitled-design-20.png", VIDEO COURT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=18249&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=18249&type=dash
+
+
+#EXTINF:-1 group-title="BWF BADMINTON & VOLLEYBALL" tvg-logo="https://ticmint.com/wp-content/uploads/2024/12/Untitled-design-20.png", VIDEO COURT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=18250&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=18250&type=dash
+
+
+#EXTINF:-1 group-title="BWF BADMINTON & VOLLEYBALL" tvg-logo="https://ticmint.com/wp-content/uploads/2024/12/Untitled-design-20.png", VIDEO COURT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=18251&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=18251&type=dash
+
+
+#EXTINF:-1 tvg-id="20240" tvg-name="Proliga 2026 - SVR2" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="PROLIGA 2026",🏐 PROLIGA 2026 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=20240&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=20240&type=dash
+
+#EXTINF:-1 tvg-id="20240" tvg-name="Proliga 2026 - SVR2" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="PROLIGA 2026",🏐 PROLIGA 2026 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=20241&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=20241&type=dash
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcA67Mwx4kMtz6QRe2c7GJ7x3NFZENTB2G18dREdg&s=10" group-title="LIVE | EVENT (SERVER 2)",PROLIGA BOLAVOLY 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=dash
+
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcA67Mw-x4KMIZ6QRc2c7Gj7-X3NFZEN1B2G18dREdg&s=10",PROLIGA BOLAVOLY 2026 | Server 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/UNYrDyCogCAFMZh5Z2qDRYFg3Rc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848808/150f7a.jpg",PERSIS vs BORNEO FC | BRI Super League (15:00 • 23/01/26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19354&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19354&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/BW8mvUrrIORgy-QpkziwnRkJRTU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848805/485020.jpg",PERSIKAD vs FC BEKASI CITY | Pegadaian Championship (15:22 • 23/01/26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19541&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19541&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/LOuAmWC3QOlArQXpOO4yi3JkrXE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848809/0a0a5b.jpg",PERSIJA vs MADURA UNITED | BRI Super League (18:30 • 23/01/26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19354&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19354&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/dLhUjAgkWmaPeiwANrSynDuavOc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848806/eb489d.jpg",PSPS PEKANBARU vs ADHYAKSA FC | Pegadaian Championship (18:52 • 23/01/26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19541&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19541&type=dash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF",next punya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vidx.pidiodotkom1.workers.dev/PunyaNetxtv.mpd?id=vidx5
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="18250" tvg-name="PETRONAS Malaysia Open 2026 - Court 1" tvg-logo="https://thumbor.prod.vidiocdn.com/RoXbcSB-iM64RD54OPMpJa6YIt8=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35161/petronas-malaysia-open-2026-round-of-32-court-2-c2426c.jpg" group-title="PETRONAS Malaysia Open 2026",🏸 COURT 1 SVR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=18249
+
+
+#EXTINF:-1 tvg-id="18250" tvg-name="PETRONAS Malaysia Open 2026 - Court 2" tvg-logo="https://thumbor.prod.vidiocdn.com/RoXbcSB-iM64RD54OPMpJa6YIt8=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35161/petronas-malaysia-open-2026-round-of-32-court-2-c2426c.jpg" group-title="PETRONAS Malaysia Open 2026",🏸 COURT 2 SVR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=75220a7bbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=18250
+
+#EXTINF:-1 tvg-id="18252" tvg-name="PETRONAS Malaysia Open 2026 - Court 3" tvg-logo="https://thumbor.prod.vidiocdn.com/Jh24MwtA2dj0eCNO-R9Y9xPHurM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/petronas-malaysia-open-2026-round-of-32-court-3-d55ecd.jpg" group-title="PETRONAS Malaysia Open 2026",🏸 COURT 3 SVR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=18252
+
+
+#EXTINF:-1 tvg-id="20240" tvg-name="Proliga 2026 - SVR2" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="PROLIGA 2026",🏐 PROLIGA 2026 SVR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=20240
+
+
+
+#EXTINF:-1 tvg-id="205" tvg-name="BRI Super League - SVR2" tvg-logo="https://thumbor.prod.vidiocdn.com/OEtLHSeMBQjjEovgbfToRZvpNU0=/640x360/filters:strip_icc():quality(70)/vidio-production/uploads/livestreaming/schedule/thumbnail/4832164/1d9b9b.jpg" group-title="BRI Super League",⚽ BRI Super League SVR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=205
+
+
+#EXTINF:-1 tvg-id="205" tvg-name="BRI Super League - PSM Makassar vs Bali United (SVR2)" tvg-logo="https://thumbor.prod.vidiocdn.com/FpmAZK1Y927S7gJ_7m83NASJgw=/640x360/filters:strip_icc():quality(70)/vidio-production/uploads/livestreaming/schedule/thumbnail/4832166/dc2812.jpg" group-title="BRI Super League",⚽ PSM Makassar vs Bali United SVR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf2bc98934d365f8d433fa300d3fd022:60ee25c43bf72b1467015975968d420e
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19354
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="",Astro Arena
+#https://d32ee6d372f04fd5bd07bc10fad73eca.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH22-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="",Astro Arena 2
+#https://f902575eb01e4d0a94dc44e7a2ed040b.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH23-dash/default_ott.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTINF:-1 tvg-id="810.astro" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="",Astro Grandstand 
+#https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-logo="" group-title="",Astro Football
+#https://4e7bc9f6a4934455b47d35625fd385fc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH29-dash/default_primary.mpd?astro=true
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-logo="" group-title="",Astro Sport Plus
+#https://6ff3674dea9d4f99b1b05c2ebcb299fe.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH33-dash/default_primary.mpd?astro=true
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="Champions TV",Champions 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6685&type=drm
+#https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6685&type=dash
+
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqV5mZXlbysaGnJwG9-4ecMqGmLyFoSXRkw&usqp=CAU" group-title="Champions TV",Champions 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6686&type=drm
+#https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6686&type=dash
+
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRDZQ5_thqRm5Dr46bK08uPuTGmErmuwVmuQ&usqp=CAU" group-title="Champions TV",Champions 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6786&type=drm
+#https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6786&type=dash
+
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_JgK6sF833VoC2rS74aDyGRswgzb9juEfQ&usqp=CAU" group-title="Champions TV",Champions 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9182&type=drm
+#https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9182&type=dash
+
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="Champions TV",Champions 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=9183&type=drm
+#https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9183&type=dash
+
+
+
+#EXTINF:-1 group-title="LIVE BOLA" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/bSWPFlK-aGzCQo3pdELd6iIyhEE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/34895/madura-united-fc-vs-persebaya-surabaya-462b61.jpg",19~00 Madura VS Persebaya
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95829a55b4b9fb4cef12069f92d7c233:9924312e846e312eb20c130c67d14eee
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/6786/file/drm/dash/stream.mpd?hdntl=exp=1766069422~acl=%2fstream%2f6786%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=197138242~data=hdntl~hmac=47ea975921a0f13df1a984188ad26f7811ec2b4b593c2beef77d88a0f2cce977
+
+
+#EXTINF:-1 group-title="LIVE BOLA" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/bSWPFlK-aGzCQo3pdELd6iIyhEE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/34895/madura-united-fc-vs-persebaya-surabaya-462b61.jpg",19~00 Madura VS Persebaya Asli
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95829a55b4b9fb4cef12069f92d7c233:9924312e846e312eb20c130c67d14eee
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19988/file/drm/dash/stream.mpd?hdntl=exp=1767454663~acl=%2fstream%2f19988%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19988%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=194712201~data=hdntl~hmac=a233ae41ef1e97ee3c26efeabe7b6956d006b6f22ed70665a64217e9c005fa91
+
+
+
+#EXTINF:-1 group-title="Volley" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/bSWPFlK-aGzCQo3pdELd6iIyhEE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/34895/madura-united-fc-vs-persebaya-surabaya-462b61.jpg",Voli TV
+https://kingtvada.diskon.com/Gas/Kt.php?id=51
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BADMINTON_COURT_1" tvg-name="Badminton Court 1" group-title="BADMINTON LIVE",🏸 Badminton Court 1
+https://mobilelive-play.ysp.cctv.cn/ikotv/9544699E89DE4CE60755E122F5E0A5F183CDE3D7E2C1DDF101B370181428F555BD6DBF5C9678B2B67459505E214B79854C6FAA5428CB0F843D5474305FC08EBC63AECDF006F892651D0EAF633C7CE0EE369EAF1A77A98F59D8DA14CB4CE8CD174FEAFA4C103683716F494AF1AA97F5E4/2029887301_fhd.m3u8?svrtime=1768876043&pid=600216651&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=6bc39e4747aefc2ff9f871e5d115969a&ytime=1768876043&ytype=1
+
+
+#EXTINF:-1 tvg-id="BADMINTON_COURT_2" tvg-name="Badminton Court 2" group-title="BADMINTON LIVE",🏸 Badminton Court 2
+https://mobilelive-play.ysp.cctv.cn/ikotv/D3EF2BAA571558E9AD0E718807A1E00590A26F49EDD83EF62F2A85B3E1414FCD41A01FC4FE9C5049971E40478C4D54177895E47081FF17C168E4BA10E2BC599B128CFD3A09CA4BA14972B8AB51E86BC0E2C1C043FBD012389EC4B1637794C1F3E48F82DBDE3416E7124BB8AE08AE4DB6/2029887401_fhd.m3u8?svrtime=1768876096&pid=600216651&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=3d8c4d09019bb71e434ccdbd8cf415ee&ytime=1768876096&ytype=2
+
+
+#EXTINF:-1 tvg-id="BADMINTON_COURT_3" tvg-name="Badminton Court 3" group-title="BADMINTON LIVE",🏸 Badminton Court 3
+https://mobilelive-play.ysp.cctv.cn/ikotv/84E506958A8675335CA2BF0150B4D978EFA5EF052C982369711D905ABCE75BBB158E025D913CF24BAB3A5FFCC996D3C1A0431A5C589D6C2D7D989F4CF9243FC8E7B0902D2FC5740AC9C35C3BA1C660D81488EDC13C12AA9522896BC6E9BF9012E1D20368774070C063322C688AD79187/2029887501_fhd.m3u8?svrtime=1768876138&pid=600216651&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=34a910f83596f8647801c2bf6a5d8100&ytime=1768876138&ytype=3
+
