@@ -10,3 +10,419 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+
+#EXTINF:-1 tvg-id="espn1br" tvg-logo="https://i.postimg.cc/QCV4M9Hz/pn-white-png-logo-18.png" group-title="Serie A Estera",ESPN 1 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
+
+#EXTINF:-1 tvg-id="espn2br" tvg-logo="https://i.postimg.cc/QCV4M9Hz/pn-white-png-logo-18.png" group-title="Serie A Estera",ESPN 2 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
+
+#EXTINF:-1 tvg-id="espn3br" tvg-logo="https://i.postimg.cc/QCV4M9Hz/pn-white-png-logo-18.png" group-title="Serie A Estera",ESPN 3 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
+
+#EXTINF:-1 tvg-id="espn4br" tvg-logo="https://i.postimg.cc/QCV4M9Hz/pn-white-png-logo-18.png" group-title="Serie A Estera",ESPN 4 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
+
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Serie A Estera",📺 PREMIERE SPORT 1 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Serie A Estera",📺 PREMIERE SPORT 2 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://abc3orwaaaaaaaamliumq7klym4kj.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Serie A Estera",📺 PREMIERE SPORT 3 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://abc3orwaaaaaaaamliumq7klym4kj.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Serie A Estera",📺 PREMIERE SPORT 4 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Serie A Estera",📺 PREMIERE SPORT 5 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://abc3orwaaaaaaaamph5ea7uktav3d.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Serie A Estera",📺 PREMIERE SPORT 6 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Serie A Estera",📺 PREMIERE SPORT 7 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",📺 PREMIERE SPORT 8 (BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png" group-title="Serie A Estera",📺 TSN 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png" group-title="Serie A Estera",📺 TSN 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png" group-title="Serie A Estera",📺 TSN 3 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png" group-title="Serie A Estera",📺 TSN 4 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
+https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png" group-title="Serie A Estera",📺 TSN 5 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/cqqofdluoh/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png" group-title="Serie A Estera",📺 SPORT 1 (CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png" group-title="Serie A Estera",📺 SPORT 2 (CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png" group-title="Serie A Estera",📺 TF1 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Serie A Estera",📺 FRANCE 2 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="Serie A Estera",📺 FRANCE 3 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png" group-title="Serie A Estera",📺 FRANCE 4 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="Serie A Estera",📺 FRANCE 5 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_6ter_2016.svg/512px-Logo_6ter_2016.svg.png" group-title="Serie A Estera",📺 6TER (FRA)
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/M6_logo_new-1-.png" group-title="Serie A Estera",📺 M6 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="Serie A Estera",📺 W9 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://img.favpng.com/5/20/0/infosport-television-channel-logo-sky-news-png-favpng-EMzQL770aZF3qpYbYswTzvLmx.jpg" group-title="Serie A Estera",📺 INFOSPORT+ (FRA)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b002b139dcc7149a8c1de34168332842:a77fda48fd486c153e8cb4d93a51831c
+https://viamotionhsi.netplus.ch/live/eds/infosportplus/browser-dash-VMX/infosportplus.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/L_Equipe_Logo.svg/512px-L_Equipe_Logo.svg.png" group-title="Serie A Estera",📺 L'EQUIPE (FRA)
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Blue_Zoom.png" group-title="Serie A Estera",📺 BLUE ZOOM (GER)
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Das_Erste-Logo.svg/640px-Das_Erste-Logo.svg.png" group-title="Serie A Estera",📺 DAS ERSTE (GER)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw478084596_1838232048/PLTV/42/224/3221236630/3221236630.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7E3OhOYyBSpefKAS5sSyWSYw817cd03cb55d434e83ee28e1f0d2705e%7ERzl1g9hfnw8WtxPdEj54BTKlVN6Z8vTV3cM2zrdLNzC9HKVjppDyw0ga7VK-MK_2ef468faac70bc64e605ef754082fe432%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601215206%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601215206%2C3103_ARD_%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717278726&from=16&hms_devid=895&online=1717278726&mag_hms=895,298&_=1717278756113|0000
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png" group-title="Serie A Estera",📺 ZDF (GER)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc352fa54683accf20b12f679027661:993400c4b5ad851c8d6368417d6a3b4c
+https://fl-009.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/20/Logo_RTL_sport.svg" group-title="Serie A Estera",📺 RTL 1 (HU)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b98b7e0f2806332ab627c0177e5708f6:62240705d69fbf3b6850bfdfab2a787a,770cf796cbf53210a7d7c414ddceeb9a
+https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/0c5c7fb388c649f78a1be36fc4bd365e/dash_long_cenc10_ucl1_hd_index.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/20/Logo_RTL_sport.svg" group-title="Serie A Estera",📺 RTL 2 (HU)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e73158c6d3d934528081c3bbecb97280:19a086ec0321f29543d60974c68d36c1,5f343a038b983cdb935477bbaff58b29
+https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/dcac658c914b4c1eac3d0059b3ba6cac/dash_long_cenc10_live2_hd_index.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/20/Logo_RTL_sport.svg" group-title="Serie A Estera",📺 RTL 3 (HU)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=399d10bc571f316d8e4f41defc2e7f68:c68a3cf508f79e40578ac50ce48411f6,02b04dc970593ce899bcb2cd1f47cb9a
+https://origin-caf900c010ea8046-rtlhu.live.6cloud.fr/out/v1/bef86dba33324e3dbccd8b864dc08605/dash_long_cenc10_live3_hd_index.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Setanta_Sports_1_2011.png" group-title="Serie A Estera",📺 Setanta Sport 1 (IRL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ujxkqz1589620867.png" group-title="Serie A Estera",📺 Setanta Sport 2 (IRL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
+https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://hrizer.com/_next/image?url=https%3A%2F%2Fsqlvause3dfr4bubay.blob.core.windows.net%2Fcv-test-images%2F52f3b0e6-e006-4d6b-89d0-d1b8b4d594dd.jpeg&w=3840&q=75" group-title="Serie A Estera",📺 GO3 Sport 1 (LT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://hrizer.com/_next/image?url=https%3A%2F%2Fsqlvause3dfr4bubay.blob.core.windows.net%2Fcv-test-images%2F52f3b0e6-e006-4d6b-89d0-d1b8b4d594dd.jpeg&w=3840&q=75" group-title="Serie A Estera",📺 GO3 Sport 2 (LT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://hrizer.com/_next/image?url=https%3A%2F%2Fsqlvause3dfr4bubay.blob.core.windows.net%2Fcv-test-images%2F52f3b0e6-e006-4d6b-89d0-d1b8b4d594dd.jpeg&w=3840&q=75" group-title="Serie A Estera",📺 GO3 Sport 3 (LT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://hrizer.com/_next/image?url=https%3A%2F%2Fsqlvause3dfr4bubay.blob.core.windows.net%2Fcv-test-images%2F52f3b0e6-e006-4d6b-89d0-d1b8b4d594dd.jpeg&w=3840&q=75" group-title="Serie A Estera",📺 GO3 Sport 4 (LT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:f47ce553d7e6e13509a4a1ab93fe4548
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://hrizer.com/_next/image?url=https%3A%2F%2Fsqlvause3dfr4bubay.blob.core.windows.net%2Fcv-test-images%2F52f3b0e6-e006-4d6b-89d0-d1b8b4d594dd.jpeg&w=3840&q=75" group-title="Serie A Estera",📺 GO3 Sport Open (LT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg" group-title="Serie A Estera",📺 ESPN (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f8188ea91070593e7893ceba1e96296:085a2a1601de23d829d59e2158a821df
+https://bpm.tv.delta.nl/live/3036/3036_live.isml/playlist.mpd?bk-network=ftth-mobile
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg" group-title="Serie A Estera",📺 ESPN 2 (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=479c3d94b58ddde64950d6470e985988:25051a0217e322e685a080d76d3465ad
+https://bpm.tv.delta.nl/live/3037/3037_live.isml/playlist.mpd?bk-network=ftth-mobile
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg" group-title="Serie A Estera",📺 ESPN 3 (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82a17b1e98bfc1c323117a1b1a0319ee:a554d3a4d071a38ca895fe5ee63586a8
+https://bpm.tv.delta.nl/live/3038/3038_live.isml/playlist.mpd?bk-network=ftth-mobile
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg" group-title="Serie A Estera",📺 ESPN 4 (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88634692e57956c5eeb4e7928558060e:63e6a59ea65b436ea4cde41ba73c0f64
+https://bpm.tv.delta.nl/live/3039/3039_live.isml/playlist.mpd?bk-network=ftth-mobile
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png" group-title="Serie A Estera",📺 ZIGGO SPORT (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l9v2ym1728725812.png" group-title="Serie A Estera",📺 ZIGGO SPORT 2 (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EOhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8%7E1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013140%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8gk6uj1728725561.png" group-title="Serie A Estera",📺 ZIGGO SPORT 3 (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EyVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4%7E2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013401%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ca0zut1728726639.png" group-title="Serie A Estera",📺 ZIGGO SPORT 4 (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rj16081728726778.png" group-title="Serie A Estera",📺 ZIGGO SPORT 5 (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7ELNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932%7EBZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014139%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014139%2C3103_S1E1%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206099&from=11&hms_devid=538&online=1717206099&mag_hms=538&_=1717206113039
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://www.dropbox.com/scl/fi/acxqcv09jv0gwc08jk3k7/ziggo_6.png?rlkey=m06y3z9byrnt3agrg1ygslkrv&st=09y8dbmf&dl=1" group-title="Serie A Estera",📺 ZIGGO SPORT 6 (NL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EURnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278%7EiVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014418%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014418%2C3103_S1E2%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206258&from=14&hms_devid=538&online=1717206258&mag_hms=538&_=1717206265600
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/NPO_1_logo_2014.png" group-title="Serie A Estera",📺 NPO 1 (NL)
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw4129465343_-1336309813/PLTV/42/224/3221236881/3221236881.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EZsp6zyOyruGphnPtuG9GsAf3d4c3584b0c59b5ffe31c083fac4565%7E6X9VzIpNqFDl-IFGaB5Msk7vRVttLMjEuiD0vfuLNnBVOKZ0g_3LF2ITOfNsmf4Xc70605b6734b862b43b288bde6411b17%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601191813%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601191813%2C3103_TV01%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269492685&RTS=1717269493&from=16&hms_devid=304&online=1717269493&mag_hms=304,1008,311,305
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/512px-NPO_3_logo_2014.svg.png" group-title="Serie A Estera",📺 NPO 2 (NL)
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EWT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447%7E4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601192003%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269603231&RTS=1717269603&from=16&hms_devid=894&online=1717269603&mag_hms=894,892,1048,1049
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/512px-NPO_3_logo_2014.svg.png" group-title="Serie A Estera",📺 NPO 3 (NL)
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EWT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447%7E4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601192003%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269603231&RTS=1717269603&from=16&hms_devid=894&online=1717269603&mag_hms=894,892,1048,1049
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70" group-title="Serie A Estera",📺 DAZN 1 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="Serie A Estera",📺 DAZN 2 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=70" group-title="Serie A Estera",📺 DAZN 3 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000" group-title="Serie A Estera",📺 DAZN 4 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1720521735000" group-title="Serie A Estera",📺 DAZN 5 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d931d671884145dfb392be0cade5088c:beee3956b769c39f00fa3ce84a2efaba
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=u44wia687fzk1gor2lhdr8vbo_image-header_pRow_1720521801000&quality=70" group-title="Serie A Estera",📺 DAZN 6 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2736d4bb70174ef6814f979fcee0ce24:7e0daaeac661e7446403ef6ab45abfcd
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="Serie A Estera",📺 Sport TV 1 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="Serie A Estera",📺 Sport TV 2 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png" group-title="Serie A Estera",📺 Sport TV 3 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="Serie A Estera",📺 Sport TV 4 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="Serie A Estera",📺 Sport TV 5 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png" group-title="Serie A Estera",📺 Sport TV 6 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d319aab02a8342248cceb0fdf060bc54:b36668a836b15055be1f04b8d8a8cc70
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Sport_TV7_%282024%29.png" group-title="Serie A Estera",📺 Sport TV 7 (PT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256" group-title="Serie A Estera",📺 TV4 Sport Live 1 (SWE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5
+https://live.streaming.a2d.tv/asset/20465729.isml/.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256" group-title="Serie A Estera",📺 TV4 Sport Live 2 (SWE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af
+https://live.streaming.a2d.tv/asset/20465730.isml/.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256" group-title="Serie A Estera",📺 TV4 Sport Live 3 (SWE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf
+https://live.streaming.a2d.tv/asset/20465731.isml/.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256" group-title="Serie A Estera",📺 TV4 Sport Live 4 (SWE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746
+https://live.streaming.a2d.tv/asset/20465732.isml/.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/5/51/RSI_La_1.svg/512px-RSI_La_1.svg.png" group-title="Serie A Estera",📺 RSI LA1 (ITA)
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="Serie A Estera",📺 RSI LA2 (ITA)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" group-title="Serie A Estera",📺 TNT Sport 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" group-title="Serie A Estera",📺 TNT Sport 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" group-title="Serie A Estera",📺 TNT Sport 3 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" group-title="Serie A Estera",📺 TNT Sport 4 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" group-title="Serie A Estera",📺 TNT Sport 5 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Premier_Sports.png" group-title="Serie A Estera",📺 Premiere Sport 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Premier_Sports.png" group-title="Serie A Estera",📺 Premiere Sport 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/55520d5de45dba1b5e10ac70/1189012733/256.jpg" group-title="Serie A Estera",📺 CBS SPORT (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/512px-NBC_logo.svg.png" group-title="Serie A Estera",📺 NBC (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(knbc)/master.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/512px-NBC_logo.svg.png" group-title="Serie A Estera",📺 NBC UNIVERSO (ENG/SPA)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Serie A Estera",📺 USA (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Fubo_2023.svg/250px-Fubo_2023.svg.png" group-title="Serie A Estera",📺 FUBOTV 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-id="Serie A Estera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Fubo_2023.svg/250px-Fubo_2023.svg.png" group-title="Serie A Estera",📺 FUBOTV 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 tvg-id="20.it" group-title="Serie A Estera" tvg-logo="https://smotret.tv/images/dubai-sports.webp",📺 DUBAI SPORT 1 (ENG)
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk.m3u8
+
+#EXTINF:-1 tvg-id="20.it" group-title="Serie A Estera" tvg-logo="https://dn710009.ca.archive.org/0/items/dubai-sports-2/Dubai%20Sports%202.png",📺 DUBAI SPORT 2 (ENG)
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunk.m3u8
