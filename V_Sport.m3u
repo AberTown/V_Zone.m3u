@@ -12,29 +12,30 @@
 🇫🇷 
 🇮🇸
 #EXTINF :-1 tvg-name="TSN" tvg-logo=" https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/TSN 4K CA.png" group-title=" ⚽️World Cup",TSN 4K[Netherlands 77]
- http://77.90.60.172:55555/1 
+http://77.90.60.172:55555/1 
 #EXTINF :-1 tvg-name="FOX Sports" tvg-logo=" https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/FOXSPORTS.png " group-title=" ⚽️World Cup",FOX Sports 4K[Netherlands 77]
- http://77.90.60.172:55555/5 
+http://77.90.60.172:55555/5 
 #EXTINF :-1 tvg-name="FOX Sports" tvg-logo=" https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/FOXSPORTS.png " group-title=" ⚽️World Cup",FOX Sports[Netherlands 77]
- http://77.90.60.172:55555/7 
+http://77.90.60.172:55555/7 
 #EXTINF :-1 tvg-name="franceinfo FR" tvg-logo=" https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/franceinfo FR.png" group-title=" ⚽️World Cup",OFR[Netherlands 77]
- http://77.90.60.172:55555/9 
+http://77.90.60.172:55555/9 
 #EXTINF :-1 tvg-name="M6" tvg-logo=" https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/M6 FR.png" group-title=" ⚽️World Cup",M6[Netherlands 77]
- http://77.90.60.172:55555/2 
+http://77.90.60.172:55555/2 
 
 #EXTINF :-1 tvg-name="TNTSPORTS1HD" tvg-logo=" https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-1.png " group-title=" ⚽️World Cup",TNT Sports 1
- #KODIPROP :inputstream.adaptive.manifest_type=mpd
- #KODIPROP :inputstream.adaptive.license_type=clearkey
- #KODIPROP :inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
- https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd 
+#KODIPROP :inputstream.adaptive.manifest_type=mpd
+#KODIPROP :inputstream.adaptive.license_type=clearkey
+#KODIPROP :inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd 
+
 #EXTINF :-1 tvg-name="TNTSPORTS2HD" tvg-logo=" https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-2.png " group-title=" ⚽️World Cup",TNT Sports 2
- #KODIPROP :inputstream.adaptive.manifest_type=mpd
- #KODIPROP :inputstream.adaptive.license_type=clearkey
- #KODIPROP :inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
- https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd 
+#KODIPROP :inputstream.adaptive.manifest_type=mpd
+#KODIPROP :inputstream.adaptive.license_type=clearkey
+#KODIPROP :inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd 
+
 #EXTINF :-1 tvg-name="TNTSPORTS3HD" tvg-logo=" https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-3.png " group-title=" ⚽️World Cup",TNT Sports 3
- #KODIPROP :inputstream.adaptive.
-manifest_type=mpd
+#KODIPROP :inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
