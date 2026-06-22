@@ -11,3 +11,495 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+‎#EXTM3U
+‎
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"71b92531fbef5a3c926a2b1bc564d413","k":"8600e6f3ea47ede4636f4932e5e6a5be"},{"kty":"oct","kid":"606ac4cae6585d29a475f3be476c2c18","k":"2c55e0a98b4d4116314ffd049131648b"}]}
+#EXTINF:-1 tvg-logo="" group-title="",EURO NEWS
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/126_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,VIDUSDAUGAVAS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fcb2c04adb9e5ca9be9a522086e6c9c1":"643e8dd48bf58a570c37c9d13580a847","bd50076db62c5bf8892c1ffaa593aa44":"0f3fdbf281796c720ebdc7299a7273f2","bcb856745060513b974213467755be87":"ab8496a7b97ebadcd1995aa28517b680"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/131_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,360
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"637c3ac2712c50ecbf4a370240ebc10f":"22e659db4ffd5cb6d8c2923a91c3088a","eeb2548440185e9fb4c272d59de73ff3":"917e6b6b63f28e4ddb45d63fe267e75f","bf6156ddea995a5da66bab1b6703f004":"96ef94f95229838d1042874710bd2799"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/136_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,RE TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7a405ff803425b15bc9358e93e9d3b7b":"23dab4b58dccec5c7b94cf5fb270656e","75d8cb04fd145ade83c9e64a65823fc2":"f308760330f273ef8225f69502e7cdb8","c9c4cf42126e5f42bff119e74e07ea74":"b6389994884b30882a5945db57088274"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/137_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,KID ZONE MAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"36c9c4221e3d52d9847720c5f44fb4a1":"85577eddf5c906941b363f10cf8a8619","eaa0de89288052d5881376e6e5c104a6":"02410952047b9a38466e7670a070ba04","a66f55ca02ca58fbbe534a39444c09cc":"4b1dedb80e50fa7c6117fbcbad2c42c6"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/150_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,DUO 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"23b05ba01b075dfb9590ff8a732899ab":"5a3a183bae882fb5e157ec704a5b0f5b","b4c09ae6fa515395aa9ec1d5d3e487bb":"3fd81d6ad1985777d256e04198ceac0e","0fc145eb38c35f9b99fcb0f001e4553d":"9a9a45ae4bf81b0eb57046f1ebe67d94"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/152_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,GO3 SPORT 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"76e9be4fab3e5816bce280f6ca3f73d5":"344103b77cc9bcb1b4b5461b3071639c","7026b3c03cb15e7c90bb5d98d2918eea":"66c6f85f004fb9936ed20733e5eae60c","f7839d964c5356be9acc7491cc721860":"f84a6ee22df39731fdaa7b9e5c676dd1"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/153_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,VIASAT KINO COMEDY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a6e1b56e78105595b0080caf9c5ac271":"24b7a8ffd224688033644de1084cce62","b6ea56116b495654bf2ce00df0c02b72":"e52a51c381082e4c251129c616beee0d","ef1a1c133af0526bb232a4d9fee3f4f6":"910dc87925a5b0e2f081bc8365157488"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/155_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,FILM ZONE PLUS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d25bb286812a57659cac5a18906c6ef5":"988268e10e32c81e30663194a0289f27","f6444bb10b5452e8ae855d78b5e98c3b":"4fd5c5940acef6eb8483b6d6fc4e9ef6","0094d7c32a1b5ebfb073f361982c922d":"11a5ae327246a976e7b9be075010bd54"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/160_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,DUO 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"adac02dad5fb5f1f984245bb8d5c8670":"1bcf42cae73952b1f599cd28a2f5ab7a","7ababbb9e55e5191b7d327d135d20ce8":"859952ad9253dcb0520f5094cf2da32c","80324577bac55528bc52eada78dbb1ea":"0c934c5464c9e9b6e14fcd9b87c7d9a0"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/161_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,GO3 SPORT 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"757befd1199455e6ae24feff9b9b9477":"3a3f0db50fc4a4d87ae3788595219c03","34335d157d24530fa14b83c585a06257":"0a6ffd237e4ba6dc12c679aa3a36b675","aca0097e8ed3547785a29828f72fe713":"1f62d3b9bf2937cb180bf69475580544"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/166_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,24 TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1ae138d0d7825ac7a71a72ba4a4aabac":"4d6a7c9a5eb4fdbf0a74edb83fd3e4f7","e8a1b6791eb7586f9fc9bad1d1cf26da":"d9ff4f0c1daa918df8ab735df0912b8d","1dcfa7f346ff5133b04ae3527e4ab9a4":"54ebd77b282b83d2b44664a90d1e3adb"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/172_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,SMART ZONE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7c24ab43d4175e988a72b431a766a817":"92598e2840cf48128bec5163463e442c","ffa6790af17b5129bffe3983670e3851":"c99dd8dbd5d59142f79907034aae73ca","8c47780543225cfd9e7daaf01b6975ba":"b6f886271b875226db49ff5f3c807c30"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/176_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"18cfa8b181cb5ba0ad749451b0084b2b":"e974ca84a7bf24d63a0b928205cc3c84","468dd763d8aa5c02b4632c7ea385e545":"b9006ac2a6877ac3681a1c3dd2c8e9c3","bb859ded0c9452acbe9786b5adc38bc3":"10ca40e600763befc5e0a98528493198"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/179_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,BEST 4 SPORT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c8d5bae519e75748b308159a417aa491":"e59d55a9cd600a71c426929c45ca0a4b","ecafae1261995201833e09a3c73910cd":"39f3623ff46e4257ae8eeb886ba7c36b","894dd6a9814d593db9967db81dba0692":"b2167ca5b0d08ae3ee6bae31490450ca"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/185_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,EURO NEWS RU
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7df8061ccb7653bf90fcf68c50f1adc1":"280c59e068bb94e0094aa2f868a8d101","06842f1b439c50578fe1713bd4f6880a":"ac24b0783f1390ff9633aa828a0712b3","0791c054736e53d08a3dd198196a595a":"2549e9f1af073b10249db00d01eafb71"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/187_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,RADA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7ceeea202d0356dda3147f72edb6b896":"0ada7d389e20f2895538f324b6fa188a","a3f726cb74d45bbaa5e6f964d5c9b2c1":"c621cf838a49e198ec7bea9924a2add7"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/188_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,FILM ZONE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a88511841b62570e8273b00a4a424e2a":"6088f9f2b1b521829529777270354a4f","9f258fdc2cb9536db0abcb9c8da19d8d":"24f2cf53c37a078c1e5afb4fefbaba03","835160357d1157ca893114f6c4f27ef2":"7371cab9f360f91effc1583c58e96e44"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/200_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,NICK JR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"892299b521f459079ed7e955001296df":"b91001536b9f2cb39832f80001099a39","9164795855ef5c0dbb62cb2beefa0ad4":"3a6326cb209991811900dbfc41bf518a","18fff3d0b5c7592d9b37c37bdc020122":"9cbca9c544e54046addc609c4dcecd53"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/201_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,SUPER BALTIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"96b9f606b3c4578985dd602cc5eb4a6c":"64e6f87c646bf9637e71f7508d378130","b8eb421575e450b8844ca764daae06c3":"283226a927ac207a5aa1486d3401be02","da2bf1d413b45f65b6f5e6fb2dbca7ee":"3621737f4814b286d5f91a1c655161f1"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/205_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,SUPER +
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c0bb3eb2788155ba8a79a7b4a5c734b3":"dc4accd82cf13bdbb3832d0cbd36cf1d","9a05a99a64ec57499000a97847314e11":"4331cc03fd68b1f83ea223fa27ce0c90","70b1a09e773257d0b5f0da7e4993e8bc":"fb819fbb17c217f68e5ebb86b148733e"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/206_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,VIASAT HISTORY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bf0054e3c235fa380ccdd8dc43e7667":"4f06206315cec74674fccbf1de532f6d","41a4910c08de5b9b8e6faf4904c0f1ee":"9a8dbf0b0cfe4f7d96bed8bb9937949c","4951e68507be58d9a8584c3685a17573":"4494036cf89c307e5d93db75e6d2b8e7"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/208_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,GO3 FILMS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b99a380efe385bd8ac03a9ff2e2f45b3":"dc59548536c40d482c94be7912ea6fbd","c7182e4b1e9c579bb24a223cd642e59d":"3c6af35f139970f66c87bf711fd4ca70","b9a06d5bfa6b53a4b2a74b65b37d4532":"452c33abbee2257016158a266292d7e2"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/211_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,GO3 SPORT OPEN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a55253dc8ada542f9908892a16165207":"b3271fd768a7650aa651d4a47e353c4f","f6062d0e8cf65e97a567e7395cb0d5d9":"0864c690f302f8ad17a3358d842b0acf","318d2477980651e0aed4ad175955eae9":"c238b596496635e74041b7b7730ad95b"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/229_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,BEST 4 SPORT 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"219cc55327835fbfab687ad9eb5f3f19":"f02eae834c27e797a54cda4c7dbc7c2e","1eb3ffd4516d5e14bd13e37aaef0110d":"b22527ccb5120b067a1af99c7bd440fa","6cb59a4b88bd5b069d274ecbfc8f8277":"265956c16b0e23d8b7139a76a369df24"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/231_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,DUO 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2a4921e16d495db088465fde865f089c":"6cd1b45b1f1eb674eb9ac31000f5054b","fd172400e0d95fd18abefc9899720af1":"f78ff842a712d3507c15691f200bb6ec"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/237_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,8TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"faa3025a51dc5be0a79997404abe222b":"364992d2293776e6ac8164c85e5e2bcc","02bb5e91e99156c6a01c56c58aad92c2":"df78c9131772f744746d2c32919f61bc","67ee4d40cfbe57258bca35bbb14ecb4a":"513f2d6f8d70a97f690d9d4cc57e8f05"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/242_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,HGTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f2f1e127abee52abae381a57c4f232eb":"3c4b8263182404dec33248a26b360804","0f1a7e49482e560c98a597466c50dd9e":"15c61e8df19e9c6840adaf3ea140af30","c2907d5d5f0d5eb8b1eaec9f11e35963":"c728b2a48056eb978c1cf8102141958d"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/245_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,NICK TOONS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fe481f72933a5467a4d3cefd77c6902f":"22110baea7f26650013edd6f7f8fafd7","b2f730947e0157f8ab45dd0e127ad378":"d142104132b5feec5da6d35360a1bf07"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/247_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,HISTORY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1382c7e14b285ad081bd8edfd492f02d":"8e1f5e7bb9bc01ae4e5c67c36323c5ec","2a5fb936ac82507b9e6796b52d1e8af8":"3d390bf20358778abee0aa67ea07e8c7","9e2d87c7c14a530ca2a654bc229ddeb2":"f17bf717f2ed0d44a2f76a2762a52ccf"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/249_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,KID ZONE MINI
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ce25d2bc89c153409eea89c2ed193afa":"da5ce54c4c9823df3227f1863c270304","ccdb4781125e550c84f9185873f45d27":"72fc6d3a5493067099f7cecd9b0fd560","cc7d9cbdf60c5c908485080728950c7f":"cbca5fbbabd78d1d55746673e1fe2e53"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/252_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,DW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ab5ef9ceac3f5e34ac293641c3c87b01":"1dcfb2ed0116f50fb516a4d2a3d5780d","18273a35e94f53278108b8f140726c45":"88d7a2f9df90efaaaa01e05ce067426a","0bf8b9a6392750caa8446461e3848043":"3bd1100b447c58ad6c7375fc78910767"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/254_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,CURRENT TIME
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"82747523734058d4acface7b5b8798bc":"4b9983cc41d2cc5561e495b811814de1","97a1b760962e53c089b59d8e5ffa7ad1":"e09f35d041d7062455db5e1d63701bb6","f6f3c4fa29555ed199928319b260a674":"d7c5f67029c22feb7554b04ad67b5dbb"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/257_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,BOLT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"401bb595ed9a58f380a866cea2e72628":"fa754bad4e0383cb3aec256b4b72213f","e17eb99e1d3153ac841d61377d669dd6":"4d48ddb95c7c2e5e9744b95314e7e661","b3b494e821b0522b9354747a2624b8ed":"cc83eb245b37aea8fefffc3791a264aa"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/261_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,FILMUA DRAMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a781816b135f532098b8556d5b601652":"7ac99472f47c66ac808859b74accbf1a","47ddd3e9f1065a35ac9cc71115b7271f":"3be6a107de9166d744df91296fcd7245","d1948c5f484d5b63864bfbb3d239cb40":"27a1d85cef2e5d6548dfe3ddfae227f3"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/262_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,4 SODIEN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"11b58d51a31c56ab9d73ef5c579a8a23":"9cb0fa177d08031a05bf09eaaf0301e8","4cd01c9ae5e2516ab351140929a83b57":"cabce7430c49b3aa6359112190340ff9","c4237894a87a529bb856784f9be2d353":"88251783d52d58252e463069928da88c"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/263_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,DOCUBOX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"611cc463792152dcbe120be3dd2f7843":"1ee9292d587c0051ea1b38ca6cda4bfb","6741d82e6d9b5d65b2e0b60610196830":"51be4ba5113c3a50234470ff926f8abb","1b9b66e25fab5d13a53455b8c57bc6e3":"aa115717ba0d936db994642026317275"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/264_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c7c0036e208857b88499897153148aac":"e0b5d137464ceef341f3b7cc84f3ccd9","014d461d5a7450a495b40187a8341750":"d7df2947c6d618ab97ce13e08446cfd7"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/265_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,KANAL 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8e312dcde299555d9e6b1011d1a7586b":"fbc89eebce541aca6d5736cc3c03d779","51840d79003556df92d52f47f17bf5c4":"aee154a031248a07835d7eea8adcf2c4","3751e25f108c587790bff84ec0b5d1bb":"02c6ae4664d02304aa7a007137a851a6"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/266_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,VIASAT EXPLORE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5ce0ac5f301354d3ae182e6ea31fa2fb":"20badfa4acdc53d9aad410496f56713a","3661ff7ced8f5e3991adfd11f22bd825":"cc9ad8662ff4b0753c77a24878cf046a","cd1920562ac85fc8ac433c86c66a2d36":"b20e85426a23eab3d181a6ddd5721599"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/267_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,VIASAT NATURE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"671576b6a21f5d78b9f02f2e7903c2eb":"393c4c646bb58df5b9fb798de110f7f6","d5335a55039d5019af4913abad5199ab":"13cdda3838e2857930af255b75b27f91","e8cfe104ff26518e8c9ec8a1b628ad60":"ac6abdebc46ff8cc087b3126486385c7"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/268_HTTP/__op/dash-default/__f/manifest.mpd
+
+# ==============================================
+# SERVER 2 - Additional Streams
+# ==============================================
+
+#EXTINF:-1 tvg-logo="" ,MUZIKAS VIDEO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"08ac2542b4e4514a8cc95d7b3d8160fb":"aa116b8889699f09d5baf44982bd6b72","974edcede3855e7b81c0b1c2c55c11be":"7559e500723f44c177f11b63c3e2db16"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/5_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,LTV 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d98f3536274d56059f4f5020fb8a1f45":"aabd589af9cd131363d83c045b7928f0","a5694b60ad5e5998bdd0f9f011e80746":"5ce834a9df05768df27ee82dd6ff42f5","3c8afeb66a8d52808f6a7ca95fe0b3bd":"a681ba8347c8f4147bd3cc2cb9a3c428"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/7_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,NATGEO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a9f4da0200345014b7df14efa3472cb3":"718ce9e597b96d5096fe34bca927db37","1a8f7bd0d011599ba6daca7f7058a017":"731678b9fc62c83a18b89a30383573c6","7aaab666c9f65111a68e2b458132f972":"99958813cafed974770da23ac80ce5eb"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/8_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,NICKELODEON
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d5a0d60425d5bdb8c485cb994669ebb":"0c5a25c05369fcb2458191b83afc5099","e8e3123405e2539c91ac9de71f4e68e1":"982a8166e2d09faf370f1a006ef57e5a"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/20_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,STV PIRMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1bbcc101c6c451e3b3d66cc6be53cf2f":"13b4745f5ac6e1c87d6cec7711d42b33","fdbccd1006e757598b42809097881b83":"db5a8bf3ac549483853ac046408ce3df","72e710a5ae37557ab5a1612e3dca4cbe":"b193a342d0d9413e20233a9ab084fd2a"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/25_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,FX LIFE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5e12355e3f265afba8235e5f16fb5da9":"816ad79da7f6cb51c5ce1aab2838f94a","29cb904c19495c94bb3b36ed20754f60":"65e7716cbfb4f1057454427d6aa8920b","f49dd76babe7594097ff512dad437873":"1b3135c0d950270cc31e17a8471a2f9a"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/29_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,STAR FAMILY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2912ff5d1aa55e138bc317a274165346":"5a75a91a9d83b65befbad85f99c1cd51","9d906ffca5295c68a075c1926db25f84":"2658fc78b1e3598f75234e0cd33f9804","071c942910f65a29ad211b28a3a1012e":"a44df1e9d0b234184eb1afa36f89ea2f"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/30_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,TV3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5adabf14fab2523db6ef0c417286aae0":"ceff904555c0429843bd670dd448c7c6","ca484ca106f35ff6a88e4385ae726133":"ece6504c2b88939a9657614f1a2af925","5c997e306f795dc6a3a7a81dd30726e4":"6f4526bd4eef8018017ecc0ee32fcbc4"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/40_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,LTV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7ce33da4f4885a8fb48ee6281a57cf29":"33947da7eaae175a60eb81d35eb88661","a8a61ccf56e05716bf70533ce8c489f0":"2451ef25426c94edfd44c7974e3cc89c","1d218ea3fc3453a2839ab58b6c9efed6":"62efe44a37c2e17a08eb86817c2fbd60"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/42_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,TV6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"536aa34d6b7b5cb09d78be0df13b0462":"93371158d70e3ca80928e41a386e1a76","bdb67e1e7dda52b98a98d2aab876ea62":"e2b1545cb0802bc4688ee0eeee8f90c9","5191d3b1a368531e91c9802ece628d98":"52c46257d0f43d7d2e94a204be269ede"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/44_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,3+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8faf13d983655fde89eed6e22bd83dc6":"82b11a9cfa0236e9d1f3bb99a6ecfd48","a951d1a5df98510b87c34bf8e190970c":"b5e494e96e4996a3fe2c59d892a9c18e","3ab2ad067557533c9e783e4823dce9d2":"548a6ea9699794aee148070b84f2fb69"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/45_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,EUROSPORT 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0601b071942852588559064bae00e2ee":"6619fb83b13c0173a126b42087e7c7a8","8e1e45444c2c59b4a701c0bfabe0836d":"87fbe8e79e3682ee40166926e83a36a2","e2774056074a5441841c6bc90a1a6dcd":"b233a69e9a13637947fb5da72150d092"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/46_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,BBC NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0074ce24327e53a785aac61dc0481713":"8f9f0f101dd3d0d630199a9fd1b86753","2d2cbf3b091c50658b73b832c7fada6c":"e15959a3fd69f83c8b238aeca0c3dab8"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/48_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,EUROSPORT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fda6b345a0e358e4bf9b3a8744c95989":"dfa30f9e99a79c45093f2d327e20fd27","736b73ff6ae85b03a12899bfd19bd2fc":"0f58101f625f0fd57bbc2e81c9268b48","be954725089e59cb81fc7a9d7fa20c2f":"b19f20556626efa88763b74362813c47"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/52_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,FX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2bfc20e755485158bec579d0b2270944":"561f57685b41c9d157b30e0af6348794","93ebc927f5775d58a458aa8745274398":"293e4f9e9d2b307b44324356017bdc4d","35b208d5f6e85ac483caf1a818483caf":"81ec5f41d4e042d1c995b3d5c3b1ae73"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/56_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,JIM JAM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e91221ce3bfd5bbabb84932df9d5d4d7":"54115b56c9bfe088384de6ee8ca678eb","a15a4115cabb5e9683a1714c438788e0":"00565f07cf1cf1332ecdfbd00837ec50"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/57_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,DUCK TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5231185f93b35fbfbb0232bb6782decf":"e7b367e278ad37b795ae090fb3fda515","a650899a6aaf5f4da6fa49df9dc51933":"1219e7d3a40ba730b287eb326849edf1"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/58_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,LRT LITUANICA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"182fda39de1056fb945fb42937982559":"b2aa03e24a24a8e5968b62bc9720a901","8da91f000ef35264827c7f52b46d895c":"d21ccee65fec658ca15d4f2534194402","4f8a69df2eb551abb371289daa70c489":"469138decb78d3bc368aba8ff8a9cbb4"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/59_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,FREEDOM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3d14d5d7a1815f9c9442135f80f85bac":"bcc50b3cc93f555e208ba008d47f7fbb","b9124b97d37c532d8f29beaa6029effe":"6badb2e6a26188b097377804bae11ce7","09b7b10532af56f290f962cdac42d4fe":"3672127cffd475a405bab2ba7515829a"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/63_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,SETANTA SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5f3213807cfb5887b12faf17892530ba":"a0289eb8fb1508a81f1cf84acff2e44e","229c33cfd61455a8bb8a4aedf77d72b4":"5ddfb6e78ea93db5ffb855599667f2ad","57329e961d4a50ac88f4f2fb15ef5323":"bea93ea08795787dfe1b842848775c97"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/64_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4cafd63827555e04bb695435352848f1":"adc5d9a924399af325f2cd252b99f1f5","cf1f1224b10e5562a0030fd858d7d3d3":"8d079a60fe5a6c2fd3b813fc44f9d276","6a1b9fe955d95e6cb20c8fbd5bc51c6f":"a506d4ba3a3c1fee58930ecb2bfb1f67"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/66_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,VIASAT KINO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"acb2df0d5a3f5aa998ccb930df8f0ca7":"f973f2f3f3d0e963155d7156c4352714","9d2cd36161a55acbbb5bd4dfbb6389dc":"d2a190657c3d8e5d80d8728b8c7f8664","1e644df9f705584c881b5dee0949a2a1":"8bc0a0ea329d7fdd3dd7106ec85f50d3"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/74_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,VIASAT KINO WORLD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f127d4bfa0df5dbdbccc9b5676c843cd":"c2efca504e53e5185342ed86354e972b","34ecef221e9f5bd1935a760fc2fe7ad4":"5c17cadcda7346cb7feb1789bedfc2b1"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/75_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,VIASAT KINO ACTION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"575d7d8109c956fdbec2d4670fc530dd":"fbcc392a84b4b7e36a51ab18f97b22bb","4de30c869fb25015aff5a0e3eeb88e9e":"91992142b4d14e5f4b0fccdc716ee065","8755aac946f654c1afdb3b3c16de21d8":"fbff0806e005b4ba7c98b938d2366185"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/76_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,DISCOVERY CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e229f2101b895f159cad2ababcf60a25":"56467cb177bcc194bdcf934c8502b51b","0d5783d91f995ccc852d5a7925daa58a":"2f2126194fbff734b7b85a00174cc5e8","b36ec65cbd6951db8da19814b5bd57e1":"39529c8fa8ce5a2969258d9287249d66"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/86_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,FIGHT SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c4de8dbc33535ccc9c35f5a3d599e8b9":"311c34b873ee95e343c143fd33e3630e","901c5e95f02c5b1ea198694514f959cd":"5615b2d57c57de033518343fd2f66988","c7120bd792045b6c9e9994ac74840553":"f40584876242c27ac6fd3781bce9c299"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/89_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,TLC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"68c3adb87bb255a0b0d4d20119de9e3a":"a6c9edb9f004b011688963f7dfc5fbfd","a73679ade00e58ceaf1aa81b3457479d":"eefd53fe6b26f2036466aef26c70a1da","d35cb3dbe5e9564281a12bbfa0df02a1":"8bfab9365c4db47caf5a734668772653"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/91_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,DISCOVERY ID
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"01e76324ca095010869c79b5620bea19":"b5bf0e41c41d71fb765749b4bd77d941","19abe95b939253778caef2de4d7ed79e":"ab49c727d81e05fa4aaee480464c9ac1","44fa8c13ab53562495e71d4f62c5b411":"0d9b5f189d7ca484cd8796c6ee6295f2"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/92_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,NATGEO WILD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0e5b8f17f98d56a8aee2bb21d4724fdc":"06be94e9406d8e4b7b3ccaec71ccfc31","416d4c90ff0857edac27cde187bea79a":"00659fdcfa5283c82ae7169f7e9a5afa","2457f6494fba519d93407da4afe012b6":"529722c06009351d5a35633af6422533"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/94_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,RFM TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b828f2a6393d5db7a7b3d7a81e9c0e0b":"e58ef8ac9f5eba288e19de1f03de4469","752364618cc9579185e77c15912d9954":"248b2f96ed343ee55a37bc91be723278","92a66417d415591c9ff510f1e63e39e2":"3b6f5b83dfea739654172ae91e88054f"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/95_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,LATVIJAS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3d0a69976721512697b44a1261209668":"fa10a8cc9abcbb377eb215984af2f279","dce6de3b873c50558bc6043a4059851b":"cb1dff6b4cb7756385d28da8768f25a7"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/98_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,TV3 MINI
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8a0fd20433da55a9a2032eff78d9b6c2":"9b5a802b0fa53d2914ba9795149f7eb2","17d6dc1989fb5606b7f92ab58d6f6ebf":"41272507d4f5f9bb3e89223ae07bf61e","616711c09ad05952b1cecc1441539a3b":"cf32b01ff7567b44296d3c908659136f"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/100_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,TV EXTRA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5bd42aa9742958ceba2b91fdc4f36245":"c1a05ad47b31300d3176785ff0d5ff47","229a5ba55fbb58229b20abe2bba823a6":"72ec455ee28fbbdded54d9a53d82b705"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/104_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,MEZZO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7a197c8b46e35e589a8cd321f5430954":"a6befd7e811d8f984bcf2a00b1c4d859","263652c6fa6e54d78434958509f73aa5":"d415aa7919c919b00157a2e03c825209","bc5ab4bc3247596ba89865cef4a3dcd2":"d1aff68a50100e355554ba7c08d801cb"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/105_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,OTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d7e16b6fa92e5ab09d0a970d08d917df":"56c9f1ea5244df091765b881b08400b6","3f3bf85851285ff3b1b178886bce2a69":"52aa93c4238bed80796ae5bc18c83747","aa91b3f3c4ed5180a2d5a6a7a0b15ee0":"a33d9dd45b3c82a22b924dd54fee4f06"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/109_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,EPIC DRAMA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9e6483a7963f51fca871173bf43e9cba":"da326f29db2c11a07d2028558034e3af","ac4b427130ee525a90f4d0a8b8ad821f":"674104468ad76650db892997c60f31bd","24d104f3089e5ed6b259cc23b742271c":"463d55206e0c7f48b7049c1934dec772"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/110_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,CNN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7828eebd3fae5b5b93d7a172175e186f":"270f922cc29a6803d8eb3c6b19c6f4d3","04b28b23016d5a08bd1f9b7c03ced0c9":"3856310ec5ef27d43b2fff287712792d"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/117_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,JURMALA TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bf745673f848501fafdfce2a83c295b8":"2433de63a39f22a0fd4d4bb282b5dcf6","e8a7056e6980581b8bc67843e7df71e9":"89a5a9f972993451ff82f5e490fb1b44","cb6c6b818cd05960a4de4cd6d2574669":"c37b4937817fa6c13c6c9b8d65eb0758"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/121_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,RTL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"db0971723f8757a0bcde33bd5626c7ac":"5964f5bd5e9f7e7444202f3a7dfb545a","58c311a4c62c517da6c26a00509d1af2":"8bc8c8754768c76a84da3581bed1f65f"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/124_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" ,PRO 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2994129b0ec7524c85dd36d318bc1c15":"51a8c53931a1f100d87e91d0dd2cfca5","49c1220954525217bfad6c4d9e400f39":"6167db28e0afb42da676154f3041fd47","dc6bf5ae6db0575bbaab582379f89970":"97d032805a4d95c982d1dcadf140a6c8"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/125_HTTP/__op/dash-default/__f/manifest.mpd
