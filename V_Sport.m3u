@@ -11,3 +11,106 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/willow.webp" group-title="CricHD 24/7", Willow
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/willowala5.m3u8?md5=rtRCmpPPhpvMQETh8X5F-A&expires=1782935424&ch=willowala5&s=7b0c471416deaf66308890fc4dc7d70d
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/willowextra.webp" group-title="CricHD 24/7", Willow 2
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/wextres5.m3u8?md5=nl7VsjvgzRxtyFzo10eXHw&expires=1782935425&ch=wextres5&s=98a6a418da02b482c0130ab270264a09
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/star1.webp" group-title="CricHD 24/7", Star Sports 1
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/star1kibich5.m3u8?md5=PlVipPEWZ_OkL0IhWnpFkQ&expires=1782935425&ch=star1kibich5&s=86aad633e45c1ff19f45432142dd5b38
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/starhindi.webp" group-title="CricHD 24/7", Star Sports 1 Hindi
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/str1lhil5.m3u8?md5=IhekNIJCLJbNC7RrUOS9lw&expires=1782935425&ch=str1lhil5&s=ebbf3a9f14da6d432e9cd12770a0969c
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/star2.webp" group-title="CricHD 24/7", Star Sports 2
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/star2cl5.m3u8?md5=ZIF1LB4N4MWpTfbosajRYw&expires=1782935425&ch=star2cl5&s=018a373800666ef82f23e6cc7220b0e6
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/ptv.webp" group-title="CricHD 24/7", PTV Sports
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/ptvskpr.m3u8?md5=fGHM_0pfNT7sovuuL_S17w&expires=1782935425&ch=ptvskpr&s=730a9a8f5eaf23541619aa0774ce321f
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/asports.webp" group-title="CricHD 24/7", A Sports
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/asportspk.m3u8?md5=K99txhudom3O2GTbPO30mA&expires=1782935425&ch=asportspk&s=1f1405530a00a733381d70ee40e89a74
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/tensp.webp" group-title="CricHD 24/7", Ten Sports
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/tenspk.m3u8?md5=2Mm2Gjqe6q1Od4ycR37jDw&expires=1782935425&ch=tenspk&s=f5ef674b62cb1cf3b35ed667fe4d6885
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/tsports.webp" group-title="CricHD 24/7", T Sports
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/gtvbd.m3u8?md5=zfpGhMdXJQaYQHiRNHG07g&expires=1782935425&ch=gtvbd&s=0407a6f3b2b0d61d51a5d8335ce6f26f
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/geosp.webp" group-title="CricHD 24/7", Geo Super
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/geosp.m3u8?md5=UTmejC3xHU9fVOX7M1AgMw&expires=1782935425&ch=geosp&s=c2e8f13997701731a40e69b37ee1e36e
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/astrocric.webp" group-title="CricHD 24/7", Astro Cricket
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/astrocric.m3u8?md5=ChmYeF_bOYyJJnJkz3_j9Q&expires=1782935425&ch=astrocric&s=eca2c871dd7e172dfa1f6eeeeefac4b7
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/foxcric.webp" group-title="CricHD 24/7", Fox Sports Cricket
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/cf0sp1.m3u8?md5=QLCxrvV7FvfhQRqZvs-png&expires=1782935425&ch=cf0sp1&s=6f6a40c973d90814537fac15970d119a
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/ten5.webp" group-title="CricHD 24/7", Sony Sports Ten 5
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/sonyssix.m3u8?md5=zZWSsuPDGAWqm91dT14Elw&expires=1782935425&ch=sonyssix&s=5d249dd23ff7592fe48ee48071737d21
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/ten1.webp" group-title="CricHD 24/7", Sony Sports Ten 1
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/ten1co.m3u8?md5=YloDepsCaxBQH0F_OHk34g&expires=1782935425&ch=ten1co&s=ea80b0e9f04d8abbe3a93a0bb9346100
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/ten2.webp" group-title="CricHD 24/7", Sony Sports Ten 2
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/ten2endia.m3u8?md5=UYK5n2lQpS7ssF5yQnZscg&expires=1782935425&ch=ten2endia&s=ff34528f11c4a3ee6c095ec4f780a633
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/ten3.webp" group-title="CricHD 24/7", Sony Sports Ten 3
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/ten3sd.m3u8?md5=yBBwP2AvFoOr2ZBAFKBc_A&expires=1782935425&ch=ten3sd&s=3be0a5d86a5a2e86cef771bc7c33b373
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/skycric.webp" group-title="CricHD 24/7", Sky Sports Cricket
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/dodosky2.m3u8?md5=uIrq7OMdPOYMHrZ7miMOFA&expires=1782935425&ch=dodosky2&s=e6b14679319386c86d9858164cdf9895
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/channels/sscricket.webp" group-title="CricHD 24/7", SuperSport Cricket
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/sscric.m3u8?md5=-9iBD0L9Cg6OrT8HMJx9Sg&expires=1782935425&ch=sscric&s=53fd3dc51b2d2613a1ceba9026d99e99
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/schedule/cricket.webp" group-title="CricHD Events", India vs England
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/willowala5.m3u8?md5=VhGe_fssPy1RPr-otnFX6A&expires=1782935425&ch=willowala5&s=81bd0615bf0cf925592fcbe21aee602a
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/schedule/womens-wc.webp" group-title="CricHD Events", Womens T20 World Cup
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/wextres5.m3u8?md5=syNGk0sqCujMdS5tx6b-qg&expires=1782935425&ch=wextres5&s=d48b40224339de4cece5f3af502467cd
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/schedule/t20-blast.webp" group-title="CricHD Events", Vitality T20 Blast
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/dodosky2.m3u8?md5=ky4L5S47ElzCR15k9KMH6A&expires=1782935425&ch=dodosky2&s=d229537ecd7b41ef02e3f42e65bb8bfd
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/schedule/mlc.webp" group-title="CricHD Events", MLC 2026
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/willowala5.m3u8?md5=QhqTR8te_vLR73Y7REJAiA&expires=1782935425&ch=willowala5&s=70e90be5a6092634fc0929e8eae469a8
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/schedule/cricket.webp" group-title="CricHD Events", Sri Lanka vs West Indies
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz2.player0003.com:7060/hls/willowala5.m3u8?md5=F-REBw-g-1IReA_WTzWaLA&expires=1782935425&ch=willowala5&s=1ac3927acd3982362a32c6956ee1cca1
+#EXTINF:-1 tvg-logo="https://executeandship.com/assets/schedule/cricket.webp" group-title="CricHD Events", Bangladesh vs Zimbabwe
+#EXTVLCOPT:http-origin=https://executeandship.com
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://oz1.player0003.com:7061/hls/cricgo3.m3u8?md5=H3tUKWMeRWrxnI6OBIxB8w&expires=1782935425&ch=cricgo3&s=cb1cb722c272f3cdbee95fee827e3ead
+#EXTINF:-1 group-title="DLHD 24/7",Arena Sport 1 Premium
+#EXTVLCOPT:http-origin=https://type-of-demons.low-cost.bid
+#EXTVLCOPT:http-referer=https://type-of-demons.low-cost.bid/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://type-of-demons.low-cost.bid/strimcdn/1782969404/lp/tv/arenapremium1rs/hls/index.m3u8?jwt=MjQwMDphZGMxOjEyMTo2NzAwOjU5MGQ6MTE1ODplMWNjOmZiZGV8MTc4MzAxMjYwNHwvc3RyaW1jZG4vbHAvdHYvYXJlbmFwcmVtaXVtMXJzL2hscy9pbmRleC5tM3U4fDhnS1NUdzkyM3JmRUxGUy1CbHJyMGp1WHctb3YzelBQWER5cmZCZ0pEdjA
