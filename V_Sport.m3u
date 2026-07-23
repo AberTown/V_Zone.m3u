@@ -11,3 +11,475 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+
+#EXTINF:-1 tvg-id="skytg24.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_tg24.png" group-title="SKY ITALIA",Sky TG24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118a48358c744f5075ddd54441c9207:c0cd1f001bba58b1261d12ff04e4d5bd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784709966_f~0_g~1_s~3e96e222-d8ff-4173-969e-eadab3f332bf_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~50_x~fe65358a520f4ad9c9a8d3b2adb6a7b1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(tg24)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysport24.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_24.png" group-title="SKY ITALIA",Sky Sport 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111818c434b48263e6fed0d62a0bc01a:6ac97ddc137ad88f151bd6a2151d6b29
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710590_f~0_g~1_s~5676a998-b154-4779-ade9-2eeda6d2a7c3_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~56_x~7e1dc5e65fa76a8f1a73f4dc69a5dc62/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport24)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_uno.png" group-title="SKY ITALIA",Sky Sport Uno
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111803aa48593b040d115d1f0c452293:8c9d654b1f485cf7c520a64658d0b4ed
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710955_f~0_g~1_s~152c6cb4-15c2-4b4f-8020-2457510e64b4_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~cd2515dbc679beed77e485f5f8393106/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_motogp.png" group-title="SKY ITALIA",Sky Sport MotoGP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118252355f3f9f5f06cb5c8ae75fb3c:2ccacda78a31cac22282ee3f71c8e12c
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711014_f~0_g~1_s~c4a047c6-60ef-4a3b-a0db-29e4d3dff66c_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~60_x~fb32faa928e7e73fc95805f3fc53494d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_f1.png" group-title="SKY ITALIA",Sky Sport F1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710984_f~0_g~1_s~64ff488d-df73-427c-a5b7-49eabebe21ad_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~56_x~89f0a9f1dd9758d59c51706dd25fbe39/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_arena.png" group-title="SKY ITALIA",Sky Sport Arena
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180f3c55e92d6c4ecb13ef67e38dbd:a445fcca5feb851d44403d7432dc0440
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711074_f~0_g~1_s~f8f25c05-031a-45d2-8b70-391b842d2423_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~59_x~d2b330e48480f96cfd780b900bc920b9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportarena)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_basket.png" group-title="SKY ITALIA",Sky Sport Basket
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180884aa98427ad2968e70accddab1:e08face6af3f78ff98fce3ed283e13d0
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711095_f~0_g~1_s~c95eb3af-29ff-4fd2-9609-52a9f9649355_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~60_x~b7ab1e1f42047078ee76a58969844420/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportbasket)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_golf.png" group-title="SKY ITALIA",Sky Sport Golf
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11187a3b2a81592d267ff64095b75058:bd48af689fe4523ca10f683bee32bf4b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711338_f~0_g~1_s~f332e486-f0d6-42ea-9ef9-18af4bec5c9e_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~58_x~d8d65a832b1b86b5b8a59c04aa452acb/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportgolf)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport.mix.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_mix.png" group-title="SKY ITALIA",Sky Sport Mix
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118a45895650c1fead8fdf778362158:0ffbbb449c390fa8819ed37227e27f0e
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711115_f~0_g~1_s~1ad9db81-7a52-4c66-ba0a-2d5cbacb9ce6_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~dab6cd06e1731fcb59098bf510c7154a/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmix)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport.legend.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_legend.png" group-title="SKY ITALIA",Sky Sport Legend
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118f6b96975b595d7b081008987459a:6201d541ffb39f47d536ef8368bfdcdf
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711104_f~0_g~1_s~84d1628e-c7a1-4411-b92f-0c31098c3061_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~60_x~7ad43da0c9d0731e39de4231a007253c/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportlegend)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_max.png" group-title="SKY ITALIA",Sky Sport Max
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180ab4bbe0c6ed507f66f2dc552c69:e1438de171762ae5e3df4526aabcaa04
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711084_f~0_g~1_s~83a4f08d-8b69-409f-bf77-eac347263dd4_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~dfece667910ea77bbb20ab937773616b/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmax)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_tennis.png" group-title="SKY ITALIA",Sky Sport Tennis
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111831bb3c110f22b49b11fd899b6bfe:a14422a34307d57070922e17248ded95
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711005_f~0_g~1_s~24b2ee19-c14d-4d50-bd19-e1d1077ff483_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~60_x~b20a1210d5abe5e905c4b77214d8de94/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_calcio.png" group-title="SKY ITALIA",Sky Sport Calcio
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111846235c04786db13f945c4f2d1ec0:b39ac438cd149ca86096e586b1f1669b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784713195_f~0_g~1_s~5d8b1222-9e2e-448c-ac48-6f3d85ba64b9_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~60_x~9c3e4d378aa91fabb6499bca5624e2ce/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..251.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_251.png" group-title="SKY ITALIA",Sky Sport 251
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11181e7f856e3b9eb0a315ca42e8d281:96bd93740aa0b2b3b10d6881bb806d1e
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711155_f~0_g~1_s~31677666-722c-4f01-8c00-a4226c7f8c1e_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~6913766e012b8f8e4ad7e8c40d7cf234/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..252.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_252.png" group-title="SKY ITALIA",Sky Sport 252
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118d145e562fe621718609536e2c92d:33654c2f6657e630328e2c52896e6d37
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711164_f~0_g~1_s~923a1ab5-3a41-443d-bc2c-33d10fedd5b9_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~9d3cceeee962dd65843f19a8fcae778f/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport252)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..253.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_253.png" group-title="SKY ITALIA",Sky Sport 253
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183684f58c54e0f13e4968c616bc3b:f7d71eec2e88d6ff1ec927fef643f8b4
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711174_f~0_g~1_s~567dd66b-e3b8-4ea3-b186-4b46abd44351_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~7b170248308d4abecedf532c7fea9f7a/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport253)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_254.png" group-title="SKY ITALIA",Sky Sport 254
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118391dd81865c3f72d3bb51c50b129:4d1fdb4fc20d0bbe2cbadc793b1084bf
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711216_f~0_g~1_s~a8fd1b67-8fd2-498a-bc48-e714b2763501_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~0ad9c1c74a2b807859d0014a9ecb3271/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport254)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..255.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_255.png" group-title="SKY ITALIA",Sky Sport 255
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118c2fc51580bcff0571f963bc3d5bd:985cf2b5fb1845a358a6e9cc48786a44
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711225_f~0_g~1_s~e9058af1-972d-42e0-a32e-d7b229536fc4_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~2564eda02378ffa6a0d4a469dda6c821/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport255)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_256.png" group-title="SKY ITALIA",Sky Sport 256
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11186c42fd511dc12c3da4122b453f6b:d56ad21c13dc64fdb2430fe49469bd25
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711251_f~0_g~1_s~f3a256af-bf05-45bb-bcd1-444fd19c0dbb_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~c1cc16a2d40591beb16995b485efbe5b/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport256)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..257.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_257.png" group-title="SKY ITALIA",Sky Sport 257
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111836734e88acf2a270fc8e3f7d3578:61cc7fc2256407a650256c4db619607f
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711304_f~0_g~1_s~d93e7a44-07ec-489d-9134-b2e806c3f64a_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~949aca3dadbbb68171dae1190f5c54fc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport257)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..258.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_258.png" group-title="SKY ITALIA",Sky Sport 258
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118ede4ff3dc14b1858318fa927d58e:20d08f5946e156f8e8d4b292e2f113de
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711320_f~0_g~1_s~e34d0f9d-5bf5-49f8-93f9-37bfed86a314_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~0edef199b6f9ea822633580f31cec956/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport258)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="sky.sport..259.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_sport_259.png" group-title="SKY ITALIA",Sky Sport 259
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11186aab512affb67a780b197af15333:47b17943c1b07d6003b7187d149ee825
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711324_f~0_g~1_s~64c0807c-7387-4842-b4df-a8185206cf6b_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~769078bbdea98556307f74393fc60ed0/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport259)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_cartoon_network.png" group-title="SKY ITALIA",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11189c4f64af73ffdc1a8c6bbb6e2f8a:eb3517c592b7774693a2b30e4b39e461
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711364_f~0_g~1_s~2df8f7b8-1a4b-447c-b0c6-648072b4693a_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~60_x~9f14ec9581a852a9d872917d46627a2e/nowitlin2/Content/CMAF_CTR_H1/Live/channel(cartoonnetwork)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skyuno.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_uno.png" group-title="SKY ITALIA",Sky Uno
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11189b91ffdab15f5abbd9b60f2c609a:702032f22df8b1f3a2aaa924134e3361
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784709971_f~0_g~1_s~19d109ac-2070-4765-8ed7-a71e195cd3e1_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~52_x~6a114f4e0705e005c941879d02433e3a/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyuno)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_atlantic.png" group-title="SKY ITALIA",Sky Atlantic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11184e6a02026b6f51de0ebeac7cb6eb:ac244b5a24bb0772511fbdc4d3b400bf
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784664369_f~0_g~1_s~d25e6cdf-362b-412c-9bca-f7e3f03eab60_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~eace73538fc8dd29bb1842667d147308/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyatlantic)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skyserie.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_serie.png" group-title="SKY ITALIA",Sky Serie
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183c4ad35abfd2fa351e15be2751f3:34d5e7802af83376b7869674e2692a28
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710773_f~0_g~1_s~6182124a-8490-4782-971f-194eb0f02a8a_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~54_x~7d26cb799e370ecdb461120cccb91dbf/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyserie)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="deakids.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_deakids.png" group-title="SKY ITALIA",DeAKids
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11186c855368b14808a44caa148954db:779ac5495ac22c6458b6f705c46b9aef
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1784724622_s~ce9d2815-864f-4293-9d20-8ef66ed62520_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_l~53_x~c3bfc7e819b87ae40fd4c253829b7b9aa0761b2f458a5569063fc3bd803e43e1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(deakids)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skynature.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_nature.png" group-title="SKY ITALIA",Sky Nature
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188a583a6e01a1566d46ec707f5134:9b920f9b587e72c1edc914bff684c431
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710295_f~0_g~1_s~fd12a77b-abca-42ab-9dfd-7bce3a2e63a9_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~55_x~93ee6a0f340490b58f18cf5104b5fbac/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skynature)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="mtv.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_mtv.png" group-title="SKY ITALIA",MTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118e69d1a583898ef3362facf7964e8:d67dcac48e516e4c8b528d0e3fe23d24
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711346_f~0_g~1_s~e0f99b93-7426-4e72-be08-0a9897e0fcec_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~49_x~260d89685447089a9f4ca4695fb79e44/nowitlin2/Content/CMAF_CTR_H1/Live/channel(mtv)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycollection.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_collection.png" group-title="SKY ITALIA",Sky Collection
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111846ad1b8bb11b3f11bf7f0f170701:2cffd969c3e289c667474fdacb23bc17
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784725518_f~0_g~1_s~8e880a87-36ed-4070-bb59-cd83facaeb74_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~59_x~c8fdc5d2da07277d268958ff4f2ce984/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycollection)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycrime.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_crime.png" group-title="SKY ITALIA",Sky Crime
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11186bcffdc1c47dbeaaa7d557002197:c84de6e52919f9c47726e75e5788f6b9
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710249_f~0_g~1_s~648fa6c6-a807-466d-b8a2-350ea79de997_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~54_x~10fe29e145be99fd7c21aee745d90659/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycrime)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skyarte.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_arte.png" group-title="SKY ITALIA",Sky Arte
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11182a6b78e28a52ffe2608ab6c0f56a:39454b9b64b2d2a1dfa0788c9087418a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710307_f~0_g~1_s~d9fda1e2-15a0-43f6-8e9d-7c8291d1f8cf_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~53_x~f86b179966703078e0e38967743d02c8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyarte)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_documentaries.png" group-title="SKY ITALIA",Sky Documentaries
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183ce2812f8e6de76e9960791f373b:0b9a47e8dbd5bea92472cf8684a1bea7
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710770_f~0_g~1_s~58798d69-38ef-43f3-9026-c9907f287d31_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~62_x~02df1c56372c9b695c08f2850425cdaa/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skydocumentaries)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skyadventure.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_adventure.png" group-title="SKY ITALIA",Sky Adventure
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118064bcea5a4106fb2267f279f2649:279a852121432f14ea2e7c5d15401238
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710327_f~0_g~1_s~72177739-5838-4675-a618-0c37f00d9413_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~58_x~227c1e3eb9ba9af75ffe1ff78a92e4a8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyadventure)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_investigation.png" group-title="SKY ITALIA",Sky Investigation
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118372f0e5a5be838da4313ddcd13a7:fb22d7ff7b1988bc71d03d033e8f34de
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1784710770_s~9dd0aec6-780f-4d81-8a34-d7ae5e1fe473_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_l~62_x~674052b30436a22e871adf8e93d46964d3b86a7e3c0981be812fecc2287f82bc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyinvestigation)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_collection.png" group-title="SKY ITALIA",Sky Cinema Collection
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111842d004b5526b6d8d42dcb192a7b2:2ffb5115eeee17ae656610d4ed0a8991
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710752_f~0_g~1_s~d30f09c6-2fac-4907-8f22-8cd22d225996_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~65_x~90e061b858ef25d006d0a4f65342c037/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemacollection)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_uno.png" group-title="SKY ITALIA",Sky Cinema Uno
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111863abbad4cce241ca8598c84c40fe:6231a62b51c78812fbfda7203a951000
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710750_f~0_g~1_s~96b7d466-5012-4567-8689-504b80d09e3a_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~58_x~d1f1efd4ad1d63b109c3148c9d4c865d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemauno)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_action.png" group-title="SKY ITALIA",Sky Cinema Action
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118af1480d8765f680a3eeffe1ae932:a8d8d9dc82b3e3f56e28f863df626fdb
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710147_f~0_g~1_s~fd4390fa-81e2-48c7-9bb3-6aacf6fed3f7_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~61_x~b9466e036cb186d4d9fd798b0ba65120/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemaaction)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_comedy.png" group-title="SKY ITALIA",Sky Cinema Comedy
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111836971e38304c36c93efbf3fce921:9dcd57529ba3bce36cb46c384905a989
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710755_f~0_g~1_s~29ff7dde-2009-4c7e-b23b-ed968c6a17f0_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~61_x~2c54de159f2327adc9be3a292f09ed04/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemacomedy)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_drama.png" group-title="SKY ITALIA",Sky Cinema Drama
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11187f0771eface703670c2e03f25c60:f1a4f55221438edfad33f71ce8d11e53
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710231_f~0_g~1_s~a7a696f1-8084-49a0-97f4-8cee792f366a_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~60_x~113749ba3d76f675a7737f7f6bb0f397/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemadrama)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemastories.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_stories.png" group-title="SKY ITALIA",Sky Cinema Stories
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11182667efb06ba840c6a8ecf1b8e4d8:6dbcb41305431e6507fab46c25f08e9f
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710750_f~0_g~1_s~d14a5608-5fcd-4a9c-918a-10850c93b31b_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~62_x~0e7a1421367aa8ee415c390435e15f93/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemastories)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_illumination.png" group-title="SKY ITALIA",Sky Cinema Illumination
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11182a43b0144b044c62720e33725818:cd78f626ac5d5ccca52edb813f2ee1c1
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784640742_f~0_g~1_s~3507d407-56e2-4ba8-ad60-c2213faffdfe_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~61_x~a0d5b830a99526a1eb1859cd775f5ebb/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemafamily)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_romance.png" group-title="SKY ITALIA",Sky Cinema Romance
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118b308d7860b5a2cfc1353e087aa9b:2ed82203afcaa7c0b6f1a7d7810abf57
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710752_f~0_g~1_s~0cc20e14-1cd1-4410-a0f1-60665fc27d51_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~62_x~b6d148424aff2f32e11f37e8f1d17f41/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemaromance)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_cinema_suspense.png" group-title="SKY ITALIA",Sky Cinema Suspense
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188caa4b6ced49f01f390c8b9c3d8b:b86fe4d85aa99b9a2420d59e5e96a6ad
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710753_f~0_g~1_s~0af80887-bd8b-4542-9e7f-32ca3fa52151_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~63_x~b636c8cb6bf61559ab2c9c544af50613/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemasuspense)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="boomerang.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_boomerang.png" group-title="SKY ITALIA",Boomerang
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118ba94e4aef8a14f6a0a8427eb25dc:a7d17a614e2ac297c248d9435c99d6e3
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1784724642_s~712d8b34-4bd1-4e52-a6ea-2ad28f705146_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_l~55_x~53777da61029e889d4e9f479663f39a04198128a651d98cad60cfbfdcd4957f1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(boomerang)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_comedy_central.png" group-title="SKY ITALIA",Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11189afa675ae2e1ac1e39747f54e3ff:c48d5ac4621d7738f8442b6476618705
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711355_f~0_g~1_s~b8c8b02d-8aa5-41c3-8a3c-79959f654310_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~59_x~8d69d18136e42f2529e7d305b6e38e3a/nowitlin2/Content/CMAF_CTR_H1/Live/channel(comedycentral)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_history.png" group-title="SKY ITALIA",History
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188c23784cc238e403a7ed90958795:a8a2fa68d6803452537b7862503f7b8b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784710291_f~0_g~1_s~db9f754e-b6dc-41f4-b312-5e1b6f469733_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~60_x~6eb4bd96ba81c96057dc16ed5cc52ab5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(historychannel)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="nickjunior.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_nick_jr.png" group-title="SKY ITALIA",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111857755be339a7e050fb2804479fde:9268ae2adb60f6648d1f49ec1c2f07ae
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711395_f~0_g~1_s~7af72cdd-44b9-4f08-a72b-d7ee13cca9fe_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~56_x~2d0ad3b21f4d2274d243876a57bb04e3/nowitlin2/Content/CMAF_CTR_H1/Live/channel(nickjunior)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_nickelodeon.png" group-title="SKY ITALIA",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11184d4970ee622e9acdc10016b4112e:d4e99a107ba1c7ab10e0494285bbacf7
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711374_f~0_g~1_s~33e85f1b-df91-44df-8864-0cd0a5e85199_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~57_x~bffdbbc122acee463ebb640765b05dae/nowitlin2/Content/CMAF_CTR_H1/Live/channel(nickelodeon)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="skyunoplus.it" tvg-logo="https://liveac.net/sb/storage/v1/object/public/logos/ext_sky_uno_plus.png" group-title="SKY ITALIA",Sky Uno Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111837d963caccec0b164c590eda3f71:106882727b6a74b4a5ca965f9412aa5b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784711414_f~0_g~1_s~767c8553-c07e-4bff-bab9-22afaaa998e0_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~56_x~49e0bd73d8cae7ce9ad450aa47b269f0/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyunoplus)/master_2hr-all.mpd
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/e3a7169255414c35b01973e333e762e5/version/0",Sport TV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d012322fb2db4c929a66417c1fa40b00":"eac803603f1b2e4658e0f9da317fd05b"}
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=CMAFDASH_HEVC_UHD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/886565c7d7714745880d938025a1610b/version/0",Sport TV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9966cfdee0a04619b2be74ecf4119e25/version/0",Sport TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a2aabacfc9a54ce3ad64acf33e161b14/version/0",Sport TV 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/adfc9e4d07124034bcf3a440eb1e1179/version/0",Sport TV 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3ba84ea044f7493b9f4f82a7735aa1fb/version/0",Sport TV 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d319aab02a8342248cceb0fdf060bc54:b36668a836b15055be1f04b8d8a8cc70
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/11b05c45e5e54609b5a6515d6b0ffdb7/version/2",Sport TV 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70",DAZN 1 PT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"39bcbc9418aa4d62b96b6a3eae2f6df0":"a8f968b6a8ed7bfb17bf787b6c930c7e"}
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70",DAZN 2 PT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3805cd533c1341a7934d13629eb7a34e":"2542564928cb8e3fe4595ab8dcfd6e77"}
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=70",DAZN 3 PT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7224f2a6a14a4d88874d10dd953c88dc":"9719ea238d3de66eb073ce842814f464"}
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000",DAZN 4 PT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b6e5fe5b1d140b092e22cc662088276":"6bdd76adbc5bb25089983b2500dde7ca"}
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 group-title="🇵🇹 PORTOGALLO" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1720521735000",DAZN 5 PT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d931d671884145dfb392be0cade5088c":"beee3956b769c39f00fa3ce84a2efaba"}
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+
+#EXTINF:-1 group-title="🇬🇧 GRAN BRETAGNA" tvg-logo="https://img-284.media.info/i/bg/1/1539-1690027797.webp", TNT SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d14658a0ede94debcb4013b2056ba6d1":"60838a3176127fed0eaf038a5575de11"}
+https://abdfyr5aaaaaaaamgusrknwycxbeu.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
+
+#EXTINF:-1 group-title="🇬🇧 GRAN BRETAGNA" tvg-logo="https://img-284.media.info/i/bg/1/1540-1690027877.webp", TNT SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b59ce06de74ed84f2eda5e81dadba13":"48e4ba4ad6c2a60d2bda5d71a0050844"}
+https://abdfyr5aaaaaaaamgusrknwycxbeu.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
+
+#EXTINF:-1 group-title="🇬🇧 GRAN BRETAGNA" tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp", TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"12413e2c2855cfc59ce0fe6b20cc71ca":"08d55a8f5fc93a9375f9b0cb2e1739ca"}
+https://abdfyr5aaaaaaaamgusrknwycxbeu.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+
+#EXTINF:-1 group-title="🇬🇧 GRAN BRETAGNA" tvg-logo="https://img-284.media.info/i/bg/1/1491-1690027975.webp", TNT SPORTS 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"570c19f1be3410e4e409be4dc7923f2b":"9a4dea8af2a2a703dffa8a477e9edc50"}
+https://abdfyr5aaaaaaaamgusrknwycxbeu.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+
+#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg/revision/latest?cb=20220218182931", TSN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e51aa21f2a0fef9aabc120dfb655b52f":"a12a987fe725a40b6be95cd84b15f689"}
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/TSN2_2014.svg/revision/latest?cb=20220218183146", TSN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"daa8ea92553fd16cd6bfae2b8c582715":"4042e041b5639b79b69ae07a872eef9b"}
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg/revision/latest?cb=20220218183249", TSN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f5c2b30eac11be1e8cdfc9585f5fe6af":"a8198d17bf9b0da77450fbb919a38b2d"}
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+
+#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg/revision/latest?cb=20220218183358", TSN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c4088f5f265f9de50cffd80bf89308b7":"2c4d2239d96d532b4ec2050653611003"}
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest?cb=20220218183502", TSN 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e853333da2c9196ea11374634231bc45":"de2e2dbe818d78dfad07d6cd9a4c63d4"}
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/sggNDR7/a1.png",Arena Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d","c43c83acda60593d8e3607efd5010d7d":"526f4a760ef52ab85056fbc10ea27584","712090aae2065c21951b170bc3002330":"a97774e4175b80205c3cf104e9574208"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/R4yyyng/a2.png",Arena Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d256b403efcc5c3db701fc696885e102":"d46e4215e279b224e9d2a772db9c74a1","b2f22f5d7ca35910a73fbabc524954de":"d87d08fbe6505ad7099b8c258f396d15","c5e5ac1b3cc15fe790f1bc96535fe329":"3defe59c38079ccad25a436200ad3bd7"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/18LnFNg/a3.png",Arena Sport 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3bedf4a896695958907e0984165090f0":"a58317ffddf318f1540f31f67d95b5fb","ccebefcba0a3546ba34d3fc587651708":"18f2b2027ce26867c23dcd7f57faa245","25c3df3202005cc98c47700295be59ca":"073f5a39d84dd14a9debd1a72bb1f055"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/K99CqgQ/a4.png",Arena Sport 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"77ce6938c781526e999b688992f27764":"bf1178841770fdba74f8629f0f06d2c0","89d1dc54692e5b4fb5995fc0953bf5bf":"31b8953ab60b90fefc93d9bd1b806fbc","68cd661dbc8352fda000c532840f6340":"0255fb620f4f707ea7ba090058718306"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/MfCshjJ/a5.png",Arena Sport 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34a709bbeac052f293c778c0770829fd":"2b801fde1ad4839d4080d6ec6b0ec4ce","e473ec5d96f45a9f9a22eb665b5b1ea9":"ace54ce15b69d249b00395c9e6b85b90","18d3fba08f3152c38f14151219fa9792":"78b0c5b961351e482be81287466ecb08"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/HH4TJ8T/a6.png",Arena Sport 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5a86e42c58cf5d008546861c0f0fb22a":"67b1172a05bcb38a91a304d7098ce7f5","bfd8ff04a3625fcea8335c9575401697":"769d61a2d6fd7030a5088df2e70c2654","b3b60e79989a5b2799fa3a2394b8749f":"a25d21e333dad3d131f126b7b57730be"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/dJ8M6jj/a7.png",Arena Sport 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5d4b5005dbd355559b3c7fe4dae1fb05":"10e65a5b74158216190e654cdf05b584","5998265ef8fc5748822fef96229831aa":"9110b6be31b4bbdce67374bae3395269","5244c72f4f5d5e1a8778fc93906c9cb3":"4c14a6a924ef7fb32534dd590d99d499"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/DVGVP4n/a8.png",Arena Sport 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c6fc5b27b74e5b8e82ca19da484eb174":"51f8fd5eef736dccaea9235b621731e7","b9e9546bc9ba52d1a75fba9222efa7f5":"2cec65c6b79be6c2d4481c6e0ef79bfc","ca202ac1353a5c6b9960bdbb82f88efc":"7ef86abd9a62042858370852836c50b4"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/g9YZxVC/a9.png",Arena Sport 9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe":"0000816079a5ec4f093e3274bda26f2a","a2ff372a21b35653a88592abfec3f9a7":"d5bc25088d1fda12849aad90716de750","7ecfd12eb26258c381afadac16ac8fc9":"b4f351533d633abf76cda47fe75d579b"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
+
+#EXTINF:-1 group-title="🇧🇦 BOSNIA ED HERZEGOVINA" tvg-logo="https://i.ibb.co.com/ChXVZ23/a10.png",Arena Sport 10
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"06376a4b5a09557cb3ad1ed4bdb677fe":"90ddef80ce78a710935c408ff6067611","03ed75ef7e4c56cb8f81cc17952fc554":"2be3b8e9f4756601e5b263beb14c5908","ea5736047df25edbb48bd055d48eb3dd":"8b40d3a415517224245a79e907cb8ef0","ee6860a6bf7a5f6c89bcf1794d16e25f":"b573f718f1551d2cf2a335ca778f5604"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
+
+#EXTINF:-1 group-title="🇵🇱 POLONIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Eleven_Sports_1.svg/revision/latest?cb=20210210162341",Eleven Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4853dbe4c4cf51f3ba95424c6e6f69c7":"39c0346198bc9b1614eb319115afdb84","751db0bb03145084973c6cf9c85fa16e":"6571153c39eed18c29cdc63eb83c553a","fd9b5f8ae64a51edacd4f245ef515287":"c867d24646b170b5c0e0556b56b291d7"}
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
+
+#EXTINF:-1 group-title="🇵🇱 POLONIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Eleven_Sports_2.svg/revision/latest?cb=20210210162635",Eleven Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a118a928ea39552f976c8fad437f71ad":"f58fb7a53ee86de9d0b9823446ba9756","78f826af752f54ddbc4ad9959ff2a42d":"c1479ffada263000730d627a989e96ab","95c2aefadb7e522c9deeed393207f853":"16e857224e16ab01a3c549212cdbdbb8"}
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
+
+#EXTINF:-1 group-title="🇵🇱 POLONIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Eleven_Sports_3.svg/revision/latest?cb=20210210162837",Eleven Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d895d50a5a0f55758d31f247e6743815":"9f4882e56631edb0da1c7bf1e0fa4904","e3a9d5c27a6d5eac955daf5a1a640c69":"4c2e674f97ff33c5de13032b92e78bc9","e3dd9d531eee578fbd08c87de8ab84d5":"133e5a170236f4ba5930f5ba4213ee03"}
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports3/default/index.mpd
+
+#EXTINF:-1 group-title="🇵🇱 POLONIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Eleven_Sports_4.svg/revision/latest?cb=20210210163056",Eleven Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"37b0bbf897ad5bd5a3ec19b5a91f54f9":"3e84e6b93e19197d5aea59ef8ad9d270","54a7d8f8dbee564981beb470f22b529b":"a0e341fec141f8733c0805f5480762ba","14e62b5f16385a139e2a1c747b8b1cc4":"0cece074b5f3fabc76fc9ed109b3819d"}
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports4/default/index.mpd
+
+#EXTINF:-1 group-title="🇳🇱 OLANDA" tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png",Ziggo Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ef34ae91b4f2415e8439b2ad105e7488":"243248d8de1ff8c7c587ee2057317523"}
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ==4a2d2c8ce133f43026d0e31b822b8474:20240601012829:UTC,10001003329222,87.212.140.171,20240601012829,3103_SP1S,10001003329222,-1,0,1,,,2,3103_Sport1,,,2,10000044444303,0,10000025050255,NDEzODg2NTY3MzEwMzI2NzMwNjMwNTY=,,,5,1,END&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+
+#EXTINF:-1 group-title="🇳🇱 OLANDA" tvg-logo="https://i.ibb.co.com/3fNq3Dr/ziggosport2.png",Ziggo Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3cfa8625f650406ebf6a4d1ea737f572":"0534e747c70b364aa7210e1bf3191df0"}
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc~ExtInfo5Ro3VppWiUusj2ippqUPkQ==4a2d2c8ce133f43026d0e31b822b8474:20240601013140:UTC,10001003329222,87.212.140.171,20240601013140,3103_SP1V,10001003329222,-1,0,1,,,2,3103_Sport1,,,2,10000044444303,0,10000025050255,NDEzODg2NTY3MzEwMzI2NzMwNjMwNTY=,,,5,1,END&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579
+
+#EXTINF:-1 group-title="🇳🇱 OLANDA" tvg-logo="https://i.ibb.co.com/b2Q0RdR/ziggosport3.png",Ziggo Sport 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4dbea4b5713a4aa1ae3a2544cd522fc7":"a8323ea99b2d6200a48e1bc27322d548"}
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f~ExtInfo5Ro3VppWiUusj2ippqUPkQ==4a2d2c8ce133f43026d0e31b822b8474:20240601013401:UTC,10001003329222,87.212.140.171,20240601013401,3103_SP1G,10001003329222,-1,0,1,,,2,3103_Sport1,,,2,10000044444303,0,10000025050255,NDEzODg2NTY3MzEwMzI2NzMwNjMwNTY=,,,5,1,END&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538
+
+#EXTINF:-1 group-title="🇳🇱 OLANDA" tvg-logo="https://i.ibb.co/3YNQxBwv/ziggosport4.png",Ziggo Sport 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b5c04cfb6da84104ba5bbe51cd065b12":"d96561be4819d3ed4e5f4f54015baaca"}
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~u0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481~-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f~ExtInfo5Ro3VppWiUusj2ippqUPkQ==4a2d2c8ce133f43026d0e31b822b8474:20240601013557:UTC,10001003329222,87.212.140.171,20240601013557,3103_SP1T,10001003329222,-1,0,1,,,2,3103_Sport1,,,2,10000044444303,0,10000025050255,NDEzODg2NTY3MzEwMzI2NzMwNjMwNTY=,,,5,1,END&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538
+
+#EXTINF:-1 group-title="🇳🇱 OLANDA" tvg-logo="https://i.ibb.co.com/bbVShcY/ziggosport5.png",Ziggo Sport 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3fb40d85724942f994d86943f48021db":"a6da8742502c8a2153067f5f2a70fb02"}
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe~ExtInfo5Ro3VppWiUusj2ippqUPkQ==4a2d2c8ce133f43026d0e31b822b8474:20240601014139:UTC,10001003329222,87.212.140.171,20240601014139,3103_S1E1,10001003329222,-1,0,1,,,2,3103_Sport1,,,2,10000044444303,0,10000025050255,NDEzODg2NTY3MzEwMzI2NzMwNjMwNTY=,,,5,1,END&GuardEncType=2&RTS=1717206099&from=11&hms_devid=538&online=1717206099&mag_hms=538&_=1717206113039
+
+#EXTINF:-1 group-title="🇳🇱 OLANDA" tvg-logo="https://i.ibb.co.com/P5xs9ZF/ziggosport6.png",Ziggo Sport 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1a0ffa532aa2498490826e2f6a37f7c9":"a8cec27bc7d47909c5b0d8f473b43e8d"}
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9~ExtInfo5Ro3VppWiUusj2ippqUPkQ==4a2d2c8ce133f43026d0e31b822b8474:20240601014418:UTC,10001003329222,87.212.140.171,20240601014418,3103_S1E2,10001003329222,-1,0,1,,,2,3103_Sport1,,,2,10000044444303,0,10000025050255,NDEzODg2NTY3MzEwMzI2NzMwNjMwNTY=,,,5,1,END&GuardEncType=2&RTS=1717206258&from=14&hms_devid=538&online=1717206258&mag_hms=538&_=1717206265600
+
+#EXTINF:-1 group-title="🇲🇽 MESSICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927",ESPN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_hd/default/index.mpd
+
+#EXTINF:-1 group-title="🇲🇽 MESSICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318",ESPN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_2_hd/default/index.mpd
+
+#EXTINF:-1 group-title="🇲🇽 MESSICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609",ESPN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_3_hd/default/index.mpd
+
+#EXTINF:-1 group-title="🇲🇽 MESSICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211120194330",ESPN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_plus_hd/default/index.mpd
