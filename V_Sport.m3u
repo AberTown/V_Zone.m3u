@@ -11,26 +11,3 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="OTROS DEPORTES",USA EAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.usanetwork.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b+S1Z+ybRnqIigiWAMk/VQ","k":"uGEiZUUcjEYvtrVa06a22A"}],"type":"temporary"}
-https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-primary-v1/Content/Channel/4e41f6af-4b86-2aac-c351-c1250b14b344/DASH_ENC/master_5m.mpd?aws.sessionId=4bd064c7-cf13-4eb7-a0ba-a9672b3cbc24
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="OTROS DEPORTES",USA WEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.usanetwork.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b+S1Z+ybRnqIigiWAMk/VQ","k":"uGEiZUUcjEYvtrVa06a22A"}],"type":"temporary"}
-https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-secondary-v1/Content/Channel/6770a110-2c6e-47fd-2fe3-1dc29b64f5b6/DASH_ENC/master_5m.mpd?aws.sessionId=c3fb30b2-ae4b-4a0e-ae00-b776f820d0bd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="OTROS DEPORTES",USA EAST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b+S1Z+ybRnqIigiWAMk/VQ","k":"uGEiZUUcjEYvtrVa06a22A"}],"type":"temporary"}
-https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-primary-v1/Content/Channel/4e41f6af-4b86-2aac-c351-c1250b14b344/DASH_ENC/master_5m.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="OTROS DEPORTES",USA WEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b+S1Z+ybRnqIigiWAMk/VQ","k":"uGEiZUUcjEYvtrVa06a22A"}],"type":"temporary"}
-https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-secondary-v1/Content/Channel/6770a110-2c6e-47fd-2fe3-1dc29b64f5b6/DASH_ENC/master_5m.mpd
