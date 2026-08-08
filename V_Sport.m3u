@@ -11,3 +11,442 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://telegram.org/img/t_logo.png" group-title="📢 SOCIAL MEDIA", 🚀 JOIN TELEGRAM CHANNEL
+https://raw.githubusercontent.com/aiorbd-video/video/refs/heads/main/test1/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" group-title="📢 SOCIAL MEDIA", 🌐 JOIN FACEBOOK GROUP
+https://raw.githubusercontent.com/aiorbd-video/video/refs/heads/main/Allinonesocialvid/output.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket: ICC World Test Championship (WI vs PAK)", WILLOW FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket: ICC World Test Championship (WI vs PAK)", TAPMAD FHD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://tapmad.com
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|Referer=https://tapmad.com
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket: ICC World Test Championship (WI vs PAK)", WILLOW ALT [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket: ICC World Test Championship (WI vs PAK)", TNT SPORTS FHD [HD]
+https://messi.damitv.st/papi/ts/tntsports2-uk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket: ICC World Test Championship (WI vs PAK)", PTV SPORTS [HD]
+https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket: ICC World Test Championship (WI vs PAK)", LOW SERVER [LOW]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.193/hls/YOOOAAAA.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket: ICC World Test Championship (WI vs PAK)", FANCODE (IND) [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket: ICC World Test Championship (WI vs PAK)", WILLOW FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://amazon.com&User-Agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKnDWPL8/20260730-122144.png" group-title="Cricket: Asian Legends League, T20 (Legends League vs Legends League)", TAPMAD FHD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://tapmad.com
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|Referer=https://tapmad.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKnDWPL8/20260730-122144.png" group-title="Cricket: Asian Legends League, T20 (Legends League vs Legends League)", FANCODE (IND) [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket: T20 International (SL-W vs PAK-W)", WILLOW FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://amazon.com&User-Agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket: T20 International (SL-W vs PAK-W)", TAPMAD FHD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://tapmad.com
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|Referer=https://tapmad.com
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket: T20 International (SL-W vs PAK-W)", FANCODE (IND) [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)
+https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2418/2418779.png" group-title="Motorsport: Formula 1 (Formula 1 vs Formula 1)", Sky via Apple TV FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73c6218fa797bce56ec12bf5cc7e2dae:ec14e4df9b165a3631251246242f0e91
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6oqpug9mu/out/v1/502432e8607547b4a6278d3cc64d5b78/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2418/2418779.png" group-title="Motorsport: Formula 1 (Formula 1 vs Formula 1)", TSN SPORTS FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2418/2418779.png" group-title="Motorsport: Formula 1 (Formula 1 vs Formula 1)", Formula 1 HD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/53722/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2418/2418779.png" group-title="Motorsport: Formula 1 (Formula 1 vs Formula 1)", SD SERVER [SD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.194/hls/UJJJAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2418/2418779.png" group-title="Motorsport: Formula 1 (Formula 1 vs Formula 1)", SportCast FHD [FHD]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5c5563f-7794-4a2f-85eb-bec3f734a2f4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport: MotoGP (MotoGP vs MotoGP)", FANCODE FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport: MotoGP (MotoGP vs MotoGP)", SPO TV FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport: MotoGP (MotoGP vs MotoGP)", MotoGP FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport: MotoGP (MotoGP vs MotoGP)", NOW SPORTS FHD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://pushembdz.store/
+https://g001.sadhoofiton.shop/out/v2/9f7de4da3380a8bdd485461bfe8b3aa4/index.m3u8?|Referer=https://pushembdz.store/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport: MotoGP (MotoGP vs MotoGP)", TNT SPORTS SD [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://instream.click/&Origin=https://instream.click
+https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|Referer=https://instream.click/&Origin=https://instream.click
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport: MotoGP (MotoGP vs MotoGP)", DAZN SPORTS [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://instream.click/&Origin=https://instream.click
+https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|Referer=https://instream.click/&Origin=https://instream.click
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport: MotoGP (MotoGP vs MotoGP)", CANAL+ HD [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://instream.click/&Origin=https://instream.click
+https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|Referer=https://instream.click/&Origin=https://instream.click
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport: MotoGP (MotoGP vs MotoGP)", SD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.55/hls/zlllQQQ.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing: Monday Night RAW (WWE RAW vs WWE RAW)", WWE+ HD [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing: Monday Night RAW (WWE RAW vs WWE RAW)", WWE HD [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/53006/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing: Monday Night RAW (WWE RAW vs WWE RAW)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing: Monday Night RAW (WWE RAW vs WWE RAW)", SD SERVER [SD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.41/hls/GBBBQQ.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing: WWE NXT (WWE NXT vs WWE NXT)", WWE NXT HD [HD]
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing: WWE NXT (WWE NXT vs WWE NXT)", SD SERVER [SD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.41/hls/YDDDQQ.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="Boxing: AEW Dynamite (AEW vs AEW)", TSN2 SPORTS FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="Boxing: AEW Dynamite (AEW vs AEW)", AEW LIVE HD [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/49815/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="Boxing: AEW Dynamite (AEW vs AEW)", FOX PREMIUM [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="Boxing: AEW Dynamite (AEW vs AEW)", SD SERVER [SD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.190/hls/KEEEA.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://iili.io/FDjaT1R.md.png" group-title="Boxing: One Friday Fights (One Friday Fights vs One Friday Fights)", One Fight FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/FDjaT1R.md.png" group-title="Boxing: One Friday Fights (One Friday Fights vs One Friday Fights)", SERVER 2 [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/FDjaT1R.md.png" group-title="Boxing: One Friday Fights (One Friday Fights vs One Friday Fights)", SERVER 3 [HD]
+https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png" group-title="Boxing: Friday Night SmackDown (SmackDown vs SmackDown)", WWE HD [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/53741/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png" group-title="Boxing: Friday Night SmackDown (SmackDown vs SmackDown)", WWE LIVE HD [HD]
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png" group-title="Boxing: Friday Night SmackDown (SmackDown vs SmackDown)", SD SERVER [SD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/AWAWAW.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football: Premier League (Hull vs Man Utd)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football: Premier League (Everton vs Crystal Palace)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football: Premier League (Ipswich vs Sunderland)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football: Premier League (Brentford vs Tottenham)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football: Premier League (Man City vs Bournemouth)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football: Premier League (Brighton vs Aston Villa)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football: Premier League (Arsenal vs Coventry)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football: Premier League (Forest vs Leeds)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football: LaLiga (Alavés vs Getafe)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football: LaLiga (Sevilla vs Rayo Vallecano)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football: LaLiga (R. Racing Club vs Villarreal)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football: LaLiga (Celta vs Osasuna)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football: LaLiga (Espanyol vs Levante)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football: Saudi Pro League (Al Diriyah vs Al-Ahli)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football: Saudi Pro League (Al-Shabab vs Al-Qadsiah)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark" group-title="Football: Saudi Pro League (Abha vs Al-Hazem)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket: The Hundred Women (WEF-W vs SOB-W)", WILLOW FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxu8h3g1qm/out/v1/eef0cc6bfe96430896fb3dd56e8f0dff/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket: The Hundred Women (WEF-W vs SOB-W)", CRICKET FHD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|User-Agent=Mozilla
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket: The Hundred Women (WEF-W vs SOB-W)", WILLOW ALT [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jxu8h3g1qm/out/v1/eef0cc6bfe96430896fb3dd56e8f0dff/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket: The Hundred Women (WEF-W vs SOB-W)", TAPMAD FHD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://tapmad.com
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|Referer=https://tapmad.com
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket: The Hundred Women (WEF-W vs SOB-W)", SKY SPORT NZ [HD]
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket: The Hundred Women (WEF-W vs SOB-W)", FOX CRICKET HD [HD]
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Cricket: The Hundred Women (WEF-W vs SOB-W)", LOW QUALITY [LOW]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket: The Hundred (WEF vs SOB)", WILLOW FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket: The Hundred (WEF vs SOB)", SKY CRICKET FHD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|User-Agent=Mozilla
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket: The Hundred (WEF vs SOB)", WILLOW ALT [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket: The Hundred (WEF vs SOB)", TAPMAD FHD [FHD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://tapmad.com
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|Referer=https://tapmad.com
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket: The Hundred (WEF vs SOB)", SKY SPORT NZ [HD]
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket: The Hundred (WEF vs SOB)", FOX CRICKET HD [HD]
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Cricket: The Hundred (WEF vs SOB)", LOW SERVER [LOW]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Cricket: ICC CWC League 2 (SCO vs UAE)", ICC FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1785780267~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=4850f9d1-05d5-4a91-8443-7e5a216546e7~data=hdntl~hmac=891f741a46781d04f82357d21c4a0e758f54042b5530ff8a9c328e4d0fa7819b/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket: Lanka Premier League (CK vs KRL)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket: Lanka Premier League (JK vs GG)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football: Women's Africa Cup of Nations (Senegal vs Morocco)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.191/hls/GSSSDD.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football: Women's Africa Cup of Nations (Senegal vs Morocco)", LOW QUALITY [HD]
+http://162.251.160.53:8089/SUNFOT7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football: Women's Africa Cup of Nations (Kenya vs Algeria)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.191/hls/GSSSDDD.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark" group-title="Football: Women's Africa Cup of Nations (Kenya vs Algeria)", LOW QUALITY [HD]
+http://162.251.160.53:8089/SUNFOT7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Football: ASEAN Championship (Cambodia vs East Timor)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.online909.com/
+https://live.vivo200.com/live/sd-1-4555136.m3u8?txSecret=046abc148d702c0d7e3c6ffaeb816225&txTime=6A7079B5|Referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Football: ASEAN Championship (Cambodia vs East Timor)", LOW SERVER [LOW]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.190/hls/NNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Football: ASEAN Championship (Indonesia vs Vietnam)", LOW SERVER [LOWER ]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.190/hls/NNNNAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Astros vs Blue Jays)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Phillies vs Nationals)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.190/hls/GSSSD.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Phillies vs Nationals)", SD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center
+https://edgestream2.pro/hls/dazhfiach15.m3u8|Referer=https://streame.center
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Rockies vs Rays)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Diamondbacks vs Padres)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Rangers vs Giants)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Cubs vs Dodgers)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Brewers vs Pirates)", HD QUALITY [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball: MLB (Yankees vs Cardinals)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center
+https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8|Referer=https://streame.center
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball: WNBA (Liberty vs Storm)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center
+https://edgestream3.pro/hls/ztyarueaghj71.m3u8|Referer=https://streame.center
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball: WNBA (Sky vs Mercury)", Link 1 [HD]
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball: WNBA (Dream vs Aces)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://streame.center
+https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8|Referer=https://streame.center
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football: Calcutta Premier Division (Calcutta Premier Division vs Calcutta Premier Division)", BSS Sporting Club vs East Bengal FC [HD]
+https://live-n10.videostech.cloud/match/behalasssportingclub_vs_eastbengalfc/HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/20809/image/dark" group-title="Football: Durand cup 2026 (Durand Cup vs Durand Cup)", LANGSNING FC VS MUMBAY FC [HD]
+https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785804643~acl=/*~id=43066143494206625324545938698522~hmac=a5e79df143bffca486a2d76ae9f4decdbb1e9c504f482ba619d755fc56060a2d
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36/image/dark" group-title="Football: Scottish Premiership (Celtic vs Dundee)", beiN ENGLISH FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36/image/dark" group-title="Football: Scottish Premiership (Celtic vs Dundee)", SportDigital Fussball [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/36/image/dark" group-title="Football: Scottish Premiership (Celtic vs Dundee)", LOW SERVER [LOW]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.192/hls/GSSSDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football: EFL Cup (York vs Crawley)", CBS GOLAZO FHD [HD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football: EFL Cup (York vs Crawley)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.online909.com/
+https://live.vivo200.com/live/sd-1-4550486.m3u8?txSecret=86c5d4697010836b54808a97bd849624&txTime=6A70F0C4|Referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football: EFL Cup (York vs Crawley)", DIEMA SPORTS HD [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/
+https://messi.damitv.st/papi/tv/dlhd/466/playlist.m3u8?|Referer=https://ondemand.st/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football: EFL Cup (York vs Crawley)", HD QUALITY [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ondemand.st/
+https://messi.damitv.st/papi/tv/dlhd/15/playlist.m3u8?|Referer=https://ondemand.st/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football: EFL Cup (York vs Crawley)", LOW QUALITY [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.190/hls/GBBBDDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/155/image/dark" group-title="Football: Liga Profesional de Fútbol (Sarmiento vs Ind. Rivadavia)", FOX DEPORTES FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/155/image/dark" group-title="Football: Liga Profesional de Fútbol (Vélez Sarsfield vs Independiente)", FOX DEPORTES FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/155/image/dark" group-title="Football: Liga Profesional de Fútbol (Vélez Sarsfield vs Independiente)", HD SERVER [HD]
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://www.fawanews.sc/
+http://193.47.62.190/hls/GSSS.m3u8|Referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/373/image" group-title="Football: Copa Betano do Brasil (Athletico vs Vitória)", PREMIERE BR FHD [HD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/373/image" group-title="Football: Copa Betano do Brasil (Athletico vs Vitória)", SporTV BR FHD [FHD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|User-Agent=Mozilla/5.0
+
