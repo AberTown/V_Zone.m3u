@@ -11,3 +11,156 @@
 🇨🇦 
 🇫🇷 
 🇮🇸
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="NHK BSP4K" tvg-logo="" group-title="hard tv",NHK BSP4K
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
+
+#EXTINF:-1 tvg-id="1" tvg-name="NHK BS8K" tvg-logo="" group-title="hard tv",NHK BS8K
+https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
+
+#EXTINF:-1 tvg-id="1" tvg-name="NHK BS04K" tvg-logo="" group-title="hard tv",NHK BS04K
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc
+
+#EXTINF:-1tvg-id="305.astro" tvg-name="千禧經典台" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",TVB千禧经典台
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" } 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+
+#EXTINF:-1 group-title="SKY NZ" tvg-logo="https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/40.svg" tvg-name="Nick Jr",Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e9a93c8c08c393b8e469c7804dcb5a0:9ace1dc7bce14b9f9ac23ecc9562b387
+https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/nickelodeon-jr-hls/cmaf/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/asDF7GJ.png?v=1.0.0.1",NICK JR
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46beefe8a4d11f36822b75d9a67a42be:e94946dcfd579b24e2c41a1cb051e18a
+https://tvcdn.tv.telia.lt/live/eds/Nick_Jr_H/DASH_5_CPIX_NPVR/Nick_Jr_H.mpd
+
+#EXTINF:-1 tvg-id="1" tvg-name="德国未加密" tvg-logo="" group-title="hard tv",test de
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="澳大利亚" tvg-logo="" group-title="hard tv",test austria
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 ,Mezzo (VPN NL)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"691c85df5fe65f8f72e608435ab6719a":"1b15308773934df2bae7edca332d9857"}
+https://bpm.tv.delta.nl/dash-cenc/combined/62/smarttv.mpd?bk-network=coax-mobile
+
+#EXTINF:-1 ,NBA-TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1acd2d7afd8cb34099cb832862e3c08d:b85491a27c2852323ac704a07cf7b779
+https://lpnba.akamaized.net/live-pz/p/hls-wvpr/NBATVI/index.m3u8?addUserInfo=1&start=LIVE&end=END&PostalCode=0&ISO3166=&sessionId=dbb6c120-b3e1-49db-9095-11cb637264cf
+
+#EXTINF:-1 ,2609 British GP - F2 Practice
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce761fb1be2c3c2dbf86d86df02c28ad:8cbdeea72610c1bfd4dece57bab1d0a3
+https://f1prodlive.akamaized.net/v2/hajvk2fd2vxr/out/v1/Main/WIF-F2-R1/HDR-UHD-CMAF-FP/index.m3u8?hdnea=st=1783068893~exp=1783155293~acl=/v2/hajvk2fd2vxr/out/v1/Main/WIF-F2-R1/HDR-UHD-CMAF-FP/*~id=232481449_01KWKK08HF8VMEH9JJ5N8N0F7Y_PP~data=start=1783068642_end=1783111842~hmac=47c9abb15764db2980bfd837f497cd6f0f595a4734317265b4fc4ba0d6865bb5&end=1783111842&start=1783068642
+
+#EXTINF:-1 ,2609 British GP - Pre-Sprint Show
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05fe1dde13fc3f9c9ff333c81e7fb4fb:f04e44b57d07375167f66dd8a337be57
+https://f1prodlive.akamaized.net/v2/zp2tqifd2vxr/out/v1/Support/Additional1-R1/HDR-UHD-CMAF-FP/index.m3u8?hdnea=st=1783159793~exp=1783246193~acl=/v2/zp2tqifd2vxr/out/v1/Support/Additional1-R1/HDR-UHD-CMAF-FP/*~id=232481449_01KWP9P9RSYAV8CCWTXZ4W5FD5_PP~data=start=1783159495_end=1783202695~hmac=9a8b2f5b58bb8ed370cf64e8d5c04e29d75564946c9165a1deb0a0bfa7910556&end=1783202695&start=1783159495
+
+#EXTINF:-1 ,[4K] Formula 1 - Britain: Practice 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={792982b3bca936648703fb0a6e160265:4693b3d3b5ec27ac3d772982c09a6885, a5b6e31a4d083d14a09f4b756f01c32e:aead7bb844d1e4806ccb3cc1dd3d38b0,02f0f35975033b4293ddb8c0ded820c8:612c5e09cf936bf2d59f56d5673451a6,e1e4293a444b3768932d121c17d9ae9a:26e4294b519e18ce7cedea040dfce841,b6c5e7cd1eb2335daa7e1d3465a9293b:413ef9974cab024b27f13bb7bf5c3aff}
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.10wao3c1x9j392c2r2waczk7v
+
+#EXTINF:-1,apple f1-new
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ccfd4bb12d853ffbb7bf9046cdd66168:5c358422ec1a99438e3a32092715f41c,0a0996122456322aae0e020f3c4ab10b:96f14f8767d09d636e7b24acddb2f275}
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.1lwiwybw637lckkcgisbtingu
+
+#EXTINF:-1,apple f1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ccfd4bb12d853ffbb7bf9046cdd66168:5c358422ec1a99438e3a32092715f41c,0a0996122456322aae0e020f3c4ab10b:96f14f8767d09d636e7b24acddb2f275}
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.1lwiwybw637lckkcgisbtingu
+
+#EXTINF:-1,apple06
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={792982b3bca936648703fb0a6e160265:4693b3d3b5ec27ac3d772982c09a6885,a5b6e31a4d083d14a09f4b756f01c32e:aead7bb844d1e4806ccb3cc1dd3d38b0,02f0f35975033b4293ddb8c0ded820c8:612c5e09cf936bf2d59f56d5673451a6,e1e4293a444b3768932d121c17d9ae9a:26e4294b519e18ce7cedea040dfce841,b6c5e7cd1eb2335daa7e1d3465a9293b:413ef9974cab024b27f13bb7bf5c3aff}
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.10wao3c1x9j392c2r2waczk7v
+
+#EXTINF:-1,TVBS 55 新聞台 (VPN TW)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95e68a0ddebc5d47a160ceedd48b81ea:74e48f72d124e58df30174467c8fa63d,c38a6b8dcb7b5d58bed2e4368d91aadb:228c2bf9dcb24c20453513f07b05e534,f5e20082a937559f89ebaab25bd28145:be418de2f157d67947f9ac28b379f895,d29b4f3c5bca5ac6aecf594b74b8a391:df2bc2616e586c0251731e40b7f615fd
+https://livetv.catchplay.com/bcde860c-1426-11f0-aef7-9a2246e728b9/ea762ea7-4899-4eea-8c94-1c19efd43536/984fcf82-9438-4a45-8a2a-b0cf3c749d1d/dash.mpd
+
+#EXTINF:-1,TVBS 55 新聞台-1 (VPN TW)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95e68a0ddebc5d47a160ceedd48b81ea":"74e48f72d124e58df30174467c8fa63d","c38a6b8dcb7b5d58bed2e4368d91aadb":"228c2bf9dcb24c20453513f07b05e534","f5e20082a937559f89ebaab25bd28145":"be418de2f157d67947f9ac28b379f895","d29b4f3c5bca5ac6aecf594b74b8a391":"df2bc2616e586c0251731e40b7f615fd"}
+https://livetv.catchplay.com/bcde860c-1426-11f0-aef7-9a2246e728b9/ea762ea7-4899-4eea-8c94-1c19efd43536/984fcf82-9438-4a45-8a2a-b0cf3c749d1d/dash.mpd
+
+#EXTINF:-1 ,Ch 5 (HD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68789069812d49479a333c699931ac72:80b9ca05761a15a2243f8ff3897de476
+https://fta.singteltvgo.com/out/v1/447a44fdc4d345e18cb4d3c5f09f78bd/manifest.mpd
+
+#EXTINF:-1 ,Ch 5 (HD) FairPlay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55fffff5c4c6440f97191cff81ea8cee:7a45dffa55203597821c0e28d758a5c6
+https://fta.singteltvgo.com/out/v1/56d9134218dc4d4fb278731e7eabd20f/master.m3u8?aws.manifestfilter=video_bitrate:1000000-10000000
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-au.png",9
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 tvg-logo="",daser ste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-logo="", NICK JR - 直接返回500，tivimate正常
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"892299b521f459079ed7e955001296df":"b91001536b9f2cb39832f80001099a39","9164795855ef5c0dbb62cb2beefa0ad4":"3a6326cb209991811900dbfc41bf518a","18fff3d0b5c7592d9b37c37bdc020122":"9cbca9c544e54046addc609c4dcecd53"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/201_HTTP/__op/dash-default/__f/manifest.mpd
+
+#EXTINF:-1  tvg-id="TSN.3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png",TSN 3 - 很卡，对比Android播放器
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a256c0ac9b43aeadff36a2a2720d17:ba5bed8be5271bd0a0fad69a44b3de93
+https://stream.video.9c9media.com/MTc4MTY1NjcyM18yODM1Yzk3NWRkNTY4YjE1YmY1ZmU3N2JiODI5ZjJlNDk3Yzk4ZmJkZTNlYzk1NDFhNTY3OWJhN2QyMWM1NDQy/d/dls/tsndigi0203/manifest.mpd?stt=true&dolbyvision=false&mta=false&pnkh=MTc4MTY1NjcyM18yODM1Yzk3NWRkNTY4YjE1YmY1ZmU3N2JiODI5ZjJlNDk3Yzk4ZmJkZTNlYzk1NDFhNTY3OWJhN2QyMWM1NDQy&mca=false&filter=ff&u=li&mcv=false&hdr10=true&rpw=false
+
+#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NickJr100x100.png",Nickelodeon Junior - 法国难解锁，设置UA似乎不生效，tivimate正常
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/58.0.3029.110 Safari/537.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8be47aa1f029d2e0533b28450a08e5:50266aabebbea38b38f286ecc319515d
+https://ncdn-live-pctv.pfd.sfr.net/sdash/LIVE$NICKELODEONJUNIOR/index.mpd/Manifest.mpd?start=LIVE&end=END&device=dash_dyn_wide
+
+#EXTINF:-1 ,test hls FairPlay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={5159af0e8624f63c2bcf4f0a0d49e8d0:7691973a6bca1329be634da1ead2ddd5,568e74e7ce85d4426a1c110c71b1d934:e09c50378a7ec670d1877f677fdfd6eb}
+https://dfwlive-v2-c3p6-os.akamaized.net/Content/HLS.cps/Live/channel(FS2HD-5618.dfw.1080)/index.m3u8
