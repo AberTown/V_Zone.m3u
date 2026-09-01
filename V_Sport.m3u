@@ -12,3 +12,299 @@
 🇫🇷 
 🇮🇸
 🇫🇮
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Amazon",DSPORTS FHD 🇨🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+
+#EXTINF:-1 tvg-id="DSports2.us" tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="Amazon",DSPORTS 2 FHD 🇨🇴
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
+
+#EXTINF:-1 tvg-name="DSportsPlus.us" tvg-logo="https://i.ibb.co/0y0YCFyk/DSPORTS-PLUS.png" group-title="Amazon",DSPORTS + FHD 🇨🇴
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5983506f3f2e0b6df98fd1856adf45b6:d2ae7ea26cfdc61ba0f71771539ff87f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9bwnwl4oqk/out/v1/3fda5baf7b1b47e8b80ff18979d55b52/cenc.mpd
+
+#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Amazon",DSPORTS SD 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="DSports2.use" tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="Amazon",DSPORTS 2 SD 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="DSportsPlus.us" tvg-logo="https://i.ibb.co/0y0YCFyk/DSPORTS-PLUS.png" group-title="Amazon",DSPORTS + SD 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Amazon",DSPORTS FHD 🇨🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+
+#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Amazon",DSPORTS FHD 🇨🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="DSports.us" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Paramount+",DSPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
+
+#EXTINF:-1 tvg-id="DSports2.us" tvg-logo="https://i.ibb.co/7JcX24vF/DSPORTS2.png" group-title="Paramount+",DSPORTS 2 FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
+https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
+
+#EXTINF:-1 tvg-name="DSportsPlus.us" tvg-logo="https://i.ibb.co/0y0YCFyk/DSPORTS-PLUS.png" group-title="Paramount+",DSPORTS + FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
+https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
+
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.ibb.co/QvXMrcWW/BITME.png" group-title="Amazon",Bitme
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=391ad12844fdb7c127e2c7ba23582b3b:6c9b3103cd519fcad556e84f918998cd
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Amazon",Canal 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="Amazon",NNU9VE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79737d20a3eaa862f8cb77c61cb3b58c:41df11a0be44fd7272538728cec38bc6
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd
+
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA.pe" tvg-logo="https://i.ibb.co/gMghT0Yq/DISTRITO-COMEDIA.png" group-title="Amazon",Distrito Comedia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c73635de48c1033f60965175563af02:ac71c079e88f068aad80e947bac1b494
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/jainwiiq5g/out/v1/1094f5319566443cb6a9000810384a1a/cenc.mpd
+
+#EXTINF:-1 tvg-id="GOLDEN LATINO.pe" tvg-logo="https://i.ibb.co/nqYyVjLT/GOLDEN.png" group-title="Amazon",Golden
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
+
+#EXTINF:-1 tvg-id="GOLDEN EDGE.pe" tvg-logo="https://i.ibb.co/wNCYbtYp/GOLDEN-EDGE.png" group-title="Amazon",Golden Edge
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae4cbc34d4b1645f6c7b26410dde7b58:647478cd3bd0dfb3e820249296c23096
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd
+
+#EXTINF:-1 tvg-id="GOLDEN PLUS HD.ve" tvg-logo="https://i.ibb.co/j98ZY5gg/GOLDEN-PLUS.png" group-title="Amazon",Golden Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd
+
+#EXTINF:-1 tvg-id="Telehit.pe" tvg-logo="https://i.ibb.co/pjPqKBr1/TELEHIT.png" group-title="Amazon",Telehit
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8db29d65d8db2422cfadefec929cdc46:b96587a4e8237bc22a186114b25179da
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/69onjpmgph/out/v1/bffe5e192607426d850350fcb751674b/cenc.mpd
+
+#EXTINF:-1 tvg-id="TELEHIT MUSICA.pe" tvg-logo="https://i.ibb.co/4wmq0YHq/TELEHIT-MUSICA.png" group-title="Amazon",Telehit Música
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72072cc450719f120c9002b1bae31401:5777198adbd14c0416aa760249b91380
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/lv91k1unfv/out/v1/ab233dee5c6a40279e173e3497e36d21/cenc.mpd
+
+#EXTINF:-1 tvg-id="TELEHIT MUSICA PLUS.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="Amazon",Telehit Música Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ab26e2d1adc4e0b9e25b331d95bf1d1:a9c6763ccdb714dadd00d60903a4aa17
+https://abl3le6aaaaaaaammmsp3fgo4agzb.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f7jpwtuowu/out/v1/49b2bba643474563ac665c307e5e5306/cenc.mpd
+
+#EXTINF:-1 tvg-id="BANAMAX" tvg-logo="https://images.seeklogo.com/logo-png/39/2/bandamax-logo-png_seeklogo-399622.png" group-title="Amazon",BANDAMAX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42095c4a98de2d937e8dd9d59a0da424:8a4f2ab708e8af3daf9e5bf071f98d05
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/5wmhxwdb4l/out/v1/d7b375eb0f1c462f9090428cf2a1e132/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORT MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png" group-title="Amazon",FOX SPORT 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORT 2 MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png" group-title="Amazon",FOX SPORT 2 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORT 3 MEXICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png" group-title="Amazon",FOX SPORT 3 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="Amazon",FOX SPORT PREMIUM 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="Amazon",FOX DEPORTES 🇲🇽
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="VIX TUDN" tvg-logo="https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png" group-title="Amazon",VIX TUDN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg" group-title="Amazon",SPORTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg" group-title="Amazon",SPORTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg" group-title="Amazon",SPORTV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_1_HD._SL170_FMpng_.png" group-title="Zapi",EUROSPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
+
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Eurosport_2_HD_GB._SL170_FMpng_.png" group-title="Zapi",EUROSPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
+
+#EXTINF:-1 tvg-id="Telemundo al dia" tvg-logo="https://i.ibb.co/hJ9cjryv/T-AL-DIA.png" group-title="VPN USA",TELEMUNDO EL DIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020c328ae1c2bf1e151affe5d35150a:10b555c34cc053ade7ddf4095d2dcfd4
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc127fxuqc)/master.mpd
+
+#EXTINF:-1 tvg-id="Telemundo Chicago (WSNS)" tvg-logo="https://i.ibb.co/20SHH7nX/TELEMUNDO-CHICAGO.png" group-title="VPN USA",TELEMUNDO CHICAGO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="Telemundo Denver (KDEN)" tvg-logo="https://i.ibb.co/bRX337YD/TELEMUNDO-DENVER.png" group-title="VPN USA",TELEMUNDO DENVER
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a195c95880e37688286e0a6117a336f:e6cba1c52ebee16289775f5164daece7
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd
+
+#EXTINF:-1 tvg-id="Telemundo 52 (KVEA)" tvg-logo="https://i.ibb.co/KcvHrb8B/TELEMUNDO-CALIFORNIA.png" group-title="VPN USA",TELEMUNDO 52 CALIFORNIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-id="TELEMUNDO KASA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/KASA-TV_Telemundo_Nuevo_Mexico_logo.png" group-title="VPN USA",TELEMUNDO NUEVO MEXICO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a650504ba2f3f849c290b66a425f2d9:f9809d1b37c6eded90b4f5fbcc7eda26
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd
+
+#EXTINF:-1 tvg-id="TELEMUNDO DEPORTE AHORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Telemundo_Deportes_Logo.png" group-title="VPN USA",TELEMUNDO DEPORTE AHORA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=300b58dfdaf35e8537ce25c39e99aec7:6fc107a6f62f39da27b36ff079d7f937
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd
+
+#EXTINF:-1 tvg-id="Universo (West)" tvg-logo="https://i.ibb.co/99KrFvMC/UNIVERSO.png" group-title="VPN USA",UNIVERSO Este
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
+
+#EXTINF:-1 tvg-id="Universo (East)" tvg-logo="https://i.ibb.co/99KrFvMC/UNIVERSO.png" group-title="VPN USA",UNIVERSO Oeste
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="FS1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="USA",FS1 🇺🇸
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VGbr1wcEvetlfwq/PFyk7w","k":"vdebctjkjtSDqmI8w4qKFg"}],"type":"temporary"}
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+
+#EXTINF:-1 tvg-id="FS2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="USA",FS2 🇺🇸
+#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CUU86CDWX7xnXeMYX55FTA","k":"mM/5YAmV+jgcdv2s88ftrg"}],"type":"temporary"}
+https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.vhv.rs/dpng/d/524-5244555_fox-tv-logo-png-fox-channel-logo-vector.png" group-title="USA",FOX 4K 🇺🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.vhv.rs/dpng/d/524-5244555_fox-tv-logo-png-fox-channel-logo-vector.png" group-title="USA",FOX 4K 🇺🇸
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
