@@ -12,3 +12,796 @@
 🇫🇷 
 🇮🇸
 🇫🇮
+#EXTM3U name="SM IPTV - Refined Live Sports Events"
+# Category: Live Sports Events
+# Updated: 2026-10-28 14:30:46 UTC
+
+#EXTINF:-1 tvg-id="live_golf_evento_vs_golf_evento_golf_channel" tvg-name="[Live] GOLF EVENTO Vs GOLF EVENTO - Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s" group-title="live_sports",[Live] GOLF EVENTO Vs GOLF EVENTO - Golf Channel
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="live_golf_evento_vs_golf_evento_golf_pga_baycurrent_classic_use_vpn" tvg-name="[Live] GOLF EVENTO Vs GOLF EVENTO - Golf PGA Baycurrent Classic (USE VPN)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] GOLF EVENTO Vs GOLF EVENTO - Golf PGA Baycurrent Classic (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/CTTTT.m3u8
+#EXTINF:-1 tvg-id="live_golf_evento_vs_golf_evento_golf_open_de_espana" tvg-name="[Live] GOLF EVENTO Vs GOLF EVENTO - Golf Open de Espana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] GOLF EVENTO Vs GOLF EVENTO - Golf Open de Espana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/CTTTT.m3u8
+#EXTINF:-1 tvg-id="live_south_africa_vs_australia_willow" tvg-name="[Live] South Africa Vs Australia - WILLOW" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="live_sports",[Live] South Africa Vs Australia - WILLOW
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cqpsmp3hvg/out/v1/9e9f972a0244430f880cee85c6addb7d/cenc.mpd
+#EXTINF:-1 tvg-id="live_south_africa_vs_australia_fancode" tvg-name="[Live] South Africa Vs Australia - FANCODE" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="live_sports",[Live] South Africa Vs Australia - FANCODE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="live_south_africa_vs_australia_willow_sports" tvg-name="[Live] South Africa Vs Australia - WILLOW SPORTS" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="live_sports",[Live] South Africa Vs Australia - WILLOW SPORTS (Server 1 (FHD))
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
+#EXTINF:-1 tvg-id="live_south_africa_vs_australia_willow_sports" tvg-name="[Live] South Africa Vs Australia - WILLOW SPORTS" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="live_sports",[Live] South Africa Vs Australia - WILLOW SPORTS (Server 2 (HD))
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="live_south_africa_vs_australia_willow_alt" tvg-name="[Live] South Africa Vs Australia - WILLOW - ALT" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="live_sports",[Live] South Africa Vs Australia - WILLOW - ALT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
+#EXTINF:-1 tvg-id="live_south_africa_vs_australia_sky_cricket" tvg-name="[Live] South Africa Vs Australia - SKY CRICKET" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="live_sports" http-user-agent="Mozilla",[Live] South Africa Vs Australia - SKY CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-id="live_south_africa_vs_australia_low_quality_use_vpn" tvg-name="[Live] South Africa Vs Australia - LOW QUALITY (USE VPN)" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] South Africa Vs Australia - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/XAXAXAAX.m3u8
+#EXTINF:-1 tvg-id="live_sports_live_vs_sports_live_nfl_server" tvg-name="[Live] SPORTS LIVE Vs SPORTS LIVE - NFL SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10" group-title="live_sports",[Live] SPORTS LIVE Vs SPORTS LIVE - NFL SERVER
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd
+#EXTINF:-1 tvg-id="live_darts_pdc_vs_darts_pdc_darts_players_championship_31" tvg-name="[Live] DARTS PDC Vs DARTS PDC - Darts Players Championship 31" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/751/image" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] DARTS PDC Vs DARTS PDC - Darts Players Championship 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/JRRRAAAA.m3u8
+#EXTINF:-1 tvg-id="live_india_women_vs_zimbabwe_women_willow" tvg-name="[Live] India Women Vs Zimbabwe Women - WILLOW" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="live_sports",[Live] India Women Vs Zimbabwe Women - WILLOW
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2058d5339704f2e7313fef30cb0d505d:d25e0448f0a7e71f9c426d0b0a51cfcd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd
+#EXTINF:-1 tvg-id="live_india_women_vs_zimbabwe_women_tnt2uk_sports" tvg-name="[Live] India Women Vs Zimbabwe Women - TNT2UK SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] India Women Vs Zimbabwe Women - TNT2UK SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-id="live_india_women_vs_zimbabwe_women_willow_alt" tvg-name="[Live] India Women Vs Zimbabwe Women - WILLOW ALT" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="live_sports",[Live] India Women Vs Zimbabwe Women - WILLOW ALT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2058d5339704f2e7313fef30cb0d505d:d25e0448f0a7e71f9c426d0b0a51cfcd
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd
+#EXTINF:-1 tvg-id="live_india_women_vs_zimbabwe_women_sky_sport_nz" tvg-name="[Live] India Women Vs Zimbabwe Women - SKY SPORT NZ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="live_sports",[Live] India Women Vs Zimbabwe Women - SKY SPORT NZ
+https://admin2.formaturamaxi.com.br/sky3.m3u8
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_dazn_sports" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - DAZN SPORTS" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - DAZN SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=46ae17976916b648017d82fae87c0f0b:65769019a7e72cb73e287c6da368c4c2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umirijq8jr/out/v1/202ef6f729f14728b7f4bc285014916d/cenc.mpd
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_bein1_sports" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - BeIN1 SPORTS" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - BeIN1 SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_spotv" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - SPOTV" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - SPOTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_tsn4_sports" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TSN4 SPORTS" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TSN4 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_bein2_sports" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - BeIN2 SPORTS" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - BeIN2 SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_tennis_sports" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS + SPORTS" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS + SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=8W3-qi6L4hzOhynVnQ1rXw&e=2075285627&scheme=https
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_tennis" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS +" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS +
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_tennis_plus" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS PLUS" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TENNIS PLUS
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_bein3_sports" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - BEIN3 SPORTS" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - BEIN3 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_tsn3_sports" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TSN3 SPORTS" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - TSN3 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+#EXTINF:-1 tvg-id="live_tennis_evento_vs_tennis_evento_low_quality_use_vpn" tvg-name="[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - LOW QUALITY (USE VPN)" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] TENNIS | EVENTO Vs TENNIS | EVENTO - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.50/hls/BUUU.m3u8
+#EXTINF:-1 tvg-id="live_npl_vs_npl_star_sports" tvg-name="[Live] NPL Vs NPL - STAR SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10" group-title="live_sports",[Live] NPL Vs NPL - STAR SPORTS
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="live_npl_vs_npl_fancode" tvg-name="[Live] NPL Vs NPL - FANCODE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] NPL Vs NPL - FANCODE (Server 1 (FHD))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="live_npl_vs_npl_fancode" tvg-name="[Live] NPL Vs NPL - FANCODE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10" group-title="live_sports",[Live] NPL Vs NPL - FANCODE (Server 2 (SD))
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#EXTINF:-1 tvg-id="live_npl_vs_npl_fancode2" tvg-name="[Live] NPL Vs NPL - FANCODE2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10" group-title="live_sports",[Live] NPL Vs NPL - FANCODE2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-id="live_npl_vs_npl_fancode_ind" tvg-name="[Live] NPL Vs NPL - FANCODE (IND)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10" group-title="live_sports" http-user-agent="ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1" http-referrer="https://fancode.com/",[Live] NPL Vs NPL - FANCODE (IND)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="live_bangladesh_vs_west_indies_fancode" tvg-name="[Live] Bangladesh Vs West Indies - FANCODE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Bangladesh Vs West Indies - FANCODE (Server 1 (FHD))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-id="live_bangladesh_vs_west_indies_fancode" tvg-name="[Live] Bangladesh Vs West Indies - FANCODE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="live_sports",[Live] Bangladesh Vs West Indies - FANCODE (Server 2 (HD))
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#EXTINF:-1 tvg-id="live_bangladesh_vs_west_indies_t_sports" tvg-name="[Live] Bangladesh Vs West Indies - T SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="live_sports",[Live] Bangladesh Vs West Indies - T SPORTS
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="live_bangladesh_vs_west_indies_rabbithole" tvg-name="[Live] Bangladesh Vs West Indies - RABBITHOLE" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="live_sports",[Live] Bangladesh Vs West Indies - RABBITHOLE
+https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793163608~exp=1793192468~acl=/bpk-tv/202/default/*~eti=fa5c4cfd542424a6997eeb9a23402d68~sid=bd517d501743ba42~imax=2~hmac=a93e35b6ba5cd2b8f875372fdddac209b26195fd898d8aacdb59621bf0359000/bpk-tv/202/default/index.m3u8
+#EXTINF:-1 tvg-id="live_gol_gohar_sirjan_vs_arkadag_fk_stream_tv" tvg-name="[Live] Gol Gohar Sirjan Vs Arkadag FK - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Gol Gohar Sirjan Vs Arkadag FK - STREAM TV +
+http://162.251.160.53:8089/1499/index.m3u8
+#EXTINF:-1 tvg-id="live_gol_gohar_sirjan_vs_arkadag_fk_low_quality_use_vpn" tvg-name="[Live] Gol Gohar Sirjan Vs Arkadag FK - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Gol Gohar Sirjan Vs Arkadag FK - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/I000AAAAQQ.m3u8
+#EXTINF:-1 tvg-id="live_persib_bandung_vs_melbourne_victory_quality" tvg-name="[Live] Persib Bandung Vs Melbourne Victory - QUALITY" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports" http-referrer="https://player.on8on8.com/",[Live] Persib Bandung Vs Melbourne Victory - QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621359.m3u8?txSecret=2be3492013d5b021a19e9aaca5a61887&txTime=6AE1F5F6
+#EXTINF:-1 tvg-id="live_persib_bandung_vs_melbourne_victory_stream_tv" tvg-name="[Live] Persib Bandung Vs Melbourne Victory - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Persib Bandung Vs Melbourne Victory - STREAM TV +
+http://162.251.160.53:8089/1244/index.m3u8
+#EXTINF:-1 tvg-id="live_persib_bandung_vs_melbourne_victory_low_quality_use_vpn" tvg-name="[Live] Persib Bandung Vs Melbourne Victory - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Persib Bandung Vs Melbourne Victory - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/JRRRA.m3u8
+#EXTINF:-1 tvg-id="live_persib_bandung_vs_melbourne_victory_quality_2" tvg-name="[Live] Persib Bandung Vs Melbourne Victory - QUALITY 2" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports" http-referrer="https://xlz.domainkqt.cc/",[Live] Persib Bandung Vs Melbourne Victory - QUALITY 2
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel2.m3u8?
+#EXTINF:-1 tvg-id="live_nasaf_qarshi_vs_al_kuwait_sc_stream_tv" tvg-name="[Live] Nasaf Qarshi Vs Al Kuwait SC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Nasaf Qarshi Vs Al Kuwait SC - STREAM TV +
+http://162.251.160.53:8089/1366/index.m3u8
+#EXTINF:-1 tvg-id="live_nasaf_qarshi_vs_al_kuwait_sc_low_quality_use_vpn" tvg-name="[Live] Nasaf Qarshi Vs Al Kuwait SC - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Nasaf Qarshi Vs Al Kuwait SC - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/I000AAAAQQQ.m3u8
+#EXTINF:-1 tvg-id="live_the_cong_viettel_vs_fc_seoul_quality" tvg-name="[Live] Thể Công - Viettel Vs FC Seoul - QUALITY" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports" http-referrer="https://player.on8on8.com/",[Live] Thể Công - Viettel Vs FC Seoul - QUALITY
+#EXTVLCOPT:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621355.m3u8?txSecret=b5a762dd09852601bb0c2527d59ef16b&txTime=6AE1F5C8
+#EXTINF:-1 tvg-id="live_the_cong_viettel_vs_fc_seoul_stream_tv" tvg-name="[Live] Thể Công - Viettel Vs FC Seoul - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Thể Công - Viettel Vs FC Seoul - STREAM TV +
+http://162.251.160.53:8089/1033/index.m3u8
+#EXTINF:-1 tvg-id="live_the_cong_viettel_vs_fc_seoul_low_quality_use_vpn" tvg-name="[Live] Thể Công - Viettel Vs FC Seoul - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Thể Công - Viettel Vs FC Seoul - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/JRRRAA.m3u8
+#EXTINF:-1 tvg-id="live_the_cong_viettel_vs_fc_seoul_quality_2" tvg-name="[Live] Thể Công - Viettel Vs FC Seoul - QUALITY 2" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports" http-referrer="https://xlz.domainkqt.cc/",[Live] Thể Công - Viettel Vs FC Seoul - QUALITY 2
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel11.m3u8?
+#EXTINF:-1 tvg-id="live_fc_goa_vs_sporting_delhi_prime_video" tvg-name="[Live] FC Goa Vs Sporting Delhi - PRIME VIDEO" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark" group-title="live_sports",[Live] FC Goa Vs Sporting Delhi - PRIME VIDEO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08027012b8503449b674c090b486a313:e6109941ae6fcc32db5611870764fc59
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjl5sfdstk/out/v1/02ec949abe974874818496a14f5a0c2d/cenc.mpd
+#EXTINF:-1 tvg-id="live_fc_goa_vs_sporting_delhi_low_quality_use_vpn" tvg-name="[Live] FC Goa Vs Sporting Delhi - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] FC Goa Vs Sporting Delhi - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/I000AAAAQQQA.m3u8
+#EXTINF:-1 tvg-id="live_womens_ipl_auctions_vs_womens_ipl_auctions_willow_sports" tvg-name="[Live] WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS - WILLOW SPORTS" tvg-logo="https://dypu-stadium-cms.dypatil.edu/wp-content/uploads/2025/12/538605bc7a5f54829cc36ca05affe81d.jpg" group-title="live_sports",[Live] WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS - WILLOW SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="live_womens_ipl_auctions_vs_womens_ipl_auctions_server" tvg-name="[Live] WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS - SERVER" tvg-logo="https://dypu-stadium-cms.dypatil.edu/wp-content/uploads/2025/12/538605bc7a5f54829cc36ca05affe81d.jpg" group-title="live_sports",[Live] WOMEN'S IPL AUCTIONS Vs WOMEN'S IPL AUCTIONS - SERVER
+https://admin2.formaturamaxi.com.br/sky1.m3u8
+#EXTINF:-1 tvg-id="live_caf_champions_league_draw_vs_caf_champions_league_draw_link_1" tvg-name="[Live] CAF Champions League Draw Vs CAF Champions League Draw - Link 1" tvg-logo="https://pbs.twimg.com/profile_images/1986380387874926592/BupvxFYG_400x400.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] CAF Champions League Draw Vs CAF Champions League Draw - Link 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.50/hls/abbbaaaA.m3u8
+#EXTINF:-1 tvg-id="live_caf_champions_league_draw_vs_caf_champions_league_draw_low_quality_use_vpn" tvg-name="[Live] CAF Champions League Draw Vs CAF Champions League Draw - LOW QUALITY (USE VPN)" tvg-logo="https://pbs.twimg.com/profile_images/1986380387874926592/BupvxFYG_400x400.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] CAF Champions League Draw Vs CAF Champions League Draw - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.50/hls/abbbaaaA.m3u8
+#EXTINF:-1 tvg-id="live_kakamega_homeboyz_vs_gor_mahia_link_1" tvg-name="[Live] Kakamega Homeboyz Vs Gor Mahia - Link 1" tvg-logo="https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Kakamega Homeboyz Vs Gor Mahia - Link 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.55/hls/abbbaaa.m3u8
+#EXTINF:-1 tvg-id="live_mara_sugar_vs_leopards_link_1" tvg-name="[Live] Mara Sugar Vs Leopards - Link 1" tvg-logo="https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Mara Sugar Vs Leopards - Link 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.55/hls/abbbaaa.m3u8
+#EXTINF:-1 tvg-id="live_tampa_bay_rays_vs_milwaukee_brewers_tnt1uk_sports" tvg-name="[Live] Tampa Bay Rays Vs Milwaukee Brewers - TNT1UK SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Tampa Bay Rays Vs Milwaukee Brewers - TNT1UK SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="live_tampa_bay_rays_vs_milwaukee_brewers_fox_deportes" tvg-name="[Live] Tampa Bay Rays Vs Milwaukee Brewers - FOX DEPORTES" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="live_sports",[Live] Tampa Bay Rays Vs Milwaukee Brewers - FOX DEPORTES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#EXTINF:-1 tvg-id="live_tampa_bay_rays_vs_milwaukee_brewers_quality_1" tvg-name="[Live] Tampa Bay Rays Vs Milwaukee Brewers - QUALITY 1" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="live_sports" http-referrer="https://gooz.aapmains.net",[Live] Tampa Bay Rays Vs Milwaukee Brewers - QUALITY 1
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58755/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="live_tampa_bay_rays_vs_milwaukee_brewers_quality_2" tvg-name="[Live] Tampa Bay Rays Vs Milwaukee Brewers - QUALITY 2" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="live_sports" http-referrer="https://gooz.aapmains.net",[Live] Tampa Bay Rays Vs Milwaukee Brewers - QUALITY 2
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58759/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="live_tampa_bay_rays_vs_milwaukee_brewers_low_quality_use_vpn" tvg-name="[Live] Tampa Bay Rays Vs Milwaukee Brewers - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Tampa Bay Rays Vs Milwaukee Brewers - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/nnnnaAA.m3u8
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_tsn5_sports" tvg-name="[Live] Formula 1 Vs Formula 1 - TSN5 SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Formula 1 Vs Formula 1 - TSN5 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_fancode" tvg-name="[Live] Formula 1 Vs Formula 1 - FANCODE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Formula 1 Vs Formula 1 - FANCODE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_sportv3_br" tvg-name="[Live] Formula 1 Vs Formula 1 - SporTV3 BR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports",[Live] Formula 1 Vs Formula 1 - SporTV3 BR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_tsn2_sports" tvg-name="[Live] Formula 1 Vs Formula 1 - TSN2 SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Formula 1 Vs Formula 1 - TSN2 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_formula_tv" tvg-name="[Live] Formula 1 Vs Formula 1 - FORMULA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports",[Live] Formula 1 Vs Formula 1 - FORMULA TV
+https://temp.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_formula" tvg-name="[Live] Formula 1 Vs Formula 1 - FORMULA +" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports" http-referrer="https://gooz.aapmains.net",[Live] Formula 1 Vs Formula 1 - FORMULA +
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58439/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_tsn1_sports" tvg-name="[Live] Formula 1 Vs Formula 1 - TSN1 SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Formula 1 Vs Formula 1 - TSN1 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_formula_1_gp_usa" tvg-name="[Live] Formula 1 Vs Formula 1 - Formula 1 GP USA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Formula 1 Vs Formula 1 - Formula 1 GP USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/ATTT.m3u8
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_quality" tvg-name="[Live] Formula 1 Vs Formula 1 - QUALITY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports" http-referrer="https://streamscenter.online/",[Live] Formula 1 Vs Formula 1 - QUALITY
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_sky_f1_italia_it" tvg-name="[Live] Formula 1 Vs Formula 1 - SKY F1 Italia [IT]" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports",[Live] Formula 1 Vs Formula 1 - SKY F1 Italia [IT]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08
+https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791088034_f~0_g~1_s~2aa71a64-9a1e-470d-a104-24c2be9656fc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~dae629d427e5eb3f6d206f4c0586a1d8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
+#EXTINF:-1 tvg-id="live_formula_1_vs_formula_1_quality_use_vpn" tvg-name="[Live] Formula 1 Vs Formula 1 - QUALITY (USE VPN)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Formula 1 Vs Formula 1 - QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/ATTT.m3u8
+#EXTINF:-1 tvg-id="live_one_friday_fights_vs_one_friday_fights_server_1" tvg-name="[Live] One Friday Fights Vs One Friday Fights - Server 1" tvg-logo="https://i.ibb.co/qfjhxpT/20260313-084834.png" group-title="live_sports",[Live] One Friday Fights Vs One Friday Fights - Server 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+#EXTINF:-1 tvg-id="live_one_friday_fights_vs_one_friday_fights_server_2" tvg-name="[Live] One Friday Fights Vs One Friday Fights - Server 2" tvg-logo="https://i.ibb.co/qfjhxpT/20260313-084834.png" group-title="live_sports",[Live] One Friday Fights Vs One Friday Fights - Server 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTINF:-1 tvg-id="live_one_friday_fights_vs_one_friday_fights_server_3" tvg-name="[Live] One Friday Fights Vs One Friday Fights - Server 3" tvg-logo="https://i.ibb.co/qfjhxpT/20260313-084834.png" group-title="live_sports",[Live] One Friday Fights Vs One Friday Fights - Server 3
+https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="live_one_friday_fights_vs_one_friday_fights_mma_fighting" tvg-name="[Live] One Friday Fights Vs One Friday Fights - MMA Fighting" tvg-logo="https://i.ibb.co/qfjhxpT/20260313-084834.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] One Friday Fights Vs One Friday Fights - MMA Fighting
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/ASSSA.m3u8
+#EXTINF:-1 tvg-id="live_motorgp_vs_motorgp_tnt2uk_sports" tvg-name="[Live] MotorGP Vs MotorGP - TNT2UK SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] MotorGP Vs MotorGP - TNT2UK SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-id="live_motorgp_vs_motorgp_fancode1" tvg-name="[Live] MotorGP Vs MotorGP - FANCODE1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] MotorGP Vs MotorGP - FANCODE1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-id="live_motorgp_vs_motorgp_motogp" tvg-name="[Live] MotorGP Vs MotorGP - MotoGP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] MotorGP Vs MotorGP - MotoGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-id="live_motorgp_vs_motorgp_sp0tv" tvg-name="[Live] MotorGP Vs MotorGP - SP0TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10" group-title="live_sports",[Live] MotorGP Vs MotorGP - SP0TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-id="live_motorgp_vs_motorgp_streaming" tvg-name="[Live] MotorGP Vs MotorGP - STREAMING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" http-referrer="https://embedcenter.st",[Live] MotorGP Vs MotorGP - STREAMING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8
+#EXTINF:-1 tvg-id="live_motorgp_vs_motorgp_low_quality_use_vpn" tvg-name="[Live] MotorGP Vs MotorGP - LOW QUALITY (USE VPN)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] MotorGP Vs MotorGP - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.59/hls/fddd.m3u8
+#EXTINF:-1 tvg-id="live_aew_night_dynamite_vs_aew_night_dynamite_tsn2_sports" tvg-name="[Live] AEW Night Dynamite Vs AEW Night Dynamite - TSN2 SPORTS" tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] AEW Night Dynamite Vs AEW Night Dynamite - TSN2 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="live_aew_night_dynamite_vs_aew_night_dynamite_fox_sports" tvg-name="[Live] AEW Night Dynamite Vs AEW Night Dynamite - FOX SPORTS" tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="live_sports",[Live] AEW Night Dynamite Vs AEW Night Dynamite - FOX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 tvg-id="live_aew_night_dynamite_vs_aew_night_dynamite_aew_tv" tvg-name="[Live] AEW Night Dynamite Vs AEW Night Dynamite - AEW TV" tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="live_sports",[Live] AEW Night Dynamite Vs AEW Night Dynamite - AEW TV
+https://admin2.formaturamaxi.com.br/aew.m3u8
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_willow" tvg-name="[Live] New Zealand Vs India - WILLOW" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - WILLOW
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojpgrthnnt/out/v1/52619efcaa3e473295a6fd19dd6e9437/cenc.mpd
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_prime_video_hindi" tvg-name="[Live] New Zealand Vs India - PRIME VIDEO (HINDI)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] New Zealand Vs India - PRIME VIDEO (HINDI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dcd41b8ecbc6d0182037e457e2baec9:14a48156510444cc189cdf12c1249670
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ot99hqbbfg/out/v1/d5879616029b431698a8c9446cbe58ec/cenc.mpd
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_prime_video" tvg-name="[Live] New Zealand Vs India - PRIME VIDEO" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - PRIME VIDEO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f61a0f45500e86607d1467ac70431693:41649554b2a83f221406756debfe3834
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2vxov52ggv/out/v1/03bd0dcf1ca649d7a659460fbc80b5d4/cenc.mpd
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_tnt1uk_sports" tvg-name="[Live] New Zealand Vs India - TNT1UK SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] New Zealand Vs India - TNT1UK SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_willow_alt" tvg-name="[Live] New Zealand Vs India - WILLOW ALT" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - WILLOW ALT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1ee06e6e306aa92e9a4658f739a1596:b993e1f264c6a637cd28427242f5f967
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojpgrthnnt/out/v1/52619efcaa3e473295a6fd19dd6e9437/cenc.mpd
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_cricbuzz" tvg-name="[Live] New Zealand Vs India - CRICBUZZ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - CRICBUZZ
+https://baila-lentoo.pages.dev/all-sp/809382.m3u8
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_sonyliv_eng" tvg-name="[Live] New Zealand Vs India - SonyLiv (ENG)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - SonyLiv (ENG)
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_sonyliv_hin" tvg-name="[Live] New Zealand Vs India - SonyLiv (HIN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - SonyLiv (HIN)
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2710/HIN/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_sonyliv_tel" tvg-name="[Live] New Zealand Vs India - SonyLiv (TEL)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - SonyLiv (TEL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99ce7c4be7222f0c0760734bb1a7c726:9c2f0502932c19e0ccd9c8acc5c7790e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_sonyliv_kan" tvg-name="[Live] New Zealand Vs India - SonyLiv (KAN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - SonyLiv (KAN)
+https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2710/KAN/master.m3u8?hdnea=exp=1793124330~acl=/*~id=92700586578524262167226729372510~hmac=ccea0e6cefbfd68b58ce25a9bd75bf6d76e51a4621e64b15c863b5382899088a
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_sonyliv_tam" tvg-name="[Live] New Zealand Vs India - SonyLiv (TAM)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - SonyLiv (TAM)
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2119951/cricodi_2710/TAM/master.m3u8?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_sonyliv_hin_ind" tvg-name="[Live] New Zealand Vs India - SonyLiv HIN (IND)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports",[Live] New Zealand Vs India - SonyLiv HIN (IND)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1793068771~exp=1793090371~acl=/*~hmac=8dd4fe420043a06d09b30ae20521670a093df5522614b8d836ac549088b95871
+#EXTINF:-1 tvg-id="live_new_zealand_vs_india_prime_telugu" tvg-name="[Live] New Zealand Vs India - PRIME TELUGU +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] New Zealand Vs India - PRIME TELUGU +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99ce7c4be7222f0c0760734bb1a7c726:9c2f0502932c19e0ccd9c8acc5c7790e
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/dwurwq3gqy/out/v1/cad9647fdbd64c08afb4ebfb1390768c/cenc.mpd
+#EXTINF:-1 tvg-id="live_monza_vs_ssc_napoli_tnt1uk_sports" tvg-name="[Live] Monza Vs SSC Napoli - TNT1UK SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Monza Vs SSC Napoli - TNT1UK SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="live_monza_vs_ssc_napoli_sport1_cz" tvg-name="[Live] Monza Vs SSC Napoli - SPORT1 CZ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="live_sports",[Live] Monza Vs SSC Napoli - SPORT1 CZ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="live_genoa_vs_juventus_sport2_tv_cz" tvg-name="[Live] Genoa Vs Juventus - SPORT2 TV CZ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="live_sports",[Live] Genoa Vs Juventus - SPORT2 TV CZ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="live_ac_milan_vs_bologna_tnt1uk_sports" tvg-name="[Live] AC Milan Vs Bologna - TNT1UK SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] AC Milan Vs Bologna - TNT1UK SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="live_ac_milan_vs_bologna_sport2_tv_cz" tvg-name="[Live] AC Milan Vs Bologna - SPORT2 TV CZ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="live_sports",[Live] AC Milan Vs Bologna - SPORT2 TV CZ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="live_venezia_vs_inter_sport1_cz" tvg-name="[Live] Venezia Vs Inter - SPORT1 CZ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="live_sports",[Live] Venezia Vs Inter - SPORT1 CZ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="live_al_faisaly_sc_vs_al_taawoun_stream_tv" tvg-name="[Live] Al Faisaly SC Vs Al-Taawoun - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Al Faisaly SC Vs Al-Taawoun - STREAM TV +
+http://162.251.160.53:8089/1033/index.m3u8
+#EXTINF:-1 tvg-id="live_al_khaldiya_vs_al_wahda_fc_stream_tv" tvg-name="[Live] Al Khaldiya Vs Al-Wahda FC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Al Khaldiya Vs Al-Wahda FC - STREAM TV +
+http://162.251.160.53:8089/1244/index.m3u8
+#EXTINF:-1 tvg-id="live_adelaide_united_vs_lion_city_sailors_stream_tv" tvg-name="[Live] Adelaide United Vs Lion City Sailors - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Adelaide United Vs Lion City Sailors - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_manchester_city_vs_brighton_hove_albion_bein2_sports" tvg-name="[Live] Manchester City Vs Brighton & Hove Albion - BeIN2 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="live_sports",[Live] Manchester City Vs Brighton & Hove Albion - BeIN2 SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-id="live_liverpool_fc_vs_chelsea_bein3_sports" tvg-name="[Live] Liverpool FC Vs Chelsea - BEIN3 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Liverpool FC Vs Chelsea - BEIN3 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="live_liverpool_fc_vs_chelsea_sport2_tv_cz" tvg-name="[Live] Liverpool FC Vs Chelsea - SPORT2 TV CZ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="live_sports",[Live] Liverpool FC Vs Chelsea - SPORT2 TV CZ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="live_bournemouth_vs_aston_villa_cbs_sports" tvg-name="[Live] Bournemouth Vs Aston Villa - CBS SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" http-referrer="https://amazon.com",[Live] Bournemouth Vs Aston Villa - CBS SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://amazon.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="live_sc_paderborn_07_vs_vfb_stuttgart_stream_tv" tvg-name="[Live] SC Paderborn 07 Vs VfB Stuttgart - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="live_sports",[Live] SC Paderborn 07 Vs VfB Stuttgart - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_holstein_kiel_vs_tsg_hoffenheim_stream_tv" tvg-name="[Live] Holstein Kiel Vs TSG Hoffenheim - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="live_sports",[Live] Holstein Kiel Vs TSG Hoffenheim - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_ssv_jeddeloh_ii_vs_hertha_bsc_stream_tv" tvg-name="[Live] SSV Jeddeloh II Vs Hertha BSC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="live_sports",[Live] SSV Jeddeloh II Vs Hertha BSC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_bayer_04_leverkusen_vs_1_fc_nurnberg_stream_tv" tvg-name="[Live] Bayer 04 Leverkusen Vs 1. FC Nürnberg - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="live_sports",[Live] Bayer 04 Leverkusen Vs 1. FC Nürnberg - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_sc_freiburg_vs_vfl_wolfsburg_stream_tv" tvg-name="[Live] SC Freiburg Vs VfL Wolfsburg - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="live_sports",[Live] SC Freiburg Vs VfL Wolfsburg - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_fc_bayern_munchen_vs_1_fc_magdeburg_stream_tv" tvg-name="[Live] FC Bayern München Vs 1. FC Magdeburg - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="live_sports",[Live] FC Bayern München Vs 1. FC Magdeburg - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_hannover_96_vs_1_fc_kaiserslautern_stream_tv" tvg-name="[Live] Hannover 96 Vs 1. FC Kaiserslautern - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="live_sports",[Live] Hannover 96 Vs 1. FC Kaiserslautern - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_sg_dynamo_dresden_vs_fc_schalke_04_stream_tv" tvg-name="[Live] SG Dynamo Dresden Vs FC Schalke 04 - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="live_sports",[Live] SG Dynamo Dresden Vs FC Schalke 04 - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_pamplona_vs_eibar_stream_tv" tvg-name="[Live] Pamplona Vs Eibar - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Pamplona Vs Eibar - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_club_portugalete_vs_real_union_club_stream_tv" tvg-name="[Live] Club Portugalete Vs Real Unión Club - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Club Portugalete Vs Real Unión Club - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_cd_anaitasuna_ft_vs_deportivo_alaves_stream_tv" tvg-name="[Live] CD Anaitasuna FT Vs Deportivo Alavés - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] CD Anaitasuna FT Vs Deportivo Alavés - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_cd_tarancon_vs_levante_ud_stream_tv" tvg-name="[Live] CD Tarancón Vs Levante UD - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] CD Tarancón Vs Levante UD - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_coruxo_fc_vs_zamora_cf_stream_tv" tvg-name="[Live] Coruxo FC Vs Zamora CF - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Coruxo FC Vs Zamora CF - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_cd_covadonga_vs_real_valladolid_stream_tv" tvg-name="[Live] CD Covadonga Vs Real Valladolid - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] CD Covadonga Vs Real Valladolid - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_cd_alcoyano_vs_mallorca_stream_tv" tvg-name="[Live] CD Alcoyano Vs Mallorca - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] CD Alcoyano Vs Mallorca - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_cd_badajoz_vs_cd_tenerife_stream_tv" tvg-name="[Live] CD Badajoz Vs CD Tenerife - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] CD Badajoz Vs CD Tenerife - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_pena_sport_fc_vs_huesca_stream_tv" tvg-name="[Live] Peña Sport FC Vs Huesca - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Peña Sport FC Vs Huesca - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_ud_poblense_vs_ad_ceuta_stream_tv" tvg-name="[Live] UD Poblense Vs AD Ceuta - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] UD Poblense Vs AD Ceuta - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_utebo_fc_vs_ce_sabadell_stream_tv" tvg-name="[Live] Utebo FC Vs CE Sabadell - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Utebo FC Vs CE Sabadell - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_numancia_vs_real_oviedo_stream_tv" tvg-name="[Live] Numancia Vs Real Oviedo - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Numancia Vs Real Oviedo - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_calvo_sotelo_puertollano_vs_albacete_balompie_stream_tv" tvg-name="[Live] Calvo Sotelo Puertollano Vs Albacete Balompié - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Calvo Sotelo Puertollano Vs Albacete Balompié - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_amorebieta_vs_ud_logrones_stream_tv" tvg-name="[Live] Amorebieta Vs UD Logroñés - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Amorebieta Vs UD Logroñés - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_cp_mijas_las_lagunas_vs_real_jaen_stream_tv" tvg-name="[Live] Cp Mijas-Las Lagunas Vs Real Jaén - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Cp Mijas-Las Lagunas Vs Real Jaén - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_cd_cieza_vs_granada_stream_tv" tvg-name="[Live] CD Cieza Vs Granada - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] CD Cieza Vs Granada - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_trival_valderas_alcorcon_vs_leganes_stream_tv" tvg-name="[Live] Trival Valderas Alcorcón Vs Leganés - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Trival Valderas Alcorcón Vs Leganés - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_deportiva_minera_vs_fc_cartagena_stream_tv" tvg-name="[Live] Deportiva Minera Vs FC Cartagena - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Deportiva Minera Vs FC Cartagena - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_ue_tavernes_vs_valencia_stream_tv" tvg-name="[Live] UE Tavernes Vs Valencia - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] UE Tavernes Vs Valencia - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_cda_navalcarnero_vs_real_betis_stream_tv" tvg-name="[Live] CDA Navalcarnero Vs Real Betis - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] CDA Navalcarnero Vs Real Betis - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_gimnastica_torrelavega_vs_union_deportiva_ourense_stream_tv" tvg-name="[Live] Gimnástica Torrelavega Vs Unión Deportiva Ourense - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Gimnástica Torrelavega Vs Unión Deportiva Ourense - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_xerez_cd_vs_cadiz_stream_tv" tvg-name="[Live] Xerez CD Vs Cádiz - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Xerez CD Vs Cádiz - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_salamanca_uds_vs_celta_vigo_stream_tv" tvg-name="[Live] Salamanca UDS Vs Celta Vigo - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Salamanca UDS Vs Celta Vigo - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_reus_fc_reddis_vs_barakaldo_cf_stream_tv" tvg-name="[Live] Reus FC Reddis Vs Barakaldo CF - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="live_sports",[Live] Reus FC Reddis Vs Barakaldo CF - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_ol_lyonnes_vs_inter_stream_tv" tvg-name="[Live] OL Lyonnes Vs Inter - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="live_sports",[Live] OL Lyonnes Vs Inter - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_chelsea_fc_vs_as_roma_stream_tv" tvg-name="[Live] Chelsea FC Vs AS Roma - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="live_sports",[Live] Chelsea FC Vs AS Roma - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_arsenal_vs_benfica_stream_tv" tvg-name="[Live] Arsenal Vs Benfica - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="live_sports",[Live] Arsenal Vs Benfica - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_fc_bayern_munchen_vs_real_madrid_stream_tv" tvg-name="[Live] FC Bayern München Vs Real Madrid - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="live_sports",[Live] FC Bayern München Vs Real Madrid - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_servette_fc_chenois_feminin_vs_oud_heverlee_leuven_stream_tv" tvg-name="[Live] Servette FC Chênois Féminin Vs Oud-Heverlee Leuven - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="live_sports",[Live] Servette FC Chênois Féminin Vs Oud-Heverlee Leuven - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_pisa_vs_palermo_stream_tv" tvg-name="[Live] Pisa Vs Palermo - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/53/image/dark" group-title="live_sports",[Live] Pisa Vs Palermo - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_carrarese_vs_arezzo_stream_tv" tvg-name="[Live] Carrarese Vs Arezzo - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/53/image/dark" group-title="live_sports",[Live] Carrarese Vs Arezzo - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_juve_stabia_vs_hellas_verona_stream_tv" tvg-name="[Live] Juve Stabia Vs Hellas Verona - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/53/image/dark" group-title="live_sports",[Live] Juve Stabia Vs Hellas Verona - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_durban_city_fc_vs_stellenbosch_stream_tv" tvg-name="[Live] Durban City FC Vs Stellenbosch - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1205/image/dark" group-title="live_sports",[Live] Durban City FC Vs Stellenbosch - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_tra_united_sc_vs_geita_gold_fc_stream_tv" tvg-name="[Live] TRA United SC Vs Geita Gold FC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark" group-title="live_sports",[Live] TRA United SC Vs Geita Gold FC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_fountain_gate_vs_simba_sc_stream_tv" tvg-name="[Live] Fountain Gate Vs Simba SC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark" group-title="live_sports",[Live] Fountain Gate Vs Simba SC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_azam_fc_vs_mbeya_city_fc_stream_tv" tvg-name="[Live] Azam FC Vs Mbeya City FC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark" group-title="live_sports",[Live] Azam FC Vs Mbeya City FC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_pamba_sc_vs_singida_black_stars_sc_stream_tv" tvg-name="[Live] Pamba SC Vs Singida Black Stars SC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark" group-title="live_sports",[Live] Pamba SC Vs Singida Black Stars SC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_coastal_union_vs_kagera_sugar_fc_stream_tv" tvg-name="[Live] Coastal Union Vs Kagera Sugar FC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark" group-title="live_sports",[Live] Coastal Union Vs Kagera Sugar FC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_namungo_fc_vs_polisi_tanzania_fc_stream_tv" tvg-name="[Live] Namungo FC Vs Polisi Tanzania FC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark" group-title="live_sports",[Live] Namungo FC Vs Polisi Tanzania FC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_fc_rostov_vs_akron_togliatti_stream_tv" tvg-name="[Live] FC Rostov Vs Akron Togliatti - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/91/image/dark" group-title="live_sports",[Live] FC Rostov Vs Akron Togliatti - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_fc_spartak_moscow_vs_rubin_kazan_d_sports_2" tvg-name="[Live] FC Spartak Moscow Vs Rubin Kazan - D SPORTS +2" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/91/image/dark" group-title="live_sports",[Live] FC Spartak Moscow Vs Rubin Kazan - D SPORTS +2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+#EXTINF:-1 tvg-id="live_fc_spartak_moscow_vs_rubin_kazan_d_sports2" tvg-name="[Live] FC Spartak Moscow Vs Rubin Kazan - D SPORTS2+" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/91/image/dark" group-title="live_sports",[Live] FC Spartak Moscow Vs Rubin Kazan - D SPORTS2+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+#EXTINF:-1 tvg-id="live_red_bull_bragantino_vs_chapecoense_premierer4" tvg-name="[Live] Red Bull Bragantino Vs Chapecoense - PREMIERER4" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="live_sports",[Live] Red Bull Bragantino Vs Chapecoense - PREMIERER4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+#EXTINF:-1 tvg-id="live_bahia_vs_sao_paulo_premierer5" tvg-name="[Live] Bahia Vs São Paulo - PREMIERER5" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="live_sports",[Live] Bahia Vs São Paulo - PREMIERER5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+#EXTINF:-1 tvg-id="live_fluminense_vs_internacional_premiere2_br" tvg-name="[Live] Fluminense Vs Internacional - PREMIERE2 BR" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Fluminense Vs Internacional - PREMIERE2 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+#EXTINF:-1 tvg-id="live_santos_vs_palmeiras_premiere2_sports" tvg-name="[Live] Santos Vs Palmeiras - PREMIERE2 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Santos Vs Palmeiras - PREMIERE2 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="live_santos_vs_palmeiras_premierer1" tvg-name="[Live] Santos Vs Palmeiras - PREMIERER1" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="live_sports",[Live] Santos Vs Palmeiras - PREMIERER1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 tvg-id="live_santos_vs_palmeiras_sportdigital_fussball" tvg-name="[Live] Santos Vs Palmeiras - SportDigital FussBall" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="live_sports",[Live] Santos Vs Palmeiras - SportDigital FussBall
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1 tvg-id="live_remo_vs_botafogo_premierer3" tvg-name="[Live] Remo Vs Botafogo - PREMIERER3" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="live_sports",[Live] Remo Vs Botafogo - PREMIERER3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+#EXTINF:-1 tvg-id="live_new_england_revolution_vs_new_york_red_bulls_stream_tv" tvg-name="[Live] New England Revolution Vs New York Red Bulls - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="live_sports",[Live] New England Revolution Vs New York Red Bulls - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_chicago_fire_vs_orlando_city_sc_stream_tv" tvg-name="[Live] Chicago Fire Vs Orlando City SC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="live_sports",[Live] Chicago Fire Vs Orlando City SC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_toronto_fc_vs_dc_united_tsn3_sports" tvg-name="[Live] Toronto FC Vs DC United - TSN3 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Toronto FC Vs DC United - TSN3 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+#EXTINF:-1 tvg-id="live_vancouver_whitecaps_vs_san_diego_fc_tsn3_sports" tvg-name="[Live] Vancouver Whitecaps Vs San Diego FC - TSN3 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Vancouver Whitecaps Vs San Diego FC - TSN3 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+#EXTINF:-1 tvg-id="live_cd_olimpia_vs_cs_cartagines_cbs_sports" tvg-name="[Live] CD Olimpia Vs CS Cartaginés - CBS SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/20695/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" http-referrer="https://amazon.com",[Live] CD Olimpia Vs CS Cartaginés - CBS SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://amazon.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="live_deportivo_saprissa_vs_cd_luis_angel_firpo_cbs_sports" tvg-name="[Live] Deportivo Saprissa Vs CD Luis Ángel Firpo - CBS SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/20695/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" http-referrer="https://amazon.com",[Live] Deportivo Saprissa Vs CD Luis Ángel Firpo - CBS SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://amazon.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="live_violette_ac_vs_portmore_united_fc_stream_tv" tvg-name="[Live] Violette AC Vs Portmore United FC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/20931/image/dark" group-title="live_sports",[Live] Violette AC Vs Portmore United FC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_ld_alajuelense_vs_fc_motagua_cbs_sports" tvg-name="[Live] LD Alajuelense Vs FC Motagua - CBS SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/20695/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" http-referrer="https://amazon.com",[Live] LD Alajuelense Vs FC Motagua - CBS SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://amazon.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="live_club_america_vs_club_tijuana_tudn_mexico" tvg-name="[Live] Club América Vs Club Tijuana - TUDN MEXICO" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Club América Vs Club Tijuana - TUDN MEXICO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+#EXTINF:-1 tvg-id="live_club_america_vs_club_tijuana_canal5" tvg-name="[Live] Club América Vs Club Tijuana - CANAL5" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Club América Vs Club Tijuana - CANAL5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+#EXTINF:-1 tvg-id="live_washington_capitals_vs_philadelphia_flyers_premier1_sports" tvg-name="[Live] Washington Capitals Vs Philadelphia Flyers - PREMIER1 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="live_sports",[Live] Washington Capitals Vs Philadelphia Flyers - PREMIER1 SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#EXTINF:-1 tvg-id="live_edmonton_oilers_vs_calgary_flames_sport1_cz" tvg-name="[Live] Edmonton Oilers Vs Calgary Flames - SPORT1 CZ" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/234/image/dark" group-title="live_sports",[Live] Edmonton Oilers Vs Calgary Flames - SPORT1 CZ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="live_toronto_raptors_vs_orlando_magic_tsn1_sports" tvg-name="[Live] Toronto Raptors Vs Orlando Magic - TSN1 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Toronto Raptors Vs Orlando Magic - TSN1 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="live_toronto_raptors_vs_orlando_magic_tsn4_sports" tvg-name="[Live] Toronto Raptors Vs Orlando Magic - TSN4 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Toronto Raptors Vs Orlando Magic - TSN4 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="live_toronto_raptors_vs_orlando_magic_tsn5_sports" tvg-name="[Live] Toronto Raptors Vs Orlando Magic - TSN5 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Toronto Raptors Vs Orlando Magic - TSN5 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+#EXTINF:-1 tvg-id="live_besiktas_jk_vs_olympiacos_bc_stream_tv" tvg-name="[Live] Beşiktaş JK Vs Olympiacos BC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/138/image/dark" group-title="live_sports",[Live] Beşiktaş JK Vs Olympiacos BC - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_hapoel_tel_aviv_vs_anadolu_efes_stream_tv" tvg-name="[Live] Hapoel Tel-Aviv Vs Anadolu Efes - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/138/image/dark" group-title="live_sports",[Live] Hapoel Tel-Aviv Vs Anadolu Efes - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_ldlc_asvel_lyon_villeurbanne_vs_kk_partizan_mozzart_bet_stream_tv" tvg-name="[Live] LDLC ASVEL Lyon-Villeurbanne Vs KK Partizan Mozzart Bet - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/138/image/dark" group-title="live_sports",[Live] LDLC ASVEL Lyon-Villeurbanne Vs KK Partizan Mozzart Bet - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_virtus_bologna_vs_kauno_zalgiris_stream_tv" tvg-name="[Live] Virtus Bologna Vs Kauno Žalgiris - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/138/image/dark" group-title="live_sports",[Live] Virtus Bologna Vs Kauno Žalgiris - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_new_mexico_state_aggies_vs_jacksonville_state_gamecocks_stream_tv" tvg-name="[Live] New Mexico State Aggies Vs Jacksonville State Gamecocks - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark" group-title="live_sports",[Live] New Mexico State Aggies Vs Jacksonville State Gamecocks - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_middle_tennessee_blue_raiders_vs_kennesaw_state_owls_stream_tv" tvg-name="[Live] Middle Tennessee Blue Raiders Vs Kennesaw State Owls - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark" group-title="live_sports",[Live] Middle Tennessee Blue Raiders Vs Kennesaw State Owls - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_manchester_united_vs_burnley_fc_women_mutv_sports" tvg-name="[Live] Manchester United Vs Burnley FC Women - MUTV SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark" group-title="live_sports",[Live] Manchester United Vs Burnley FC Women - MUTV SPORTS
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="live_manchester_united_vs_burnley_fc_women_mutv_sports_2" tvg-name="[Live] Manchester United Vs Burnley FC Women - MUTV SPORTS 2" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark" group-title="live_sports",[Live] Manchester United Vs Burnley FC Women - MUTV SPORTS 2
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd
+#EXTINF:-1 tvg-id="live_germany_u17_vs_venezuela_u17_fox2_sports" tvg-name="[Live] Germany U17 Vs Venezuela U17 - FOX2 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/827/image/dark" group-title="live_sports",[Live] Germany U17 Vs Venezuela U17 - FOX2 SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-id="live_brazil_u17_vs_poland_u17_fox2_sports" tvg-name="[Live] Brazil U17 Vs Poland U17 - FOX2 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/827/image/dark" group-title="live_sports",[Live] Brazil U17 Vs Poland U17 - FOX2 SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-id="live_al_jazira_vs_al_muharraq_sc_stream_tv" tvg-name="[Live] Al-Jazira Vs Al-Muharraq SC - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Al-Jazira Vs Al-Muharraq SC - STREAM TV +
+http://162.251.160.53:8089/1244/index.m3u8
+#EXTINF:-1 tvg-id="live_al_nahda_sc_vs_al_rayyan_stream_tv" tvg-name="[Live] Al Nahda SC Vs Al-Rayyan - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="live_sports",[Live] Al Nahda SC Vs Al-Rayyan - STREAM TV +
+http://162.251.160.53:8089/1033/index.m3u8
+#EXTINF:-1 tvg-id="live_west_coast_eagles_vs_hawthorn_hawks_stream_tv" tvg-name="[Live] West Coast Eagles Vs Hawthorn Hawks - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark" group-title="live_sports",[Live] West Coast Eagles Vs Hawthorn Hawks - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_st_kilda_saints_vs_port_adelaide_power_stream_tv" tvg-name="[Live] St Kilda Saints Vs Port Adelaide Power - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark" group-title="live_sports",[Live] St Kilda Saints Vs Port Adelaide Power - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_brisbane_lions_vs_carlton_blues_stream_tv" tvg-name="[Live] Brisbane Lions Vs Carlton Blues - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark" group-title="live_sports",[Live] Brisbane Lions Vs Carlton Blues - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_geelong_cats_vs_western_bulldogs_stream_tv" tvg-name="[Live] Geelong Cats Vs Western Bulldogs - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark" group-title="live_sports",[Live] Geelong Cats Vs Western Bulldogs - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_richmond_tigers_vs_north_melbourne_stream_tv" tvg-name="[Live] Richmond Tigers Vs North Melbourne - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark" group-title="live_sports",[Live] Richmond Tigers Vs North Melbourne - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_essendon_bombers_vs_collingwood_magpies_stream_tv" tvg-name="[Live] Essendon Bombers Vs Collingwood Magpies - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark" group-title="live_sports",[Live] Essendon Bombers Vs Collingwood Magpies - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_adelaide_crows_vs_melbourne_demons_stream_tv" tvg-name="[Live] Adelaide Crows Vs Melbourne Demons - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark" group-title="live_sports",[Live] Adelaide Crows Vs Melbourne Demons - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_fremantle_dockers_vs_sydney_swans_stream_tv" tvg-name="[Live] Fremantle Dockers Vs Sydney Swans - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark" group-title="live_sports",[Live] Fremantle Dockers Vs Sydney Swans - STREAM TV +
+https://file.genoads.com/ch1.m3u8
+#EXTINF:-1 tvg-id="live_marumo_gallants_vs_mamelodi_sundowns_low_quality_use_vpn" tvg-name="[Live] Marumo Gallants Vs Mamelodi Sundowns - LOW QUALITY (USE VPN)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1205/image" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Marumo Gallants Vs Mamelodi Sundowns - LOW QUALITY (USE VPN) (Server 1 (HD))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/VAVAVAEE.m3u8
+#EXTINF:-1 tvg-id="live_marumo_gallants_vs_mamelodi_sundowns_low_quality_use_vpn" tvg-name="[Live] Marumo Gallants Vs Mamelodi Sundowns - LOW QUALITY (USE VPN)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1205/image" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Marumo Gallants Vs Mamelodi Sundowns - LOW QUALITY (USE VPN) (Server 2 (HD))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.55/hls/VAVAVAEE.m3u8
+#EXTINF:-1 tvg-id="live_orlando_pirates_vs_milford_fc_quality" tvg-name="[Live] Orlando Pirates Vs Milford FC - QUALITY" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1205/image" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Orlando Pirates Vs Milford FC - QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.55/hls/VAVAVAEEE.m3u8
+#EXTINF:-1 tvg-id="live_orlando_pirates_vs_milford_fc_low_quality_use_vpn" tvg-name="[Live] Orlando Pirates Vs Milford FC - LOW QUALITY (USE VPN)" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1205/image" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Orlando Pirates Vs Milford FC - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.55/hls/VAVAVAEEE.m3u8
+#EXTINF:-1 tvg-id="live_wwe_nxt_vs_wwe_nxt_wwe_tv4" tvg-name="[Live] WWE NXT Vs WWE NXT - WWE TV4 +" tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="live_sports",[Live] WWE NXT Vs WWE NXT - WWE TV4 +
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
+#EXTINF:-1 tvg-id="live_wwe_nxt_vs_wwe_nxt_sport3_tv_br" tvg-name="[Live] WWE NXT Vs WWE NXT - Sport3 Tv BR" tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="live_sports",[Live] WWE NXT Vs WWE NXT - Sport3 Tv BR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 tvg-id="live_wwe_nxt_vs_wwe_nxt_wwe_live" tvg-name="[Live] WWE NXT Vs WWE NXT - WWE LIVE" tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="live_sports",[Live] WWE NXT Vs WWE NXT - WWE LIVE
+https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="live_wwe_nxt_vs_wwe_nxt_low_quality_use_vpn" tvg-name="[Live] WWE NXT Vs WWE NXT - LOW QUALITY (USE VPN)" tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] WWE NXT Vs WWE NXT - LOW QUALITY (USE VPN) (Server 1 (HD))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.50/hls/VVVV.m3u8
+#EXTINF:-1 tvg-id="live_wwe_nxt_vs_wwe_nxt_low_quality_use_vpn" tvg-name="[Live] WWE NXT Vs WWE NXT - LOW QUALITY (USE VPN)" tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] WWE NXT Vs WWE NXT - LOW QUALITY (USE VPN) (Server 2 (HD))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/R666A.m3u8
+#EXTINF:-1 tvg-id="live_wwe_nxt_vs_wwe_nxt_wwe_tv5" tvg-name="[Live] WWE NXT Vs WWE NXT - WWE TV5 +" tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="live_sports",[Live] WWE NXT Vs WWE NXT - WWE TV5 +
+https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+#EXTINF:-1 tvg-id="live_las_vegas_raiders_vs_los_angeles_rams_tsn1_sports" tvg-name="[Live] Las Vegas Raiders Vs Los Angeles Rams - TSN1 SPORTS" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Las Vegas Raiders Vs Los Angeles Rams - TSN1 SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="live_las_vegas_raiders_vs_los_angeles_rams_quality" tvg-name="[Live] Las Vegas Raiders Vs Los Angeles Rams - QUALITY" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="live_sports" http-referrer="https://gooz.aapmains.net",[Live] Las Vegas Raiders Vs Los Angeles Rams - QUALITY
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58661/load-playlist-multi?.m3u8
+#EXTINF:-1 tvg-id="live_las_vegas_raiders_vs_los_angeles_rams_nfl_backup" tvg-name="[Live] Las Vegas Raiders Vs Los Angeles Rams - NFL Backup" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="live_sports" http-referrer="https://gooz.aapmains.net",[Live] Las Vegas Raiders Vs Los Angeles Rams - NFL Backup
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58674/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="live_las_vegas_raiders_vs_los_angeles_rams_stream_tv" tvg-name="[Live] Las Vegas Raiders Vs Los Angeles Rams - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" http-referrer="https://embedcenter.st",[Live] Las Vegas Raiders Vs Los Angeles Rams - STREAM TV +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+https://edgestream2.pro/hls/poertjnvnev40.m3u8
+#EXTINF:-1 tvg-id="live_las_vegas_raiders_vs_los_angeles_rams_low_quality_use_vpn" tvg-name="[Live] Las Vegas Raiders Vs Los Angeles Rams - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Las Vegas Raiders Vs Los Angeles Rams - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.44/hls/YDDDDA.m3u8
+#EXTINF:-1 tvg-id="live_monday_night_raw_vs_monday_night_raw_quality" tvg-name="[Live] Monday Night RAW Vs Monday Night RAW - QUALITY" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="live_sports" http-referrer="https://gooz.aapmains.net",[Live] Monday Night RAW Vs Monday Night RAW - QUALITY
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="live_monday_night_raw_vs_monday_night_raw_time_wwe" tvg-name="[Live] Monday Night RAW Vs Monday Night RAW - TIME + WWE" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="live_sports",[Live] Monday Night RAW Vs Monday Night RAW - TIME + WWE
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
+#EXTINF:-1 tvg-id="live_monday_night_raw_vs_monday_night_raw_low_quality_use_vpn" tvg-name="[Live] Monday Night RAW Vs Monday Night RAW - LOW QUALITY (USE VPN)" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Monday Night RAW Vs Monday Night RAW - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/CACACAQQQQ.m3u8
+#EXTINF:-1 tvg-id="live_monday_night_raw_vs_monday_night_raw_wwe" tvg-name="[Live] Monday Night RAW Vs Monday Night RAW - WWE" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="live_sports",[Live] Monday Night RAW Vs Monday Night RAW - WWE (Server 1 (HD))
+https://admin2.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-id="live_monday_night_raw_vs_monday_night_raw_wwe" tvg-name="[Live] Monday Night RAW Vs Monday Night RAW - WWE" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="live_sports" http-referrer="https://embedcenter.st/",[Live] Monday Night RAW Vs Monday Night RAW - WWE (Server 2 (HD))
+#EXTVLCOPT:http-referrer=https://embedcenter.st/
+https://edgestream2.pro/hls/zeuryuegn48.m3u8?
+#EXTINF:-1 tvg-id="live_snooker_vs_snooker_tnt1uk_sports" tvg-name="[Live] Snooker Vs Snooker - TNT1UK SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Snooker Vs Snooker - TNT1UK SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="live_ballon_dor_show_vs_ballon_dor_show_cbs_sports" tvg-name="[Live] Ballon d'Or Show Vs Ballon d'Or Show - CBS SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1955192413535805440/8zGpOErR_400x400.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] Ballon d'Or Show Vs Ballon d'Or Show - CBS SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTINF:-1 tvg-id="live_ballon_dor_show_vs_ballon_dor_show_ballon_dor" tvg-name="[Live] Ballon d'Or Show Vs Ballon d'Or Show - Ballon d'Or +" tvg-logo="https://pbs.twimg.com/profile_images/1955192413535805440/8zGpOErR_400x400.jpg" group-title="live_sports",[Live] Ballon d'Or Show Vs Ballon d'Or Show - Ballon d'Or +
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-id="live_ballon_dor_show_vs_ballon_dor_show_ballon_dor_eng" tvg-name="[Live] Ballon d'Or Show Vs Ballon d'Or Show - Ballon d'Or (ENG)" tvg-logo="https://pbs.twimg.com/profile_images/1955192413535805440/8zGpOErR_400x400.jpg" group-title="live_sports",[Live] Ballon d'Or Show Vs Ballon d'Or Show - Ballon d'Or (ENG)
+https://tedesco.formaturamaxi.com.br/balon.m3u8
+#EXTINF:-1 tvg-id="live_ballon_dor_show_vs_ballon_dor_show_ballon_dor_es" tvg-name="[Live] Ballon d'Or Show Vs Ballon d'Or Show - Ballon d'Or (ES)" tvg-logo="https://pbs.twimg.com/profile_images/1955192413535805440/8zGpOErR_400x400.jpg" group-title="live_sports",[Live] Ballon d'Or Show Vs Ballon d'Or Show - Ballon d'Or (ES)
+https://admin2.formaturamaxi.com.br/dazn.m3u8
+#EXTINF:-1 tvg-id="live_ballon_dor_show_vs_ballon_dor_show_ballon_dor_fr" tvg-name="[Live] Ballon d'Or Show Vs Ballon d'Or Show - Ballon d'Or (FR)" tvg-logo="https://pbs.twimg.com/profile_images/1955192413535805440/8zGpOErR_400x400.jpg" group-title="live_sports",[Live] Ballon d'Or Show Vs Ballon d'Or Show - Ballon d'Or (FR)
+https://admin2.formaturamaxi.com.br/equipe.m3u8
+#EXTINF:-1 tvg-id="live_ballon_dor_show_vs_ballon_dor_show_low_quality_use_vpn" tvg-name="[Live] Ballon d'Or Show Vs Ballon d'Or Show - LOW QUALITY (USE VPN)" tvg-logo="https://pbs.twimg.com/profile_images/1955192413535805440/8zGpOErR_400x400.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Ballon d'Or Show Vs Ballon d'Or Show - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.55/hls/AFFF.m3u8
+#EXTINF:-1 tvg-id="live_ballon_dor_show_vs_ballon_dor_show_streaming" tvg-name="[Live] Ballon d'Or Show Vs Ballon d'Or Show - STREAMING" tvg-logo="https://pbs.twimg.com/profile_images/1955192413535805440/8zGpOErR_400x400.jpg" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" http-referrer="https://embedcenter.st",[Live] Ballon d'Or Show Vs Ballon d'Or Show - STREAMING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedcenter.st
+https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-id="live_los_angeles_lakers_vs_portland_trail_blazers_quality" tvg-name="[Live] Los Angeles Lakers Vs Portland Trail Blazers - QUALITY" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports" http-referrer="https://gooz.aapmains.net",[Live] Los Angeles Lakers Vs Portland Trail Blazers - QUALITY
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58768/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="live_los_angeles_lakers_vs_portland_trail_blazers_quality_2" tvg-name="[Live] Los Angeles Lakers Vs Portland Trail Blazers - QUALITY 2" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports" http-referrer="https://gooz.aapmains.net",[Live] Los Angeles Lakers Vs Portland Trail Blazers - QUALITY 2
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/58767/load-playlist?&.m3u8
+#EXTINF:-1 tvg-id="live_los_angeles_lakers_vs_portland_trail_blazers_nba" tvg-name="[Live] Los Angeles Lakers Vs Portland Trail Blazers - NBA" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports",[Live] Los Angeles Lakers Vs Portland Trail Blazers - NBA
+https://vix.cdnfan.site/event/nba4.m3u8
+#EXTINF:-1 tvg-id="live_los_angeles_lakers_vs_portland_trail_blazers_quality5" tvg-name="[Live] Los Angeles Lakers Vs Portland Trail Blazers - QUALITY5" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports",[Live] Los Angeles Lakers Vs Portland Trail Blazers - QUALITY5
+https://www.rtmpcdn.com/live/30e56f3c-c2d6-446f-9c24-fd65e62f8030.m3u8
+#EXTINF:-1 tvg-id="live_los_angeles_lakers_vs_portland_trail_blazers_low_quality_use_vpn" tvg-name="[Live] Los Angeles Lakers Vs Portland Trail Blazers - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Los Angeles Lakers Vs Portland Trail Blazers - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.59/hls/JGGGAAA.m3u8
+#EXTINF:-1 tvg-id="live_los_angeles_lakers_vs_portland_trail_blazers_tnt_ar_use_vpn" tvg-name="[Live] Los Angeles Lakers Vs Portland Trail Blazers - TNT AR (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Los Angeles Lakers Vs Portland Trail Blazers - TNT AR (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.41/hls/GGGG.m3u8
+#EXTINF:-1 tvg-id="live_gamba_osaka_vs_buriram_united_stream_tv" tvg-name="[Live] Gamba Osaka Vs Buriram United - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="live_sports",[Live] Gamba Osaka Vs Buriram United - STREAM TV +
+http://162.251.160.53:8089/1244/index.m3u8
+#EXTINF:-1 tvg-id="live_gamba_osaka_vs_buriram_united_quality" tvg-name="[Live] Gamba Osaka Vs Buriram United - QUALITY" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="live_sports",[Live] Gamba Osaka Vs Buriram United - QUALITY
+https://www.rtmpcdn.com/live/8c1d041c-494e-47a5-841a-630651bc0bef.m3u8
+#EXTINF:-1 tvg-id="live_gamba_osaka_vs_buriram_united_low_quality_use_vpn" tvg-name="[Live] Gamba Osaka Vs Buriram United - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Gamba Osaka Vs Buriram United - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.55/hls/AQQQAAAAQ.m3u8
+#EXTINF:-1 tvg-id="live_kashima_antlers_vs_pohang_steelers_stream_tv" tvg-name="[Live] Kashima Antlers Vs Pohang Steelers - STREAM TV +" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="live_sports",[Live] Kashima Antlers Vs Pohang Steelers - STREAM TV +
+http://162.251.160.53:8089/1033/index.m3u8
+#EXTINF:-1 tvg-id="live_kashima_antlers_vs_pohang_steelers_quality" tvg-name="[Live] Kashima Antlers Vs Pohang Steelers - QUALITY" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="live_sports",[Live] Kashima Antlers Vs Pohang Steelers - QUALITY
+https://www.rtmpcdn.com/live/def63eec-1143-4057-bdd8-24b88a714aa7.m3u8
+#EXTINF:-1 tvg-id="live_kashima_antlers_vs_pohang_steelers_low_quality_use_vpn" tvg-name="[Live] Kashima Antlers Vs Pohang Steelers - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Kashima Antlers Vs Pohang Steelers - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.55/hls/AQQQAAAAQQ.m3u8
+#EXTINF:-1 tvg-id="live_perth_wildcats_vs_sydney_kings_low_quality_use_vpn" tvg-name="[Live] Perth Wildcats Vs Sydney Kings - LOW QUALITY (USE VPN)" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36" http-referrer="https://nadia01eo.tn76degree12ec3out.cfd",[Live] Perth Wildcats Vs Sydney Kings - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+http://193.47.62.50/hls/abbbaaaAA.m3u8
